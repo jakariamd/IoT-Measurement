@@ -1,0 +1,417 @@
+<ul><ul>  <li>
+
+</li><li>Modern Android</li><li>Quickly bring your app to life with less code, using a modern declarative approach to UI, and the simplicity of Kotlin.
+</li><li>
+
+</li><li>
+
+</li><li>Get started</li><li>Start by creating your first app. Go deeper with our training courses or explore app development on your own.
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Extend by device</li><li>Build apps that give your users seamless experiences from phones to tablets, watches, and more.
+</li></ul></ul> <ul><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Build by category</li><li>Learn to build for your use case by following Google's prescriptive and opinionated guidance.
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Get the latest</li><li>Stay in touch with the latest releases throughout the year, join our preview programs, and give us your feedback.
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Kits & more</li><li>Get one of our Figma kits for Android, Material Design, or Wear OS, and start designing your app's UI today.
+</li></ul></ul> <ul><ul>  <li>
+
+</li><li>
+
+</li><li>UI Design</li><li>Design a beautiful user interface using Android best practices.</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Architecture</li><li>Design robust, testable, and maintainable app logic and services.</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Quality</li><li>Plan for app quality and align with Play store guidelines.</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Build for Billions</li><li>Create the best experience for entry-level devices</li></ul></ul> <div><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><span>  Sign in</span><ul>  <li>
+
+</li><li>
+      Essentials
+   
+</li><li>
+      More
+   
+</li></ul><span>  
+
+
+
+</span><ul>  <li>
+      Design & Plan
+   
+</li><li>
+      More
+   
+</li></ul><span>  
+
+
+
+</span><ul>  <li>
+      Develop
+   
+</li><li>
+      Overview
+   
+</li><li>
+      Guides
+   </li></ul><span>  
+
+</span><ul>  <li>
+      UI Guide
+   </li></ul><span>  
+
+</span><ul>  <li>
+      Reference
+   </li></ul><span>  
+
+</span><ul>  <li>
+      Samples
+   
+
+</li><li>
+      Google Play
+   
+</li><li>
+      Android Studio
+   
+</li><li>Developer guides</li><li>App basics</li><li>Build your first app</li><li>App fundamentals</li><li>App resources</li><li>About app resources</li><li>Handle configuration changes</li><li>Localization</li><li>Localize your app</li><li>Test your app with pseudolocales</li><li>Unicode and internationalization support</li><li>Language and locale resolution</li><li>Per-app language preferences</li><li>Complex XML resources</li></ul></div> <div><ul>  <li>Resource types</li><li>About resource types</li><li>Animation</li><li>Color state list</li><li>Drawable</li><li>Layout</li><li>Menu</li><li>String</li><li>Style</li><li>Font</li><li>More types</li><li>App manifest file</li><li>About app manifests</li><li><action></li><li><activity></li><li><activity-alias></li><li><application></li><li><category></li><li><compatible-screens></li><li><data></li><li><grant-uri-permission></li><li><instrumentation></li><li><intent-filter></li><li><layout></li><li><manifest></li></ul></div> <div><ul>  <li><meta-data></li><li><path-permission></li><li><permission></li><li><permission-group></li><li><permission-tree></li><li><profileable></li><li><property></li><li><provider></li><li><queries></li><li><receiver></li><li><service></li><li><supports-gl-texture></li><li><supports-screens></li><li><uses-configuration></li><li><uses-feature></li><li><uses-library></li><li><uses-native-library></li><li><uses-permission></li><li><uses-permission-sdk-23></li><li><uses-sdk></li><li>Devices</li><li>Device compatibility</li></ul></div> <div><ul>  <li>About device compatibility</li><li>About screen compatibility</li><li>Support different pixel densities</li><li>Declare restricted screen support</li><li>Multiple APK support</li><li>About multiple APKs</li><li>Create multiple APKs for different API levels</li><li>Create multiple APKs for different screen sizes</li><li>Create multiple APKs for different GL textures</li><li>Create multiple APKs with several dimensions</li><li>Support different languages and cultures</li><li>Support different platform versions</li></ul></div> <ul><ul>  <li>Filters on Google Play</li><li>64-bit Support</li><li>Large screens — tablets, foldables, ChromeOS</li><li>Get started with large screens</li><li>Large screen canonical layouts</li><li>Large screen ready</li><li>Multi-window support</li><li>Media projection</li><li>Input compatibility on large screens</li><li>Large screen optimized</li><li>Support different screen sizes</li><li>Migrate your UI to responsive layouts</li><li>Navigation for responsive UIs</li><li>Activity embedding</li><li>Large screen differentiated</li></ul></ul> <div><ul>  <li>Learn about foldables</li><li>Make your app fold aware</li><li>Test your app on foldables</li><li>Advanced stylus</li><li>Large screen app compatibility</li><li>Large screen cookbook</li><li>Wear</li><li>Get started</li><li>Principles of Wear OS development</li><li>Upgrade to the latest version of Wear OS</li><li>Try out the latest version of Wear OS Developer Preview</li><li>Wear OS versus mobile development</li><li>Wear OS user interfaces</li><li>Accessibility on Wear OS</li><li>Getting started</li></ul></div> <div><ul>  <li>Wear OS developer pathway</li><li>Create and run an app</li><li>Debug a Wear OS app</li><li>Connect a watch to a phone</li><li>Capture Wear UI screenshots</li><li>Apps</li><li>About Wear OS apps</li><li>Standalone apps</li><li>Authentication</li><li>Request permissions</li><li>Add a splash screen</li><li>Detect location</li><li>Playing audio on wearables</li><li>Appear in recents and app resume</li><li>Building UI with Compose</li><li>Use Jetpack Compose on Wear OS</li><li>Compose performance</li></ul></div> <div><ul>  <li>Rotary input on Compose</li><li>Navigation with Compose for Wear OS</li><li>Building UI with Views</li><li>Build View-based UIs on Wear OS</li><li>Handle different watch shapes</li><li>Create lists</li><li>Navigation</li><li>Exit full screen activities on Wear</li><li>Show confirmations</li><li>Keep your app visible on Wear</li><li>Tiles and complications</li><li>About tiles</li><li>Get started with tiles</li><li>Show periodic updates</li><li>Show dynamic updates</li><li>Animate tile elements</li></ul></div> <div><ul>  <li>Interact with tiles</li><li>Watch face complications</li><li>Expose data to complications</li><li>Migrate to ProtoLayout namespaces</li><li>Notifications</li><li>Notifications on Wear OS</li><li>Bridging options for notifications</li><li>Ongoing Activities</li><li>Handling data</li><li>Dynamic expressions</li><li>Send and sync data on Wear OS</li><li>Network access and sync on Wear OS</li><li>Access the Wearable Data Layer</li><li>Transfer assets</li><li>Send and receive messages</li><li>Handle data layer events</li></ul></div> <div><ul>  <li>Sync data items with the Data Layer API</li><li>User input</li><li>Physical buttons</li><li>Rotary input on Views</li><li>Create input method editors in Wear</li><li>Voice</li><li>Health services</li><li>About health services</li><li>Active data and exercise</li><li>Record an exercise</li><li>Handle exercise events</li><li>Take spot health measurements</li><li>Passive data updates</li><li>Test your app with synthetic data</li><li>Enhance app compatibility</li><li>Creating watch faces</li><li>About watch faces</li></ul></div> <div><ul>  <li>Watch Face Format</li><li>Overview</li><li>Setup</li><li>XML reference</li><li>Jetpack Watch Face APIs</li><li>Design watch faces</li><li>Build a watch face service</li><li>Draw watch faces</li><li>Adding complications to a watch face</li><li>Creating interactive watch faces</li><li>Provide configuration activities</li><li>Address common issues</li><li>Improve performace with hardware acceleration</li><li>Optimize performance and battery life</li><li>Self-tag watch faces</li><li>Wear app quality</li></ul></div> <div><ul>  <li>Package Wear OS apps</li><li>Distribute to Wear OS</li><li>Create Wear OS apps for China</li><li>Wear OS release notes</li><li>Android TV</li><li>In this guide</li><li>Build TV Apps</li><li>In this guide</li><li>Get started with TV apps</li><li>AndroidX TV libraries</li><li>Handle TV hardware</li><li>Manage TV controllers</li><li>Build TV layouts</li><li>On-screen keyboard</li><li>Create TV navigation</li><li>Best practices for driving engagement on Google TV</li><li>Build TV playback apps</li></ul></div> <div><ul>  <li>In this guide</li><li>Buidling UI with Compose</li><li>Use Jetpack Compose on Android TV</li><li>Create a catalog browser</li><li>Build a details screen</li><li>Building UI with Leanback API</li><li>Create a catalog browser</li><li>Provide a card view</li><li>Build a details view</li><li>Use transport controls</li><li>Introduce first-time users to your app</li><li>Add a guided step</li><li>Ambient mode</li><li>Playback controls on TV</li><li>Implement a media session</li><li>Background playback in a Now Playing card</li></ul></div> <div><ul>  <li>Audio capabilities</li><li>Match content frame rate</li><li>Help users find content on TV</li><li>About finding TV content</li><li>Recommend TV content</li><li>About recommending TV content</li><li>Channels on the home screen</li><li>Video program attributes</li><li>Audio program attributes</li><li>Game program attributes</li><li>Watch Next</li><li>Add programs</li><li>Attributes</li><li>Guidelines for app developers</li><li>Guidelines for TV providers</li><li>Preview videos</li><li>Recommendations in Android N and earlier</li></ul></div> <div><ul>  <li>Make TV apps searchable</li><li>Search within TV Apps</li><li>Build TV games</li><li>About TV games</li><li>Build TV input services</li><li>About TV input services</li><li>Develop a TV input service</li><li>Work with channel data</li><li>Manage TV user interaction</li><li>Support time-shifting</li><li>Support content recording</li><li>TV Accessibility</li><li>Accessibility best practices</li><li>TalkBack evaluation examples</li><li>Adopt system caption settings</li><li>Custom view accessibility support</li></ul></div> <ul><ul>  <li>Custom view accessibility sample</li><li>TV Apps checklist</li><li>Distribute to Android TV</li><li>Releases</li><li>Android 12 for TV</li><li>Android 13 for TV</li><li>Android for Cars</li><li>About Android for Cars</li><li>Car app quality</li><li>Build media apps for cars</li><li>Build media apps for cars</li><li>Add support for Android Auto</li><li>Add support for Android Automotive OS</li><li>Build messaging apps for Android Auto</li><li>Build point of interest, internet of things, and navigation apps for cars</li></ul></ul> <div><ul>  <li>Using the Android for Cars App Library</li><li>Build point of interest apps for cars</li><li>Build internet of things apps for cars</li><li>Build navigation apps for cars</li><li>Add support for Android Auto</li><li>Add support for Android Automotive OS</li><li>Build parked apps for Android Automotive OS</li><li>About parked apps</li><li>Build video apps</li><li>Build games</li><li>Build browsers</li><li>Test Android apps for cars</li><li>Overview</li><li>Test using the Desktop Head Unit</li></ul></div> <div><ul>  <li>Test using the Android Automotive OS emulator</li><li>Distribute Android apps for cars</li><li>Google Play services for cars</li><li>Notifications on Android Automotive OS</li><li>ChromeOS devices</li><li>About ChromeOS</li><li>Building apps for ChromeOS</li><li>Optimizing Apps for ChromeOS</li><li>Preparing your development environment</li><li>App Manifest Compatibility for Chromebooks</li><li>ChromeOS Device Support for Apps</li><li>App Rendering Differences on Chromebooks</li><li>Window management</li></ul></div> <div><ul>  <li>Adapting Games on ChromeOS</li><li>Smooth animation on ChromeOS</li><li>Test Cases for Android Apps on ChromeOS</li><li>Cross device SDK</li><li>About the Cross device SDK</li><li>Get started</li><li>Device discovery API</li><li>Secure connection API</li><li>Sessions API</li><li>Test and debug</li><li>API Reference</li><li>Android (Go edition)</li><li>About Android Go edition</li><li>Develop for Android (Go edition)</li><li>Test Android Go apps</li><li>Optimize for Android (Go edition)</li><li>Approach</li></ul></div> <div><ul>  <li>Optimize app memory</li><li>Improve startup latency</li><li>Reduce app size</li><li>Best practices</li><li>App architecture</li><li>Introduction</li><li>Guide to app architecture</li><li>About app architecture</li><li>UI layer</li><li>About the UI layer</li><li>UI events</li><li>State holders and UI state</li><li>State production</li><li>Domain layer</li><li>Data layer</li><li>About the data layer</li><li>Offline first</li><li>Architecture recommendations</li><li>Learning pathway</li><li>Modularization</li></ul></div> <div><ul>  <li>About modularization</li><li>Common patterns</li><li>Recipes</li><li>Navigation</li><li>Architecture components</li><li>UI layer libraries</li><li>View binding</li><li>About view binding</li><li>Migrate from Kotlin synthetics to view binding</li><li>Data binding library</li><li>About data binding</li><li>Get started</li><li>Layouts and binding expressions</li><li>Work with observable data objects</li><li>Generated binding classes</li><li>Binding adapters</li><li>Bind layout views to Architecture Components</li></ul></div> <div><ul>  <li>Two-way data binding</li><li>Lifecycle-aware components</li><li>Handle lifecycles</li><li>ViewModel</li><li>About ViewModel</li><li>Create ViewModels with dependencies</li><li>ViewModel Scoping APIs</li><li>Saved State module for ViewModel</li><li>ViewModel APIs cheat sheet</li><li>LiveData</li><li>Save UI states</li><li>Use Kotlin coroutines with lifecycle-aware components</li><li>Paging Library</li><li>About paging</li><li>Load and display paged data</li><li>Page from network and database</li></ul></div> <div><ul>  <li>Transform data streams</li><li>Manage and present loading states</li><li>Test your Paging implementation</li><li>Migrate to Paging 3</li><li>Paging 2</li><li>About Paging 2</li><li>Display paged lists</li><li>Load paged data</li><li>Data layer libraries</li><li>DataStore</li><li>WorkManager</li><li>About WorkManager</li><li>Getting Started</li><li>How-To Guides</li><li>Defining your WorkRequests</li><li>Work states</li><li>Managing work</li><li>Observing intermediate Worker progress</li><li>Chaining work together</li></ul></div> <div><ul>  <li>Testing Worker implementation</li><li>Integration tests with WorkManager</li><li>Debugging WorkManager</li><li>Advanced Concepts</li><li>Configuration and Initialization</li><li>Threading in WorkManager</li><li>About threading in WorkManager</li><li>Threading in Worker</li><li>Threading in CoroutineWorker</li><li>Threading in RxWorker</li><li>Threading in ListenableWorker</li><li>Support for long-running workers</li><li>Migrating from Firebase JobDispatcher</li><li>Migrating from GCMNetworkManager</li></ul></div> <div><ul>  <li>App entry points</li><li>Activities</li><li>Introduction to activities</li><li>The activity lifecycle</li><li>Activity state changes</li><li>Test your app's activities</li><li>Tasks and the back stack</li><li>Processes and app lifecycle</li><li>Parcelables and bundles</li><li>Loaders</li><li>Recents screen</li><li>Restrictions on starting activities from the background</li><li>App shortcuts</li><li>About app shortcuts</li><li>Create shortcuts</li><li>Add capabilities</li><li>Manage shortcuts</li></ul></div> <div><ul>  <li>Best practices for shortcuts</li><li>App navigation</li><li>Principles of navigation</li><li>Navigation component</li><li>Overview</li><li>Get started</li><li>Design your navigation graph</li><li>Overview</li><li>Create destinations</li><li>Nested graphs</li><li>Deep links</li><li>New destination types</li><li>Type safety</li><li>Global actions</li><li>Build a graph programmatically using the Kotlin DSL</li><li>Use your navigation graph</li><li>Navigate to a destination</li><li>Navigate with options</li></ul></div> <div><ul>  <li>Safe args</li><li>Pass data between destinations</li><li>Animate transitions between destinations</li><li>Conditional navigation</li><li>Interact programmatically with the Navigation component</li><li>The back stack</li><li>Overview</li><li>Dialogs and the back stack</li><li>Circular navigation and the back stack</li><li>Multiple back stacks</li><li>Integrations</li><li>Navigate with feature modules</li><li>Multi-module projects</li><li>Connect UI components to NavController</li><li>Migrate to the Navigation component</li></ul></div> <div><ul>  <li>Test Navigation</li><li>Custom back navigation</li><li>Custom back navigation</li><li>Predictive back gesture</li><li>Responsive design</li><li>Handling configuration changes</li><li>Design for different form factors</li><li>Swipe between views</li><li>Swipe views using ViewPager2</li><li>Swipe views using ViewPager</li><li>Fragments</li><li>About fragments</li><li>Create a fragment</li><li>Fragment manager</li><li>Fragment transactions</li><li>Animate transitions between fragments</li><li>Fragment lifecycle</li></ul></div> <div><ul>  <li>Saving state with fragments</li><li>Communicate with fragments</li><li>Working with the app bar</li><li>Displaying dialogs with DialogFragment</li><li>Debug your fragments</li><li>Test your fragments</li><li>App links</li><li>About app links</li><li>Enabling links to app content</li><li>Verify app links</li><li>Create app links for instant apps</li><li>Dependency injection</li><li>About dependency injection</li><li>Manual dependency injection</li><li>Dependency injection with Hilt</li><li>Hilt in multi-module apps</li></ul></div> <div><ul>  <li>Use Hilt with other Jetpack libraries</li><li>Hilt testing guide</li><li>Hilt and Dagger annotations cheat sheet</li><li>Dagger</li><li>Dagger basics</li><li>Using Dagger in Android apps</li><li>Using Dagger in multi-module apps</li><li>App Startup</li><li>User interfaces</li><li>Build Android user interfaces</li><li>Create backward-compatible UIs</li><li>About backward-compatible UIs</li><li>Abstracting the new APIs</li><li>Proxying to the new APIs</li><li>Creating an implementation with older APIs</li></ul></div> <div><ul>  <li>Using the version-aware component</li><li>Core topics</li><li>App compatibility</li><li>About app compatibility</li><li>Compatibility framework tools</li><li>Restrictions on non-SDK interfaces</li><li>Interact with other apps</li><li>About interacting with other apps</li><li>Sending the user to another app</li><li>Getting a result from an activity</li><li>Allowing other apps to start your activity</li><li>Limit loading in on-device Android containers</li><li>Package visibility</li><li>About package visibility</li></ul></div> <div><ul>  <li>Know which packages are visible automatically</li><li>Declare package visibility needs</li><li>Fulfill common use cases</li><li>Test package visibility</li><li>Intents and intent filters</li><li>About intents and intent filters</li><li>Common intents</li><li>Audio & video</li><li>About audio and video</li><li>Introduction to Jetpack Media3</li><li>Media3 MediaSession</li><li>The Player interface</li><li>Control and advertise playback using a MediaSession</li><li>Background playback with a MediaSessionService</li></ul></div> <div><ul>  <li>Serve a content library with a MediaLibraryService</li><li>Connect to a media app with a MediaController or MediaBrowser</li><li>Media3 ExoPlayer</li><li>About Media3 ExoPlayer</li><li>Getting started</li><li>Hello world</li><li>Player events</li><li>Playlists</li><li>Media items</li><li>Media sources</li><li>Track selection</li><li>UI components</li><li>Downloading media</li><li>Ad insertion</li><li>Retrieving metadata</li><li>Live streaming</li><li>Network stacks</li><li>Debug logging</li><li>Analytics</li></ul></div> <div><ul>  <li>Media types</li><li>DASH</li><li>HLS</li><li>SmoothStreaming</li><li>Progressive</li><li>RTSP</li><li>Advanced topics</li><li>Digital rights management</li><li>Troubleshooting</li><li>Customization</li><li>Battery consumption</li><li>APK shrinking</li><li>OEM testing</li><li>Helpful resources</li><li>Migrating to Media3</li><li>Migration guide</li><li>ExoPlayer to Media3 mappings</li><li>Pros and cons</li><li>Demo application</li><li>Supported formats</li><li>Supported devices</li><li>Glossary</li></ul></div> <div><ul>  <li>Release notes</li><li>Javadoc</li><li>GitHub</li><li>Blog</li><li>Media3 Transformer</li><li>About Media3 Transformer</li><li>Getting started</li><li>Hello world</li><li>Demo application</li><li>Transformations</li><li>Supported formats</li><li>Advanced topics</li><li>Customization</li><li>Troubleshooting</li><li>Release notes</li><li>Javadoc</li><li>GitHub</li><li>ExoPlayer Blog</li><li>Jetpack MediaRouter</li><li>Routing overview</li><li>Controlling playback output routing</li><li>Defining playback output routes</li></ul></div> <div><ul>  <li>Platform APIs and behaviors</li><li>Platform topics overview</li><li>Media formats</li><li>Supported media formats</li><li>Ultra HDR image format specification</li><li>Compatible media transcoding</li><li>MediaPlayer overview</li><li>Controlling amplitude with VolumeShaper</li><li>Improve audio playback</li><li>Handling changes in audio output</li><li>Sharing audio input</li><li>MediaRecorder overview</li><li>Capture video and audio playback</li><li>Legacy media APIs</li><li>Media app architecture</li></ul></div> <div><ul>  <li>Using a media session</li><li>Building an audio app</li><li>About audio apps</li><li>Building a media browser service</li><li>Building a media browser client</li><li>Media session callbacks</li><li>Building a video app</li><li>About video apps</li><li>Building a video player activity</li><li>Media session callbacks</li><li>Responding to media buttons</li><li>Services</li><li>About services</li><li>Foreground services</li><li>Bound services</li><li>About AIDL</li><li>Background tasks</li><li>About background tasks</li></ul></div> <div><ul>  <li>Background optimizations</li><li>Manage awake state</li><li>Asynchronous work</li><li>About async work</li><li>Java threads</li><li>Coroutines</li><li>Listenable future</li><li>Persistent work</li><li>About persistent work</li><li>Getting started</li><li>Getting started</li><li>Define your work requests</li><li>How to</li><li>Work states</li><li>Manage work</li><li>Chain work together</li><li>Support for long-running workers</li><li>Observe intermediate worker progress</li><li>Update work</li></ul></div> <div><ul>  <li>Threading</li><li>About threading</li><li>Threading in Worker</li><li>Threading in CoRoutineWorker</li><li>Threading in RxWorker</li><li>Threading in ListenableWorker</li><li>Configuration</li><li>Custom WorkManager configurations</li><li>Migrate from legacy solutions</li><li>Migrate from Firebase JobDispatcher</li><li>Migrate from GCMNetworkManager</li><li>Testing</li><li>Asynchronous work</li><li>Coroutines testing</li><li>Persistent work</li><li>Debug WorkManager</li><li>Integration testing</li></ul></div> <div><ul>  <li>Test worker implementation</li><li>Broadcasts</li><li>About broadcasts</li><li>Implicit Broadcast Exceptions</li><li>Alarms</li><li>About alarms</li><li>Schedule alarms</li><li>Permissions</li><li>About permissions</li><li>Declare app permissions</li><li>Request app permissions</li><li>Request runtime permissions</li><li>Request special permissions</li><li>Explain access to more sensitive information</li><li>App permissions best practices</li><li>Permissions used only in default handlers</li></ul></div> <div><ul>  <li>Restrict interactions with other apps</li><li>Define custom permissions</li><li>App data and files</li><li>About app data and files</li><li>About storage</li><li>Save to app-specific storage</li><li>Save to shared storage</li><li>About shared storage</li><li>Media</li><li>Photo picker</li><li>Documents and other files</li><li>Datasets</li><li>Manage all files on a storage device</li><li>Save key-value data</li><li>Save data in a local database</li><li>About the local database</li><li>Define data using entities</li></ul></div> <div><ul>  <li>Access data using DAOs</li><li>Define relationships between objects</li><li>Write asynchronous DAO queries</li><li>Create views into a database</li><li>Prepopulate your database</li><li>Migrate your database</li><li>Test and debug your database</li><li>Reference complex data</li><li>Migrate from SQLite to Room</li><li>Save data using SQLite</li><li>Storage use cases and best practices</li><li>Sharing simple data</li><li>About sharing simple data</li><li>Sending simple data to other apps</li><li>Receiving simple data from other apps</li></ul></div> <div><ul>  <li>Provide Direct Share targets</li><li>Sharing files</li><li>About sharing files</li><li>Setting up file sharing</li><li>Sharing a file</li><li>Requesting a shared file</li><li>Retrieving file information</li><li>Sharing files using NFC</li><li>About sharing using NFC</li><li>Sending files to another device</li><li>Receiving files from another device</li><li>Printing files</li><li>About printing</li><li>Printing photos</li><li>Printing HTML documents</li><li>Printing custom documents</li><li>Content providers</li></ul></div> <div><ul>  <li>About content providers</li><li>Content provider basics</li><li>Creating a content provider</li><li>Open files using storage access framework</li><li>Create a custom document provider</li><li>App install location</li><li>User data and identity</li><li>About user data</li><li>Add sign-in workflow</li><li>Show a biometric authentication dialog</li><li>Sign in your user with Credential Manager</li><li>Integrate Credential Manager with Sign in with Google</li><li>Integrate Credential Manager with your credential provider solution</li></ul></div> <div><ul>  <li>Autofill framework</li><li>About autofill</li><li>Optimize your app for autofill</li><li>Build autofill services</li><li>Integrate autofill with keyboards</li><li>Identify developer-owned apps</li><li>Get a user-resettable advertising ID</li><li>About the calendar provider</li><li>Contacts provider</li><li>About the contacts provider</li><li>Retrieving a list of contacts</li><li>Retrieving details for a contact</li><li>Modifying contacts using intents</li><li>Displaying the quick contact badge</li></ul></div> <div><ul>  <li>Account transfer</li><li>Data backup</li><li>About backup</li><li>Back up user data</li><li>Back up key-value pairs</li><li>Test backup and restore</li><li>Best practices for unique identifiers</li><li>Remember and authenticate users</li><li>About authentication</li><li>Remember your user</li><li>Authenticate to OAuth2 services</li><li>Create a custom account type</li><li>User location</li><li>About user location</li><li>Request location permissions</li><li>Get the last known location</li><li>Change location settings</li></ul></div> <div><ul>  <li>Request location updates</li><li>Access location in the background</li><li>Create and monitor geofences</li><li>Detect when users start an activity</li><li>Optimize location for battery</li><li>Test location workflows</li><li>Migrate to Google Play services location and context APIs</li><li>Maps and places</li><li>Camera</li><li>Choose a camera library</li><li>Camera intents</li><li>Camera extensions</li><li>About camera extensions</li><li>Supported devices</li><li>CameraX</li><li>About CameraX</li></ul></div> <div><ul>  <li>Architecture</li><li>Configuration</li><li>Use cases</li><li>Preview</li><li>Image capture</li><li>Image analysis</li><li>Video capture</li><li>Advanced topics</li><li>Extensions API</li><li>ML Kit Analyzer</li><li>Rotations</li><li>Transform output</li><li>Devices</li><li>Camera1 to CameraX migration guide</li><li>Camera2</li><li>About Camera2</li><li>Camera capture sessions and requests</li><li>Camera lenses and capabilities</li><li>Use multiple camera streams simultaneously</li><li>Camera preview</li></ul></div> <div><ul>  <li>HDR video capture</li><li>Multi-Camera API</li><li>Extensions API</li><li>Camera (deprecated)</li><li>About Camera (deprecated)</li><li>Take photos (deprecated)</li><li>Record videos (deprecated)</li><li>Control the camera (deprecated)</li><li>Camera API (deprecated)</li><li>Sensors</li><li>In this guide</li><li>About sensors</li><li>Motion sensors</li><li>Position sensors</li><li>Environment sensors</li><li>Raw GNSS measurements</li><li>Connectivity</li><li>In this guide</li><li>Usage considerations</li></ul></div> <div><ul>  <li>Reduce network battery drain</li><li>About preserving battery</li><li>Avoid unoptimized downloads</li><li>Minimize the effect of regular updates</li><li>Troubleshoot network issues</li><li>Build client-server applications with gRPC</li><li>About Session Initiation Protocol (SIP)</li><li>Open Mobile API reader support</li><li>Perform network operations using Cronet</li><li>About Cronet</li><li>Send a simple request</li><li>About the Cronet request lifecycle</li><li>Use Cronet with other libraries</li></ul></div> <ul><ul>  <li>Reference</li><li>org.chromium.net</li><li>Overview</li><li>CallbackException</li><li>CronetEngine</li><li>Overview</li><li>CronetEngine.Builder</li><li>Overview</li><li>LibraryLoader</li><li>CronetException</li><li>InlineExecutionProhibitedException</li><li>NetworkException</li><li>QuicException</li><li>UploadDataProvider</li><li>UploadDataProviders</li><li>UploadDataSink</li><li>UrlRequest</li><li>Overview</li><li>Builder</li><li>Callback</li><li>Status</li><li>StatusListener</li><li>UrlResponseInfo</li></ul></ul> <ul><ul>  <li>org.chromium.net.apihelpers</li><li>Overview</li><li>ByteArrayCronetCallback</li><li>CronetRequestCompletionListener</li><li>CronetResponse</li><li>ImplicitFlowControlCallback</li><li>InMemoryTransformCronetCallback</li><li>JsonCronetCallback</li><li>RedirectHandler</li><li>RedirectHandlers</li><li>StringCronetCallback</li><li>UploadDataProviders</li><li>UrlRequestCallbacks</li><li>Overview</li><li>CallbackAndResponseFuturePair</li><li>Transfer data using Sync Adapters</li><li>About sync adapters</li></ul></ul> <div><ul>  <li>Create a Stub Authenticator</li><li>Create a Stub Content Provider</li><li>Create a Sync Adapter</li><li>Run a Sync Adapter</li><li>Network</li><li>Perform network operations</li><li>About performing network operations</li><li>Connect to the network</li><li>Manage network usage</li><li>Read network state</li><li>Optimize network access</li><li>Optimize network data usage</li><li>Monitor connectivity status and connection metering</li><li>Parse XML data</li><li>Wi-Fi</li><li>Set up Wi-Fi scanning</li></ul></div> <div><ul>  <li>Overview of Wi-Fi peer-to-peer (P2P)</li><li>Implementing Wi-Fi Aware</li><li>Set up Wi-Fi location with the RTT API</li><li>Use a local-only hotspot</li><li>Discover and connect</li><li>About Network Service Discovery (NSD)</li><li>Use network service discovery</li><li>Create P2P connections with Wi-Fi Direct</li><li>Use Wi-Fi Direct for service discovery</li><li>Wi-Fi Easy Connect</li><li>Wi-Fi infrastructure</li><li>About Wi-Fi infrastructure</li><li>Wi-Fi suggestion API for internet connectivity</li></ul></div> <div><ul>  <li>Wi-Fi Network request API for peer-to-peer connectivity</li><li>Passpoint</li><li>Save networks and Passpoint configurations</li><li>Cellular</li><li>Enhance your apps with 5G</li><li>VPN</li><li>Bluetooth</li><li>Bluetooth Classic</li><li>Overview of Android support for Bluetooth</li><li>Set up Bluetooth</li><li>Find Bluetooth devices</li><li>Connect Bluetooth devices</li><li>Transfer Bluetooth data</li><li>Work with Bluetooth profiles</li><li>Set up companion device pairing</li><li>Bluetooth Low Energy (BLE)</li></ul></div> <div><ul>  <li>About Android support for BLE</li><li>Find BLE devices</li><li>Connect to a GATT server</li><li>Transfer BLE data</li><li>BLE Audio</li><li>About BLE Audio</li><li>Use Audio Manager self-managed calls</li><li>Manage calls using the Telecom API</li><li>Set up audio recording</li><li>Near Field Communication (NFC)</li><li>About NFC</li><li>NFC basics</li><li>Advanced NFC</li><li>About host-based card emulation</li><li>USB</li><li>USB host and accessory overview</li><li>Learn about USB accessories</li></ul></div> <div><ul>  <li>Connect to USB hosts</li><li>Ultra-wideband (UWB)</li><li>Telecom</li><li>About telecom</li><li>Build a calling app</li><li>Prevent caller ID spoofing</li><li>Telephony IDs</li><li>Renderscript</li><li>About Renderscript</li><li>Advanced RenderScript</li><li>Migrate from RenderScript</li><li>Runtime API reference</li><li>About Runtime API</li><li>Numerical types</li><li>Object types</li><li>Conversion functions</li><li>Mathematical constants and functions</li><li>Vector math functions</li><li>Matrix functions</li></ul></div> <div><ul>  <li>Quaternion functions</li><li>Atomic update functions</li><li>Time functions and types</li><li>Allocation data access functions</li><li>Object characteristics functions</li><li>Kernel invocation functions and types</li><li>Input/output functions</li><li>Debugging functions</li><li>Graphics functions and types</li><li>Index</li><li>Android app bundles</li><li>About app bundles</li><li>Configure the base module</li><li>Build and test your app bundle</li><li>Add code transparency</li><li>About the app bundle format</li></ul></div> <div><ul>  <li>Frequently asked questions</li><li>Google Play</li><li>Google Play Billing</li><li>Google Play Core libraries</li><li>Engage SDK</li><li>About Engage SDK</li><li>Engage SDK Watch integration guide</li><li>Engage SDK Listen integration guide</li><li>Engage SDK Read integration guide</li><li>Engage SDK Shopping integration guide</li><li>Engage SDK Food integration guide</li><li>Engage SDK Social integration guide</li><li>Engage SDK integration workflow</li><li>Engage SDK Cluster publishing guidelines</li></ul></div> <div><ul>  <li>Engage SDK Frequently asked questions</li><li>Engage SDK Release Notes</li><li>Play Points</li><li>About Play Points</li><li>Create products and promotions</li><li>Detect and deliver products</li><li>Test products</li><li>Play Asset Delivery</li><li>About Play Asset Delivery</li><li>Integrate asset delivery (Kotlin & Java)</li><li>Integrate asset delivery (native)</li><li>Integrate asset delivery (Unity)</li><li>Target texture compression formats</li><li>Test asset delivery</li><li>Play Feature Delivery</li></ul></div> <div><ul>  <li>About Play Feature Delivery</li><li>Configure install-time delivery</li><li>Configure conditional delivery</li><li>Configure on-demand delivery</li><li>On-demand delivery best practices</li><li>Configure instant delivery</li><li>Additional resources</li><li>In-app reviews</li><li>Overview</li><li>Integrate using Kotlin or Java</li><li>Integrate using native code</li><li>Integrate using Unity</li><li>Test in-app reviews</li><li>In-app updates</li><li>About in-app updates</li><li>Support in-app updates (Kotlin or Java)</li></ul></div> <div><ul>  <li>Support in-app updates (Native)</li><li>Support in-app updates (Unity)</li><li>Test in-app updates</li><li>Google Play Instant</li><li>About Google Play Instant</li><li>Get started with instant apps</li><li>Create an instant-enabled app bundle</li><li>UX best practices for apps</li><li>Get started with instant games</li><li>About instant games</li><li>Unity plugin</li><li>UX best practices for games</li><li>Migrate to Android App Bundles</li><li>Implement cloud delivery of assets</li><li>Support Google Play Games Services</li></ul></div> <div><ul>  <li>Instant Play games</li><li>Instant Play games checklist</li><li>Reduce the size of your instant app or game</li><li>Add ads to your instant app or game</li><li>Provide multiple entry points</li><li>Integrate with Firebase</li><li>Add Google Analytics for Firebase to your instant app</li><li>Use Firebase Dynamic Links with instant apps</li><li>Technical requirements checklist</li><li>Google Play Instant policy</li><li>Resources</li><li>Reference</li><li>Code samples</li><li>SDK release notes</li></ul></div> <div><ul>  <li>Instant App Intents</li><li>Support</li><li>Known issues</li><li>StackOverflow</li><li>Play Developer APIs</li><li>Play Install Referrer</li><li>Overview</li><li>Play Install Referrer Library</li><li>Overview</li><li>Reference</li><li>Release notes</li><li>Play Install Referrer API</li><li>Play Integrity API</li><li>Play Requirements</li><li>Play Policies</li><li>Target API Level</li><li>Support 64-bit architectures</li><li>Application Licensing</li><li>Overview</li><li>Licensing Overview</li></ul></div> <ul><ul>  <li>Setting Up for Licensing</li><li>Adding Server-Side Verification</li><li>Adding Client-Side Verification</li><li>Licensing Reference</li><li>APK Expansion Files</li><li>App updates</li><li>Google Assistant</li><li>About Assistant for Android</li><li>Build</li><li>About App Actions</li><li>Implement built-in intents</li><li>Create shortcuts.xml</li><li>Push dynamic shortcuts to Assistant</li><li>Release notes</li><li>Test</li><li>Google Assistant plugin</li><li>App Actions Test Library</li><li>Grow</li></ul></ul> <ul><ul>  <li>Engage your users</li><li>In-App Shortcut Promo SDK</li><li>Add more features</li><li>Custom intents</li><li>Android widgets</li><li>Foreground app invocation</li><li>Inline inventory</li><li>Web inventory</li><li>Assistant sharing</li><li>Read It</li><li>Devices</li><li>App Actions for cars</li><li>Assistant for Wear OS</li><li>Actions.xml</li><li>Actions.xml migration guide</li><li>About Actions.xml</li><li>Build App Actions</li><li>Create actions.xml</li><li>Web inventory</li><li>App Actions test tool</li></ul></ul> <div><ul>  <li>Android Slices</li><li>Troubleshooting</li><li>Support</li><li>SDK Extensions</li><li>Games</li><li>Games</li><li>Develop</li><li>About game development tools</li><li>Use a game engine</li><li>About game engines</li><li>Develop with Defold</li><li>Install and configure projects for Android</li><li>Support multiple form factors and screen sizes</li><li>Export to Android</li><li>Develop with Godot</li><li>Install and configure projects for Android</li><li>Godot renderer options</li><li>Support multiple form factors and screen sizes</li></ul></div> <div><ul>  <li>Export to Android</li><li>Develop with Cocos</li><li>Steps to build a game for Android in Cocos Creator</li><li>Publish your game as Google Play Instant app in Cocos Creator</li><li>Publish your game with Android App Bundle in Cocos Creator</li><li>Remote debugging on Android</li><li>Develop with Unity</li><li>Overview</li><li>Get started on game development with Unity</li><li>Create an Android App Bundle with Unity</li><li>Integrate Play Asset Delivery</li><li>Unity Lighting in Mobile Games</li></ul></div> <ul><ul>  <li>Use Android Performance Tuner</li><li>Overview</li><li>Enable the API</li><li>Integrate the plugin</li><li>Initialize the library and verify operation</li><li>Define annotations, fidelity parameters, and quality levels</li><li>Add loading time recording functions</li><li>Include Addressables scenes</li><li>Run the monitor app</li><li>Review and publish</li><li>Troubleshoot common errors</li><li>Reference</li><li>Symbolicate Android crashes and ANR for Unity games</li><li>Get started with the Memory Advice API for Unity games</li></ul></ul> <div><ul>  <li>Develop with Unreal</li><li>Request permissions for data access</li><li>Secure your game</li><li>Create or extend a game engine</li><li>About custom game engines</li><li>Start with GameActivity</li><li>About the GameActivity library</li><li>Get started with GameActivity</li><li>Use game text input</li><li>Migrate from NativeActivity</li><li>Configure graphics</li><li>Understand Android game loops</li><li>Process input events</li><li>Add touch support</li><li>Support text input</li><li>Support game controllers</li></ul></div> <div><ul>  <li>Overview</li><li>Use the game controller library</li><li>Use custom controller device mappings</li><li>Add mouse support</li><li>Support sensor input</li><li>Optimize frame pacing</li><li>About the Frame Pacing library</li><li>Frame pacing in OpenGL ES</li><li>Integrate</li><li>Update your build settings</li><li>Add frame pacing functions</li><li>Verify frame pacing improvement</li><li>Frame pacing in Vulkan</li><li>Integrate</li><li>Update your build settings</li><li>Add frame pacing functions</li></ul></div> <ul><ul>  <li>Verify frame pacing improvement</li><li>Frame Pacing API Reference</li><li>Access Java libraries from C/C++</li><li>About the library wrapper</li><li>Get started with library wrapper</li><li>Integrate Android Performance Tuner</li><li>About Android Performance Tuner</li><li>Run the APT demo app</li><li>Enable the Android Performance Parameters API</li><li>Update your build settings</li><li>Define annotations, fidelity parameters, and settings</li><li>Add frame timing functions</li><li>Add loading time recording functions</li></ul></ul> <ul><ul>  <li>Validate, package, and publish the APK</li><li>Troubleshoot common errors</li><li>Advanced usage</li><li>Performance Tuner API Reference</li><li>Develop for multiple form factors</li><li>64-bit architectures</li><li>Screen types</li><li>Vulkan pre-rotation</li><li>Output audio</li><li>About the Oboe audio library</li><li>Update build settings</li><li>Create an audio stream</li><li>See Oboe code samples</li><li>See the Oboe developer guide</li><li>Manage memory</li><li>About managing memory</li></ul></ul> <div><ul>  <li>Debug native memory use</li><li>Deliver assets</li><li>Detect and diagnose crashes</li><li>Android Game Development Kit (AGDK)</li><li>About the AGDK</li><li>Download the AGDK</li><li>AGDK release notes</li><li>Android Game Development Extension (AGDE) for Visual Studio</li><li>About the AGDE</li><li>Get started with AGDE</li><li>Configure your project</li><li>Debug your project</li><li>Debug memory corruption using Address Sanitizer</li><li>Measure app performance</li><li>Profile-Guided Optimization (PGO)</li></ul></div> <ul><ul>  <li>Overview</li><li>Configure Profile-Guided Optimization</li><li>Modify build.gradle files for Android Studio</li><li>See AGDE code samples</li><li>AGDE release notes</li><li>Google Play Games on PC</li><li>About Google Play Games on PC</li><li>Get started</li><li>Review the release checklist</li><li>Set up</li><li>Set up your game for PC compatibility</li><li>Configure your graphics</li><li>Device input</li><li>Set up input</li><li>Set up mouse input</li><li>Input SDK</li><li>About the Input SDK</li></ul></ul> <ul><ul>  <li>Get started with the Input SDK</li><li>Migration Guides</li><li>Overview</li><li>Upgrade from 1.0 to 1.1 Java/Kotlin</li><li>Upgrade from 1.0 to 1.1 Unity</li><li>Upgrade from 0.0.4 to 1.0 Java/Kotlin</li><li>Upgrade from 0.0.4 to 1.0 Unity</li><li>Cross-device play</li><li>About continuity in cross-device play</li><li>About continuity requirements</li><li>Verify your game's compliance</li><li>Federate the identity services</li><li>Third-party login</li><li>Test</li><li>Test your game</li><li>Use the developer emulator</li></ul></ul> <ul><ul>  <li>Use ChromeOS devices</li><li>Troubleshoot the developer emulator</li><li>Publish and deploy</li><li>Package your game for Google Play Services</li><li>Submit your game</li><li>Update your game</li><li>Integrity Protection</li><li>FAQ</li><li>Use Vulkan for graphics</li><li>Manage, debug, and profile in Android Studio</li><li>Optimize</li><li>About optimization tools</li><li>Configure system tracing</li><li>Reduce game size</li><li>Android GPU Inspector (AGI)</li><li>About AGI</li><li>Quickstart</li></ul></ul> <div><ul>  <li>Supported devices</li><li>System profiling</li><li>About system profiling</li><li>View a system profile</li><li>GPU performance counters</li><li>Analyze a system profile</li><li>Frame processing times</li><li>Memory efficiency</li><li>Texture memory bandwidth usage</li><li>Vertex memory bandwidth usage</li><li>Thread scheduling</li><li>Frame profiling</li><li>About frame profiling</li><li>Analyze a frame profile</li><li>Most expensive render passes</li><li>Vertex formats</li><li>Shader performance</li></ul></div> <div><ul>  <li>Frame Profiler UI</li><li>Performance pane</li><li>Commands pane</li><li>Framebuffer pane</li><li>Geometry pane</li><li>Report pane</li><li>Shader pane</li><li>Memory pane</li><li>State pane</li><li>Textures pane</li><li>Texture pane</li><li>Pipeline view pane</li><li>Supported Vulkan extensions</li><li>Troubleshoot AGI</li><li>Android Performance Tuner (APT)</li><li>Android Dynamic Performance Framework (ADPF)</li><li>Optimize 3D assets</li><li>Manage vertex data</li><li>Memory Advice API</li></ul></div> <div><ul>  <li>About the Memory Advice API</li><li>Get started with the Memory Advice API</li><li>Game Mode API</li><li>About the Game Mode API and interventions</li><li>Use the Game Mode API</li><li>Use Game Mode interventions</li><li>Game Dashboard</li><li>About the Game Dashboard</li><li>Components</li><li>Deliver</li><li>About distributing with Google Play</li><li>Google Play Games Services</li><li>About Google Play Games Services</li><li>Get started</li><li>Downloads</li><li>Set up Play Games Services</li></ul></div> <div><ul>  <li>Enable Play Games Services features</li><li>Manage project settings in Google Cloud</li><li>Publish through Google Play Console</li><li>Manage Play Games Services features</li><li>Sign in</li><li>Achievements</li><li>Leaderboards</li><li>Events</li><li>Saved games</li><li>Friends</li><li>Next generation Player IDs</li><li>Use the APIs</li><li>Native SDK</li><li>Plugin for Unity</li><li>About the Google Play Games plugin for Unity</li><li>Get started</li><li>Add features</li><li>Achievements</li></ul></div> <div><ul>  <li>Leaderboards</li><li>Saved games</li><li>Events</li><li>Friends</li><li>Player stats</li><li>Java</li><li>Get started</li><li>Sign in</li><li>Enable server-side access</li><li>Anti-piracy</li><li>Add features</li><li>Achievements</li><li>Leaderboards</li><li>Friends</li><li>Saved games</li><li>Events</li><li>Player stats</li><li>Troubleshooting</li><li>Publishing API</li><li>About the Publishing API</li><li>Get started</li><li>Upload images</li><li>Management API</li><li>Review checklists and guidelines</li></ul></div> <div><ul>  <li>Quality checklist</li><li>Branding guidelines</li><li>Quota and rate limits</li><li>Data disclosure requirements</li><li>Terms of service</li><li>Get support</li><li>Play as you Download</li><li>About Play as you Download</li><li>Best practices</li><li>Health and fitness apps</li><li>Health Connect</li><li>Introduction</li><li>About the Health Connect platform</li><li>Availability</li><li>Architecture</li><li>Developer functionality</li><li>Get started</li><li>Data and data types</li><li>Introduction</li></ul></div> <div><ul>  <li>Data types</li><li>User Privacy</li><li>Common workflows</li><li>Write data</li><li>Read raw data</li><li>Read aggregated data</li><li>Delete data</li><li>Synchronize data</li><li>Exercise routes</li><li>Exceptions</li><li>Best practices</li><li>Frequently asked questions</li><li>Video repository</li><li>SDK release notes</li><li>Health Connect guidelines</li><li>UX guidelines</li><li>Basic guidance</li><li>Permissions and data</li><li>Test applications</li><li>Health Connect Toolbox</li><li>Test cases</li></ul></div> <div><ul>  <li>Migrate</li><li>Health Connect API comparison guide</li><li>Fit Android API to Health Connect migration guide</li><li>Migrate from Android 13 to 14</li><li>Rate limits</li><li>Best practices</li><li>Testing</li><li>Test apps on Android</li><li>Fundamentals</li><li>Fundamentals of testing Android apps</li><li>What to test in Android</li><li>Using test doubles in Android</li><li>Local tests</li><li>Build local tests</li><li>Instrumented tests</li><li>Build instrumented tests</li><li>Automate UI tests</li></ul></div> <div><ul>  <li>AndroidX test libraries</li><li>Set up project for AndroidX Test</li><li>JUnit4 rules with AndroidX Test</li><li>AndroidJUnitRunner</li><li>Espresso</li><li>Espresso</li><li>Espresso basics</li><li>Espresso setup instructions</li><li>Espresso cheat sheet</li><li>Espresso idling resources</li><li>Espresso-Intents</li><li>Espresso lists</li><li>Multiprocess Espresso</li><li>Espresso recipes</li><li>Espresso Web</li><li>Accessibility checking</li><li>Additional Resources for Espresso</li><li>Testing other components</li></ul></div> <div><ul>  <li>Test content providers</li><li>Test your service</li><li>Write automated tests with UI Automator</li><li>Performance</li><li>Accessibility</li><li>Privacy</li><li>Build apps to be more private</li><li>Privacy best practices</li><li>Privacy cheat sheet</li><li>Permission minimization</li><li>Minimize your permission requests</li><li>Reset unused permissions</li><li>Location minimization</li><li>Use coarse location accuracy</li><li>Access location in the background only when necessary</li><li>Access nearby Bluetooth devices</li></ul></div> <div><ul>  <li>Access nearby Wi-Fi devices</li><li>Data minimization</li><li>Declare package visibility needs</li><li>Work with user-resettable identifiers</li><li>Support scoped storage</li><li>Transparency and control</li><li>Workflow for requesting permissions</li><li>Provide prominent disclosure and consent</li><li>Explain why your app needs permissions</li><li>Audit access to data</li><li>Handle permission denials</li><li>Review how your app collects and shares user data</li><li>User-facing privacy features</li></ul></div> <div><ul>  <li>Indicators</li><li>Pasting an intent</li><li>Privacy Dashboard</li><li>App hibernation</li><li>Privacy Sandbox on Android</li><li>Overview</li><li>Introduction</li><li>Progress updates</li><li>Release notes</li><li>Get started</li><li>Choose a developer program</li><li>Enroll your platform with the Privacy Sandbox</li><li>Set up your development environment</li><li>Configure AdServices</li><li>Set up a device or emulator image</li><li>Configure devices to use Privacy Sandbox on Android</li><li>Design proposals</li></ul></div> <div><ul>  <li>SDK Runtime</li><li>Topics</li><li>Protected Audience on Android</li><li>Overview of Protected Audience</li><li>Mediation</li><li>Frequency capping</li><li>App install ads filtering</li><li>Bidding and Auction services</li><li>Attribution Reporting</li><li>Overview and app measurement</li><li>Cross app and web measurement</li><li>Measurement Simulation Library</li><li>Developer Guides</li><li>SDK Runtime</li><li>Topics</li><li>Protected Audience on Android</li><li>Developer guide</li><li>Profile a Protected Audience auction</li></ul></div> <div><ul>  <li>Attribution Reporting</li><li>Integration guides</li><li>SDK Runtime API</li><li>Topics</li><li>Protected Audience on Android</li><li>Attribution Reporting API</li><li>API reference</li><li>Samples</li><li>Security</li><li>About security on Android</li><li>App security best practices</li><li>App security improvement program</li><li>Mitigate security risks in your app</li><li>Common risks</li><li>android:debuggable</li><li>android:exported</li><li>Cleartext / Plaintext HTTP</li><li>Content resolvers</li></ul></div> <div><ul>  <li>Hardcoded Cryptographic Secrets</li><li>Implicit Intent hijacking</li><li>Improperly Exposed Directories to FileProvider</li><li>Insecure API or Library</li><li>Intent redirection</li><li>Log Info Disclosure</li><li>Path traversal</li><li>Pending intents</li><li>SQL injection</li><li>Sticky Broadcasts</li><li>StrandHogg Attack / Task Affinity Vulnerability</li><li>Tapjacking</li><li>Unsafe HostnameVerifier</li><li>Unsafe TrustManager</li><li>Weak PRNG</li><li>Zip Path Traversal</li><li>Confirm safety of execution environment</li></ul></div> <div><ul>  <li>About SafetyNet</li><li>Play Integrity API</li><li>SafetyNet Safe Browsing API</li><li>SafetyNet reCAPTCHA API</li><li>SafetyNet Verify Apps API</li><li>Verifying hardware-backed key pairs with key attestation</li><li>SafetyNet Attestation API</li><li>Discontinuing SafetyNet Attestation</li><li>Protect data at rest</li><li>Work with data more securely</li><li>Cryptography</li><li>Android Keystore System</li><li>Running embedded DEX code directly from APK</li><li>Protect data sent over a network</li></ul></div> <div><ul>  <li>Security with network protocols</li><li>Network security configuration</li><li>Update your security provider to protect against SSL exploits</li><li>Android Protected Confirmation</li><li>SafetyNet Safe Browsing API</li><li>Minimize use of optimized but unverified code</li><li>Perform actions before initial device unlock</li><li>SDKs</li><li>SDK best practices</li><li>
+      Modern Android
+   
+
+</li><li>
+      Explore Modern Android
+   
+</li><li>
+      Adopt Compose for teams
+   
+</li><li>
+      Get started
+   
+
+</li></ul></div> <div><ul>  <li>
+      Hello world
+   
+</li><li>
+      Training courses
+   
+</li><li>
+      Tutorials
+   
+</li><li>
+      Kotlin for Android
+   
+</li><li>
+      Monetization with Play
+   
+</li><li>
+      Extend by device
+   
+
+</li><li>
+      Tablets and foldables
+   
+</li><li>
+      Wear OS
+   
+</li><li>
+      Android for Cars
+   
+</li><li>
+      Android TV
+   
+</li><li>
+      ChromeOS
+   
+</li><li>
+      Cross-device SDK
+   
+</li><li>
+      Build by category
+   
+
+</li><li>
+      Games
+   
+</li><li>
+      Media apps
+   
+</li></ul></div> <div><ul>  <li>
+      Health & Fitness
+   
+</li><li>
+      Enterprise apps
+   
+</li><li>
+      Get the latest
+   
+
+</li><li>
+      Platform releases
+   
+</li><li>
+      Android Studio preview
+   
+</li><li>
+      Jetpack & Compose libraries
+   
+</li><li>
+      Wear OS preview
+   
+</li><li>
+      Privacy Sandbox
+   
+</li><li>
+      Kits & more
+   
+
+</li><li>
+      Go to Android & Material kits
+   
+</li><li>
+      Go to Wear OS kits
+   
+</li><li>
+      UI Design
+   
+
+</li><li>
+      Design for Android
+   
+</li></ul></div> <div><ul>  <li>
+      Mobile
+   
+</li><li>
+      Large screens
+   
+</li><li>
+      Wear OS
+   
+</li><li>
+      TV
+   
+</li><li>
+      Architecture
+   
+
+</li><li>
+      Introduction
+   
+</li><li>
+      Libraries
+   
+</li><li>
+      Navigation
+   
+</li><li>
+      Modularization
+   
+</li><li>
+      Testing
+   
+</li><li>
+      Quality
+   
+
+</li><li>
+      Overview
+   
+</li><li>
+      Core value
+   
+</li><li>
+      User experience
+   
+</li><li>
+      Technical quality
+   
+</li><li>
+      Privacy & security
+   
+</li></ul></div> <div><ul>  <li>
+      Build for Billions
+   
+
+</li><li>
+      Overview
+   
+</li><li>
+      About new markets
+   
+</li><li>
+      Android (Go edition)
+   
+</li></ul></div> <div><h1>  Privacy best practices</h1><span>  bookmark_border</span><span>  
+          
+          Stay organized with collections
+        </span><span>  
+          
+          Save and categorize content based on your preferences.
+        </span><p>  Android is focused on helping users take advantage of the latest innovations
+while making their security and privacy top priorities.</p><p>  Some of the best practices described on this page also appear in the
+<a href="/privacy/cheat-sheet" target="_blank"> cheat sheet </a>.</p></div> <div><h2>  Pay attention to permissions</h2><p>  
+Build trust with your users by being transparent and providing users control
+over how they experience your app.</p><ul>  <li><a href="/training/permissions/usage-notes#avoid_requesting_unnecessary_permissions" target="_blank"> Request the minimum permissions that your feature
+needs </a>.
+Whenever you introduce major changes to your app, review the requested
+permissions to confirm that your app's features still need them.
+</li><li>Keep in mind that newer versions of Android often introduce ways to
+access data in a privacy-conscious manner without requiring permissions.
+For more information, see <a href="/training/permissions/evaluating" target="_blank"> Evaluate whether your app needs to declare permissions </a>.</li></ul></div> <ul><ul>  <li>If your app is distributed on Google Play, <a href="/topic/performance/vitals/permissions#use_android_vitals_to_gauge_user_perceptions" target="_blank"> Android
+vitals </a>
+tells you the percentage of users who deny permissions in your app. Use
+this data to reassess the design of features whose required permissions
+are most commonly denied.</li><li>Follow the recommended flow to <a href="/training/permissions/requesting#explain" target="_blank"> explain why a feature in your app needs a
+permission </a>. Request the permission
+when it's needed, rather than at app startup, so that the permission need is
+clear to users.</li></ul></ul> <ul><ul>  <li>Keep in mind that users or the system can deny the permission multiple times.
+Android respects this user choice by ignoring permission requests from the same
+app.</li><li>Gracefully degrade when users deny or revoke a permission. For example, you
+can disable your app's voice input feature if the user doesn't grant the
+microphone permission.</li><li>When you update your app,
+<a href="/training/permissions/requesting#remove-access" target="_blank"> remove your app's access </a> to
+any runtime permissions that your app no longer needs.</li></ul></ul> <ul><ul>  <li>If you are using an SDK or library that accesses data guarded by dangerous
+permissions, users generally attribute this to your app. Make sure you
+<a href="/training/permissions/usage-notes#sdk-libraries" target="_blank"> understand the permissions that your SDKs require and
+why </a>.
+</li><li>If you test your app on Android 11 (API level 30), use <a href="/about/versions/11/privacy/data-access-auditing" target="_blank"> data access
+auditing </a> to discover
+places in your code and in third-party library code where private data is
+being accessed.</li></ul></ul> <div><h2>  Minimize your use of location</h2><p>  If your app can support its use cases without requiring any location data,
+don't request any location permissions. If your app requests permission to
+access location, help users make an informed decision.</p><ul>  <li>If your app needs to collect location information, explain to users how your
+app uses this information to deliver specific benefits to them.</li><li>If your app needs to pair the user's device with a nearby device over
+Bluetooth or Wi-Fi, use the <a href="/guide/topics/connectivity/companion-device-pairing" target="_blank"> companion device
+manager </a>, which doesn't
+require location permissions.</li><li>Review the <a href="/training/location/retrieve-current#permissions" target="_blank"> level of location
+granularity </a> that your app
+needs. Coarse location access is sufficient to fulfill most location-related use
+cases.</li></ul></div> <ul><ul>  <li>Access location data while your app is visible to the user. That way, users
+can better understand why your app requests location information.</li><li>If your app requires background location, such as when implementing
+geofencing, make sure that it's critical to the core functionality of the app
+and is done in a way that's obvious to users. Learn more about <a href="/training/location/background" target="_blank"> considerations
+for using background location </a>.</li><li>On Android 10 (API level 29) and higher, users can limit your app's location
+access to while the app is in use. Design your app so that it degrades
+gracefully when it doesn't have all-the-time access to location.</li></ul></ul> <ul><ul>  <li>If your app needs to retain location access for a user-initiated ongoing task
+after the user navigates away from your app's UI, <a href="/guide/components/services#Foreground" target="_blank"> start a foreground
+service </a> before your app goes into the
+background. You can do this in one of Android's lifecycle callbacks, such as
+.</li><li>Don't initiate foreground services from the background. Instead, consider
+launching your app from a notification and then executing the location code when
+your app's UI becomes visible.</li></ul></ul> <div><h2>  Handle data safely</h2><p>  
+<b> Note:  </b> You can read more about what's considered sensitive data in the
+  <a href="https://play.google.com/about/privacy-security-deception/user-data/#!?zippy_activeEl=personal-sensitive#personal-sensitive" target="_blank"> User Data article </a> page in the Google Play Developer Policy Center.
+</p><p>  
+Be transparent and secure in how you handle sensitive data.</p><ul>  <li>Make users aware of when and why your app collects, uses, or shares sensitive
+data.</li><li>Use the scoped storage model if possible. <a href="/training/data-storage/use-cases" target="_blank"> Learn how to migrate to scoped
+storage based on your app's use cases </a>.</li><li>Always use <a href="/topic/security/best-practices#network" target="_blank"> secure network
+connections </a>. For your app's data at
+rest, use Android's built-in credential encryption.
+For data in transit, <a href="/training/articles/security-ssl" target="_blank"> use TLS, the successor of SSL, for all data
+transmission </a> regardless of sensitivity.</li></ul></div> <ul><ul>  <li>Place files that contain sensitive data in your app-private directory
+within <a href="/training/data-storage/files/internal" target="_blank"> internal storage </a>.</li><li>On Android 10 (API level 29), store files only relevant to your app in the
+<a href="/training/data-storage/app-specific#external" target="_blank"> app-specific directory in external
+storage </a>.
+<a href="/training/data-storage#scoped-storage" target="_blank"> Learn more about scoped storage </a>.</li><li>If you need to pass sensitive data to another app, use
+<a href="/guide/components/intents-filters#Types" target="_blank"> an explicit intent </a>.
+Grant <a href="/topic/security/best-practices#permissions-share-data" target="_blank"> one-time data access </a>
+to further restrict the other app's access.</li></ul></ul> <ul><ul>  <li>Even when your app is in the foreground, show a
+real-time indication that you are capturing from the microphone or camera. Note
+that Android 9 (API level 28) and higher <a href="/about/versions/pie/android-9.0-changes-all#privacy-changes-all" target="_blank"> don't allow for microphone or camera
+access </a> when
+your app is in the background.</li><li>Don't include sensitive data in logcat messages or your app's log files.
+<a href="/training/articles/security-tips#UserData" target="_blank"> Learn more about how to handle user
+data </a>.</li></ul></ul> <p><p>  Jetpack offers several libraries to keep your app's data more secure. Learn
+more in the guides on using the
+<a href="/topic/security/data" target="_blank"> Jetpack Security library </a> and the
+<a href="/guide/topics/ui/settings/use-saved-values" target="_blank"> Jetpack Preferences library </a>.</p></p> <div><h2>  Use resettable identifiers</h2><p>  
+Respect your users' privacy and use resettable identifiers. See
+<a href="/training/articles/user-data-ids" target="_blank"> Best practices for unique identifiers </a>
+for more information.</p><ul>  <li>Don't access IMEI or the device serial number, as these identifiers are
+persistent. If you try to access these identifiers in an app that targets
+Android 10 (API level 29) or higher, a
+ occurs.</li><li>Only <a href="/training/articles/user-data-ids#advertising-ids" target="_blank"> use an advertising ID for user profiling or ads use
+cases </a>. For apps in Google
+Play, this is a requirement. Always respect user preferences on advertisement
+tracking for personalization.</li><li>For the vast majority of non-ads use cases, <a href="/training/articles/user-data-ids#signed-out-anon-user-analytics" target="_blank"> use a privately stored
+globally-unique ID
+(GUID) </a>, which
+is app-scoped.</li></ul></div> <ul><ul>  <li>Use the secure settings Android ID (SSAID) to share state between the apps
+that you own without requiring the user to sign in to an account. Learn more
+about how to <a href="/training/articles/user-data-ids#signed-out-user-prefs-between-apps" target="_blank"> track signed-out user preferences between
+apps </a>.</li></ul></ul> <p><p>  Content and code samples on this page are subject to the licenses described in the <a href="/license" target="_blank"> Content License </a>. Java and OpenJDK are trademarks or registered trademarks of Oracle and/or its affiliates.</p></p> <p><p>  Last updated 2023-03-13 UTC.</p></p> <div><ul>  <li>More Android
+</li><li>Discover
+</li><li>Android Devices
+</li><li>Releases
+</li><li>Documentation and Downloads
+</li><li>Support
+</li><li>Get news and tips by email
+<a href="/updates" target="_blank"> 
+          Subscribe
+         </a>
+</li></ul></div>

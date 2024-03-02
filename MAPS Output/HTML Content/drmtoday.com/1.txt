@@ -1,0 +1,572 @@
+<div><h1>  Privacy & cookie policy</h1><p>  This privacy notice applies to websites, products and services
+	offered by castLabs. We process your personal data in the scope of delivering services to you and this
+		document clarifies how and why this processing takes place as required by GDPR Art.13. castLabs, we, our, and us
+		refers to castLabs GmbH and castLabs Inc.</p><p>  It describes what personal data is collected from you when you are in contact with us as service
+		users, service providers, website visitors, suppliers and trade show visitors.</p></div> <p><p>  The data controller providing this policy is Castlabs GmbH. It can be reached by post
+		(Wilhelmine-Gemberg-Weg 5-7, 10179 Berlin, Germany) or by email at <a href="mailto:data_protection@castlabs.com" target="_blank"> data_protection@castlabs.com </a>.
+</p></p> <p><p>  castLabs GmbH has appointed a data protection officer who can also be contacted independently:
+		Silvan Jongerius (TechGDPR DPC GmbH, Heinrich-Roller Str. 15, 10405 Berlin, Germany) <a href="mailto:castlabs.dpo@techgdpr.com" target="_blank"> castlabs.dpo@techgdpr.com </a>.</p></p> <div><p>  This policy clarifies: </p><ul>  <li><a href="https://castlabs.com/privacy-cookie-policy/#1" target="_blank"> What personal data is collected and what are the purposes pursued </a> depending on whether you are 
+		<a href="https://castlabs.com/privacy-cookie-policy/prestoplay/" target="_blank"> PRESTOplay SDK </a>
+</li><li>We also offer information on <a href="https://castlabs.com/privacy-cookie-policy/#5" target="_blank"> how to contact us and how we update this policy </a>.</li></ul><p>  Glossary:</p></div> <ul><ul>  <li>Customers: Account holders of castLabs services who
+			create an account to download and integrate our products to their solutions.</li><li>End users: Consumers of media who have a service agreement with
+			castLabs customers.</li><li>Resellers: An organization that purchases castLabs products
+			and/or services for distribution and sale to their own customers.</li><li>Services: Products and services offered by castLabs. These
+			include PRESTOplay, DRMtoday, and Video Toolkit. </li></ul></ul> <div><h2>  1. Personal data collected and purposes pursued</h2><p>  In this section, we clarify what data we process from you and for what purposes. </p><p>  Each table is dedicated to a specific groupof people who interact with our services
+	(data subject categories). </p><p>  Each table outlines:</p><ul>  <li>The processing activity in which your personal data is processed and
+			the data subject categories, </li><li>What data is being processed, </li><li>What purpose it serves for us to do so and the legal base relied on
+			to legitimize this processing, </li><li>What retention we apply (how long this data is kept to these
+			purposes).</li></ul></div> <div><h3>  1.a Service account users
+</h3><p>  (Typically, with access to DRMtoday, Video Toolkit, or Content Portal)</p><p>  Processing activity & (data subject categories)</p><p>  Data points</p><p>  Purpose & (legal base)</p><p>  Retention period</p><p>  Available rights</p><td>  Authenticating users
+</td><td>  Email (login) & password pair
+</td><td>  Allows castLabs’central services to
+					authenticate a customer (organizations, users and their relations) and log their user access to
+					services via the API or front-end. This serves integrity and security purposes to our
+					services.
+</td></div> <p><p>  (Legitimate interest GDPR Art.6.1.f)
+</p></p> <div><td>  1 hour
+</td><td>  The rights of access, rectification, erasure, restriction, the right to object and the
+					right to lodge a complaint with a supervisory authority. More details are available below.
+			
+</td><td>  Account administration
+</td><td>  Email (login), password & 2FA 
+</td><td>  Allows castLabs to offer account management options such as managing
+					notifications, resetting password, setting upMFA, editing account details or closing the
+					account.
+</td><p>  (Performance of a contract GDPR Art.6.1.b)
+</p></div> <div><td>  Duration of the contract
+</td><td>  Accessing a purchased product or a product trial
+</td><td>  Allows castLabs to provide the user with transactional email notifications
+					around the management of the account.
+</td><p>  Performance of a contract GDPR Art.6.1.b)
+</p><td>  Duration of the contract/trial
+</td><td>  Reporting on account or trial use
+</td><td>  Allows castLabs to provide the user, product teams and finance with metrics
+					on current and projected service use and billing. It also allows castLabs to send transactional
+					emails to that effect.
+</td></div> <p><p>  Performance of a contract GDPR Art.6.1.b)
+</p></p> <div><td>  Duration of the contract/trial + 12 months
+</td><td>  Setting options (portal configuration) 
+</td><td>  Allows castLabs to offer a highly configurable account management environment
+					with functionalities that include
+</td><p>  viewing logging/debugging data, viewing statuspage information for all
+					products, getting notified when the operation status of products change or is planned to change,
+					configuring the side navigation pane for increased usability.
+</p><p>  Performance of a contract GDPR Art.6.1.b)
+</p></div> <div><td>  Duration of the contract
+</td><td>  Providing free trials
+</td><td>  Mandatory contact form fields:
+</td><p>  Company name, website, 1st name, last name, company email, country, expected
+					monthly users
+</p><p>  Optional:
+</p><p>  Streaming formats used, encoders/packagers used, video players used, Streaming use
+					cases, free text comments, how the person heard about castLabs, Recaptcha, devices customer wants to
+					reach, content processing needs
+</p><td>  Allows castLabs to address user queries. Allows castLabs to set upa
+					user's free trial.
+</td></div> <p><p>  (Legitimate interest GDPR art.6.1.f)
+</p></p> <div><td>  Duration of the contract or trial
+</td><td>  Providing resources via the <a href="https://downloads.castlabs.com/" target="_blank"> Downloads
+						Portal </a>
+</td><p>  (customer employees)
+</p><td>  User (email / pw)
+</td><p>  Session cookie (Ipaddresses are not logged, no user-agent logs)
+</p><p>  UUID (Universally Unified Identifier randomly generated, with validity/expiry
+					time)
+</p><p>  User activity table: customer emails (customer is top-level ID), customer
+					the user belongs to, package (ex. PRESTOplay for iOS), version date/time
+</p></div> <td><td>  Allows castLabs to make resources available to customer organizations (SDKs,
+					…).
+</td></td> <p><p>  (Performance of a contract GDPR Art.6.1.b)
+</p></p> <div><td>  Duration of the contract
+</td><td>  Providing resources via the <a href="https://vtk.castlabs.com/" target="_blank"> Video
+						Toolkit </a> site
+</td><p>  (customer employees)
+</p><td>  IP
+</td><td>  Allows castLabs to identify from where the request came from.
+</td><p>  (Legitimate interest GDPR art.6.1.f)
+</p><td>  30 days
+</td><td>  Providing resources via <a href="https://portal.content.castlabs.com" target="_blank"> Content
+						Portal </a>(customer employees)
+</td><td>  Name, Last Name, Email, Username, Country
+</td></div> <div><td>  Allows castLabs to make resources available to customers
+</td><p>  (Performance of a contract GDPR Art.6.1.b)
+</p><td>  Indefinitely *
+</td><td>  Monitoring usage
+</td><td>  Mandatory for every view:
+</td><p>  ISO timestampof initialization, castlabs customer id, product SDK version,
+					license_key_id.
+</p><p>  Depending on the contract (can be enforced by the license and may be required
+					for billing):
+</p><p>  user_id – unique user id identifying customer's customers, device_id – unique device
+					id identifying customer's customers devices.
+</p></div> <div><p>  Optional if available upon SDK initialization:
+</p><p>  device brand which initialized our SDK, device model which initialized our SDK, OS
+					family of the operating system that runs on the device initializing our SDK, OS version of the
+					operating system that runs on the device initializing our SDK, browser family (applicable to browser
+					SDK) browser version (applicable to browser SDK), is_live – was the content live, content_type –
+					content type of the playback (e.g. mp4) asset_id – customers assed id, session_id – customers
+					session id, drm_backend – if DRM was used which backend it was using (DRMtoday, none, …), drm_cdm
+					– CDM used, drm_security_level – DRM security level, drm_offline – was it an offline DRM playback,
+					plugins – what kind of plugins were enabled, drm_latency – time to obtain DRM license, drm_ip- ip
+					from which the DRM request came from.
+</p></div> <td><td>  Allows castLabs to monitor usage and gather data
+					required for billing.
+</td></td> <p><p>  (Legitimate interest GDPR art.6.1.f)
+</p></p> <div><td>  1 year
+</td><td>  Improving usability of the websites
+</td><td>  Anonymised user Ipaddress 2 byte(s): 999.999.XXX.XXX, date and time of the request,
+					time in local user’s timezone, title of the page being viewed (page title), URL of the page
+					being viewed (i.e. page URL), URL of the page that was viewed prior to the current page (i.e.
+					referer URL), viewing and clicking on content, including files downloaded, links to an outside
+					domain that were clicked (i.e. outlink), pages generation time (page speed), location of the user:
+					country, region, city, approximate latitude and longitude, main language of the browser being used,
+					user agent of the browser being used (User-Agent header for browser, operating system, device used
+					(desktop, tablet, mobile, tv, cars, console, etc.), brand and model), custom dimensions & screen
+					resolution being used, custom variables, marketing campaigns, site search terms used (if used),
+					conversion goals, events tracked, form interactions, media interactions (video and audio)
+</td></div> <td><td>  Allows castLabs to better understand how the website
+					is used to optimize its design.
+</td></td> <p><p>  (Legitimate interest GDPR Art.6.1.f)
+</p></p> <div><td>  25 months
+</td><td>  Maintaining  operational error logs
+</td><td>  Remote address, remote user, local time, request URL, status, bytes sent,
+					referrer, user agent, x-forwarded-to header
+</td><td>  Allows castLabs to deliver traces of activity to satisfy partner security
+					requests.
+</td><p>  (legitimate interest GDPR Art.6.1.f) 
+</p><td>  2 years
+</td><td>  Creating a customer in SAP and processing order forms from sales
+</td><p>  (customer representatives)
+</p><td>  Name, address, email, VAT ID, payment terms, order item, item price, item
+					discount (if applicable)
+</td></div> <td><td>  Allows castLabs to enter relevant data involved in invoicing
+					organizations.
+</td></td> <p><p>  (legitimate interest GDPR Art. 6.1.f)
+</p></p> <div><td>  10 years
+</td><td>  Bookkeeping
+</td><p>  (customer account managers)
+</p><td>  Name, invoicing address, delivery address, email, VAT ID, payment terms,
+					country, customer #, products purchased, due date, castLabs bank information
+</td><td>  Allows castLabs to fulfill its legal obligation to retain data pertaining to
+					financial transactions.
+</td><p>  (legal obligation GDPR Art. 6.1.c)
+</p><td>  10 years
+</td><td>  Collecting payments from customers
+</td><td>  Bank statements
+</td><td>  Allow castLabs to ensure that payments are made and trigger a dunning run
+					where necessary.
+</td></div> <p><p>  (legal obligation GDPR Art. 6.1.c)
+</p></p> <div><td>  10 years 
+</td><p>  * We are currently working to decrease that
+		number and aggregate the data.</p></div> <div><h3>  1.b Website visitors (castlabs.com)</h3><p>  Processing activity & (data subject categories)</p><p>  Data points</p><p>  Purpose & (legal base)</p><p>  Retention period</p><p>  Available rights</p><td>  Logging and maintaining server access log files
+</td><td>  Operating system, browser, IP, timestamp, URL, country
+</td><td>  Allows castLabs to investigate and clear occasional
+					suspicion of security risks on pages delivering publicly available information.
+</td><p>  (legitimate interest GDPR Art. 6.1.f)
+</p></div> <div><td>  1 month
+</td><td>  The rights of access, rectification, erasure, restriction, the right to object and the
+					right to lodge a complaint with a supervisory authority. More details are available below.
+			
+</td><td>  Responding to queries
+</td><p>  (leads)
+</p><td>  Email, name, timestamp, and message payload
+</td><td>  Allows castLabs to offer support and address
+					client queries.
+</td><p>  (legitimate interest GDPR Art. 6.1.f)
+</p><td>  12 months
+</td><td>  Anonymised user Ipaddress 2 byte(s): 999.999.XXX.XXX, date and time of the
+					request, time in local user’s timezone, title of the page being viewed (page title), URL of
+					the page being viewed (i.e. page URL), URL of the page that was viewed prior to the current page
+					(i.e. referer URL), viewing and clicking on content, including files downloaded, links to an
+					outside domain that were clicked (i.e. outlink), pages generation time (page speed), location of the
+					user: country, region, city, approximate latitude and longitude, main language of the browser being
+					used, user agent of the browser being used (User-Agent header for browser, operating system, device
+					used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model), custom dimensions &
+					screen resolution being used, custom variables, marketing campaigns, site search terms used (if
+					used), conversion goals, events tracked, form interactions, media interactions (video and
+					audio)
+</td></div> <td><td>  Allows castLabs to better understand how the website is used to optimize its
+					design.
+</td></td> <p><p>  (legitimate interest GDPR Art. 6.1.f)
+</p></p> <div><td>  25 months
+</td><td>  For more information, please see our <a href="https://castlabs.com/privacy-cookie-policy/#3" target="_blank"> Website cookies </a>
+</td></div> <div><h3>  1.c Leads and interested parties
+</h3><p>  Processing activity & (data subject categories)</p><p>  Data points</p><p>  Purpose & (legal base)</p><p>  Retention period</p><p>  Available rights</p><td>  Hosting webinars (interested parties + customers)
+</td><td>  Registrant’s email, first/last name, company, job title, country, and other data voluntarily shared, as well as marketing email opt-in choice
+</td><td>  Allows castLabs to host remote events to help promote product features and keep the user community engaged.
+</td></div> <p><p>  (legitimate interest GDPR, Art.6.1.f)
+</p></p> <div><td>  12 months
+</td><td>  The rights of access, rectification, erasure, restriction, the right to
+					object and the right to lodge a complaint with a supervisory authority.
+</td><p>  More details are available below.
+</p><td>  Integrate webinar registrants into CRM (interested parties + customers)
+</td><td>  Registrant’s email, first/last name, company, job title, country, as well as marketing email opt-in choice
+</td><td>  Allow castLabs to integrate webinar registrants information into CRM
+</td></div> <div><td>  12 months
+</td><td>  Make available VOD asset after the webinar (interested parties + customers)
+</td><td>  Email address
+</td><td>  Allow castLabs to send the webinar video to all people who registered to the webinar
+</td><td>  12 months
+</td><td>  Scanning badges, collecting leads, and reaching out to partners and leads after an event
+</td><p>  (event attendees)
+</p><td>  Captured date, first name, last name, title, company, company address, email, phone,
+					website
+</td><td>  Allows castLabs to create a list of interested parties and further engage in
+					commercial talks.
+</td></div> <p><p>  (legitimate interest GDPR Art.6.1.f)
+</p></p> <div><td>  12 months
+</td><td>  Collecting leads information and reaching out to them after they complete a website form 
+				(interested parties)
+</td><td>  Email, first name, last name, title, company, country
+</td><td>  Allows castLabs to communicate to interested parties for relevant  commercial discussions.
+</td><p>  (legitimate interest GDPR Art.6.1.f)
+</p><td>  12 months
+</td><td>  Placing a meeting request
+</td><p>  (interested parties)
+</p><td>  Name, company email address, company, company website, user submitted information (on
+					contact forms), castLab products of interest, brief overview of existing infrastructure, Recaptcha
+					proof of humanity
+</td></div> <td><td>  Allows castLabs to get in touch with
+					requesters at an upcoming event.(legitimate interest GDPR Art.6.1.f)
+</td></td> <div><td>  24 months
+</td><td>  Responding to customer queries
+</td><p>  (‘Technical consulting’  customer interest form)
+</p><p>  (Widevine 3PL certification customer interest form)
+</p><td>  Technical consulting:
+				Required fields: Company name, name, company email
+				Optional fields: Website, phone, overview of their existing infrastructure, other requirements, requests,
+					or questions
+</td><p>  Widevine 3PL certification:
+				
+				Required fields: Company name, website, user’s name, user’s email, user’s country
+				
+				Optional fields: Phone, job title
+</p></div> <td><td>  Allows castLabs to get in touch with interested parties
+					placing queries on castLabswebsite forms.(legitimate
+					interest GDPR Art.6.1.f)
+</td></td> <div><td>  24 months
+</td><td>  Preventing spamming
+</td><td>  See table below: Newsletter 
+</td><td>  Sending out marketing communication
+</td><p>  (registered recipients)
+</p><td>  See table below: Newsletter 
+</td><td>  Understanding website use (through site analytics)
+</td><td>  Anonymised user Ipaddress, date and time of the request, time in local user’s
+					timezone, title of the page being viewed (page title), URL of the page being viewed (page URL), URL
+					of the page that was viewed prior to the current page (referrer URL), screen resolution being used,
+					content viewing and links clicked, files downloaded, clicked links to an outside domain (outlink),
+					pages generation time (page speed), location of the user: country, region, city, approximate
+					latitude and longitude, main language of the browser being used (accept-Language header), user agent
+					of the browser being used (User-Agent header), site
+					search, form interactions, media interactions
+</td></div> <td><td>  Allows castLabs to better understand visitors
+					of the public webpages and help improve visitor experience.
+</td></td> <p><p>  (legitimate interest GDPR Art.6.1.f)
+</p></p> <div><td>  25 months
+</td></div> <div><h3>  1.d Newsletter subscribers</h3><p>  Processing activity & (data subject categories)</p><p>  Data points</p><p>  Purpose & (legal base)</p><p>  Retention period</p><p>  Available rights</p><td>  Sending out marketing communication
+</td><td>  Email address
+</td><td>  Allows castLabs to promote its products and
+					offerings.
+</td><p>  (consent GDPR Art.6.1.a)
+</p><td>  Until user unsubscribes
+</td><td>  The rights of access, rectification, erasure, restriction, the right to object (i.e.
+					revoke consent), the right to data portability and the right to lodge a complaint with a supervisory
+					authority. More details are available below.
+</td></div> <div><td>  Preventing spamming(Making use of Recaptcha at newsletter
+					registration)
+</td><td>  IP address, referrer URL, operating system, cookies, mouse,
+					movements/keyboard strokes, length of pauses between actions, device settings (e.g. language or
+					location)
+</td><td>  Allows castLabs to ensure that only a natural/legal
+					person registers to the newsletter rather than a bot.
+</td><p>  (legitimate interest GDPR Art.6.1.f)
+</p><td>  19 years by Google
+</td></div> <div><h3>  1.e Third-party service providers or contractors *</h3><p>  Processing activity & (data subject categories)</p><p>  Data points</p><p>  Purpose & (legal base)</p><p>  Retention period</p><p>  Available rights</p><td>  Invoicing suppliers and contractors
+</td><td>  Supplier name, address, bank details, payment terms
+</td><td>  Allows castLabs to track the fulfillment of
+					service and submit a payment order.
+</td><p>  (Performance of a contract – GDPR Art.6.1.b)
+</p><td>  10 years
+</td><td>  The rights of access, rectification, erasure, restriction, the right to data
+					portability and the right to lodge a complaint with a supervisory authority. More details are
+					available below.
+</td></div> <div><td>  Delivering payment to suppliers
+</td><td>  Amount payable to supplier, supplier invoice number, IBAN and Swift
+					BIC
+</td><td>  Allows castLabs to transfer funds to external
+					suppliers.(Performance of a contract – GDPR Art.6.1.b)
+</td><td>  1 week (for payment processing)
+</td><td>  Archiving records of payment
+</td><td>  castLabs IBAN, name of the recipient, IBAN of recipient,
+					purpose of transaction
+</td><td>  Allows castLabs to maintain records of supplier
+					financial transactions.(Legal obligation – GDPR Art.6.1.c)
+</td></div> <div><td>  10 years
+</td><td>  The rights of access, rectification, erasure once the required retention has
+					expired, restriction, and the right to lodge a complaint with a supervisory authority.
+</td><p>  More details are available below.
+</p><td>  Hiring process
+</td><td>  First Name, Last Name, Email, Phone, Linkedin Profile, Website, Skills
+					(languages, programming, …), job experience, education information (school, university,
+					discipline), freelancer willingness
+</td><td>  Assessing applicants suitability
+</td></div> <p><p>  (Consent – GDPR Art. 6.1.a)
+</p></p> <div><td>  1 year
+</td><td>  The rights of access, rectification, erasure once the required retention has
+					expired, restriction, and the right to lodge a complaint with a supervisory authority.
+</td><p>  More details are available below.
+</p><p>  * Note for third party providers and contractors: While
+		this table outlines how castLabs handles your personal data in the scope of the activities rendered for castLabs
+		(GDPR Art.13) it does not in any way cover or preclude your contractual and statutory obligations with regards
+		to data protection and the secure handling of castLabs customer data (GDPR Art.28, 32-36). The latter is
+		outlined in the Data Processing Agreement you have executed with castLabs.</p></div> <div><h3>  Matomo Analytics</h3></div> <div><h4>  Matomo cookies</h4><p>  We may use Matomo Analytics across our websites to analyze how our site is used to helpimprove it.
+		When it is used, we collect anonymous visitor usage analytics without cookies, by default. Upon visiting one of
+		our websites, we display a cookie banner providing an option to opt in to use <a href="https://castlabs.com/privacy-cookie-policy/#3" target="_blank"> third party Matomo usage analytics cookies </a>.</p><ul>  <li>If you choose to accept these cookies via the banner, then you will be helping
+			us understand better how our site is used in order to improve it. If afterwards you wish to opt out of these
+			cookies, you can press the button below. 
+			A functional <a href="https://castlabs.com/privacy-cookie-policy/#3" target="_blank"> first-party cookie </a> will be created to remember your choice.
+			</li><li>If you choose to decline these cookies via the banner, then Matomo cookies
+			will not be used while you use our site. A functional <a href="https://castlabs.com/privacy-cookie-policy/#3" target="_blank"> first-party cookie </a> is created to remember your
+			choice.</li></ul></div> <ul><ul>  <li>If you perform no action with the cookie banner, Matomo cookies will continue
+			to not be used while you use our site.</li></ul></ul> <div><h4>  Opting in or out of analytics</h4><p>  You may choose to prevent our websites from aggregating and analyzing the actions you
+				take while using them. Doing so will increase your privacy, but will also prevent us from learning
+				from your actions and creating a better experience for you and other users. Opting out will create a
+				cookie used to remember that data collected for analytics should be avoided. This is in line with
+				the French data protection authority <a href="https://matomo.org/wp-content/uploads/2021/10/Matomo-Analytics-Exemption-from-Tracking-Consent-in-France-CNIL.pdf" target="_blank"> (CNIL)
+					supported implementation of Matomo Analytics </a>. This implementation allows us to
+				collect user data anonymously. In any case, the anonymisation and the resulting anonymous site usage
+				data is processed and stored within the EU. Aggregated (statistics) data does not
+				lead back to an individual.</p></div> <label><label>  You're currently opted in. Check this box to opt out.
+</label></label> <p><p>  Additionally to the above, we may use your information in legal claims and
+		compliance/regulatory/audit processes where required by law, or where we believe it is required to
+		protect our legal rights and interests. We may also disclose your information in connection with
+		the acquisition, merger, or sale of one of our business units. Should this
+		happen, we would inform you of the intended data sharing and provide you with the opportunity to object ahead of
+		time.</p></p> <div><h3>  Data belonging to children</h3><p>  Our products and services are not intended for individuals under the age
+		of 16. We do not knowingly or intentionally collect personal information from that demographic
+		and if we become aware that someone under the age of 16 has provided us with personal information we will remove
+		their data from our systems.</p></div> <div><h2>  2. Exercising data subject rights under the GDPR</h2></div> <div><h3>  How to access your information (right of access)
+</h3><p>  You have the right to request a copy of the information we hold
+		about you. To do so, please send an email to <a href="mailto:data_protection@castlabs.com" target="_blank"> data_protection@castlabs.com </a> requesting access to your information.</p></div> <div><h3>  How to update your information (right to rectification)
+</h3><p>  You have the right to update the information we hold about you. To
+		do so please send an email to <a href="mailto:data_protection@castlabs.com" target="_blank"> data_protection@castlabs.com </a> with instructions on what you would like rectified.</p></div> <div><h3>  How to withdraw from communications (right to object to marketing
+		communication)</h3><p>  You may withdraw consent from our marketing communications, including our
+		newsletter, by clicking the unsubscribe link in the emails you receive. You may also email <a href="mailto:data_protection@castlabs.com" target="_blank"> data_protection@castlabs.com </a> to request to
+		be removed from communications. You may however not withdraw from our service communication
+		updates as these are intended to provide you with timely or critical information regarding system updates. This
+		communication and use of your contact details takes place under the performance of our contract. </p></div> <div><h3>  How to request to port your data (right to data
+		portability)</h3><p>  Data portability allows you to obtain your personally identifiable information in a format which
+		you can move between service providers. Data portability
+		requests may apply to some of your information, but not
+		all, depending on the data’s specific circumstances. Upon request by emailing
+	<a href="mailto:data_protection@castlabs.com" target="_blank"> data_protection@castlabs.com </a>, we will provide
+		you with relevant personally identifiable information in an electronic format.</p></div> <div><h3>  Notable exceptions to the exercise of data subject rights
+</h3><p>  Note that none of the following rights can be exercised if castLabs cannot identify you.
+		Likewise, deletion requests cannot be performed where data is processed under Art.6.1.b performance of a
+		contract and that contract happens to be running. Should castLabs have reason to believe the data it holds may
+		helpin the preparation, defense or exercise of a legal claim, we will also not be able to act on a deletion or
+		rectification request.</p></div> <p><p>  Castlabs will also provide an explanation as to which rights cannot be performed. castLabs may
+		refuse to process requests that are unreasonably duplicated, require disproportionate technical efforts,
+		jeopardize the confidentiality of other users, requests which are extremely impractical, or otherwise not
+		required by law. The exercise of your rights, when they are not repetitive and unreasonable, is not subject to a
+		fee. </p></p> <div><h3>  Right to lodge a complaint</h3><p>  We encourage you to contact us at <a href="mailto:data_protection@castlabs.com" target="_blank"> data_protection@castlabs.com </a> if
+		you have a privacy related concern. You can also contact our data protection officer. Should we fail to
+		respond to your request on one of the above rights within 30 days or if you deem our response unsatisfactory,
+		you have the right to lodge a complaint about the improper processing/usage of your personal data by us with our
+		supervisory authority:</p></div> <div><p>  Berliner Beauftragte für Datenschutz und Informationsfreiheit</p><p>  An der Urania 4-10</p><p>  10787 Berlin</p><p>  Alternatively, you can contact the data protection authority <a href="https://edpb.europa.eu/about-edpb/about-edpb/members_en" target="_blank"> of
+			your choice </a>.</p></div> <div><h2>  3. Website cookies</h2></div> <div><h3>  First-party cookies</h3><p>  We implement and control these cookies ourselves on our website domains (castlabs.com,
+		drmtoday.com, and portal.content.castlabs.com).</p><p>  Name</p><p>  Description and purpose</p><p>  Expiration</p><p>  Where it’s used</p><td>  cl_banner_nok
+</td><td>  A functional cookie used to remember if you chose to opt in or out of usage analytics cookies via the cookie banner.
+</td><td>  13 months
+</td><td>  .castlabs.com
+</td><td>  cl:console:session
+</td><td>  User portal session cookie.
+</td></div> <div><td>  Session
+</td><td>  User portal
+</td><td>  cl:console:session:expires
+</td><td>  User portal session expiration cookie that is used to indicate when to
+					perform a token refresh operation.
+</td><td>  Session
+</td><td>  User portal
+</td></div> <div><h3>  Third-party cookies</h3><p>  We implement cookies provided by the following third parties.</p><p>  Name</p><p>  Description and purpose</p><p>  Expiration</p><p>  Where it’s used</p><td>  cognito
+</td><td>  Amazon Cognito session cookie.
+</td><td>  Session
+</td><td>  Login portal
+</td><p>  Content portal
+</p><td>  mtm_cookie_consent
+</td><td>  This allows Matomo to remember that consent for storing and using cookies was
+					given by the user. This cookie is created when you accept the cookie banner.
+</td></div> <div><td>  13 months
+</td><td>  .castlabs.com
+</td><td>  sessionid
+</td><td>  AWS cookies used to identify the user’s session necessary for form
+					submissions.
+</td><td>  2 weeks
+</td><td>  Our software Download Portal
+</td><p>  Our Video Toolkit Portal
+</p><td>  csrftoken
+</td><td>  A security token from AWS to prevent cross-site request forgery and maintain
+					optimal service and user security.
+</td><td>  1 year
+</td><td>  Our software Download Portal
+</td><td>  XSRF-TOKEN
+</td><td>  This is an encrypted cookie to prevent CSRF attacks
+				and maintain optimal service and user security.
+</td></div> <div><td>  Session
+</td><td>  Login portalContent portal
+</td><td>  csrf-state
+</td><td>  Part of Amazon Cognito OAuth.
+</td><td>  Session
+</td><td>  Content portal
+</td><td>  csrf-state-legacy
+</td><td>  Part of Amazon Cognito OAuth.
+</td><td>  Session
+</td><td>  Content portal
+</td><td>  _pk_ref
+</td><td>  Used with Matomo to store the attribution information the referrer initially
+					used to visit the site.
+</td><td>  6 months
+</td><td>  .castlabs.com
+</td><td>  _pk_cvar
+</td><td>  Short lived Matomo cookie used to temporarily store data for the
+					visit.
+</td></div> <div><td>  30 minutes
+</td><td>  .castlabs.com
+</td><td>  _pk_id
+</td><td>  Used with Matomo to store a few details about the user such as the unique
+					visitor ID.
+</td><td>  13 months
+</td><td>  .castlabs.com
+</td><td>  _pk_ses
+</td><td>  Short lived Matomo cookie used to temporarily store data for the
+					visit.
+</td><td>  30 minutes
+</td><td>  .castlabs.com
+</td><td>  mtm_consent
+</td><td>  This cookie allows Matomo to remember that consent was given by the user.
+</td><td>  13 months
+</td><td>  .castlabs.com
+</td></div> <div><td>  mtm_consent_removed 
+</td><td>  This cookie allows Matomo to remember that consent was removed by the user.
+</td><td>  30 years
+</td><td>  .castlabs.com
+</td><td>  matomo_ignore 
+</td><td>  Allows Matomo to exclude usage analytics for a visitor/user
+					(opt-out). This cookie does not contain personal information or any ID and the
+					cookie value is the same for all visitors/users.
+</td><td>  30 years
+</td><td>  .castlabs.com
+</td><td>  matomo_sessid
+</td><p>  (essential cookie which does not contain data used to identify users)
+			
+</p></div> <td><td>  This nonce allows Matomo to prevent CSRF security issues and is triggered
+					when the opt out feature is used.
+</td></td> <div><td>  14 days
+</td><td>  .castlabs.com
+</td><td>  AWSELBCORS
+</td><td>  Part of Amazon load balancing functionality.
+</td><td>  1 week
+</td><td>  Our Video Toolkit portal
+</td><td>  AWSELB
+</td><td>  Part of Amazon load balancing functionality. Used to map the session to an instance.
+</td><td>  1 week
+</td><td>  Our Video Toolkit portal
+</td></div> <div><h3>  Local storage (JavaScript storage API) cookies</h3><p>  Name</p><p>  Description and security purpose</p><p>  Expiration</p><p>  Where it’s used</p><td>  amznfbgid
+</td><td>  Used to uniquely identify a browser
+</td><td>  Until user authenticates
+</td><td>  Content portal
+</td><td>  Amazon.AWS.Cognito.ContextData.LS_UBID
+</td><td>  Used to uniquely identify a browser
+</td><td>  id_token
+</td><td>  JSON web token (JWT) that contains information about the user’s
+					identity (Name, Surname, Username, Email) and is used for authentication.
+</td></div> <div><td>  Session
+</td><td>  access_token
+</td><td>  JSON web token (JWT) that contains the username and is used for authorizing
+					API operations in the context of the user in the user pool.
+</td><td>  nonce
+</td><td>  OAuth Token used to secure against replay attacks.
+</td><td>  id_token_expires_at
+</td><td>  Expiration date of the id_token
+</td><td>  expires_at
+</td><td>  Expiration date of the access token
+</td><td>  access_token_stored_at
+</td><td>  Extracted from the id_token. It’s stored there to provide a shortcut to
+					data from the id_token
+</td></div> <div><td>  id_token_stored_at
+</td><td>  Internal marker that is set to the time the id_token was acquired
+</td><td>  id_token_claims_obj
+</td><td>  Extracted from the id_token. It’s stored there to provide a shortcut to
+					data from the id_token 
+</td><td>  PKCE_verifier
+</td><td>  OAuth Token
+</td><p>  Proof Key for Code Exchange is a security key for preventing malicious
+					attacks by securely performing code authorization flow.
+</p><td>  session_state
+</td><td>  Indicates the End-User's login state. 
+</td></div> <div><td>  refresh_token
+</td><td>  OAuth TokenUsed to retrieve new ID and access tokens.
+</td><td>  Until session ends or 30 days
+</td><td>  ng2Idle.main.idling
+</td><td>  Angular verification of user’s activity that tracks when the user is
+					idle (security)
+</td><td>  Until new login
+</td><td>  ng2Idle.main.expiry
+</td></div> <div><h2>  4. Data transfers </h2><p>  Note that we do not sell, trade, or rent personal identification information of users
+		of our products and services to others. We only provide access to data
+		you entrust us to our trusted sub-processors and ensure we have the appropriate required documentation to do so,
+		including service contracts, data protection agreements and standard contractual clauses for out-of-EU
+		transfers. We are currently performing an international transfer assessment to determine whether supplementary
+		measures required in the wake of the EUCJ Schrems II decision are required. </p></div> <div><h3>  Transfers within castLabs GmbH & castLabs Inc.</h3><p>  Information is regularly shared internally with our staff around the world between our two business
+		units: castLabs GmbH, located in Germany and castLabs Inc, located in the US. Our
+		worldwide business requires information to be periodically transferred outside of where data is stored for
+		access in countries where we operate (for example, by our staff on a need-to-know basis and under strict
+		security measures) for the purposes detailed in this policy.We use
+		HTTPS encryption for data transmission where available to prevent interception of data across networks.
+</p></div> <div><h3>  Site visitor analytics</h3><p>  Through the EU-based cloud use of Matomo Analytics, the implementation of which followed
+		strict CNIL (Commission Nationale de l'Informatique et des Libertés)
+		guidance, we do not share identifiable visitor data outside of the EU.</p></div> <div><h3>  International data transfers</h3><p>  Over the course of our processing, your data may remain in the EU or be transferred
+		internationally. For details, please refer to the processing activity of interest below.</p><p>  Category of processor involved </p><p>  contracting entity</p><p>  location of the processing</p><p>  International transfer instrument relied on </p><td>  Authentication service
+</td><td>  Luxembourg
+</td><td>  EU
+</td><td>  None needed
+</td><td>  Invoicing and finance
+</td></div> <div><td>  Germany
+</td><td>  Germany
+</td><td>  None needed
+</td><td>  Cloud hosting provider 
+</td><td>  Luxembourg
+</td><td>  EU
+</td><td>  SCCs
+</td><td>  Usage analytics for website visitor activity
+</td><td>  New Zealand
+</td><td>  Germany and Ireland (backup)
+</td><td>  None needed
+</td><td>  CRM
+</td><td>  Germany
+</td><td>  US (migration to EU pending)
+</td><td>  SSCs
+</td><td>  Web hosting
+</td><td>  Spain
+</td><td>  Netherlands
+</td><td>  SSCs
+</td><td>  Ticketing system
+</td><td>  Australia
+</td></div> <td><td>  US, Australia, Singapore, Ireland *
+</td></td> <div><td>  SCCs (with Australia)
+</td><td>  Log analysis
+</td><td>  United States
+</td><td>  US
+</td><td>  SCCs
+</td><td>  Applicant tracking system
+</td><td>  United States
+</td><td>  EU
+</td><td>  None needed
+</td><p>  * Atlassian moves data around globally to optimize product performance.</p><p>  Note: We rely on Standard Contractual Clauses (SCCs) for all our
+		international transfers, if you wish to consult any of them, please <a href="mailto:data_protection@castlabs.com" target="_blank"> get in touch with us </a> to request a
+		copy.</p></div> <div><h2>  5. Updates to this document</h2></div> <div><h3>  Changes to this privacy policy</h3><p>  We may modify this privacy policy at any time to comply with legal requirements as well as
+		developments within our organization. When we do, we will revise the date at the bottom of this page. Each visit
+		or interaction with our products and services will be subject to the new privacy
+		policy. We will record past versions of this policy through an archive <a href="https://castlabs.com/legal/archives/" target="_blank"> on
+			this page </a>.  We encourage you to review our privacy policy whenever you
+		use our products and services to stay informed about our policies.</p></div> <div><h3>  Contacting us</h3><p>  If you have any questions about this policy, please contact us at:</p><p>  castLabs GmbH</p><p>  Wilhelmine-Gemberg-Weg 5-7</p><p>  10179 Berlin, Germany</p></div> <div><h3>  Our data protection officer</h3><p>  castLabs has appointed <a href="https://techgdpr.com" target="_blank"> TechGDPR </a> DPC gmbH as its external Data Protection Officer. </p><p>  TechGDPR DPC GmbH </p><p>  Heinrich-Roller Str. 15</p><p>  10405 Berlin, Germany</p><p>  You may contact them directly at <a href="mailto:castlabs.dpo@techgdpr.com" target="_blank"> castlabs.dpo@techgdpr.com </a>.</p><p>  Policy version effective as of: 15 May 2023</p><span>  30 Aug</span><span>  15 - 18 Sep</span></div> <div><h5>  Our markets</h5></div> <div><h5>  Company</h5></div> <div><h5>  Resources</h5></div> <div><h5>  DRM & CAS</h5></div> <div><h5>  Products & services</h5><span>  ©2008-2023 castLabs</span></div>

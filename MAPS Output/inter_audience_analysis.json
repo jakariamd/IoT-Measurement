@@ -1,0 +1,8783 @@
+{
+  "gstatic.com": {
+    "inter_audience": 31
+  },
+  "google.com": {
+    "inter_audience": 12
+  },
+  "googleapis.com": {
+    "inter_audience": 22
+  },
+  "doubleclick.net": {
+    "inter_audience": 12
+  },
+  "youtube.com": {
+    "inter_audience": 12
+  },
+  "ytimg.com": {
+    "inter_audience": 0
+  },
+  "ggpht.com": {
+    "inter_audience": 0
+  },
+  "googleusercontent.com": {
+    "inter_audience": 10
+  },
+  "googlesyndication.com": {
+    "inter_audience": 12
+  },
+  "googlevideo.com": {
+    "inter_audience": 12
+  },
+  "podtrac.com": {
+    "inter_audience": 8
+  },
+  "spotify.com": {
+    "inter_audience": 19
+  },
+  "scdn.co": {
+    "inter_audience": 2
+  },
+  "sentry-cdn.com": {
+    "inter_audience": 0
+  },
+  "akamaized.net": {
+    "inter_audience": 21
+  },
+  "npr.org": {
+    "inter_audience": 13
+  },
+  "gvt1.com": {
+    "inter_audience": 0
+  },
+  "google-analytics.com": {
+    "inter_audience": 12
+  },
+  "akamai.net": {
+    "inter_audience": 0
+  },
+  "amazoncrl.com": {
+    "inter_audience": 0
+  },
+  "bamgrid.com": {
+    "inter_audience": 55
+  },
+  "mlb.com": {
+    "inter_audience": 31
+  },
+  "roku.com": {
+    "inter_audience": 15
+  },
+  "googleadservices.com": {
+    "inter_audience": 1
+  },
+  "akamaiedge.net": {
+    "inter_audience": 0
+  },
+  "conviva.com": {
+    "inter_audience": 34
+  },
+  "mparticle.com": {
+    "inter_audience": 35
+  },
+  "gvt2.com": {
+    "inter_audience": 0
+  },
+  "jwplatform.com": {
+    "inter_audience": 26
+  },
+  "docker.com": {
+    "inter_audience": 7
+  },
+  "showtimeanytime.com": {
+    "inter_audience": 23
+  },
+  "sentry.io": {
+    "inter_audience": 49
+  },
+  "ampproject.org": {
+    "inter_audience": 25
+  },
+  "1e100.net": {
+    "inter_audience": 0
+  },
+  "telstra.com": {
+    "inter_audience": 4
+  },
+  "pandora.com": {
+    "inter_audience": 35
+  },
+  "scorecardresearch.com": {
+    "inter_audience": 19
+  },
+  "2mdn.net": {
+    "inter_audience": 0
+  },
+  "tuyaus.com": {
+    "inter_audience": 29
+  },
+  "nest.com": {
+    "inter_audience": 12
+  },
+  "ampproject.net": {
+    "inter_audience": 25
+  },
+  "monoprice.com": {
+    "inter_audience": 12
+  },
+  "dropcam.com": {
+    "inter_audience": 12
+  },
+  "2o7.net": {
+    "inter_audience": 0
+  },
+  "iheart.com": {
+    "inter_audience": 11
+  },
+  "ihrhls.com": {
+    "inter_audience": 0
+  },
+  "pki.goog": {
+    "inter_audience": 12
+  },
+  "feedburner.com": {
+    "inter_audience": 12
+  },
+  "fastly.net": {
+    "inter_audience": 18
+  },
+  "tunein.com": {
+    "inter_audience": 18
+  },
+  "radiotime.com": {
+    "inter_audience": 18
+  },
+  "streamguys1.com": {
+    "inter_audience": 0
+  },
+  "cloudfront.net": {
+    "inter_audience": 45
+  },
+  "digicert.com": {
+    "inter_audience": 20
+  },
+  "streamtheworld.com": {
+    "inter_audience": 0
+  },
+  "google.ca": {
+    "inter_audience": 12
+  },
+  "youtube-nocookie.com": {
+    "inter_audience": 0
+  },
+  "akamaistream.net": {
+    "inter_audience": 0
+  },
+  "app-measurement.com": {
+    "inter_audience": 0
+  },
+  "googletagmanager.com": {
+    "inter_audience": 0
+  },
+  "cbc.ca": {
+    "inter_audience": 0
+  },
+  "facebook.net": {
+    "inter_audience": 0
+  },
+  "googletagservices.com": {
+    "inter_audience": 0
+  },
+  "sharethis.com": {
+    "inter_audience": 75
+  },
+  "wikimedia.org": {
+    "inter_audience": 0
+  },
+  "gravatar.com": {
+    "inter_audience": 24
+  },
+  "pinterest.com": {
+    "inter_audience": 28
+  },
+  "cloudflare.com": {
+    "inter_audience": 34
+  },
+  "pinimg.com": {
+    "inter_audience": 28
+  },
+  "abcnews.com": {
+    "inter_audience": 93
+  },
+  "wattpad.com": {
+    "inter_audience": 10
+  },
+  "ebay.com": {
+    "inter_audience": 53
+  },
+  "dwin2.com": {
+    "inter_audience": 0
+  },
+  "akamaihd.net": {
+    "inter_audience": 34
+  },
+  "fastbroad.com": {
+    "inter_audience": 0
+  },
+  "publicradio.org": {
+    "inter_audience": 17
+  },
+  "amazon.com": {
+    "inter_audience": 8
+  },
+  "amazonvideo.com": {
+    "inter_audience": 0
+  },
+  "edgesuite.net": {
+    "inter_audience": 12
+  },
+  "duapps.com": {
+    "inter_audience": 4
+  },
+  "netflix.com": {
+    "inter_audience": 38
+  },
+  "androidtv.com": {
+    "inter_audience": 1
+  },
+  "crashlytics.com": {
+    "inter_audience": 12
+  },
+  "foldlife.net": {
+    "inter_audience": 0
+  },
+  "espn.com": {
+    "inter_audience": 0
+  },
+  "nvidiagrid.net": {
+    "inter_audience": 0
+  },
+  "espncdn.com": {
+    "inter_audience": 105
+  },
+  "nflxso.net": {
+    "inter_audience": 0
+  },
+  "estrongs.com": {
+    "inter_audience": 0
+  },
+  "ted.com": {
+    "inter_audience": 6
+  },
+  "adobe.com": {
+    "inter_audience": 10
+  },
+  "nvidia.com": {
+    "inter_audience": 20
+  },
+  "tegrazone.com": {
+    "inter_audience": 20
+  },
+  "p-cdn.us": {
+    "inter_audience": 0
+  },
+  "vudu.com": {
+    "inter_audience": 34
+  },
+  "amazonaws.com": {
+    "inter_audience": 0
+  },
+  "twitch.tv": {
+    "inter_audience": 16
+  },
+  "nflxext.com": {
+    "inter_audience": 0
+  },
+  "images-amazon.com": {
+    "inter_audience": 0
+  },
+  "mixpanel.com": {
+    "inter_audience": 42
+  },
+  "baidu.com": {
+    "inter_audience": 7
+  },
+  "jtvnw.net": {
+    "inter_audience": 0
+  },
+  "ioam.de": {
+    "inter_audience": 0
+  },
+  "media-amazon.com": {
+    "inter_audience": 18
+  },
+  "symantec.com": {
+    "inter_audience": 23
+  },
+  "kxcdn.com": {
+    "inter_audience": 2
+  },
+  "akamai.com": {
+    "inter_audience": 27
+  },
+  "azureedge.net": {
+    "inter_audience": 25
+  },
+  "cachefly.net": {
+    "inter_audience": 46
+  },
+  "ssl-images-amazon.com": {
+    "inter_audience": 25
+  },
+  "skycure.com": {
+    "inter_audience": 0
+  },
+  "amazon-adsystem.com": {
+    "inter_audience": 0
+  },
+  "wikipedia.org": {
+    "inter_audience": 0
+  },
+  "sony.tv": {
+    "inter_audience": 0
+  },
+  "sonyentertainmentnetwork.com": {
+    "inter_audience": 0
+  },
+  "ndmdhs.com": {
+    "inter_audience": 59
+  },
+  "playmemoriesonline.com": {
+    "inter_audience": 48
+  },
+  "flingo.tv": {
+    "inter_audience": 34
+  },
+  "sony.net": {
+    "inter_audience": 37
+  },
+  "vewd.com": {
+    "inter_audience": 79
+  },
+  "playstation.net": {
+    "inter_audience": 46
+  },
+  "opera.com": {
+    "inter_audience": 9
+  },
+  "facebook.com": {
+    "inter_audience": 7
+  },
+  "mtvnservices.com": {
+    "inter_audience": 0
+  },
+  "plex.tv": {
+    "inter_audience": 13
+  },
+  "hbo.com": {
+    "inter_audience": 0
+  },
+  "leanplum.com": {
+    "inter_audience": 35
+  },
+  "hbogo.com": {
+    "inter_audience": 0
+  },
+  "internetvideoarchive.net": {
+    "inter_audience": 0
+  },
+  "fbcdn.net": {
+    "inter_audience": 7
+  },
+  "apple.com": {
+    "inter_audience": 0
+  },
+  "twimg.com": {
+    "inter_audience": 0
+  },
+  "dropbox.com": {
+    "inter_audience": 17
+  },
+  "leaseweb.net": {
+    "inter_audience": 4
+  },
+  "wp.com": {
+    "inter_audience": 24
+  },
+  "google.de": {
+    "inter_audience": 12
+  },
+  "google.co.uk": {
+    "inter_audience": 12
+  },
+  "cqloud.com": {
+    "inter_audience": 0
+  },
+  "cast4.audio": {
+    "inter_audience": 0
+  },
+  "akamaitechnologies.com": {
+    "inter_audience": 0
+  },
+  "samsungqbe.com": {
+    "inter_audience": 0
+  },
+  "samsungcloudsolution.net": {
+    "inter_audience": 0
+  },
+  "samsungcloudsolution.com": {
+    "inter_audience": 0
+  },
+  "microsoft.com": {
+    "inter_audience": 6
+  },
+  "cdn-apple.com": {
+    "inter_audience": 9
+  },
+  "mzstatic.com": {
+    "inter_audience": 0
+  },
+  "samsungosp.com": {
+    "inter_audience": 0
+  },
+  "samsungiotcloud.com": {
+    "inter_audience": 13
+  },
+  "sbixby.com": {
+    "inter_audience": 0
+  },
+  "samsungads.com": {
+    "inter_audience": 5
+  },
+  "samsungcloud.com": {
+    "inter_audience": 0
+  },
+  "samsungcloud.tv": {
+    "inter_audience": 8
+  },
+  "ueiwsp.com": {
+    "inter_audience": 0
+  },
+  "samsungotn.net": {
+    "inter_audience": 0
+  },
+  "internetat.tv": {
+    "inter_audience": 0
+  },
+  "samsungcloudcdn.com": {
+    "inter_audience": 0
+  },
+  "fungames-forfree.com": {
+    "inter_audience": 47
+  },
+  "overwatchleague.com": {
+    "inter_audience": 39
+  },
+  "tivuon.tv": {
+    "inter_audience": 20
+  },
+  "amplifyapp.com": {
+    "inter_audience": 0
+  },
+  "avcdn.net": {
+    "inter_audience": 0
+  },
+  "go.com": {
+    "inter_audience": 85
+  },
+  "demdex.net": {
+    "inter_audience": 0
+  },
+  "ifunny.co": {
+    "inter_audience": 11
+  },
+  "macromedia.com": {
+    "inter_audience": 0
+  },
+  "firefox.com": {
+    "inter_audience": 4
+  },
+  "yahoo.com": {
+    "inter_audience": 11
+  },
+  "herokuapp.com": {
+    "inter_audience": 46
+  },
+  "reddit.com": {
+    "inter_audience": 17
+  },
+  "redd.it": {
+    "inter_audience": 0
+  },
+  "cddbp.net": {
+    "inter_audience": 32
+  },
+  "nflxvideo.net": {
+    "inter_audience": 38
+  },
+  "hulu.com": {
+    "inter_audience": 24
+  },
+  "aiv-cdn.net": {
+    "inter_audience": 0
+  },
+  "imrworldwide.com": {
+    "inter_audience": 0
+  },
+  "hulustream.com": {
+    "inter_audience": 0
+  },
+  "viacom.com": {
+    "inter_audience": 23
+  },
+  "mtvnimages.com": {
+    "inter_audience": 23
+  },
+  "newrelic.com": {
+    "inter_audience": 35
+  },
+  "omtrdc.net": {
+    "inter_audience": 0
+  },
+  "fwmrm.net": {
+    "inter_audience": 0
+  },
+  "nr-data.net": {
+    "inter_audience": 0
+  },
+  "youboranqs01.com": {
+    "inter_audience": 0
+  },
+  "withgoogle.com": {
+    "inter_audience": 12
+  },
+  "avast.com": {
+    "inter_audience": 33
+  },
+  "identrust.com": {
+    "inter_audience": 0
+  },
+  "aiv-delivery.net": {
+    "inter_audience": 0
+  },
+  "comodoca.com": {
+    "inter_audience": 556
+  },
+  "amazon.co.uk": {
+    "inter_audience": 12
+  },
+  "globalsign.com": {
+    "inter_audience": 132
+  },
+  "globalsign.net": {
+    "inter_audience": 132
+  },
+  "itv.com": {
+    "inter_audience": 19
+  },
+  "usertrust.com": {
+    "inter_audience": 0
+  },
+  "freeviewplay.net": {
+    "inter_audience": 0
+  },
+  "hismarttv.com": {
+    "inter_audience": 0
+  },
+  "digitaluk.co.uk": {
+    "inter_audience": 8
+  },
+  "bbctvapps.co.uk": {
+    "inter_audience": 0
+  },
+  "nel.goog": {
+    "inter_audience": 0
+  },
+  "channel4.com": {
+    "inter_audience": 13
+  },
+  "ss7.tv": {
+    "inter_audience": 0
+  },
+  "footprint.net": {
+    "inter_audience": 0
+  },
+  "quantcount.com": {
+    "inter_audience": 0
+  },
+  "cc.com": {
+    "inter_audience": 25
+  },
+  "nice264.com": {
+    "inter_audience": 1
+  },
+  "rokutime.com": {
+    "inter_audience": 0
+  },
+  "ravm.tv": {
+    "inter_audience": 0
+  },
+  "mgo-images.com": {
+    "inter_audience": 0
+  },
+  "mgo.com": {
+    "inter_audience": 0
+  },
+  "nflximg.com": {
+    "inter_audience": 0
+  },
+  "cookbooks.trade": {
+    "inter_audience": 0
+  },
+  "nflximg.net": {
+    "inter_audience": 0
+  },
+  "phncdn.com": {
+    "inter_audience": 0
+  },
+  "everesttech.net": {
+    "inter_audience": 0
+  },
+  "adobedtm.com": {
+    "inter_audience": 0
+  },
+  "twitter.com": {
+    "inter_audience": 11
+  },
+  "t.co": {
+    "inter_audience": 11
+  },
+  "ravenjs.com": {
+    "inter_audience": 0
+  },
+  "9c9media.ca": {
+    "inter_audience": 0
+  },
+  "9c9media.com": {
+    "inter_audience": 0
+  },
+  "getvideostream.com": {
+    "inter_audience": 3
+  },
+  "redbull.tv": {
+    "inter_audience": 0
+  },
+  "bellmedia.ca": {
+    "inter_audience": 0
+  },
+  "rbmbtnx.net": {
+    "inter_audience": 0
+  },
+  "ads-twitter.com": {
+    "inter_audience": 0
+  },
+  "ifcdn.com": {
+    "inter_audience": 0
+  },
+  "flathub.org": {
+    "inter_audience": 5
+  },
+  "insigniaproducts.com": {
+    "inter_audience": 0
+  },
+  "telephony.goog": {
+    "inter_audience": 0
+  },
+  "redbend.com": {
+    "inter_audience": 0
+  },
+  "windowsupdate.com": {
+    "inter_audience": 0
+  },
+  "plex.direct": {
+    "inter_audience": 0
+  },
+  "goo.gl": {
+    "inter_audience": 12
+  },
+  "primevideo.com": {
+    "inter_audience": 0
+  },
+  "amazon.de": {
+    "inter_audience": 12
+  },
+  "g.co": {
+    "inter_audience": 0
+  },
+  "amazon.co.jp": {
+    "inter_audience": 6
+  },
+  "disney-plus.net": {
+    "inter_audience": 0
+  },
+  "serving-sys.com": {
+    "inter_audience": 0
+  },
+  "sndcdn.com": {
+    "inter_audience": 32
+  },
+  "bugsnag.com": {
+    "inter_audience": 25
+  },
+  "survata.com": {
+    "inter_audience": 44
+  },
+  "izatcloud.net": {
+    "inter_audience": 10
+  },
+  "dssott.com": {
+    "inter_audience": 0
+  },
+  "sony-asia.com": {
+    "inter_audience": 6
+  },
+  "firebaseapp.com": {
+    "inter_audience": 12
+  },
+  "sony.com": {
+    "inter_audience": 9
+  },
+  "vido.info": {
+    "inter_audience": 0
+  },
+  "rapid7.com": {
+    "inter_audience": 19
+  },
+  "internet-census.org": {
+    "inter_audience": 12
+  },
+  "fcloud.biz": {
+    "inter_audience": 0
+  },
+  "mi.com": {
+    "inter_audience": 14
+  },
+  "xiaomi.com": {
+    "inter_audience": 14
+  },
+  "miui.com": {
+    "inter_audience": 0
+  },
+  "akadns.net": {
+    "inter_audience": 1
+  },
+  "icloud.com": {
+    "inter_audience": 0
+  },
+  "apple-dns.net": {
+    "inter_audience": 0
+  },
+  "aaplimg.com": {
+    "inter_audience": 0
+  },
+  "edgekey.net": {
+    "inter_audience": 0
+  },
+  "spot.im": {
+    "inter_audience": 22
+  },
+  "amazonalexa.com": {
+    "inter_audience": 0
+  },
+  "sbcglobal.net": {
+    "inter_audience": 0
+  },
+  "comcast.net": {
+    "inter_audience": 38
+  },
+  "amplitude.com": {
+    "inter_audience": 30
+  },
+  "extremereach.io": {
+    "inter_audience": 0
+  },
+  "cogocast.net": {
+    "inter_audience": 19
+  },
+  "adsrvr.org": {
+    "inter_audience": 22
+  },
+  "stickyadstv.com": {
+    "inter_audience": 0
+  },
+  "pippio.com": {
+    "inter_audience": 0
+  },
+  "crackle.com": {
+    "inter_audience": 0
+  },
+  "onesignal.com": {
+    "inter_audience": 10
+  },
+  "adsafeprotected.com": {
+    "inter_audience": 0
+  },
+  "taboola.com": {
+    "inter_audience": 7
+  },
+  "outbrain.com": {
+    "inter_audience": 29
+  },
+  "launchdarkly.com": {
+    "inter_audience": 250
+  },
+  "krxd.net": {
+    "inter_audience": 0
+  },
+  "mozilla.com": {
+    "inter_audience": 4
+  },
+  "bluekai.com": {
+    "inter_audience": 29
+  },
+  "bidr.io": {
+    "inter_audience": 0
+  },
+  "spotxchange.com": {
+    "inter_audience": 39
+  },
+  "rlcdn.com": {
+    "inter_audience": 0
+  },
+  "w55c.net": {
+    "inter_audience": 0
+  },
+  "advertising.com": {
+    "inter_audience": 1
+  },
+  "enphaseenergy.com": {
+    "inter_audience": 31
+  },
+  "amazonsilk.com": {
+    "inter_audience": 8
+  },
+  "adap.tv": {
+    "inter_audience": 0
+  },
+  "tidaltv.com": {
+    "inter_audience": 1
+  },
+  "3lift.com": {
+    "inter_audience": 0
+  },
+  "apxlv.com": {
+    "inter_audience": 0
+  },
+  "ft.lk": {
+    "inter_audience": 0
+  },
+  "homeserver.com": {
+    "inter_audience": 1
+  },
+  "cableone.net": {
+    "inter_audience": 5
+  },
+  "speedtestcustom.com": {
+    "inter_audience": 15
+  },
+  "ooklaserver.net": {
+    "inter_audience": 0
+  },
+  "leadpages.io": {
+    "inter_audience": 6
+  },
+  "ateam-ad.jp": {
+    "inter_audience": 0
+  },
+  "cityofblakely.net": {
+    "inter_audience": 0
+  },
+  "ua.com": {
+    "inter_audience": 0
+  },
+  "adobeprojectm.com": {
+    "inter_audience": 10
+  },
+  "cabospeed.com": {
+    "inter_audience": 0
+  },
+  "giphy.com": {
+    "inter_audience": 24
+  },
+  "troypoint.com": {
+    "inter_audience": 14
+  },
+  "pushbullet.com": {
+    "inter_audience": 3
+  },
+  "segment.io": {
+    "inter_audience": 35
+  },
+  "jwplayer.com": {
+    "inter_audience": 26
+  },
+  "accuweather.com": {
+    "inter_audience": 17
+  },
+  "segment.com": {
+    "inter_audience": 35
+  },
+  "nintendo.net": {
+    "inter_audience": 0
+  },
+  "thetvdb.com": {
+    "inter_audience": 39
+  },
+  "themoviedb.org": {
+    "inter_audience": 17
+  },
+  "tmdb.org": {
+    "inter_audience": 17
+  },
+  "bnc.lt": {
+    "inter_audience": 368
+  },
+  "yandex.ru": {
+    "inter_audience": 11
+  },
+  "rwth-aachen.de": {
+    "inter_audience": 4
+  },
+  "msftncsi.com": {
+    "inter_audience": 0
+  },
+  "france24.com": {
+    "inter_audience": 9
+  },
+  "garr.it": {
+    "inter_audience": 0
+  },
+  "molotov.tv": {
+    "inter_audience": 0
+  },
+  "kodi.tv": {
+    "inter_audience": 5
+  },
+  "dotsrc.org": {
+    "inter_audience": 0
+  },
+  "jnsmedia.fr": {
+    "inter_audience": 0
+  },
+  "canal-plus.com": {
+    "inter_audience": 0
+  },
+  "deezer.com": {
+    "inter_audience": 1
+  },
+  "fanart.tv": {
+    "inter_audience": 0
+  },
+  "wearetriple.com": {
+    "inter_audience": 0
+  },
+  "utwente.nl": {
+    "inter_audience": 3
+  },
+  "canalplus.pro": {
+    "inter_audience": 6
+  },
+  "gvt3.com": {
+    "inter_audience": 0
+  },
+  "hosteurope.de": {
+    "inter_audience": 33
+  },
+  "drmtoday.com": {
+    "inter_audience": 9
+  },
+  "innovid.com": {
+    "inter_audience": 380
+  },
+  "insightexpressai.com": {
+    "inter_audience": 0
+  },
+  "tvpixel.com": {
+    "inter_audience": 0
+  },
+  "appspot.com": {
+    "inter_audience": 12
+  },
+  "cbs.com": {
+    "inter_audience": 28
+  },
+  "turn.com": {
+    "inter_audience": 0
+  },
+  "nytimes.com": {
+    "inter_audience": 46
+  },
+  "ecobee.com": {
+    "inter_audience": 21
+  },
+  "researchnow.com": {
+    "inter_audience": 10
+  },
+  "atdmt.com": {
+    "inter_audience": 0
+  },
+  "agkn.com": {
+    "inter_audience": 0
+  },
+  "ispot.tv": {
+    "inter_audience": 10
+  },
+  "cbsig.net": {
+    "inter_audience": 0
+  },
+  "myvisualiq.net": {
+    "inter_audience": 0
+  },
+  "hrzn-nxt.com": {
+    "inter_audience": 0
+  },
+  "iotcplatform.com": {
+    "inter_audience": 0
+  },
+  "oui-0x00199d.com": {
+    "inter_audience": 0
+  },
+  "myqdevice.com": {
+    "inter_audience": 0
+  },
+  "cbsi.com": {
+    "inter_audience": 23
+  },
+  "vizio.com": {
+    "inter_audience": 20
+  },
+  "myskybell.com": {
+    "inter_audience": 0
+  },
+  "hkserverworks.com": {
+    "inter_audience": 0
+  },
+  "ftmcloud.com": {
+    "inter_audience": 0
+  },
+  "wink.com": {
+    "inter_audience": 23
+  },
+  "nyt.com": {
+    "inter_audience": 46
+  },
+  "pubnative.net": {
+    "inter_audience": 32
+  },
+  "syncbak.com": {
+    "inter_audience": 2
+  },
+  "findagrave.org": {
+    "inter_audience": 35
+  },
+  "tvinteractive.tv": {
+    "inter_audience": 0
+  },
+  "ancestry.com": {
+    "inter_audience": 38
+  },
+  "cbsstatic.com": {
+    "inter_audience": 0
+  },
+  "meethue.com": {
+    "inter_audience": 35
+  },
+  "media-imdb.com": {
+    "inter_audience": 0
+  },
+  "amazontrust.com": {
+    "inter_audience": 37
+  },
+  "waze.com": {
+    "inter_audience": 0
+  },
+  "imdb.com": {
+    "inter_audience": 4
+  },
+  "google.ch": {
+    "inter_audience": 12
+  },
+  "pub-tmaws.io": {
+    "inter_audience": 3
+  },
+  "opendns.com": {
+    "inter_audience": 34
+  },
+  "ss2.us": {
+    "inter_audience": 0
+  },
+  "telus.net": {
+    "inter_audience": 0
+  },
+  "rings.solutions": {
+    "inter_audience": 0
+  },
+  "ghostery.net": {
+    "inter_audience": 0
+  },
+  "seesaa.net": {
+    "inter_audience": 0
+  },
+  "synology.com": {
+    "inter_audience": 17
+  },
+  "consensu.org": {
+    "inter_audience": 0
+  },
+  "kiwireport.com": {
+    "inter_audience": 0
+  },
+  "jeremymarkel.com": {
+    "inter_audience": 0
+  },
+  "brain-sharper.com": {
+    "inter_audience": 10
+  },
+  "adtilt.com": {
+    "inter_audience": 0
+  },
+  "netflixdnstest7.com": {
+    "inter_audience": 0
+  },
+  "toppsapps.com": {
+    "inter_audience": 0
+  },
+  "googlezip.net": {
+    "inter_audience": 0
+  },
+  "adobecqms.net": {
+    "inter_audience": 0
+  },
+  "tryinvision.com": {
+    "inter_audience": 0
+  },
+  "vidora.com": {
+    "inter_audience": 50
+  },
+  "jobcase.com": {
+    "inter_audience": 17
+  },
+  "plexapp.com": {
+    "inter_audience": 13
+  },
+  "thehill.com": {
+    "inter_audience": 15
+  },
+  "thisamericanlife.org": {
+    "inter_audience": 19
+  },
+  "samplicio.us": {
+    "inter_audience": 23
+  },
+  "moatads.com": {
+    "inter_audience": 29
+  },
+  "uplynk.com": {
+    "inter_audience": 26
+  },
+  "fqtag.com": {
+    "inter_audience": 0
+  },
+  "voicefive.com": {
+    "inter_audience": 10
+  },
+  "pluto.tv": {
+    "inter_audience": 25
+  },
+  "discovery.com": {
+    "inter_audience": 35
+  },
+  "nintendo.com": {
+    "inter_audience": 3
+  },
+  "movetv.com": {
+    "inter_audience": 0
+  },
+  "trustarc.com": {
+    "inter_audience": 46
+  },
+  "tapad.com": {
+    "inter_audience": 9
+  },
+  "adgrx.com": {
+    "inter_audience": 0
+  },
+  "qbk1.com": {
+    "inter_audience": 0
+  },
+  "sling.com": {
+    "inter_audience": 15
+  },
+  "imtwjwoasak.com": {
+    "inter_audience": 0
+  },
+  "flashtalking.com": {
+    "inter_audience": 17
+  },
+  "bluecava.com": {
+    "inter_audience": 23
+  },
+  "mediaplex.com": {
+    "inter_audience": 5
+  },
+  "litix.io": {
+    "inter_audience": 0
+  },
+  "applvn.com": {
+    "inter_audience": 0
+  },
+  "noaa.gov": {
+    "inter_audience": 3
+  },
+  "quickconnect.to": {
+    "inter_audience": 1
+  },
+  "vonage.com": {
+    "inter_audience": 16
+  },
+  "daily-choices.com": {
+    "inter_audience": 7
+  },
+  "keywee.co": {
+    "inter_audience": 18
+  },
+  "powerreviews.com": {
+    "inter_audience": 50
+  },
+  "samsungacr.com": {
+    "inter_audience": 0
+  },
+  "cloudapp.net": {
+    "inter_audience": 0
+  },
+  "huluim.com": {
+    "inter_audience": 0
+  },
+  "test-app.link": {
+    "inter_audience": 368
+  },
+  "tapjoyads.com": {
+    "inter_audience": 0
+  },
+  "stackadapt.com": {
+    "inter_audience": 35
+  },
+  "kochava.com": {
+    "inter_audience": 35
+  },
+  "samsungnyc.com": {
+    "inter_audience": 0
+  },
+  "samsungelectronics.com": {
+    "inter_audience": 5
+  },
+  "smartthings.com": {
+    "inter_audience": 3
+  },
+  "mobileapptracking.com": {
+    "inter_audience": 0
+  },
+  "llnw.net": {
+    "inter_audience": 26
+  },
+  "netgear.com": {
+    "inter_audience": 33
+  },
+  "forter.com": {
+    "inter_audience": 1
+  },
+  "pbs.org": {
+    "inter_audience": 10
+  },
+  "hotspotproxy.live": {
+    "inter_audience": 0
+  },
+  "proxygo.club": {
+    "inter_audience": 0
+  },
+  "splashtop.com": {
+    "inter_audience": 28
+  },
+  "onyxmtp.online": {
+    "inter_audience": 0
+  },
+  "onlineman.top": {
+    "inter_audience": 0
+  },
+  "advg.vip": {
+    "inter_audience": 0
+  },
+  "hotspotproxy.co": {
+    "inter_audience": 8
+  },
+  "aibixby.com": {
+    "inter_audience": 0
+  },
+  "sesupdate.com": {
+    "inter_audience": 0
+  },
+  "tt2.live": {
+    "inter_audience": 0
+  },
+  "newslive2.xyz": {
+    "inter_audience": 0
+  },
+  "hotspotproxy.xyz": {
+    "inter_audience": 0
+  },
+  "yospace.com": {
+    "inter_audience": 3
+  },
+  "khoda.xyz": {
+    "inter_audience": 0
+  },
+  "brightspotcdn.com": {
+    "inter_audience": 22
+  },
+  "samsungdm.com": {
+    "inter_audience": 0
+  },
+  "hotspotproxy.tk": {
+    "inter_audience": 0
+  },
+  "mlbstatic.com": {
+    "inter_audience": 5
+  },
+  "phicdn.net": {
+    "inter_audience": 0
+  },
+  "mtprotoline.top": {
+    "inter_audience": 0
+  },
+  "jivosite.com": {
+    "inter_audience": 18
+  },
+  "tmz.com": {
+    "inter_audience": 39
+  },
+  "acrobat.com": {
+    "inter_audience": 25
+  },
+  "mopidy.com": {
+    "inter_audience": 8
+  },
+  "choopa.net": {
+    "inter_audience": 0
+  },
+  "xboxlive.com": {
+    "inter_audience": 1
+  },
+  "demonware.net": {
+    "inter_audience": 101
+  },
+  "atwola.com": {
+    "inter_audience": 3
+  },
+  "mweb.co.za": {
+    "inter_audience": 1
+  },
+  "live.com": {
+    "inter_audience": 228
+  },
+  "windows.com": {
+    "inter_audience": 6
+  },
+  "msftconnecttest.com": {
+    "inter_audience": 0
+  },
+  "bing.com": {
+    "inter_audience": 0
+  },
+  "windows.net": {
+    "inter_audience": 1
+  },
+  "s-microsoft.com": {
+    "inter_audience": 0
+  },
+  "xboxab.com": {
+    "inter_audience": 0
+  },
+  "mixer.com": {
+    "inter_audience": 0
+  },
+  "azure.com": {
+    "inter_audience": 1
+  },
+  "constant.com": {
+    "inter_audience": 41
+  },
+  "adtechus.com": {
+    "inter_audience": 1
+  },
+  "msn.com": {
+    "inter_audience": 4
+  },
+  "playfabapi.com": {
+    "inter_audience": 0
+  },
+  "vultr.com": {
+    "inter_audience": 1
+  },
+  "sl-reverse.com": {
+    "inter_audience": 9
+  },
+  "setaptr.net": {
+    "inter_audience": 0
+  },
+  "piriform.com": {
+    "inter_audience": 0
+  },
+  "secureserver.net": {
+    "inter_audience": 0
+  },
+  "psychz.net": {
+    "inter_audience": 0
+  },
+  "msocsp.com": {
+    "inter_audience": 0
+  },
+  "msauth.net": {
+    "inter_audience": 97
+  },
+  "msecnd.net": {
+    "inter_audience": 9
+  },
+  "seflow.it": {
+    "inter_audience": 0
+  },
+  "gearsofwar.net": {
+    "inter_audience": 0
+  },
+  "colocat.ru": {
+    "inter_audience": 0
+  },
+  "softhost.com.br": {
+    "inter_audience": 0
+  },
+  "sopitasdeportes.com": {
+    "inter_audience": 0
+  },
+  "gameservers.com": {
+    "inter_audience": 14
+  },
+  "reliableservers.com": {
+    "inter_audience": 1
+  },
+  "wiredns.net": {
+    "inter_audience": 0
+  },
+  "samsung-svoice.com": {
+    "inter_audience": 0
+  },
+  "directv.com": {
+    "inter_audience": 9
+  },
+  "belkin.com": {
+    "inter_audience": 24
+  },
+  "cdk.com": {
+    "inter_audience": 13
+  },
+  "exelator.com": {
+    "inter_audience": 0
+  },
+  "nielsencollections.com": {
+    "inter_audience": 0
+  },
+  "speedcurve.com": {
+    "inter_audience": 2
+  },
+  "alexametrics.com": {
+    "inter_audience": 0
+  },
+  "xcal.tv": {
+    "inter_audience": 8
+  },
+  "gm.com": {
+    "inter_audience": 10
+  },
+  "whitehouse.gov": {
+    "inter_audience": 5
+  },
+  "weather.gov": {
+    "inter_audience": 2
+  },
+  "nist.gov": {
+    "inter_audience": 1
+  },
+  "ford.com": {
+    "inter_audience": 47
+  },
+  "cloudinary.com": {
+    "inter_audience": 20
+  },
+  "sitescout.com": {
+    "inter_audience": 0
+  },
+  "dotomi.com": {
+    "inter_audience": 5
+  },
+  "cloudedic.net": {
+    "inter_audience": 9
+  },
+  "justinstalledpanel.com": {
+    "inter_audience": 0
+  },
+  "visualstudio.com": {
+    "inter_audience": 6
+  },
+  "aspnetcdn.com": {
+    "inter_audience": 0
+  },
+  "iasds01.com": {
+    "inter_audience": 0
+  },
+  "shopify.com": {
+    "inter_audience": 19
+  },
+  "samsunghrm.com": {
+    "inter_audience": 0
+  },
+  "tizenstore.com": {
+    "inter_audience": 0
+  },
+  "owneriq.net": {
+    "inter_audience": 3
+  },
+  "stripe.com": {
+    "inter_audience": 38
+  },
+  "cspserver.net": {
+    "inter_audience": 1
+  },
+  "cdn-net.com": {
+    "inter_audience": 0
+  },
+  "whisk.com": {
+    "inter_audience": 11
+  },
+  "districtm.io": {
+    "inter_audience": 0
+  },
+  "qualaroo.com": {
+    "inter_audience": 14
+  },
+  "kaltura.com": {
+    "inter_audience": 24
+  },
+  "vcdn.biz": {
+    "inter_audience": 4
+  },
+  "cetin.cz": {
+    "inter_audience": 3
+  },
+  "cetin.rs": {
+    "inter_audience": 0
+  },
+  "turner.com": {
+    "inter_audience": 12
+  },
+  "disneyplus.com": {
+    "inter_audience": 85
+  },
+  "ogury.io": {
+    "inter_audience": 13
+  },
+  "vvond.net": {
+    "inter_audience": 0
+  },
+  "numericable.fr": {
+    "inter_audience": 1
+  },
+  "oceanwp.org": {
+    "inter_audience": 0
+  },
+  "lgblog.fr": {
+    "inter_audience": 0
+  },
+  "slack-imgs.com": {
+    "inter_audience": 0
+  },
+  "dlvr1.net": {
+    "inter_audience": 0
+  },
+  "extremereach.com": {
+    "inter_audience": 18
+  },
+  "firebaseio.com": {
+    "inter_audience": 13
+  },
+  "screencloudapp.com": {
+    "inter_audience": 0
+  },
+  "screen.cloud": {
+    "inter_audience": 19
+  },
+  "qualtrics.com": {
+    "inter_audience": 21
+  },
+  "glpals.com": {
+    "inter_audience": 0
+  },
+  "cornell.edu": {
+    "inter_audience": 0
+  },
+  "hypemarks.com": {
+    "inter_audience": 0
+  },
+  "uchicago.edu": {
+    "inter_audience": 4
+  },
+  "mit.edu": {
+    "inter_audience": 4
+  },
+  "totalplay.net": {
+    "inter_audience": 0
+  },
+  "ubi.com": {
+    "inter_audience": 18
+  },
+  "megared.net.mx": {
+    "inter_audience": 0
+  },
+  "ubisoft.com": {
+    "inter_audience": 18
+  },
+  "myvzw.com": {
+    "inter_audience": 0
+  },
+  "vivox.com": {
+    "inter_audience": 2
+  },
+  "rapidssl.com": {
+    "inter_audience": 20
+  },
+  "trustwave.com": {
+    "inter_audience": 34
+  },
+  "envisacor.com": {
+    "inter_audience": 0
+  },
+  "hdslb.com": {
+    "inter_audience": 0
+  },
+  "cdngslb.com": {
+    "inter_audience": 0
+  },
+  "tubitv.com": {
+    "inter_audience": 55
+  },
+  "coinbase.com": {
+    "inter_audience": 2
+  },
+  "bwbx.io": {
+    "inter_audience": 9
+  },
+  "epicgames.com": {
+    "inter_audience": 29
+  },
+  "hotjar.com": {
+    "inter_audience": 20
+  },
+  "todoist.com": {
+    "inter_audience": 9
+  },
+  "newscgp.com": {
+    "inter_audience": 0
+  },
+  "stitcher.com": {
+    "inter_audience": 38
+  },
+  "amazon.dev": {
+    "inter_audience": 0
+  },
+  "rudderlabs.com": {
+    "inter_audience": 59
+  },
+  "qustodio.com": {
+    "inter_audience": 3
+  },
+  "smaato.net": {
+    "inter_audience": 0
+  },
+  "apl-alexa.com": {
+    "inter_audience": 0
+  },
+  "dynu.com": {
+    "inter_audience": 0
+  },
+  "discord.gg": {
+    "inter_audience": 27
+  },
+  "mtpfast.pw": {
+    "inter_audience": 11
+  },
+  "rumafia.com": {
+    "inter_audience": 11
+  },
+  "flexihostings.net": {
+    "inter_audience": 0
+  },
+  "giserver.info": {
+    "inter_audience": 0
+  },
+  "redstation.co.uk": {
+    "inter_audience": 2
+  },
+  "philips.com": {
+    "inter_audience": 19
+  },
+  "darksky.net": {
+    "inter_audience": 25
+  },
+  "pypi.org": {
+    "inter_audience": 0
+  },
+  "yalehomesystem.co.uk": {
+    "inter_audience": 0
+  },
+  "hotjar.io": {
+    "inter_audience": 0
+  },
+  "smartclip.net": {
+    "inter_audience": 0
+  },
+  "ard.de": {
+    "inter_audience": 0
+  },
+  "theadex.com": {
+    "inter_audience": 19
+  },
+  "redcdn.pl": {
+    "inter_audience": 12
+  },
+  "redbutton.de": {
+    "inter_audience": 0
+  },
+  "rtl-hbbtv.de": {
+    "inter_audience": 0
+  },
+  "rtl2.de": {
+    "inter_audience": 0
+  },
+  "arte.tv": {
+    "inter_audience": 8
+  },
+  "tvping.com": {
+    "inter_audience": 0
+  },
+  "kpn.com": {
+    "inter_audience": 0
+  },
+  "rtl2apps.de": {
+    "inter_audience": 8
+  },
+  "free.fr": {
+    "inter_audience": 0
+  },
+  "fbx-mgt.fr": {
+    "inter_audience": 0
+  },
+  "ifood.tv": {
+    "inter_audience": 28
+  },
+  "superawesome.tv": {
+    "inter_audience": 1
+  },
+  "roblox.com": {
+    "inter_audience": 72
+  },
+  "unrealengine.com": {
+    "inter_audience": 29
+  },
+  "ampme.com": {
+    "inter_audience": 16
+  },
+  "xplornet.com": {
+    "inter_audience": 1
+  },
+  "xbox.com": {
+    "inter_audience": 1
+  },
+  "onestore.ms": {
+    "inter_audience": 0
+  },
+  "battle.net": {
+    "inter_audience": 38
+  },
+  "forzamotorsport.net": {
+    "inter_audience": 232
+  },
+  "trust-provider.com": {
+    "inter_audience": 0
+  },
+  "eidos.com": {
+    "inter_audience": 45
+  },
+  "xbcs.net": {
+    "inter_audience": 0
+  },
+  "okta.com": {
+    "inter_audience": 37
+  },
+  "auditude.com": {
+    "inter_audience": 0
+  },
+  "eum-appdynamics.com": {
+    "inter_audience": 0
+  },
+  "outturner.com": {
+    "inter_audience": 0
+  },
+  "dailyburn.com": {
+    "inter_audience": 59
+  },
+  "cbsistatic.com": {
+    "inter_audience": 5
+  },
+  "aol.com": {
+    "inter_audience": 11
+  },
+  "scene7.com": {
+    "inter_audience": 29
+  },
+  "revjet.com": {
+    "inter_audience": 22
+  },
+  "digitru.st": {
+    "inter_audience": 11
+  },
+  "betrad.com": {
+    "inter_audience": 16
+  },
+  "bttrack.com": {
+    "inter_audience": 0
+  },
+  "mfadsrvr.com": {
+    "inter_audience": 1
+  },
+  "ys7.com": {
+    "inter_audience": 0
+  },
+  "kimsufi.com": {
+    "inter_audience": 3
+  },
+  "emule.org.cn": {
+    "inter_audience": 0
+  },
+  "211.in-addr.arpa": {
+    "inter_audience": 0
+  },
+  "level3.net": {
+    "inter_audience": 82
+  },
+  "psmanaged.com": {
+    "inter_audience": 3
+  },
+  "myabell.net": {
+    "inter_audience": 26
+  },
+  "ita.co": {
+    "inter_audience": 0
+  },
+  "telecomputing.se": {
+    "inter_audience": 0
+  },
+  "neatocloud.com": {
+    "inter_audience": 0
+  },
+  "airthin.gs": {
+    "inter_audience": 0
+  },
+  "forsakringskassan.se": {
+    "inter_audience": 148
+  },
+  "hayabusa.io": {
+    "inter_audience": 0
+  },
+  "ameba.jp": {
+    "inter_audience": 0
+  },
+  "rai.it": {
+    "inter_audience": 0
+  },
+  "raiplay.it": {
+    "inter_audience": 0
+  },
+  "repubblica.it": {
+    "inter_audience": 0
+  },
+  "awemwh.com": {
+    "inter_audience": 0
+  },
+  "doublepimp.com": {
+    "inter_audience": 24
+  },
+  "cdn13.com": {
+    "inter_audience": 0
+  },
+  "tnastatic.com": {
+    "inter_audience": 0
+  },
+  "ahcdn.com": {
+    "inter_audience": 1
+  },
+  "tsyndicate.com": {
+    "inter_audience": 0
+  },
+  "efohk.com": {
+    "inter_audience": 0
+  },
+  "zog.link": {
+    "inter_audience": 0
+  },
+  "woxcdn.com": {
+    "inter_audience": 0
+  },
+  "ipecho.net": {
+    "inter_audience": 0
+  },
+  "traffic-media.co.uk": {
+    "inter_audience": 0
+  },
+  "xhcdn.com": {
+    "inter_audience": 0
+  },
+  "chaturbate.com": {
+    "inter_audience": 5
+  },
+  "tnaflix.com": {
+    "inter_audience": 0
+  },
+  "cetusplay.com": {
+    "inter_audience": 0
+  },
+  "hclips.com": {
+    "inter_audience": 6
+  },
+  "xhamster.com": {
+    "inter_audience": 17
+  },
+  "drtuber.com": {
+    "inter_audience": 3
+  },
+  "gliptv.com": {
+    "inter_audience": 0
+  },
+  "e2ma.net": {
+    "inter_audience": 19
+  },
+  "datapacket.com": {
+    "inter_audience": 5
+  },
+  "skybroadband.com": {
+    "inter_audience": 0
+  },
+  "respawn.com": {
+    "inter_audience": 45
+  },
+  "rbxcdn.com": {
+    "inter_audience": 0
+  },
+  "mlinks.cc": {
+    "inter_audience": 0
+  },
+  "pornhub.com": {
+    "inter_audience": 15
+  },
+  "trafficjunky.net": {
+    "inter_audience": 7
+  },
+  "contentabc.com": {
+    "inter_audience": 7
+  },
+  "etahub.com": {
+    "inter_audience": 0
+  },
+  "telefonica.com": {
+    "inter_audience": 0
+  },
+  "wuaki.tv": {
+    "inter_audience": 0
+  },
+  "telefonica.net": {
+    "inter_audience": 2
+  },
+  "lovestv.es": {
+    "inter_audience": 0
+  },
+  "hpeprint.com": {
+    "inter_audience": 0
+  },
+  "atp.fox": {
+    "inter_audience": 0
+  },
+  "ubuntu.com": {
+    "inter_audience": 4
+  },
+  "keepa.com": {
+    "inter_audience": 0
+  },
+  "teamviewer.com": {
+    "inter_audience": 140
+  },
+  "adgear.com": {
+    "inter_audience": 8
+  },
+  "marantz.info": {
+    "inter_audience": 0
+  },
+  "bouncex.net": {
+    "inter_audience": 0
+  },
+  "canalplus-cdn.net": {
+    "inter_audience": 0
+  },
+  "canalplus-bo.net": {
+    "inter_audience": 0
+  },
+  "oath.cloud": {
+    "inter_audience": 0
+  },
+  "bounceexchange.com": {
+    "inter_audience": 33
+  },
+  "basis.net": {
+    "inter_audience": 35
+  },
+  "vindicosuite.com": {
+    "inter_audience": 0
+  },
+  "wbtrk.net": {
+    "inter_audience": 0
+  },
+  "wcfbc.net": {
+    "inter_audience": 0
+  },
+  "sport1.de": {
+    "inter_audience": 0
+  },
+  "superrtl.de": {
+    "inter_audience": 0
+  },
+  "vox.de": {
+    "inter_audience": 0
+  },
+  "myhomescreen.tv": {
+    "inter_audience": 0
+  },
+  "rtl.de": {
+    "inter_audience": 1
+  },
+  "redbull.com": {
+    "inter_audience": 0
+  },
+  "vdspf.com": {
+    "inter_audience": 0
+  },
+  "eurosport.com": {
+    "inter_audience": 0
+  },
+  "tvapp-server.de": {
+    "inter_audience": 0
+  },
+  "dof6.com": {
+    "inter_audience": 0
+  },
+  "videoplaza.tv": {
+    "inter_audience": 0
+  },
+  "kartina.tv": {
+    "inter_audience": 6
+  },
+  "rakuten.tv": {
+    "inter_audience": 0
+  },
+  "moatpixel.com": {
+    "inter_audience": 0
+  },
+  "gravityrd-services.com": {
+    "inter_audience": 0
+  },
+  "samsungyosemite.com": {
+    "inter_audience": 0
+  },
+  "eyereturn.com": {
+    "inter_audience": 0
+  },
+  "bestbuy.com": {
+    "inter_audience": 20
+  },
+  "mediaiqdigital.com": {
+    "inter_audience": 0
+  },
+  "comcastbusiness.net": {
+    "inter_audience": 38
+  },
+  "myzmodo.com": {
+    "inter_audience": 0
+  },
+  "tencent.com": {
+    "inter_audience": 0
+  },
+  "videohub.tv": {
+    "inter_audience": 63
+  },
+  "livesegmentservice.com": {
+    "inter_audience": 0
+  },
+  "pndsn.com": {
+    "inter_audience": 0
+  },
+  "b2c.com": {
+    "inter_audience": 0
+  },
+  "chartbeat.com": {
+    "inter_audience": 40
+  },
+  "giraffic.net": {
+    "inter_audience": 11
+  },
+  "telldus.com": {
+    "inter_audience": 5
+  },
+  "oath.com": {
+    "inter_audience": 1
+  },
+  "supersonic.com": {
+    "inter_audience": 16
+  },
+  "streamrail.net": {
+    "inter_audience": 0
+  },
+  "brealtime.com": {
+    "inter_audience": 35
+  },
+  "emxdgt.com": {
+    "inter_audience": 0
+  },
+  "mdhv.io": {
+    "inter_audience": 0
+  },
+  "springserve.com": {
+    "inter_audience": 6
+  },
+  "clrstm.com": {
+    "inter_audience": 0
+  },
+  "jamloop.com": {
+    "inter_audience": 5
+  },
+  "totsuko.tv": {
+    "inter_audience": 0
+  },
+  "asus.com": {
+    "inter_audience": 1
+  },
+  "a3cloud.net": {
+    "inter_audience": 0
+  },
+  "debian.org": {
+    "inter_audience": 0
+  },
+  "testmynids.org": {
+    "inter_audience": 0
+  },
+  "uoc.edu": {
+    "inter_audience": 2
+  },
+  "adnexus.net": {
+    "inter_audience": 0
+  },
+  "fano.io": {
+    "inter_audience": 0
+  },
+  "adobeoobe.com": {
+    "inter_audience": 0
+  },
+  "pillpack.com": {
+    "inter_audience": 11
+  },
+  "xiti.com": {
+    "inter_audience": 0
+  },
+  "narvii.com": {
+    "inter_audience": 16
+  },
+  "cloudfunctions.net": {
+    "inter_audience": 7
+  },
+  "drugfree.org": {
+    "inter_audience": 6
+  },
+  "cheddar.com": {
+    "inter_audience": 61
+  },
+  "maxdome.de": {
+    "inter_audience": 0
+  },
+  "vilynx.com": {
+    "inter_audience": 0
+  },
+  "infinitytv.it": {
+    "inter_audience": 0
+  },
+  "kik.com": {
+    "inter_audience": 50
+  },
+  "cmds-tachyon.com": {
+    "inter_audience": 0
+  },
+  "dropboxcaptcha.com": {
+    "inter_audience": 0
+  },
+  "giq-viz-img-amazon.com": {
+    "inter_audience": 0
+  },
+  "ihomeaudio.com": {
+    "inter_audience": 4
+  },
+  "media-allrecipes.com": {
+    "inter_audience": 0
+  },
+  "247-inc.net": {
+    "inter_audience": 0
+  },
+  "tlnk.io": {
+    "inter_audience": 0
+  },
+  "appflood.com": {
+    "inter_audience": 0
+  },
+  "hostanalytics.com": {
+    "inter_audience": 33
+  },
+  "sailinglabapps.com": {
+    "inter_audience": 0
+  },
+  "apusapps.com": {
+    "inter_audience": 71
+  },
+  "solitairesummer.com": {
+    "inter_audience": 0
+  },
+  "cardgamefreecell.com": {
+    "inter_audience": 0
+  },
+  "contentdirect.tv": {
+    "inter_audience": 0
+  },
+  "disneyinternational.com": {
+    "inter_audience": 1
+  },
+  "tbs.com": {
+    "inter_audience": 13
+  },
+  "tntdrama.com": {
+    "inter_audience": 13
+  },
+  "showms.com": {
+    "inter_audience": 0
+  },
+  "celtra.com": {
+    "inter_audience": 24
+  },
+  "dynu.net": {
+    "inter_audience": 0
+  },
+  "epicstream.com": {
+    "inter_audience": 5
+  },
+  "bose.com": {
+    "inter_audience": 17
+  },
+  "auth0.com": {
+    "inter_audience": 37
+  },
+  "flarecloud.net": {
+    "inter_audience": 0
+  },
+  "majorleaguegaming.com": {
+    "inter_audience": 38
+  },
+  "invokedapps.com": {
+    "inter_audience": 4
+  },
+  "fos5echocaptiveportal.com": {
+    "inter_audience": 0
+  },
+  "bamcontent.com": {
+    "inter_audience": 33
+  },
+  "btcentralplus.com": {
+    "inter_audience": 0
+  },
+  "sharp-stream.com": {
+    "inter_audience": 2
+  },
+  "tvaddons.co": {
+    "inter_audience": 0
+  },
+  "nickjr.com": {
+    "inter_audience": 5
+  },
+  "nick.com": {
+    "inter_audience": 0
+  },
+  "mediatek.com": {
+    "inter_audience": 14
+  },
+  "toasttab.com": {
+    "inter_audience": 70
+  },
+  "smartstudy.co.kr": {
+    "inter_audience": 0
+  },
+  "appcoachs.com": {
+    "inter_audience": 0
+  },
+  "afterpay.com": {
+    "inter_audience": 21
+  },
+  "technolutions.net": {
+    "inter_audience": 0
+  },
+  "mailchimp.com": {
+    "inter_audience": 68
+  },
+  "nhlstatic.com": {
+    "inter_audience": 0
+  },
+  "lda.xyz": {
+    "inter_audience": 0
+  },
+  "met.no": {
+    "inter_audience": 3
+  },
+  "rainmachine.com": {
+    "inter_audience": 28
+  },
+  "google.sk": {
+    "inter_audience": 12
+  },
+  "ceskatelevize.cz": {
+    "inter_audience": 0
+  },
+  "123freecell.com": {
+    "inter_audience": 0
+  },
+  "purch.com": {
+    "inter_audience": 50
+  },
+  "zopim.com": {
+    "inter_audience": 43
+  },
+  "servebom.com": {
+    "inter_audience": 0
+  },
+  "viber.com": {
+    "inter_audience": 17
+  },
+  "chartboost.com": {
+    "inter_audience": 14
+  },
+  "apigee.net": {
+    "inter_audience": 0
+  },
+  "dashlane.com": {
+    "inter_audience": 5
+  },
+  "isprog.com": {
+    "inter_audience": 0
+  },
+  "binance.us": {
+    "inter_audience": 8
+  },
+  "tuyaeu.com": {
+    "inter_audience": 6
+  },
+  "total-stream.net": {
+    "inter_audience": 14
+  },
+  "totalstream.net": {
+    "inter_audience": 14
+  },
+  "jemtv.com": {
+    "inter_audience": 0
+  },
+  "audioscrobbler.com": {
+    "inter_audience": 1
+  },
+  "tidalhifi.com": {
+    "inter_audience": 0
+  },
+  "raumfeld.com": {
+    "inter_audience": 0
+  },
+  "voip.ms": {
+    "inter_audience": 0
+  },
+  "tabletcaptiveportal.com": {
+    "inter_audience": 0
+  },
+  "wurl.com": {
+    "inter_audience": 45
+  },
+  "icfcdn.com": {
+    "inter_audience": 0
+  },
+  "amagi.tv": {
+    "inter_audience": 17
+  },
+  "livetelegram.cc": {
+    "inter_audience": 0
+  },
+  "shoptv.com": {
+    "inter_audience": 0
+  },
+  "dedicatedpanel.com": {
+    "inter_audience": 6
+  },
+  "wyzecam.com": {
+    "inter_audience": 22
+  },
+  "cosmthome.com": {
+    "inter_audience": 0
+  },
+  "ip-192-99-101.net": {
+    "inter_audience": 5
+  },
+  "philips-hue.com": {
+    "inter_audience": 35
+  },
+  "signify.com": {
+    "inter_audience": 20
+  },
+  "huedatastore.com": {
+    "inter_audience": 0
+  },
+  "lutron.io": {
+    "inter_audience": 0
+  },
+  "sounds.com": {
+    "inter_audience": 19
+  },
+  "ip-147-135-36.us": {
+    "inter_audience": 0
+  },
+  "ip-158-69-252.net": {
+    "inter_audience": 0
+  },
+  "curiositystream.com": {
+    "inter_audience": 15
+  },
+  "dtvbb.tv": {
+    "inter_audience": 0
+  },
+  "symcb.com": {
+    "inter_audience": 0
+  },
+  "web-hosting.com": {
+    "inter_audience": 4
+  },
+  "agedbuddha.com": {
+    "inter_audience": 0
+  },
+  "epson.net": {
+    "inter_audience": 12
+  },
+  "netcabo.pt": {
+    "inter_audience": 1
+  },
+  "telepac.pt": {
+    "inter_audience": 0
+  },
+  "gaikai.com": {
+    "inter_audience": 0
+  },
+  "ip-192-99-7.net": {
+    "inter_audience": 5
+  },
+  "swedish-academy.org": {
+    "inter_audience": 0
+  },
+  "plum.wine": {
+    "inter_audience": 7
+  },
+  "xively.com": {
+    "inter_audience": 12
+  },
+  "me.com": {
+    "inter_audience": 0
+  },
+  "88-f.net": {
+    "inter_audience": 0
+  },
+  "tynt.com": {
+    "inter_audience": 6
+  },
+  "lego.com": {
+    "inter_audience": 72
+  },
+  "gameloft.com": {
+    "inter_audience": 19
+  },
+  "nabu.casa": {
+    "inter_audience": 0
+  },
+  "nabucasa.com": {
+    "inter_audience": 1
+  },
+  "usgs.gov": {
+    "inter_audience": 3
+  },
+  "teslamotors.com": {
+    "inter_audience": 0
+  },
+  "airbnb.com": {
+    "inter_audience": 1
+  },
+  "ip-192-99-36.net": {
+    "inter_audience": 5
+  },
+  "nova.cz": {
+    "inter_audience": 0
+  },
+  "cra.cz": {
+    "inter_audience": 0
+  },
+  "beinconnect.es": {
+    "inter_audience": 0
+  },
+  "ocsp-certum.com": {
+    "inter_audience": 0
+  },
+  "telstra.com.au": {
+    "inter_audience": 4
+  },
+  "macromill.com": {
+    "inter_audience": 0
+  },
+  "216.in-addr.arpa": {
+    "inter_audience": 0
+  },
+  "embarqhsd.net": {
+    "inter_audience": 0
+  },
+  "comodoca4.com": {
+    "inter_audience": 0
+  },
+  "sunbloommarketing.com": {
+    "inter_audience": 0
+  },
+  "homeassurednow.com": {
+    "inter_audience": 0
+  },
+  "ip-192-99-160.net": {
+    "inter_audience": 5
+  },
+  "dishtech.us": {
+    "inter_audience": 0
+  },
+  "panasonic.com": {
+    "inter_audience": 15
+  },
+  "defensia.co.il": {
+    "inter_audience": 0
+  },
+  "ip-192-99-14.net": {
+    "inter_audience": 5
+  },
+  "clipperoint.com": {
+    "inter_audience": 0
+  },
+  "ea.com": {
+    "inter_audience": 44
+  },
+  "easports.com": {
+    "inter_audience": 44
+  },
+  "histats.com": {
+    "inter_audience": 0
+  },
+  "bilsyndication.com": {
+    "inter_audience": 0
+  },
+  "softether.net": {
+    "inter_audience": 14
+  },
+  "ip-192-99-15.net": {
+    "inter_audience": 5
+  },
+  "freedocast.com": {
+    "inter_audience": 0
+  },
+  "solitairetime.com": {
+    "inter_audience": 0
+  },
+  "tutk.com": {
+    "inter_audience": 2
+  },
+  "ip-192-99-4.net": {
+    "inter_audience": 5
+  },
+  "wowrack.com": {
+    "inter_audience": 4
+  },
+  "lkqd.net": {
+    "inter_audience": 52
+  },
+  "bitdefender.net": {
+    "inter_audience": 4
+  },
+  "meetrics.net": {
+    "inter_audience": 0
+  },
+  "c4assets.com": {
+    "inter_audience": 0
+  },
+  "plumenet.io": {
+    "inter_audience": 0
+  },
+  "cox.net": {
+    "inter_audience": 87
+  },
+  "beam.pro": {
+    "inter_audience": 0
+  },
+  "agchost.xyz": {
+    "inter_audience": 0
+  },
+  "bttn.io": {
+    "inter_audience": 0
+  },
+  "c-ij.com": {
+    "inter_audience": 4
+  },
+  "c-wss.com": {
+    "inter_audience": 33
+  },
+  "metrological.com": {
+    "inter_audience": 17
+  },
+  "kpn.net": {
+    "inter_audience": 0
+  },
+  "itvonline.nl": {
+    "inter_audience": 0
+  },
+  "maigreatjob.com": {
+    "inter_audience": 0
+  },
+  "samsungcloudprint.com": {
+    "inter_audience": 0
+  },
+  "weekendpartycancel5.com": {
+    "inter_audience": 0
+  },
+  "woccc.xyz": {
+    "inter_audience": 0
+  },
+  "websolspk.com": {
+    "inter_audience": 0
+  },
+  "extend.tv": {
+    "inter_audience": 0
+  },
+  "epsonconnect.com": {
+    "inter_audience": 0
+  },
+  "ipip.net": {
+    "inter_audience": 0
+  },
+  "censys.io": {
+    "inter_audience": 5
+  },
+  "ip-192-99-8.net": {
+    "inter_audience": 5
+  },
+  "hp10.us": {
+    "inter_audience": 0
+  },
+  "google.com.sg": {
+    "inter_audience": 12
+  },
+  "weatherly.cloud": {
+    "inter_audience": 0
+  },
+  "dathost.net": {
+    "inter_audience": 0
+  },
+  "skydvn.com": {
+    "inter_audience": 0
+  },
+  "ra3ncmyg1p.com": {
+    "inter_audience": 0
+  },
+  "chokies.site": {
+    "inter_audience": 0
+  },
+  "plesk.page": {
+    "inter_audience": 0
+  },
+  "socialgazette.com": {
+    "inter_audience": 0
+  },
+  "aka.ms": {
+    "inter_audience": 228
+  },
+  "redbeemedia.com": {
+    "inter_audience": 54
+  },
+  "watchmi.tv": {
+    "inter_audience": 0
+  },
+  "chili.com": {
+    "inter_audience": 5
+  },
+  "mediaset.it": {
+    "inter_audience": 0
+  },
+  "mediaset.net": {
+    "inter_audience": 0
+  },
+  "timvision.it": {
+    "inter_audience": 1
+  },
+  "beachbodyondemand.com": {
+    "inter_audience": 45
+  },
+  "o5o4o6.com": {
+    "inter_audience": 0
+  },
+  "arqiva.tv": {
+    "inter_audience": 0
+  },
+  "yuppcdn.net": {
+    "inter_audience": 0
+  },
+  "cpxstoreimages.com": {
+    "inter_audience": 0
+  },
+  "lolking.net": {
+    "inter_audience": 16
+  },
+  "awsapps.com": {
+    "inter_audience": 0
+  },
+  "sky.de": {
+    "inter_audience": 0
+  },
+  "sfanytime.com": {
+    "inter_audience": 0
+  },
+  "netdna-cdn.com": {
+    "inter_audience": 0
+  },
+  "apptentive.com": {
+    "inter_audience": 4
+  },
+  "bottlerocketservices.com": {
+    "inter_audience": 3
+  },
+  "geotrust.com": {
+    "inter_audience": 20
+  },
+  "viaplay.fi": {
+    "inter_audience": 9
+  },
+  "presage.io": {
+    "inter_audience": 0
+  },
+  "datadome.co": {
+    "inter_audience": 0
+  },
+  "ladsp.com": {
+    "inter_audience": 0
+  },
+  "myacc.net": {
+    "inter_audience": 0
+  },
+  "justin.tv": {
+    "inter_audience": 0
+  },
+  "vpopfan.tk": {
+    "inter_audience": 0
+  },
+  "netatmo.net": {
+    "inter_audience": 0
+  },
+  "netatmo.com": {
+    "inter_audience": 21
+  },
+  "nemslinux.com": {
+    "inter_audience": 0
+  },
+  "snapcraft.io": {
+    "inter_audience": 4
+  },
+  "coder.com": {
+    "inter_audience": 14
+  },
+  "vesync.com": {
+    "inter_audience": 17
+  },
+  "telekom.hu": {
+    "inter_audience": 5
+  },
+  "cardgamesolitaire.com": {
+    "inter_audience": 0
+  },
+  "logitech.com": {
+    "inter_audience": 43
+  },
+  "name-servers.ch": {
+    "inter_audience": 0
+  },
+  "mngrprx.sbs": {
+    "inter_audience": 0
+  },
+  "allrecipes.com": {
+    "inter_audience": 35
+  },
+  "pscdn.co": {
+    "inter_audience": 0
+  },
+  "freshcaller.com": {
+    "inter_audience": 40
+  },
+  "servebeer.com": {
+    "inter_audience": 12
+  },
+  "thundernews.com": {
+    "inter_audience": 0
+  },
+  "eweka.nl": {
+    "inter_audience": 4
+  },
+  "mycingular.net": {
+    "inter_audience": 0
+  },
+  "n-tv.de": {
+    "inter_audience": 0
+  },
+  "virtualearth.net": {
+    "inter_audience": 228
+  },
+  "a-msedge.net": {
+    "inter_audience": 0
+  },
+  "idevicesinc.com": {
+    "inter_audience": 14
+  },
+  "criteo.net": {
+    "inter_audience": 15
+  },
+  "teliacarrier.com": {
+    "inter_audience": 116
+  },
+  "foxnews.com": {
+    "inter_audience": 68
+  },
+  "fncstatic.com": {
+    "inter_audience": 68
+  },
+  "fanduel.com": {
+    "inter_audience": 0
+  },
+  "alienvault.com": {
+    "inter_audience": 6
+  },
+  "trutri.org": {
+    "inter_audience": 0
+  },
+  "vrv.co": {
+    "inter_audience": 12
+  },
+  "rkdms.com": {
+    "inter_audience": 0
+  },
+  "spotxcdn.com": {
+    "inter_audience": 0
+  },
+  "smithsoniandigital.com": {
+    "inter_audience": 0
+  },
+  "sophosupd.net": {
+    "inter_audience": 0
+  },
+  "diyadvice.com": {
+    "inter_audience": 35
+  },
+  "lgthinq.com": {
+    "inter_audience": 0
+  },
+  "igexin.com": {
+    "inter_audience": 0
+  },
+  "secu100.net": {
+    "inter_audience": 0
+  },
+  "xmsecu.com": {
+    "inter_audience": 0
+  },
+  "my-alfred.com": {
+    "inter_audience": 10
+  },
+  "xmeye.net": {
+    "inter_audience": 0
+  },
+  "taobao.com": {
+    "inter_audience": 3
+  },
+  "elisaviihde.fi": {
+    "inter_audience": 0
+  },
+  "saunalahti.fi": {
+    "inter_audience": 10
+  },
+  "dropboxapi.com": {
+    "inter_audience": 0
+  },
+  "mysqueezebox.com": {
+    "inter_audience": 14
+  },
+  "dedibox.fr": {
+    "inter_audience": 3
+  },
+  "caavo.com": {
+    "inter_audience": 0
+  },
+  "sourcecable.net": {
+    "inter_audience": 1
+  },
+  "nexac.com": {
+    "inter_audience": 0
+  },
+  "linksynergy.com": {
+    "inter_audience": 0
+  },
+  "tplinkcloud.com": {
+    "inter_audience": 4
+  },
+  "tplinkra.com": {
+    "inter_audience": 0
+  },
+  "181fm.com": {
+    "inter_audience": 28
+  },
+  "silvacast.com": {
+    "inter_audience": 3
+  },
+  "nextdoor-test.com": {
+    "inter_audience": 0
+  },
+  "reutersmedia.net": {
+    "inter_audience": 0
+  },
+  "giraffic.com": {
+    "inter_audience": 6
+  },
+  "forecast.io": {
+    "inter_audience": 25
+  },
+  "treasuredata.com": {
+    "inter_audience": 4
+  },
+  "lvkmm.net": {
+    "inter_audience": 0
+  },
+  "yuangudui.net": {
+    "inter_audience": 0
+  },
+  "smsor.cc": {
+    "inter_audience": 0
+  },
+  "1a3.net": {
+    "inter_audience": 0
+  },
+  "mssdy.com": {
+    "inter_audience": 0
+  },
+  "cypdua.com": {
+    "inter_audience": 0
+  },
+  "seoke.com": {
+    "inter_audience": 0
+  },
+  "9177.net": {
+    "inter_audience": 0
+  },
+  "jwidc.net": {
+    "inter_audience": 0
+  },
+  "jcc.jx.cn": {
+    "inter_audience": 0
+  },
+  "yksq.net": {
+    "inter_audience": 0
+  },
+  "486i.com": {
+    "inter_audience": 11
+  },
+  "098yu.cn": {
+    "inter_audience": 0
+  },
+  "iproxy.cloud": {
+    "inter_audience": 0
+  },
+  "brilliant.tech": {
+    "inter_audience": 26
+  },
+  "phyn.com": {
+    "inter_audience": 26
+  },
+  "logentries.com": {
+    "inter_audience": 19
+  },
+  "tmsapi.com": {
+    "inter_audience": 0
+  },
+  "piaservers.net": {
+    "inter_audience": 0
+  },
+  "wistia.com": {
+    "inter_audience": 17
+  },
+  "telefonica.de": {
+    "inter_audience": 0
+  },
+  "vodafone-ip.de": {
+    "inter_audience": 0
+  },
+  "bulsat.com": {
+    "inter_audience": 0
+  },
+  "appboxes.co": {
+    "inter_audience": 4
+  },
+  "mobfox.com": {
+    "inter_audience": 46
+  },
+  "telekom.at": {
+    "inter_audience": 0
+  },
+  "nintendowifi.net": {
+    "inter_audience": 0
+  },
+  "rach.io": {
+    "inter_audience": 17
+  },
+  "arloxcld.com": {
+    "inter_audience": 0
+  },
+  "fuse.net": {
+    "inter_audience": 0
+  },
+  "sasknet.sk.ca": {
+    "inter_audience": 0
+  },
+  "fidnet.com": {
+    "inter_audience": 0
+  },
+  "vorwerk-digital.com": {
+    "inter_audience": 0
+  },
+  "samsunghealth.com": {
+    "inter_audience": 0
+  },
+  "openweathermap.org": {
+    "inter_audience": 5
+  },
+  "shelly.cloud": {
+    "inter_audience": 0
+  },
+  "tplinknbu.com": {
+    "inter_audience": 0
+  },
+  "radioburgerfuel.com": {
+    "inter_audience": 0
+  },
+  "nixplay.com": {
+    "inter_audience": 110
+  },
+  "life360.com": {
+    "inter_audience": 55
+  },
+  "sunpowermonitor.com": {
+    "inter_audience": 0
+  },
+  "p2e.io": {
+    "inter_audience": 0
+  },
+  "ikonkek2.com": {
+    "inter_audience": 13
+  },
+  "ikea.net": {
+    "inter_audience": 0
+  },
+  "randomads.us": {
+    "inter_audience": 0
+  },
+  "dyson.com": {
+    "inter_audience": 0
+  },
+  "irdeto.com": {
+    "inter_audience": 5
+  },
+  "teslaenergy.services": {
+    "inter_audience": 0
+  },
+  "dlink.com": {
+    "inter_audience": 9
+  },
+  "voipalarm.com": {
+    "inter_audience": 0
+  },
+  "wsmintl.com": {
+    "inter_audience": 0
+  },
+  "winkapp.com": {
+    "inter_audience": 23
+  },
+  "hringdu.is": {
+    "inter_audience": 0
+  },
+  "nttpc.ne.jp": {
+    "inter_audience": 0
+  },
+  "voo.be": {
+    "inter_audience": 0
+  },
+  "siol.net": {
+    "inter_audience": 0
+  },
+  "usbx.me": {
+    "inter_audience": 1
+  },
+  "onvol.net": {
+    "inter_audience": 0
+  },
+  "sbb.rs": {
+    "inter_audience": 2
+  },
+  "airdns.org": {
+    "inter_audience": 0
+  },
+  "kc.net.uk": {
+    "inter_audience": 0
+  },
+  "dediseedbox.com": {
+    "inter_audience": 0
+  },
+  "scalabledns.com": {
+    "inter_audience": 0
+  },
+  "vodafone.cz": {
+    "inter_audience": 3
+  },
+  "mts.ru": {
+    "inter_audience": 11
+  },
+  "netplus.co.in": {
+    "inter_audience": 0
+  },
+  "dnainternet.fi": {
+    "inter_audience": 0
+  },
+  "broadstripe.net": {
+    "inter_audience": 0
+  },
+  "seedhost.eu": {
+    "inter_audience": 0
+  },
+  "bysh.me": {
+    "inter_audience": 0
+  },
+  "bashtel.ru": {
+    "inter_audience": 0
+  },
+  "udm.net": {
+    "inter_audience": 0
+  },
+  "net1.bg": {
+    "inter_audience": 0
+  },
+  "walkerservers.com": {
+    "inter_audience": 1
+  },
+  "asahi-net.or.jp": {
+    "inter_audience": 0
+  },
+  "interbgc.com": {
+    "inter_audience": 0
+  },
+  "spb.ru": {
+    "inter_audience": 0
+  },
+  "leaseweb.com": {
+    "inter_audience": 4
+  },
+  "ignorelist.com": {
+    "inter_audience": 0
+  },
+  "northghost.com": {
+    "inter_audience": 0
+  },
+  "paddock-pc.com": {
+    "inter_audience": 0
+  },
+  "kipp.nz": {
+    "inter_audience": 0
+  },
+  "myanonamouse.net": {
+    "inter_audience": 0
+  },
+  "passthepopcorn.me": {
+    "inter_audience": 0
+  },
+  "sevenzerotwo.net": {
+    "inter_audience": 0
+  },
+  "lswf.net": {
+    "inter_audience": 0
+  },
+  "ideascreativas.co": {
+    "inter_audience": 0
+  },
+  "iptvelox.vip": {
+    "inter_audience": 0
+  },
+  "jproxies.xyz": {
+    "inter_audience": 0
+  },
+  "aciravingfan.com": {
+    "inter_audience": 0
+  },
+  "dynoquant.com": {
+    "inter_audience": 0
+  },
+  "cue.cloud": {
+    "inter_audience": 0
+  },
+  "criptonube.com": {
+    "inter_audience": 0
+  },
+  "narewt.ru": {
+    "inter_audience": 0
+  },
+  "mtpars.xyz": {
+    "inter_audience": 0
+  },
+  "foodmoves.me": {
+    "inter_audience": 0
+  },
+  "getpublica.com": {
+    "inter_audience": 6
+  },
+  "froyogogo.com": {
+    "inter_audience": 0
+  },
+  "vauctions.com": {
+    "inter_audience": 9
+  },
+  "celulardireto.com.br": {
+    "inter_audience": 0
+  },
+  "mediafire.com": {
+    "inter_audience": 25
+  },
+  "connellgroup.co.uk": {
+    "inter_audience": 0
+  },
+  "insoftar.com.co": {
+    "inter_audience": 0
+  },
+  "channeladvisor.com": {
+    "inter_audience": 26
+  },
+  "nip.io": {
+    "inter_audience": 0
+  },
+  "levyjewelers.com": {
+    "inter_audience": 8
+  },
+  "plusregistry.org": {
+    "inter_audience": 2
+  },
+  "terrafui.com": {
+    "inter_audience": 0
+  },
+  "vbspbx.com": {
+    "inter_audience": 0
+  },
+  "art-api.com": {
+    "inter_audience": 4
+  },
+  "raqug.com": {
+    "inter_audience": 0
+  },
+  "adzerk.net": {
+    "inter_audience": 0
+  },
+  "skyq.info": {
+    "inter_audience": 0
+  },
+  "sonic.net": {
+    "inter_audience": 2
+  },
+  "accuradio.com": {
+    "inter_audience": 23
+  },
+  "monkeybrains.net": {
+    "inter_audience": 0
+  },
+  "stdtime.gov.tw": {
+    "inter_audience": 0
+  },
+  "wemo2.com": {
+    "inter_audience": 0
+  },
+  "hunterdouglas.com": {
+    "inter_audience": 13
+  },
+  "planeta.tc": {
+    "inter_audience": 0
+  },
+  "hughes.net": {
+    "inter_audience": 0
+  },
+  "cprapid.com": {
+    "inter_audience": 0
+  },
+  "evrythng.com": {
+    "inter_audience": 12
+  },
+  "alienvault.cloud": {
+    "inter_audience": 0
+  },
+  "service-now.com": {
+    "inter_audience": 6
+  },
+  "mytravelyear.bid": {
+    "inter_audience": 0
+  },
+  "pi-charter.net": {
+    "inter_audience": 0
+  },
+  "plala.or.jp": {
+    "inter_audience": 0
+  },
+  "ucom.ne.jp": {
+    "inter_audience": 0
+  },
+  "katch.ne.jp": {
+    "inter_audience": 0
+  },
+  "commufa.jp": {
+    "inter_audience": 0
+  },
+  "eonet.ne.jp": {
+    "inter_audience": 0
+  },
+  "infoweb.ne.jp": {
+    "inter_audience": 0
+  },
+  "bbexcite.jp": {
+    "inter_audience": 0
+  },
+  "zaq.ne.jp": {
+    "inter_audience": 0
+  },
+  "bbiq.jp": {
+    "inter_audience": 0
+  },
+  "pikara.ne.jp": {
+    "inter_audience": 0
+  },
+  "digitalgov.gov": {
+    "inter_audience": 2
+  },
+  "triple-it.nl": {
+    "inter_audience": 0
+  },
+  "eliteprospects.com": {
+    "inter_audience": 0
+  },
+  "wirelesscar.net": {
+    "inter_audience": 0
+  },
+  "amcrestview.com": {
+    "inter_audience": 1
+  },
+  "hostedcloudvideo.com": {
+    "inter_audience": 1
+  },
+  "epicgames.dev": {
+    "inter_audience": 29
+  },
+  "broadlink.com.cn": {
+    "inter_audience": 0
+  },
+  "bamlabs.com": {
+    "inter_audience": 0
+  },
+  "sleepnumber.com": {
+    "inter_audience": 7
+  },
+  "mymedsleuth.com": {
+    "inter_audience": 0
+  },
+  "baobei.co.uk": {
+    "inter_audience": 0
+  },
+  "somafm.com": {
+    "inter_audience": 6
+  },
+  "fatline.services": {
+    "inter_audience": 0
+  },
+  "resultinnate.com": {
+    "inter_audience": 0
+  },
+  "heuchfresh.com.au": {
+    "inter_audience": 0
+  },
+  "24-fil.gq": {
+    "inter_audience": 0
+  },
+  "cbsebox.com": {
+    "inter_audience": 5
+  },
+  "izeni.net": {
+    "inter_audience": 0
+  },
+  "herokuspace.com": {
+    "inter_audience": 0
+  },
+  "ip-51-38-83.eu": {
+    "inter_audience": 0
+  },
+  "di.fm": {
+    "inter_audience": 6
+  },
+  "telkom.net.id": {
+    "inter_audience": 0
+  },
+  "adscore.com": {
+    "inter_audience": 9
+  },
+  "str3am.com": {
+    "inter_audience": 0
+  },
+  "wiz.world": {
+    "inter_audience": 26
+  },
+  "arrayent.com": {
+    "inter_audience": 0
+  },
+  "ibroadlink.com": {
+    "inter_audience": 2
+  },
+  "bt.com": {
+    "inter_audience": 15
+  },
+  "metabroadcast.com": {
+    "inter_audience": 0
+  },
+  "anker-in.com": {
+    "inter_audience": 0
+  },
+  "amazonaws.com.cn": {
+    "inter_audience": 0
+  },
+  "eufylife.com": {
+    "inter_audience": 30
+  },
+  "tiscali.it": {
+    "inter_audience": 0
+  },
+  "law360.com": {
+    "inter_audience": 17
+  },
+  "messagelabs.com": {
+    "inter_audience": 23
+  },
+  "uurj-p.net": {
+    "inter_audience": 0
+  },
+  "aylanetworks.com": {
+    "inter_audience": 0
+  },
+  "ib0x.org": {
+    "inter_audience": 0
+  },
+  "uptimerobot.com": {
+    "inter_audience": 6
+  },
+  "ablecloud.cn": {
+    "inter_audience": 0
+  },
+  "vilfoservers.com": {
+    "inter_audience": 0
+  },
+  "sbcloud.us": {
+    "inter_audience": 0
+  },
+  "crplatform.net": {
+    "inter_audience": 0
+  },
+  "torrenti.al": {
+    "inter_audience": 0
+  },
+  "warezwaldo.org": {
+    "inter_audience": 0
+  },
+  "getpiper.com": {
+    "inter_audience": 0
+  },
+  "instantink.com": {
+    "inter_audience": 54
+  },
+  "flosecurecloud.com": {
+    "inter_audience": 0
+  },
+  "flotech.co": {
+    "inter_audience": 0
+  },
+  "maintainbrain.us": {
+    "inter_audience": 0
+  },
+  "aqara.com": {
+    "inter_audience": 2
+  },
+  "reolink.com": {
+    "inter_audience": 11
+  },
+  "insteon.com": {
+    "inter_audience": 24
+  },
+  "filenext.com": {
+    "inter_audience": 18
+  },
+  "myfoscam.com": {
+    "inter_audience": 20
+  },
+  "ipinfodb.com": {
+    "inter_audience": 2
+  },
+  "ezv.tv": {
+    "inter_audience": 0
+  },
+  "easy4ipcloud.com": {
+    "inter_audience": 20
+  },
+  "tvr-ddns.net": {
+    "inter_audience": 0
+  },
+  "lametric.com": {
+    "inter_audience": 19
+  },
+  "orerve.net": {
+    "inter_audience": 0
+  },
+  "epson.biz": {
+    "inter_audience": 0
+  },
+  "hik-online.com": {
+    "inter_audience": 0
+  },
+  "vianaaws.jp": {
+    "inter_audience": 0
+  },
+  "fdt.us": {
+    "inter_audience": 0
+  },
+  "amazonpmi.com": {
+    "inter_audience": 0
+  },
+  "airtiescloud.com": {
+    "inter_audience": 0
+  },
+  "mtproto.world": {
+    "inter_audience": 0
+  },
+  "kalay.net.cn": {
+    "inter_audience": 8
+  },
+  "birdytone.com.cn": {
+    "inter_audience": 0
+  },
+  "anki.com": {
+    "inter_audience": 0
+  },
+  "mobdro.sx": {
+    "inter_audience": 0
+  },
+  "atianqi.com": {
+    "inter_audience": 0
+  },
+  "smadex.com": {
+    "inter_audience": 14
+  },
+  "scpr.org": {
+    "inter_audience": 17
+  },
+  "butterflymx.com": {
+    "inter_audience": 5
+  },
+  "myopenhab.org": {
+    "inter_audience": 4
+  },
+  "connectedlyric.com": {
+    "inter_audience": 0
+  },
+  "notifiarr.com": {
+    "inter_audience": 0
+  },
+  "servarr.com": {
+    "inter_audience": 5
+  },
+  "gtdb.to": {
+    "inter_audience": 0
+  },
+  "torrentfunk.com": {
+    "inter_audience": 0
+  },
+  "limetorrents.pro": {
+    "inter_audience": 1
+  },
+  "eztv.re": {
+    "inter_audience": 0
+  },
+  "ooma.com": {
+    "inter_audience": 26
+  },
+  "bryant.com": {
+    "inter_audience": 19
+  },
+  "stownpodcast.org": {
+    "inter_audience": 19
+  },
+  "hualaikeji.com": {
+    "inter_audience": 17
+  },
+  "streamgate.nl": {
+    "inter_audience": 0
+  },
+  "raspberrypi.org": {
+    "inter_audience": 10
+  },
+  "stocard.de": {
+    "inter_audience": 9
+  },
+  "4store.com": {
+    "inter_audience": 0
+  },
+  "cogeco.net": {
+    "inter_audience": 0
+  },
+  "dmdsdp.com": {
+    "inter_audience": 0
+  },
+  "videoland.com": {
+    "inter_audience": 12
+  },
+  "virginmedia.com": {
+    "inter_audience": 2
+  },
+  "netflixdnstest9.com": {
+    "inter_audience": 0
+  },
+  "icflix.com": {
+    "inter_audience": 0
+  },
+  "209.in-addr.arpa": {
+    "inter_audience": 0
+  },
+  "t-2.net": {
+    "inter_audience": 0
+  },
+  "yousee.tv": {
+    "inter_audience": 189
+  },
+  "freetime-platform.net": {
+    "inter_audience": 0
+  },
+  "iinet.net.au": {
+    "inter_audience": 5
+  },
+  "watchaid.tv": {
+    "inter_audience": 0
+  },
+  "psdops.com": {
+    "inter_audience": 9
+  },
+  "libsynpro.com": {
+    "inter_audience": 2
+  },
+  "telenor.net": {
+    "inter_audience": 0
+  },
+  "serialpodcast.org": {
+    "inter_audience": 19
+  },
+  "gimletmedia.com": {
+    "inter_audience": 2
+  },
+  "cmore.se": {
+    "inter_audience": 0
+  },
+  "alibaba.com": {
+    "inter_audience": 11
+  },
+  "radioarizonarv.com": {
+    "inter_audience": 0
+  },
+  "theteslashow.com": {
+    "inter_audience": 0
+  },
+  "techcastdaily.com": {
+    "inter_audience": 28
+  },
+  "colocrossing.com": {
+    "inter_audience": 6
+  },
+  "threembb.co.uk": {
+    "inter_audience": 0
+  },
+  "cinemaz.to": {
+    "inter_audience": 0
+  },
+  "unblockninja.com": {
+    "inter_audience": 0
+  },
+  "torrentleech.org": {
+    "inter_audience": 0
+  },
+  "wbinsights.com": {
+    "inter_audience": 0
+  },
+  "quadranet.com": {
+    "inter_audience": 4
+  },
+  "zaijia.com": {
+    "inter_audience": 0
+  },
+  "jomodns.com": {
+    "inter_audience": 0
+  },
+  "baseng.top": {
+    "inter_audience": 0
+  },
+  "usenetserver.com": {
+    "inter_audience": 13
+  },
+  "bitcoinstats.com": {
+    "inter_audience": 0
+  },
+  "nuki.io": {
+    "inter_audience": 5
+  },
+  "homeseer.com": {
+    "inter_audience": 5
+  },
+  "arkdedicated.com": {
+    "inter_audience": 0
+  },
+  "comporium.net": {
+    "inter_audience": 0
+  },
+  "intrstar.net": {
+    "inter_audience": 1
+  },
+  "warnerbros.com": {
+    "inter_audience": 0
+  },
+  "estpak.ee": {
+    "inter_audience": 0
+  },
+  "hopto.org": {
+    "inter_audience": 12
+  },
+  "ultraseedbox.com": {
+    "inter_audience": 1
+  },
+  "urcmcs.com": {
+    "inter_audience": 0
+  },
+  "clouddevice.io": {
+    "inter_audience": 0
+  },
+  "hitman.io": {
+    "inter_audience": 0
+  },
+  "switch-bot.com": {
+    "inter_audience": 10
+  },
+  "premieronline.net": {
+    "inter_audience": 0
+  },
+  "nightowldvr13.com": {
+    "inter_audience": 0
+  },
+  "dimsum.party": {
+    "inter_audience": 0
+  },
+  "suibian.mobi": {
+    "inter_audience": 11
+  },
+  "satnet.net": {
+    "inter_audience": 0
+  },
+  "voipmuch.com": {
+    "inter_audience": 0
+  },
+  "telia.net": {
+    "inter_audience": 0
+  },
+  "thisisdax.com": {
+    "inter_audience": 21
+  },
+  "ownit.se": {
+    "inter_audience": 6
+  },
+  "quebyte.net": {
+    "inter_audience": 0
+  },
+  "ip-198-245-61.net": {
+    "inter_audience": 5
+  },
+  "nanoleaf.me": {
+    "inter_audience": 130
+  },
+  "b5p.us": {
+    "inter_audience": 0
+  },
+  "pagekite.net": {
+    "inter_audience": 5
+  },
+  "my-gogogate.com": {
+    "inter_audience": 0
+  },
+  "mydrobo.com": {
+    "inter_audience": 0
+  },
+  "remsoleurope.com": {
+    "inter_audience": 0
+  },
+  "no-ip.com": {
+    "inter_audience": 12
+  },
+  "gogriddy.com": {
+    "inter_audience": 0
+  },
+  "alarm.com": {
+    "inter_audience": 20
+  },
+  "roadkeel.com": {
+    "inter_audience": 0
+  },
+  "core.pw": {
+    "inter_audience": 0
+  },
+  "worldoftanks.com": {
+    "inter_audience": 1
+  },
+  "binaryedge.ninja": {
+    "inter_audience": 0
+  },
+  "prioritytelecom.net": {
+    "inter_audience": 1
+  },
+  "bredband2.com": {
+    "inter_audience": 0
+  },
+  "airtelbroadband.in": {
+    "inter_audience": 0
+  },
+  "ripe.net": {
+    "inter_audience": 1
+  },
+  "openportstats.com": {
+    "inter_audience": 0
+  },
+  "yieldmanager.net": {
+    "inter_audience": 0
+  },
+  "gm.ca": {
+    "inter_audience": 9
+  },
+  "picap.app": {
+    "inter_audience": 0
+  },
+  "arubacloud.com": {
+    "inter_audience": 353
+  },
+  "inversepath.com": {
+    "inter_audience": 0
+  },
+  "triolan.net": {
+    "inter_audience": 0
+  },
+  "rotek.ru": {
+    "inter_audience": 0
+  },
+  "videoseeing.com": {
+    "inter_audience": 0
+  },
+  "zhaomiju.com": {
+    "inter_audience": 0
+  },
+  "88110k.cn": {
+    "inter_audience": 0
+  },
+  "uu.hn": {
+    "inter_audience": 0
+  },
+  "xinhaizhiye.com.cn": {
+    "inter_audience": 0
+  },
+  "lipperhey.com": {
+    "inter_audience": 14
+  },
+  "accdy.cn": {
+    "inter_audience": 0
+  },
+  "optipacetech.com": {
+    "inter_audience": 0
+  },
+  "20hb.com": {
+    "inter_audience": 0
+  },
+  "0ni.red": {
+    "inter_audience": 0
+  },
+  "sipgate.net": {
+    "inter_audience": 0
+  },
+  "kat.li": {
+    "inter_audience": 0
+  },
+  "linkplay.com": {
+    "inter_audience": 0
+  },
+  "s.net.pl": {
+    "inter_audience": 0
+  },
+  "mynetname.net": {
+    "inter_audience": 1
+  },
+  "barracuda.com": {
+    "inter_audience": 17
+  },
+  "journalbroadcastgroup.com": {
+    "inter_audience": 0
+  },
+  "oomamobile.com": {
+    "inter_audience": 0
+  },
+  "rayjump.com": {
+    "inter_audience": 9
+  },
+  "bloomsky.com": {
+    "inter_audience": 4
+  },
+  "myfoscam.org": {
+    "inter_audience": 0
+  },
+  "formpipe.com": {
+    "inter_audience": 23
+  },
+  "eolo.it": {
+    "inter_audience": 0
+  },
+  "xiaomi.net": {
+    "inter_audience": 14
+  },
+  "rainforestautomation.com": {
+    "inter_audience": 4
+  },
+  "tbn.org": {
+    "inter_audience": 0
+  },
+  "slingmedia.com": {
+    "inter_audience": 0
+  },
+  "edolphin.site": {
+    "inter_audience": 0
+  },
+  "enlacetelecom.com.br": {
+    "inter_audience": 0
+  },
+  "tum.de": {
+    "inter_audience": 0
+  },
+  "timeline.is": {
+    "inter_audience": 2
+  },
+  "virtual1.co.uk": {
+    "inter_audience": 7
+  },
+  "vieraconnect.tv": {
+    "inter_audience": 5
+  },
+  "airtel.net": {
+    "inter_audience": 0
+  },
+  "myq-cloud.com": {
+    "inter_audience": 0
+  },
+  "antennevorarlberg.at": {
+    "inter_audience": 0
+  },
+  "flexitive.com": {
+    "inter_audience": 5
+  },
+  "nightowldvr.com": {
+    "inter_audience": 0
+  },
+  "myfairpoint.net": {
+    "inter_audience": 27
+  },
+  "aspadmin.net": {
+    "inter_audience": 0
+  },
+  "tequilaboomboom.club": {
+    "inter_audience": 0
+  },
+  "pacswitch.com": {
+    "inter_audience": 0
+  },
+  "arbor-observatory.com": {
+    "inter_audience": 0
+  },
+  "zoomtown.com": {
+    "inter_audience": 1
+  },
+  "jovision.com": {
+    "inter_audience": 14
+  },
+  "aqara.cn": {
+    "inter_audience": 6
+  },
+  "xo.net": {
+    "inter_audience": 0
+  },
+  "talk4free.com": {
+    "inter_audience": 0
+  },
+  "livedrive.com": {
+    "inter_audience": 19
+  },
+  "fibaro.com": {
+    "inter_audience": 2
+  },
+  "scientific.de": {
+    "inter_audience": 0
+  },
+  "btopenworld.com": {
+    "inter_audience": 2
+  },
+  "carrierzone.com": {
+    "inter_audience": 0
+  },
+  "herokudns.com": {
+    "inter_audience": 0
+  },
+  "chefsteps.com": {
+    "inter_audience": 21
+  },
+  "vennemindenet.dk": {
+    "inter_audience": 0
+  },
+  "voncp.com": {
+    "inter_audience": 0
+  },
+  "kohler.com": {
+    "inter_audience": 37
+  },
+  "stringify.com": {
+    "inter_audience": 0
+  },
+  "rainforestcloud.com": {
+    "inter_audience": 2
+  },
+  "wattvision.com": {
+    "inter_audience": 0
+  },
+  "dvsops.com": {
+    "inter_audience": 0
+  },
+  "inspectlet.com": {
+    "inter_audience": 5
+  },
+  "atom.io": {
+    "inter_audience": 22
+  },
+  "gigaset.net": {
+    "inter_audience": 33
+  },
+  "sipgate.de": {
+    "inter_audience": 22
+  },
+  "countrycom.ru": {
+    "inter_audience": 0
+  },
+  "sipnl.net": {
+    "inter_audience": 0
+  },
+  "foxtel.com.au": {
+    "inter_audience": 0
+  },
+  "alarmnet.com": {
+    "inter_audience": 0
+  },
+  "appsmb.com": {
+    "inter_audience": 0
+  },
+  "eero.com": {
+    "inter_audience": 10
+  },
+  "dune-hd.com": {
+    "inter_audience": 0
+  },
+  "ecosightsecurity.com": {
+    "inter_audience": 0
+  },
+  "tennisround.com": {
+    "inter_audience": 3
+  },
+  "solaredge.com": {
+    "inter_audience": 8
+  },
+  "snowdawn.info": {
+    "inter_audience": 0
+  },
+  "av380.net": {
+    "inter_audience": 0
+  },
+  "av380.cn": {
+    "inter_audience": 0
+  },
+  "miele.com": {
+    "inter_audience": 3
+  },
+  "wdc.com": {
+    "inter_audience": 12
+  },
+  "thinkingphones.net": {
+    "inter_audience": 0
+  },
+  "fuze.com": {
+    "inter_audience": 28
+  },
+  "mystrom.ch": {
+    "inter_audience": 31
+  },
+  "iplogin.ca": {
+    "inter_audience": 5
+  },
+  "olivalabs.com": {
+    "inter_audience": 0
+  },
+  "voipperformance.net": {
+    "inter_audience": 0
+  },
+  "1-voip.com": {
+    "inter_audience": 0
+  },
+  "awair.is": {
+    "inter_audience": 0
+  },
+  "simplisafe.com": {
+    "inter_audience": 27
+  },
+  "overkiz.com": {
+    "inter_audience": 0
+  },
+  "xlink.cn": {
+    "inter_audience": 0
+  },
+  "geappliances.com": {
+    "inter_audience": 34
+  },
+  "aws-thinq-prd.net": {
+    "inter_audience": 0
+  },
+  "oakter.com": {
+    "inter_audience": 1
+  },
+  "bosch.de": {
+    "inter_audience": 5
+  },
+  "seluxit.com": {
+    "inter_audience": 4
+  },
+  "pumpspy.com": {
+    "inter_audience": 3
+  },
+  "hostedgraphite.com": {
+    "inter_audience": 7
+  },
+  "scalyr.com": {
+    "inter_audience": 11
+  },
+  "telenor.com": {
+    "inter_audience": 1
+  },
+  "kebab.jp": {
+    "inter_audience": 0
+  },
+  "neohub.co.uk": {
+    "inter_audience": 2
+  },
+  "devicetask.com": {
+    "inter_audience": 0
+  },
+  "wii.com": {
+    "inter_audience": 17
+  },
+  "radioroku.com": {
+    "inter_audience": 0
+  },
+  "vieraconnect.eu": {
+    "inter_audience": 0
+  },
+  "callcentric.com": {
+    "inter_audience": 3
+  },
+  "bosch-smarthome.com": {
+    "inter_audience": 6
+  },
+  "foobot.io": {
+    "inter_audience": 2
+  },
+  "discovergy.com": {
+    "inter_audience": 0
+  },
+  "telegate.com.sg": {
+    "inter_audience": 0
+  },
+  "doorbird.net": {
+    "inter_audience": 0
+  },
+  "currant.com": {
+    "inter_audience": 0
+  },
+  "zswitch.net": {
+    "inter_audience": 0
+  },
+  "fonet.dk": {
+    "inter_audience": 0
+  },
+  "graydns.com": {
+    "inter_audience": 0
+  },
+  "pix-star.com": {
+    "inter_audience": 1
+  },
+  "mynuheat.com": {
+    "inter_audience": 20
+  },
+  "infopbx.net": {
+    "inter_audience": 0
+  },
+  "iqolsys.com": {
+    "inter_audience": 0
+  },
+  "sensicomfort.com": {
+    "inter_audience": 43
+  },
+  "anymilight.com": {
+    "inter_audience": 0
+  },
+  "ogemray-server.com": {
+    "inter_audience": 12
+  },
+  "hivehome.com": {
+    "inter_audience": 0
+  },
+  "app.link": {
+    "inter_audience": 368
+  },
+  "soundcloud.com": {
+    "inter_audience": 32
+  },
+  "google.ru": {
+    "inter_audience": 12
+  },
+  "branch.io": {
+    "inter_audience": 368
+  },
+  "appdynamics.com": {
+    "inter_audience": 36
+  },
+  "pelmorex.com": {
+    "inter_audience": 4
+  },
+  "amazon-dss.com": {
+    "inter_audience": 0
+  },
+  "deviantart.net": {
+    "inter_audience": 0
+  },
+  "1rx.io": {
+    "inter_audience": 0
+  },
+  "company-target.com": {
+    "inter_audience": 0
+  },
+  "sharethrough.com": {
+    "inter_audience": 0
+  },
+  "samba.tv": {
+    "inter_audience": 34
+  },
+  "airpr.com": {
+    "inter_audience": 13
+  },
+  "teslarati.com": {
+    "inter_audience": 1
+  },
+  "zillow.com": {
+    "inter_audience": 0
+  },
+  "privacy-center.org": {
+    "inter_audience": 0
+  },
+  "meraki.com": {
+    "inter_audience": 93
+  },
+  "cnevids.com": {
+    "inter_audience": 4
+  },
+  "blueconic.net": {
+    "inter_audience": 14
+  },
+  "pocket-image-cache.com": {
+    "inter_audience": 0
+  },
+  "impactradius-event.com": {
+    "inter_audience": 0
+  },
+  "brave.com": {
+    "inter_audience": 30
+  },
+  "zynga.com": {
+    "inter_audience": 16
+  },
+  "nasa.gov": {
+    "inter_audience": 13
+  },
+  "washingtonpost.com": {
+    "inter_audience": 35
+  },
+  "affec.tv": {
+    "inter_audience": 0
+  },
+  "svtstatic.se": {
+    "inter_audience": 1
+  },
+  "svt.se": {
+    "inter_audience": 0
+  },
+  "plex.bz": {
+    "inter_audience": 0
+  },
+  "dtvce.com": {
+    "inter_audience": 0
+  },
+  "rollout.io": {
+    "inter_audience": 2
+  },
+  "tritondigital.com": {
+    "inter_audience": 20
+  },
+  "omny.fm": {
+    "inter_audience": 0
+  },
+  "fbsbx.com": {
+    "inter_audience": 0
+  },
+  "elasticbeanstalk.com": {
+    "inter_audience": 37
+  },
+  "blisspointmedia.com": {
+    "inter_audience": 42
+  },
+  "mineproxy.club": {
+    "inter_audience": 11
+  },
+  "hotbl.xyz": {
+    "inter_audience": 0
+  },
+  "atomtickets.com": {
+    "inter_audience": 32
+  },
+  "datadoghq.com": {
+    "inter_audience": 35
+  },
+  "bbcverticals.com": {
+    "inter_audience": 0
+  },
+  "adobeprimetime.com": {
+    "inter_audience": 0
+  },
+  "mookie1.com": {
+    "inter_audience": 0
+  },
+  "placed.com": {
+    "inter_audience": 21
+  },
+  "llnwi.net": {
+    "inter_audience": 0
+  },
+  "tremorhub.com": {
+    "inter_audience": 0
+  },
+  "adrta.com": {
+    "inter_audience": 0
+  },
+  "pixsrvcs.com": {
+    "inter_audience": 0
+  },
+  "alphonso.tv": {
+    "inter_audience": 10
+  },
+  "tesla.services": {
+    "inter_audience": 0
+  },
+  "demandbase.com": {
+    "inter_audience": 16
+  },
+  "adobe.io": {
+    "inter_audience": 10
+  },
+  "edgecastcdn.net": {
+    "inter_audience": 1
+  },
+  "twitchcdn.net": {
+    "inter_audience": 0
+  },
+  "unity3d.com": {
+    "inter_audience": 2
+  },
+  "netflix.net": {
+    "inter_audience": 0
+  },
+  "llnwd.net": {
+    "inter_audience": 0
+  },
+  "rockstargames.com": {
+    "inter_audience": 17
+  },
+  "steamstatic.com": {
+    "inter_audience": 10
+  },
+  "scea.com": {
+    "inter_audience": 20
+  },
+  "google.it": {
+    "inter_audience": 12
+  },
+  "hinet.net": {
+    "inter_audience": 0
+  },
+  "ocn.ne.jp": {
+    "inter_audience": 0
+  },
+  "bbtec.net": {
+    "inter_audience": 1
+  },
+  "contaboserver.net": {
+    "inter_audience": 0
+  },
+  "tbcnet.net.tw": {
+    "inter_audience": 0
+  },
+  "nuro.jp": {
+    "inter_audience": 0
+  },
+  "kbronet.com.tw": {
+    "inter_audience": 0
+  },
+  "aussiebb.net": {
+    "inter_audience": 0
+  },
+  "enabler.ne.jp": {
+    "inter_audience": 0
+  },
+  "genmediasys.com": {
+    "inter_audience": 36
+  },
+  "edgedatg.com": {
+    "inter_audience": 0
+  },
+  "nbc.co": {
+    "inter_audience": 0
+  },
+  "fox.com": {
+    "inter_audience": 2
+  },
+  "foxdcg.com": {
+    "inter_audience": 0
+  },
+  "pscp.tv": {
+    "inter_audience": 0
+  },
+  "nbcuni.com": {
+    "inter_audience": 41
+  },
+  "musical.ly": {
+    "inter_audience": 0
+  },
+  "rovicorp.com": {
+    "inter_audience": 0
+  },
+  "starz.com": {
+    "inter_audience": 18
+  },
+  "commbank.com.au": {
+    "inter_audience": 15
+  },
+  "youborafds01.com": {
+    "inter_audience": 0
+  },
+  "adlightning.com": {
+    "inter_audience": 2
+  },
+  "sdpg.tv": {
+    "inter_audience": 0
+  },
+  "lencr.org": {
+    "inter_audience": 7
+  },
+  "github.io": {
+    "inter_audience": 22
+  },
+  "worldtimeserver.com": {
+    "inter_audience": 0
+  },
+  "ziggogo.tv": {
+    "inter_audience": 0
+  },
+  "truste.com": {
+    "inter_audience": 46
+  },
+  "boltdns.net": {
+    "inter_audience": 0
+  },
+  "cgrgvgg.com": {
+    "inter_audience": 11
+  },
+  "fconsoft.biz": {
+    "inter_audience": 0
+  },
+  "arcgis.com": {
+    "inter_audience": 1
+  },
+  "intercom.io": {
+    "inter_audience": 38
+  },
+  "videoplayerhub.com": {
+    "inter_audience": 0
+  },
+  "wsj.net": {
+    "inter_audience": 9
+  },
+  "intuit.com": {
+    "inter_audience": 0
+  },
+  "williamhill.com": {
+    "inter_audience": 18
+  },
+  "tailtarget.com": {
+    "inter_audience": 0
+  },
+  "consumerreports.org": {
+    "inter_audience": 2
+  },
+  "jquery.com": {
+    "inter_audience": 13
+  },
+  "cwtv.com": {
+    "inter_audience": 30
+  },
+  "crunchyroll.com": {
+    "inter_audience": 0
+  },
+  "icloud-content.com": {
+    "inter_audience": 25
+  },
+  "helpshift.com": {
+    "inter_audience": 28
+  },
+  "githubusercontent.com": {
+    "inter_audience": 6
+  },
+  "cedexis-test.com": {
+    "inter_audience": 0
+  },
+  "real-debrid.com": {
+    "inter_audience": 0
+  },
+  "quantcast.com": {
+    "inter_audience": 43
+  },
+  "torrentapi.org": {
+    "inter_audience": 0
+  },
+  "zooqle.com": {
+    "inter_audience": 0
+  },
+  "thepiratebay.org": {
+    "inter_audience": 0
+  },
+  "cartoonhd.care": {
+    "inter_audience": 11
+  },
+  "ddlspot.com": {
+    "inter_audience": 0
+  },
+  "123hbo.com": {
+    "inter_audience": 11
+  },
+  "premiumize.me": {
+    "inter_audience": 0
+  },
+  "series9.io": {
+    "inter_audience": 0
+  },
+  "freefmovies.net": {
+    "inter_audience": 0
+  },
+  "best-moviez.ws": {
+    "inter_audience": 0
+  },
+  "gostream.sc": {
+    "inter_audience": 0
+  },
+  "torrentdownloads.me": {
+    "inter_audience": 0
+  },
+  "streamango.com": {
+    "inter_audience": 0
+  },
+  "primewire.gr": {
+    "inter_audience": 0
+  },
+  "swatchseries.to": {
+    "inter_audience": 11
+  },
+  "300mbfilms.co": {
+    "inter_audience": 0
+  },
+  "trakt.tv": {
+    "inter_audience": 35
+  },
+  "rlsbb.ru": {
+    "inter_audience": 0
+  },
+  "glodls.to": {
+    "inter_audience": 0
+  },
+  "2ddl.ws": {
+    "inter_audience": 0
+  },
+  "scene-rls.net": {
+    "inter_audience": 0
+  },
+  "freeputlockers.org": {
+    "inter_audience": 11
+  },
+  "odb.to": {
+    "inter_audience": 0
+  },
+  "kat.tv": {
+    "inter_audience": 46
+  },
+  "seehd.pl": {
+    "inter_audience": 11
+  },
+  "vidics.to": {
+    "inter_audience": 11
+  },
+  "netsync.net": {
+    "inter_audience": 7
+  },
+  "smoothstreams.tv": {
+    "inter_audience": 0
+  },
+  "fruithosted.net": {
+    "inter_audience": 0
+  },
+  "watchseries.si": {
+    "inter_audience": 0
+  },
+  "eztv.io": {
+    "inter_audience": 11
+  },
+  "lgtvsdp.com": {
+    "inter_audience": 0
+  },
+  "lgappstv.com": {
+    "inter_audience": 22
+  },
+  "lge.com": {
+    "inter_audience": 25
+  },
+  "lgsmartad.com": {
+    "inter_audience": 0
+  },
+  "lgeapi.com": {
+    "inter_audience": 0
+  },
+  "letsencrypt.org": {
+    "inter_audience": 7
+  },
+  "ticketmaster.com": {
+    "inter_audience": 20
+  },
+  "kunasystems.com": {
+    "inter_audience": 2
+  },
+  "optimizely.com": {
+    "inter_audience": 26
+  },
+  "fireoscaptiveportal.com": {
+    "inter_audience": 0
+  },
+  "amcnetworks.com": {
+    "inter_audience": 13
+  },
+  "amcn.com": {
+    "inter_audience": 13
+  },
+  "myharmony.com": {
+    "inter_audience": 8
+  },
+  "qnap.com": {
+    "inter_audience": 19
+  },
+  "investingchannel.com": {
+    "inter_audience": 9
+  },
+  "signal.org": {
+    "inter_audience": 6
+  },
+  "freshdesk.com": {
+    "inter_audience": 40
+  },
+  "hdhomerun.com": {
+    "inter_audience": 9
+  },
+  "privateinternetaccess.com": {
+    "inter_audience": 18
+  },
+  "udemycdn.com": {
+    "inter_audience": 0
+  },
+  "jsdelivr.net": {
+    "inter_audience": 4
+  },
+  "zencdn.net": {
+    "inter_audience": 0
+  },
+  "vimeocdn.com": {
+    "inter_audience": 2
+  },
+  "vimeo.com": {
+    "inter_audience": 48
+  },
+  "princeton.edu": {
+    "inter_audience": 2
+  },
+  "amcs-tachyon.com": {
+    "inter_audience": 0
+  },
+  "a2z.com": {
+    "inter_audience": 0
+  },
+  "gmail.com": {
+    "inter_audience": 12
+  },
+  "onelink.me": {
+    "inter_audience": 23
+  },
+  "appsflyer.com": {
+    "inter_audience": 23
+  },
+  "localytics.com": {
+    "inter_audience": 23
+  },
+  "weather.com": {
+    "inter_audience": 90
+  },
+  "apple.news": {
+    "inter_audience": 0
+  },
+  "xwemo.com": {
+    "inter_audience": 0
+  },
+  "amazon.nl": {
+    "inter_audience": 4
+  },
+  "yelp.com": {
+    "inter_audience": 31
+  },
+  "crittercism.com": {
+    "inter_audience": 0
+  },
+  "entrust.net": {
+    "inter_audience": 18
+  },
+  "ring.com": {
+    "inter_audience": 0
+  },
+  "lastpass.com": {
+    "inter_audience": 31
+  },
+  "foursquare.com": {
+    "inter_audience": 3
+  },
+  "lutron.com": {
+    "inter_audience": 4
+  },
+  "vivint.com": {
+    "inter_audience": 1
+  },
+  "fastlylb.net": {
+    "inter_audience": 0
+  },
+  "truebill.com": {
+    "inter_audience": 22
+  },
+  "vzwwo.com": {
+    "inter_audience": 0
+  },
+  "apple-cloudkit.com": {
+    "inter_audience": 0
+  },
+  "meross.com": {
+    "inter_audience": 13
+  },
+  "splkmobile.com": {
+    "inter_audience": 0
+  },
+  "skype.com": {
+    "inter_audience": 6
+  },
+  "office365.com": {
+    "inter_audience": 6
+  },
+  "libsyn.com": {
+    "inter_audience": 2
+  },
+  "outbrainimg.com": {
+    "inter_audience": 0
+  },
+  "linkedin.com": {
+    "inter_audience": 35
+  },
+  "azurewebsites.net": {
+    "inter_audience": 0
+  },
+  "blizzard.com": {
+    "inter_audience": 38
+  },
+  "live.net": {
+    "inter_audience": 0
+  },
+  "office.com": {
+    "inter_audience": 6
+  },
+  "msedge.net": {
+    "inter_audience": 0
+  },
+  "microsoftonline.com": {
+    "inter_audience": 0
+  },
+  "onedrive.com": {
+    "inter_audience": 6
+  },
+  "wunderground.com": {
+    "inter_audience": 37
+  },
+  "yahoodns.net": {
+    "inter_audience": 0
+  },
+  "revcontent.com": {
+    "inter_audience": 38
+  },
+  "msidentity.com": {
+    "inter_audience": 0
+  },
+  "nsatc.net": {
+    "inter_audience": 4
+  },
+  "cortana.ai": {
+    "inter_audience": 0
+  },
+  "myacurite.com": {
+    "inter_audience": 0
+  },
+  "thawte.com": {
+    "inter_audience": 20
+  },
+  "akadns6.net": {
+    "inter_audience": 0
+  },
+  "thirdiron.com": {
+    "inter_audience": 11
+  },
+  "muscdn.com": {
+    "inter_audience": 0
+  },
+  "sc-static.net": {
+    "inter_audience": 0
+  },
+  "p-cdn.com": {
+    "inter_audience": 0
+  },
+  "page.link": {
+    "inter_audience": 0
+  },
+  "1password.com": {
+    "inter_audience": 12
+  },
+  "theconversation.com": {
+    "inter_audience": 0
+  },
+  "nhl.com": {
+    "inter_audience": 0
+  },
+  "mapbox.com": {
+    "inter_audience": 19
+  },
+  "wistia.net": {
+    "inter_audience": 0
+  },
+  "art19.com": {
+    "inter_audience": 21
+  },
+  "cloudflare.net": {
+    "inter_audience": 3
+  },
+  "recaptcha.net": {
+    "inter_audience": 0
+  },
+  "blogspot.com": {
+    "inter_audience": 12
+  },
+  "ghostery.com": {
+    "inter_audience": 28
+  },
+  "brightline.tv": {
+    "inter_audience": 10
+  },
+  "goguardian.com": {
+    "inter_audience": 90
+  },
+  "google.co.il": {
+    "inter_audience": 12
+  },
+  "ctedgecdn.net": {
+    "inter_audience": 0
+  },
+  "mako.co.il": {
+    "inter_audience": 0
+  },
+  "applicaster.com": {
+    "inter_audience": 43
+  },
+  "siriusxm.com": {
+    "inter_audience": 31
+  },
+  "mozilla.org": {
+    "inter_audience": 4
+  },
+  "google.com.au": {
+    "inter_audience": 12
+  },
+  "amazon.eu": {
+    "inter_audience": 12
+  },
+  "firetvcaptiveportal.com": {
+    "inter_audience": 0
+  },
+  "jio.com": {
+    "inter_audience": 0
+  },
+  "amazon.fr": {
+    "inter_audience": 14
+  },
+  "hotstar.com": {
+    "inter_audience": 11
+  },
+  "bbci.co.uk": {
+    "inter_audience": 0
+  },
+  "bbc.co.uk": {
+    "inter_audience": 0
+  },
+  "musicradio.com": {
+    "inter_audience": 21
+  },
+  "acsechocaptiveportal.com": {
+    "inter_audience": 0
+  },
+  "cnbc.com": {
+    "inter_audience": 112
+  },
+  "jivox.com": {
+    "inter_audience": 34
+  },
+  "adknit.com": {
+    "inter_audience": 0
+  },
+  "cnn.net": {
+    "inter_audience": 69
+  },
+  "nettvservices.com": {
+    "inter_audience": 0
+  },
+  "zeasn.tv": {
+    "inter_audience": 11
+  },
+  "tpv-analytics.com": {
+    "inter_audience": 0
+  },
+  "corio.com": {
+    "inter_audience": 0
+  },
+  "github.com": {
+    "inter_audience": 22
+  },
+  "sectigo.com": {
+    "inter_audience": 559
+  },
+  "google.nl": {
+    "inter_audience": 12
+  },
+  "project-free-tv.ag": {
+    "inter_audience": 0
+  },
+  "netflixdnstest3.com": {
+    "inter_audience": 0
+  },
+  "opensubtitles.org": {
+    "inter_audience": 1
+  },
+  "gowatchseries.co": {
+    "inter_audience": 0
+  },
+  "123movieshubz.com": {
+    "inter_audience": 0
+  },
+  "seriesonline8.co": {
+    "inter_audience": 0
+  },
+  "xstreamcdn.com": {
+    "inter_audience": 0
+  },
+  "betterstream.co": {
+    "inter_audience": 0
+  },
+  "playercdn.net": {
+    "inter_audience": 0
+  },
+  "extramovies.host": {
+    "inter_audience": 0
+  },
+  "openload.co": {
+    "inter_audience": 0
+  },
+  "watchepisodeseries.com": {
+    "inter_audience": 0
+  },
+  "watchepisodes4.com": {
+    "inter_audience": 11
+  },
+  "npo.nl": {
+    "inter_audience": 0
+  },
+  "siptv.app": {
+    "inter_audience": 0
+  },
+  "vidoza.net": {
+    "inter_audience": 3
+  },
+  "cooltvseries.com": {
+    "inter_audience": 11
+  },
+  "solarmoviefree.net": {
+    "inter_audience": 0
+  },
+  "primewire.ac": {
+    "inter_audience": 0
+  },
+  "clipwatching.com": {
+    "inter_audience": 0
+  },
+  "powvideo.net": {
+    "inter_audience": 4
+  },
+  "moviego.net": {
+    "inter_audience": 0
+  },
+  "dwin1.com": {
+    "inter_audience": 0
+  },
+  "watchserieshd.io": {
+    "inter_audience": 0
+  },
+  "moviesonline.gy": {
+    "inter_audience": 0
+  },
+  "putlocker.onl": {
+    "inter_audience": 0
+  },
+  "123123movies.net": {
+    "inter_audience": 0
+  },
+  "movpod.in": {
+    "inter_audience": 19
+  },
+  "gorillavid.in": {
+    "inter_audience": 20
+  },
+  "watchfree1.com": {
+    "inter_audience": 4
+  },
+  "ninthdecimal.com": {
+    "inter_audience": 28
+  },
+  "tvadsync.com": {
+    "inter_audience": 3
+  },
+  "attribution.report": {
+    "inter_audience": 0
+  },
+  "weatherbug.net": {
+    "inter_audience": 30
+  },
+  "samsungrm.net": {
+    "inter_audience": 0
+  },
+  "connman.net": {
+    "inter_audience": 0
+  },
+  "tripadvisor.com": {
+    "inter_audience": 42
+  },
+  "mathtag.com": {
+    "inter_audience": 64
+  },
+  "ip-api.com": {
+    "inter_audience": 0
+  },
+  "bootstrapcdn.com": {
+    "inter_audience": 6
+  },
+  "addthis.com": {
+    "inter_audience": 31
+  },
+  "pubmatic.com": {
+    "inter_audience": 0
+  },
+  "quantserve.com": {
+    "inter_audience": 0
+  },
+  "rfihub.com": {
+    "inter_audience": 0
+  },
+  "thebrighttag.com": {
+    "inter_audience": 0
+  },
+  "nuancemobility.net": {
+    "inter_audience": 0
+  },
+  "eyeota.net": {
+    "inter_audience": 0
+  },
+  "ensighten.com": {
+    "inter_audience": 0
+  },
+  "gwallet.com": {
+    "inter_audience": 0
+  },
+  "abc.net.au": {
+    "inter_audience": 12
+  },
+  "sbs.com.au": {
+    "inter_audience": 1
+  },
+  "alamy.com": {
+    "inter_audience": 12
+  },
+  "yieldoptimizer.com": {
+    "inter_audience": 0
+  },
+  "wifiradiofrontier.com": {
+    "inter_audience": 8
+  },
+  "xtgreat.com": {
+    "inter_audience": 7
+  },
+  "yelpcdn.com": {
+    "inter_audience": 0
+  },
+  "videologygroup.com": {
+    "inter_audience": 42
+  },
+  "aljazeera.net": {
+    "inter_audience": 0
+  },
+  "salesforceliveagent.com": {
+    "inter_audience": 19
+  },
+  "keen.io": {
+    "inter_audience": 20
+  },
+  "proofpoint.com": {
+    "inter_audience": 11
+  },
+  "nba.com": {
+    "inter_audience": 19
+  },
+  "nodesource.com": {
+    "inter_audience": 18
+  },
+  "perimeterx.net": {
+    "inter_audience": 0
+  },
+  "bell.ca": {
+    "inter_audience": 0
+  },
+  "netflixdnstest10.com": {
+    "inter_audience": 0
+  },
+  "netflixdnstest8.com": {
+    "inter_audience": 0
+  },
+  "lgtvcommon.com": {
+    "inter_audience": 0
+  },
+  "micpn.com": {
+    "inter_audience": 0
+  },
+  "theplatform.com": {
+    "inter_audience": 5
+  },
+  "espnqa.com": {
+    "inter_audience": 0
+  },
+  "nbc.com": {
+    "inter_audience": 39
+  },
+  "taplytics.com": {
+    "inter_audience": 14
+  },
+  "yetwp.com": {
+    "inter_audience": 0
+  },
+  "adthrive.com": {
+    "inter_audience": 5
+  },
+  "globaltv.com": {
+    "inter_audience": 14
+  },
+  "corusappservices.com": {
+    "inter_audience": 0
+  },
+  "cbsallaccess.ca": {
+    "inter_audience": 23
+  },
+  "mozilla.net": {
+    "inter_audience": 0
+  },
+  "zenkube.com": {
+    "inter_audience": 0
+  },
+  "strava.com": {
+    "inter_audience": 20
+  },
+  "slack-edge.com": {
+    "inter_audience": 56
+  },
+  "bouyguesbox.fr": {
+    "inter_audience": 0
+  },
+  "6cloud.fr": {
+    "inter_audience": 0
+  },
+  "6play.fr": {
+    "inter_audience": 0
+  },
+  "bouygtel.fr": {
+    "inter_audience": 0
+  },
+  "tf1.fr": {
+    "inter_audience": 0
+  },
+  "android.com": {
+    "inter_audience": 0
+  },
+  "m6web.fr": {
+    "inter_audience": 0
+  },
+  "spideo.com": {
+    "inter_audience": 0
+  },
+  "ocs.fr": {
+    "inter_audience": 0
+  },
+  "bouyguestelecom.fr": {
+    "inter_audience": 0
+  },
+  "bytel.fr": {
+    "inter_audience": 0
+  },
+  "francetelevisions.fr": {
+    "inter_audience": 0
+  },
+  "filmotv.fr": {
+    "inter_audience": 0
+  },
+  "transacme.com": {
+    "inter_audience": 15
+  },
+  "clashofclans.com": {
+    "inter_audience": 14
+  },
+  "dishanywhere.com": {
+    "inter_audience": 15
+  },
+  "echostarcdn.com": {
+    "inter_audience": 0
+  },
+  "echostarbeta.com": {
+    "inter_audience": 0
+  },
+  "dishaccess.tv": {
+    "inter_audience": 0
+  },
+  "digitalsmiths.net": {
+    "inter_audience": 0
+  },
+  "dishnetwork.com": {
+    "inter_audience": 17
+  },
+  "capitalonegslbex.com": {
+    "inter_audience": 0
+  },
+  "vevo.com": {
+    "inter_audience": 29
+  },
+  "ctv-global.club": {
+    "inter_audience": 0
+  },
+  "vevoprd.com": {
+    "inter_audience": 0
+  },
+  "panoramio.com": {
+    "inter_audience": 0
+  },
+  "tre.se": {
+    "inter_audience": 0
+  },
+  "hbomax.com": {
+    "inter_audience": 35
+  },
+  "bravesoftware.com": {
+    "inter_audience": 0
+  },
+  "poshmark.com": {
+    "inter_audience": 16
+  },
+  "capitalone.com": {
+    "inter_audience": 9
+  },
+  "web-rubika-ir.gq": {
+    "inter_audience": 0
+  },
+  "gamepass.com": {
+    "inter_audience": 1
+  },
+  "fastcast4u.com": {
+    "inter_audience": 0
+  },
+  "highwebmedia.com": {
+    "inter_audience": 0
+  },
+  "youtu.be": {
+    "inter_audience": 12
+  },
+  "cdnstream1.com": {
+    "inter_audience": 0
+  },
+  "flurry.com": {
+    "inter_audience": 21
+  },
+  "adjust.com": {
+    "inter_audience": 22
+  },
+  "ttvnw.net": {
+    "inter_audience": 0
+  },
+  "ubnt.com": {
+    "inter_audience": 26
+  },
+  "weatherlive.info": {
+    "inter_audience": 49
+  },
+  "b17g.services": {
+    "inter_audience": 0
+  },
+  "herewetest.com": {
+    "inter_audience": 0
+  },
+  "mysamba.tv": {
+    "inter_audience": 0
+  },
+  "webrootanywhere.com": {
+    "inter_audience": 15
+  },
+  "qq.com": {
+    "inter_audience": 0
+  },
+  "pavv.co.kr": {
+    "inter_audience": 0
+  },
+  "dzcdn.net": {
+    "inter_audience": 0
+  },
+  "supersonicads.com": {
+    "inter_audience": 0
+  },
+  "time.com": {
+    "inter_audience": 36
+  },
+  "philo.com": {
+    "inter_audience": 55
+  },
+  "abc7news.com": {
+    "inter_audience": 0
+  },
+  "conductrics.com": {
+    "inter_audience": 2
+  },
+  "mozaws.net": {
+    "inter_audience": 16
+  },
+  "sail-horizon.com": {
+    "inter_audience": 0
+  },
+  "mrporoxy.com": {
+    "inter_audience": 0
+  },
+  "as9105.com": {
+    "inter_audience": 0
+  },
+  "as13285.net": {
+    "inter_audience": 0
+  },
+  "your-server.de": {
+    "inter_audience": 2
+  },
+  "tvplayer.com": {
+    "inter_audience": 1
+  },
+  "skychnl.net": {
+    "inter_audience": 0
+  },
+  "google.fr": {
+    "inter_audience": 12
+  },
+  "adform.net": {
+    "inter_audience": 0
+  },
+  "polyfill.io": {
+    "inter_audience": 4
+  },
+  "anvato.net": {
+    "inter_audience": 0
+  },
+  "irobotapi.com": {
+    "inter_audience": 0
+  },
+  "protect-your-privacy.net": {
+    "inter_audience": 15
+  },
+  "google.cn": {
+    "inter_audience": 20
+  },
+  "leanstream-hq.com": {
+    "inter_audience": 0
+  },
+  "leanstream.co": {
+    "inter_audience": 0
+  },
+  "amazon.it": {
+    "inter_audience": 15
+  },
+  "inmobi.com": {
+    "inter_audience": 19
+  },
+  "adnxs.com": {
+    "inter_audience": 0
+  },
+  "ib-ibi.com": {
+    "inter_audience": 0
+  },
+  "dmxleo.com": {
+    "inter_audience": 0
+  },
+  "truoptik.com": {
+    "inter_audience": 0
+  },
+  "videoamp.com": {
+    "inter_audience": 21
+  },
+  "smartcasttv.com": {
+    "inter_audience": 0
+  },
+  "rollbar.com": {
+    "inter_audience": 22
+  },
+  "pointmediatracker.com": {
+    "inter_audience": 0
+  },
+  "adtdp.com": {
+    "inter_audience": 0
+  },
+  "bidsimulator.com": {
+    "inter_audience": 0
+  },
+  "aws-prd.net": {
+    "inter_audience": 0
+  },
+  "2cnt.net": {
+    "inter_audience": 0
+  },
+  "at-o.net": {
+    "inter_audience": 0
+  },
+  "linode.com": {
+    "inter_audience": 4
+  },
+  "godaddy.com": {
+    "inter_audience": 8
+  },
+  "criteo.com": {
+    "inter_audience": 15
+  },
+  "rubiconproject.com": {
+    "inter_audience": 39
+  },
+  "trafficmanager.net": {
+    "inter_audience": 13
+  },
+  "ipredictive.com": {
+    "inter_audience": 0
+  },
+  "entertainow.com": {
+    "inter_audience": 0
+  },
+  "360yield.com": {
+    "inter_audience": 0
+  },
+  "bidswitch.net": {
+    "inter_audience": 0
+  },
+  "cdn77.org": {
+    "inter_audience": 0
+  },
+  "smartadserver.com": {
+    "inter_audience": 36
+  },
+  "adsco.re": {
+    "inter_audience": 0
+  },
+  "de17a.com": {
+    "inter_audience": 0
+  },
+  "disquscdn.com": {
+    "inter_audience": 4
+  },
+  "redditmedia.com": {
+    "inter_audience": 17
+  },
+  "skimresources.com": {
+    "inter_audience": 0
+  },
+  "vdo.ai": {
+    "inter_audience": 4
+  },
+  "popcash.net": {
+    "inter_audience": 8
+  },
+  "shareaholic.com": {
+    "inter_audience": 8
+  },
+  "wamu.org": {
+    "inter_audience": 6
+  },
+  "stackpathcdn.com": {
+    "inter_audience": 5
+  },
+  "chatango.com": {
+    "inter_audience": 0
+  },
+  "tapas.net": {
+    "inter_audience": 1
+  },
+  "spectrum.net": {
+    "inter_audience": 4
+  },
+  "google.se": {
+    "inter_audience": 12
+  },
+  "bitmoji.com": {
+    "inter_audience": 8
+  },
+  "britbox.com": {
+    "inter_audience": 27
+  },
+  "ngtv.io": {
+    "inter_audience": 0
+  },
+  "claspws.tv": {
+    "inter_audience": 0
+  },
+  "cnn.com": {
+    "inter_audience": 0
+  },
+  "winehq.org": {
+    "inter_audience": 0
+  },
+  "google.dk": {
+    "inter_audience": 12
+  },
+  "pubnub.com": {
+    "inter_audience": 16
+  },
+  "urbanairship.com": {
+    "inter_audience": 97
+  },
+  "samsung.com": {
+    "inter_audience": 5
+  },
+  "instagram.com": {
+    "inter_audience": 8
+  },
+  "openx.net": {
+    "inter_audience": 0
+  },
+  "nextdoor.com": {
+    "inter_audience": 37
+  },
+  "nordvpn.com": {
+    "inter_audience": 19
+  },
+  "spcsdns.net": {
+    "inter_audience": 0
+  },
+  "samsungapps.com": {
+    "inter_audience": 0
+  },
+  "samsungpositioning.com": {
+    "inter_audience": 0
+  },
+  "sc-cdn.net": {
+    "inter_audience": 0
+  },
+  "xfinity.com": {
+    "inter_audience": 38
+  },
+  "connatix.com": {
+    "inter_audience": 19
+  },
+  "hbogo.eu": {
+    "inter_audience": 0
+  },
+  "raygun.io": {
+    "inter_audience": 6
+  },
+  "tivo.com": {
+    "inter_audience": 79
+  },
+  "tivoservice.com": {
+    "inter_audience": 0
+  },
+  "amazon.ca": {
+    "inter_audience": 4
+  },
+  "mopub.com": {
+    "inter_audience": 31
+  },
+  "cuebiq.com": {
+    "inter_audience": 18
+  },
+  "mobdro.me": {
+    "inter_audience": 0
+  },
+  "mobdro.to": {
+    "inter_audience": 0
+  },
+  "lionairthai.com": {
+    "inter_audience": 3
+  },
+  "luminatinet.com": {
+    "inter_audience": 0
+  },
+  "lum-sdk.io": {
+    "inter_audience": 0
+  },
+  "luminati.io": {
+    "inter_audience": 16
+  },
+  "hola.org": {
+    "inter_audience": 4
+  },
+  "g2afse.com": {
+    "inter_audience": 0
+  },
+  "livenation.com": {
+    "inter_audience": 16
+  },
+  "appinstall.click": {
+    "inter_audience": 0
+  },
+  "ana.co.jp": {
+    "inter_audience": 46
+  },
+  "hkexpress.com": {
+    "inter_audience": 5
+  },
+  "axs.com": {
+    "inter_audience": 18
+  },
+  "apptrk.io": {
+    "inter_audience": 0
+  },
+  "ipinfo.io": {
+    "inter_audience": 5
+  },
+  "tappx.com": {
+    "inter_audience": 0
+  },
+  "stubhub.com": {
+    "inter_audience": 24
+  },
+  "adsymptotic.com": {
+    "inter_audience": 0
+  },
+  "evenue.net": {
+    "inter_audience": 0
+  },
+  "casalemedia.com": {
+    "inter_audience": 0
+  },
+  "appier.net": {
+    "inter_audience": 18
+  },
+  "tbnetwork.im": {
+    "inter_audience": 0
+  },
+  "southwest.com": {
+    "inter_audience": 9
+  },
+  "liftoff.io": {
+    "inter_audience": 12
+  },
+  "trading-rtbg.com": {
+    "inter_audience": 0
+  },
+  "mobileadtrading.com": {
+    "inter_audience": 11
+  },
+  "c2a.in": {
+    "inter_audience": 0
+  },
+  "56txs4.com": {
+    "inter_audience": 0
+  },
+  "apsalar.com": {
+    "inter_audience": 0
+  },
+  "typekit.net": {
+    "inter_audience": 0
+  },
+  "cargurus.com": {
+    "inter_audience": 21
+  },
+  "lumtest.com": {
+    "inter_audience": 0
+  },
+  "craigslist.org": {
+    "inter_audience": 3
+  },
+  "srvtwelve.com": {
+    "inter_audience": 0
+  },
+  "tmol.io": {
+    "inter_audience": 0
+  },
+  "geoedge.be": {
+    "inter_audience": 0
+  },
+  "mxptint.net": {
+    "inter_audience": 0
+  },
+  "apptimize.com": {
+    "inter_audience": 52
+  },
+  "trendmd.com": {
+    "inter_audience": 42
+  },
+  "zentrick.com": {
+    "inter_audience": 0
+  },
+  "yieldmo.com": {
+    "inter_audience": 15
+  },
+  "tickets.com": {
+    "inter_audience": 26
+  },
+  "decenterads.com": {
+    "inter_audience": 13
+  },
+  "steampowered.com": {
+    "inter_audience": 19
+  },
+  "mrsvg.co": {
+    "inter_audience": 0
+  },
+  "imgix.net": {
+    "inter_audience": 8
+  },
+  "sr.se": {
+    "inter_audience": 36
+  },
+  "startappservice.com": {
+    "inter_audience": 0
+  },
+  "truenet.ai": {
+    "inter_audience": 0
+  },
+  "speedtest.net": {
+    "inter_audience": 15
+  },
+  "adcolony.com": {
+    "inter_audience": 29
+  },
+  "cinemaapk.com": {
+    "inter_audience": 0
+  },
+  "dvmr.fr": {
+    "inter_audience": 0
+  },
+  "fipradio.fr": {
+    "inter_audience": 0
+  },
+  "megaphone.fm": {
+    "inter_audience": 10
+  },
+  "chtbl.com": {
+    "inter_audience": 0
+  },
+  "chdrstatic.com": {
+    "inter_audience": 0
+  },
+  "anchor.fm": {
+    "inter_audience": 19
+  },
+  "control4.com": {
+    "inter_audience": 32
+  },
+  "acast.com": {
+    "inter_audience": 0
+  },
+  "sky.com": {
+    "inter_audience": 0
+  },
+  "nowtv.com": {
+    "inter_audience": 0
+  },
+  "epgsky.com": {
+    "inter_audience": 0
+  },
+  "flickr.com": {
+    "inter_audience": 41
+  },
+  "y5en.com": {
+    "inter_audience": 4
+  },
+  "meetcircle.com": {
+    "inter_audience": 17
+  },
+  "usersnap.com": {
+    "inter_audience": 6
+  },
+  "sky.it": {
+    "inter_audience": 0
+  },
+  "rds.it": {
+    "inter_audience": 0
+  },
+  "google.co.in": {
+    "inter_audience": 12
+  },
+  "google.es": {
+    "inter_audience": 12
+  },
+  "dmcdn.net": {
+    "inter_audience": 0
+  },
+  "livenewson.com": {
+    "inter_audience": 0
+  },
+  "simpli.fi": {
+    "inter_audience": 43
+  },
+  "hp.com": {
+    "inter_audience": 67
+  },
+  "switchnap.com": {
+    "inter_audience": 4
+  },
+  "ip138.com": {
+    "inter_audience": 0
+  },
+  "usbla.net": {
+    "inter_audience": 0
+  },
+  "franceinter.fr": {
+    "inter_audience": 0
+  },
+  "radiofrance.fr": {
+    "inter_audience": 0
+  },
+  "dev.to": {
+    "inter_audience": 1
+  },
+  "acquia.com": {
+    "inter_audience": 22
+  },
+  "adrise.tv": {
+    "inter_audience": 0
+  },
+  "playstation.com": {
+    "inter_audience": 20
+  },
+  "spbtv.com": {
+    "inter_audience": 0
+  },
+  "cbsinteractive.com": {
+    "inter_audience": 23
+  },
+  "akstat.io": {
+    "inter_audience": 0
+  },
+  "go-mpulse.net": {
+    "inter_audience": 0
+  },
+  "tablotv.com": {
+    "inter_audience": 13
+  },
+  "viki.io": {
+    "inter_audience": 0
+  },
+  "yimg.com": {
+    "inter_audience": 0
+  },
+  "vidible.tv": {
+    "inter_audience": 0
+  },
+  "aptoide.com": {
+    "inter_audience": 2
+  },
+  "ottmon.net": {
+    "inter_audience": 0
+  },
+  "uber.com": {
+    "inter_audience": 28
+  },
+  "googlehosted.com": {
+    "inter_audience": 0
+  },
+  "fontawesome.com": {
+    "inter_audience": 6
+  },
+  "malwarebytes.com": {
+    "inter_audience": 22
+  },
+  "digitaloceanspaces.com": {
+    "inter_audience": 12
+  },
+  "firefoxusercontent.com": {
+    "inter_audience": 0
+  },
+  "symcd.com": {
+    "inter_audience": 0
+  },
+  "sfx.ms": {
+    "inter_audience": 0
+  },
+  "iubenda.com": {
+    "inter_audience": 177
+  },
+  "footprintdns.com": {
+    "inter_audience": 0
+  },
+  "mb-cosmos.com": {
+    "inter_audience": 0
+  },
+  "office.net": {
+    "inter_audience": 5
+  },
+  "openstreetmap.org": {
+    "inter_audience": 13
+  },
+  "mwbsys.com": {
+    "inter_audience": 0
+  },
+  "zoho.com": {
+    "inter_audience": 15
+  },
+  "pdfarchitect.org": {
+    "inter_audience": 0
+  },
+  "tecnica-formazione-sicurezza.eu": {
+    "inter_audience": 4
+  },
+  "google.pl": {
+    "inter_audience": 12
+  },
+  "hifuntv.com": {
+    "inter_audience": 0
+  },
+  "proxygo.us": {
+    "inter_audience": 0
+  },
+  "technohouser.com": {
+    "inter_audience": 0
+  },
+  "google.at": {
+    "inter_audience": 12
+  },
+  "lbdns-streamguys.com": {
+    "inter_audience": 0
+  },
+  "tmsimg.com": {
+    "inter_audience": 12
+  },
+  "cbsnews.com": {
+    "inter_audience": 34
+  },
+  "xumo.com": {
+    "inter_audience": 38
+  },
+  "tiqcdn.com": {
+    "inter_audience": 0
+  },
+  "showtime.com": {
+    "inter_audience": 23
+  },
+  "zwyr157wwiu6eior.com": {
+    "inter_audience": 0
+  },
+  "licdn.com": {
+    "inter_audience": 47
+  },
+  "shopbop.com": {
+    "inter_audience": 19
+  },
+  "telkku.com": {
+    "inter_audience": 0
+  },
+  "bigpond.net.au": {
+    "inter_audience": 0
+  },
+  "stan.com.au": {
+    "inter_audience": 6
+  },
+  "oztam.com.au": {
+    "inter_audience": 3
+  },
+  "kqed.org": {
+    "inter_audience": 11
+  },
+  "appcloudbox.net": {
+    "inter_audience": 8
+  },
+  "samqaicongen.com": {
+    "inter_audience": 0
+  },
+  "moviesanywhere.com": {
+    "inter_audience": 23
+  },
+  "smardroid.com": {
+    "inter_audience": 0
+  },
+  "flipboard.com": {
+    "inter_audience": 24
+  },
+  "appboy.com": {
+    "inter_audience": 40
+  },
+  "247e.com": {
+    "inter_audience": 0
+  },
+  "streamon.fm": {
+    "inter_audience": 0
+  },
+  "proxy4.win": {
+    "inter_audience": 0
+  },
+  "starproxy.pro": {
+    "inter_audience": 0
+  },
+  "tedcdn.com": {
+    "inter_audience": 2
+  },
+  "alexa.com": {
+    "inter_audience": 0
+  },
+  "telia.com": {
+    "inter_audience": 5
+  },
+  "telia.se": {
+    "inter_audience": 32
+  },
+  "bahnhof.se": {
+    "inter_audience": 5
+  },
+  "viaplay.tv": {
+    "inter_audience": 0
+  },
+  "ad-delivery.net": {
+    "inter_audience": 0
+  },
+  "mtg-api.com": {
+    "inter_audience": 0
+  },
+  "viaplay.se": {
+    "inter_audience": 9
+  },
+  "espnradio.com": {
+    "inter_audience": 0
+  },
+  "bmo.com": {
+    "inter_audience": 23
+  },
+  "expedia.com": {
+    "inter_audience": 25
+  },
+  "thinknearhub.com": {
+    "inter_audience": 0
+  },
+  "hotrk0.com": {
+    "inter_audience": 0
+  },
+  "socialelitelab.com": {
+    "inter_audience": 0
+  },
+  "contextweb.com": {
+    "inter_audience": 40
+  },
+  "bfmio.com": {
+    "inter_audience": 0
+  },
+  "admixer.net": {
+    "inter_audience": 37
+  },
+  "adadvisor.net": {
+    "inter_audience": 0
+  },
+  "vertamedia.com": {
+    "inter_audience": 11
+  },
+  "lum-superproxy.io": {
+    "inter_audience": 0
+  },
+  "theatlantic.com": {
+    "inter_audience": 20
+  },
+  "gannett-cdn.com": {
+    "inter_audience": 0
+  },
+  "video-cloud.net": {
+    "inter_audience": 0
+  },
+  "geniatech.net": {
+    "inter_audience": 0
+  },
+  "charter.com": {
+    "inter_audience": 22
+  },
+  "aetnd.com": {
+    "inter_audience": 0
+  },
+  "b17g.net": {
+    "inter_audience": 0
+  },
+  "eyeviewads.com": {
+    "inter_audience": 0
+  },
+  "mydlink.com": {
+    "inter_audience": 5
+  },
+  "clearleap.com": {
+    "inter_audience": 0
+  },
+  "hbonordic.com": {
+    "inter_audience": 35
+  },
+  "hboespana.com": {
+    "inter_audience": 35
+  },
+  "mxpnl.com": {
+    "inter_audience": 0
+  },
+  "4vendeta.com": {
+    "inter_audience": 0
+  },
+  "omdbapi.com": {
+    "inter_audience": 5
+  },
+  "1337x.to": {
+    "inter_audience": 0
+  },
+  "kickass2.cc": {
+    "inter_audience": 0
+  },
+  "magnetdl.com": {
+    "inter_audience": 0
+  },
+  "scnsrc.me": {
+    "inter_audience": 0
+  },
+  "limetorrents.info": {
+    "inter_audience": 1
+  },
+  "ddlvalley.me": {
+    "inter_audience": 0
+  },
+  "sofascore.com": {
+    "inter_audience": 4
+  },
+  "sceneddl.online": {
+    "inter_audience": 0
+  },
+  "watch-series.co": {
+    "inter_audience": 12
+  },
+  "pirateproxy.live": {
+    "inter_audience": 0
+  },
+  "filmsofts.com": {
+    "inter_audience": 0
+  },
+  "2ddl.vg": {
+    "inter_audience": 11
+  },
+  "watchserieshd.cc": {
+    "inter_audience": 0
+  },
+  "rmz.cr": {
+    "inter_audience": 0
+  },
+  "crwdcntrl.net": {
+    "inter_audience": 0
+  },
+  "unpkg.com": {
+    "inter_audience": 0
+  },
+  "pactsafe.io": {
+    "inter_audience": 0
+  },
+  "hockeyapp.net": {
+    "inter_audience": 0
+  },
+  "audible.de": {
+    "inter_audience": 8
+  },
+  "zendesk.com": {
+    "inter_audience": 43
+  },
+  "fonts.net": {
+    "inter_audience": 0
+  },
+  "amazonpay.com": {
+    "inter_audience": 0
+  },
+  "heapanalytics.com": {
+    "inter_audience": 43
+  },
+  "zdassets.com": {
+    "inter_audience": 37
+  },
+  "statcounter.com": {
+    "inter_audience": 2
+  },
+  "dns.google": {
+    "inter_audience": 0
+  },
+  "fxnetworks.com": {
+    "inter_audience": 98
+  },
+  "mi-img.com": {
+    "inter_audience": 3
+  },
+  "sensara.co": {
+    "inter_audience": 0
+  },
+  "yle.fi": {
+    "inter_audience": 0
+  },
+  "katsomo.fi": {
+    "inter_audience": 0
+  },
+  "idailybread.com": {
+    "inter_audience": 8
+  },
+  "zdf.de": {
+    "inter_audience": 0
+  },
+  "swrve.com": {
+    "inter_audience": 11
+  },
+  "youbora.com": {
+    "inter_audience": 1
+  },
+  "vtuner.com": {
+    "inter_audience": 0
+  },
+  "nexage.com": {
+    "inter_audience": 1
+  },
+  "safedk.com": {
+    "inter_audience": 0
+  },
+  "applovin.com": {
+    "inter_audience": 31
+  },
+  "aerserv.com": {
+    "inter_audience": 9
+  },
+  "domotz.com": {
+    "inter_audience": 146
+  },
+  "nbcsports.com": {
+    "inter_audience": 39
+  },
+  "fandango.com": {
+    "inter_audience": 34
+  },
+  "greenwichmeantime.com": {
+    "inter_audience": 2
+  },
+  "adswizz.com": {
+    "inter_audience": 10
+  },
+  "netsystemsresearch.com": {
+    "inter_audience": 0
+  },
+  "sumo.com": {
+    "inter_audience": 1
+  },
+  "king.com": {
+    "inter_audience": 46
+  },
+  "piazza.com": {
+    "inter_audience": 35
+  },
+  "keybaseapi.com": {
+    "inter_audience": 0
+  },
+  "synology.me": {
+    "inter_audience": 0
+  },
+  "wanadoo.fr": {
+    "inter_audience": 0
+  },
+  "myqnapcloud.com": {
+    "inter_audience": 4
+  },
+  "virtua.com.br": {
+    "inter_audience": 0
+  },
+  "telstra.net": {
+    "inter_audience": 0
+  },
+  "proxad.net": {
+    "inter_audience": 0
+  },
+  "pacificonet.cl": {
+    "inter_audience": 0
+  },
+  "czerecnac.ru": {
+    "inter_audience": 0
+  },
+  "163data.com.cn": {
+    "inter_audience": 0
+  },
+  "digikabel.hu": {
+    "inter_audience": 1
+  },
+  "seed.net.tw": {
+    "inter_audience": 0
+  },
+  "online.nl": {
+    "inter_audience": 0
+  },
+  "mesh.ad.jp": {
+    "inter_audience": 0
+  },
+  "criminalip.com": {
+    "inter_audience": 0
+  },
+  "cdninstagram.com": {
+    "inter_audience": 0
+  },
+  "duckdns.org": {
+    "inter_audience": 5
+  },
+  "gfsvc.com": {
+    "inter_audience": 0
+  },
+  "media.net": {
+    "inter_audience": 27
+  },
+  "portaltv.tv": {
+    "inter_audience": 0
+  },
+  "vstlsrv.com": {
+    "inter_audience": 0
+  },
+  "channel5.com": {
+    "inter_audience": 31
+  },
+  "ccma.cat": {
+    "inter_audience": 0
+  },
+  "adsmoloco.com": {
+    "inter_audience": 26
+  },
+  "sfr.net": {
+    "inter_audience": 0
+  },
+  "subscene.com": {
+    "inter_audience": 2
+  },
+  "wbez.org": {
+    "inter_audience": 4
+  },
+  "ionitech.cn": {
+    "inter_audience": 0
+  },
+  "youview.tv": {
+    "inter_audience": 0
+  },
+  "homewizard.com": {
+    "inter_audience": 4
+  },
+  "fetchtv.com.au": {
+    "inter_audience": 3
+  },
+  "proxycast.org": {
+    "inter_audience": 0
+  },
+  "rtl.fr": {
+    "inter_audience": 0
+  },
+  "rmc.fr": {
+    "inter_audience": 0
+  },
+  "streamakaci.com": {
+    "inter_audience": 0
+  },
+  "radiofrance-podcast.net": {
+    "inter_audience": 0
+  },
+  "compal-fota.com": {
+    "inter_audience": 0
+  },
+  "acmeaom.com": {
+    "inter_audience": 6
+  },
+  "wostreaming.net": {
+    "inter_audience": 2
+  },
+  "pmc.com": {
+    "inter_audience": 44
+  },
+  "neulion.com": {
+    "inter_audience": 10
+  },
+  "sonos.com": {
+    "inter_audience": 37
+  },
+  "snapchat.com": {
+    "inter_audience": 15
+  },
+  "google.co.jp": {
+    "inter_audience": 12
+  },
+  "skyegloup.com": {
+    "inter_audience": 0
+  },
+  "yupptv.com": {
+    "inter_audience": 0
+  },
+  "mainframe2.com": {
+    "inter_audience": 0
+  },
+  "herokuappdev.com": {
+    "inter_audience": 0
+  },
+  "nknlabs.io": {
+    "inter_audience": 0
+  },
+  "cognet.tv": {
+    "inter_audience": 0
+  },
+  "att.com": {
+    "inter_audience": 27
+  },
+  "att.net": {
+    "inter_audience": 0
+  },
+  "ezvizlife.com": {
+    "inter_audience": 21
+  },
+  "whatsapp.net": {
+    "inter_audience": 0
+  },
+  "shawcable.net": {
+    "inter_audience": 3
+  },
+  "appcenter.ms": {
+    "inter_audience": 228
+  },
+  "incapdns.net": {
+    "inter_audience": 0
+  },
+  "alphacdn.net": {
+    "inter_audience": 0
+  },
+  "hik-connect.com": {
+    "inter_audience": 41
+  },
+  "official-coupons.com": {
+    "inter_audience": 0
+  },
+  "google.net": {
+    "inter_audience": 12
+  },
+  "myfritz.net": {
+    "inter_audience": 19
+  },
+  "ardmediathek.de": {
+    "inter_audience": 0
+  },
+  "cellular.de": {
+    "inter_audience": 92
+  },
+  "cedexis.com": {
+    "inter_audience": 0
+  },
+  "umd.edu": {
+    "inter_audience": 0
+  },
+  "blubrry.com": {
+    "inter_audience": 13
+  },
+  "twit.tv": {
+    "inter_audience": 13
+  },
+  "amzns2s.com": {
+    "inter_audience": 0
+  },
+  "omnycontent.com": {
+    "inter_audience": 9
+  },
+  "infomaniak.ch": {
+    "inter_audience": 0
+  },
+  "ctvnews.ca": {
+    "inter_audience": 0
+  },
+  "thewirecutter.com": {
+    "inter_audience": 45
+  },
+  "bazaarvoice.com": {
+    "inter_audience": 22
+  },
+  "dazn.com": {
+    "inter_audience": 24
+  },
+  "imgur.com": {
+    "inter_audience": 6
+  },
+  "awsstatic.com": {
+    "inter_audience": 27
+  },
+  "accedo.tv": {
+    "inter_audience": 70
+  },
+  "tns-cs.net": {
+    "inter_audience": 0
+  },
+  "nrk.no": {
+    "inter_audience": 0
+  },
+  "videmob.com": {
+    "inter_audience": 8
+  },
+  "tealiumiq.com": {
+    "inter_audience": 18
+  },
+  "freebox.fr": {
+    "inter_audience": 1
+  },
+  "spectrum.com": {
+    "inter_audience": 22
+  },
+  "tmodns.net": {
+    "inter_audience": 0
+  },
+  "livejasmin.com": {
+    "inter_audience": 21
+  },
+  "exosrv.com": {
+    "inter_audience": 0
+  },
+  "xnxx-cdn.com": {
+    "inter_audience": 0
+  },
+  "load.la": {
+    "inter_audience": 0
+  },
+  "trafficfactory.biz": {
+    "inter_audience": 0
+  },
+  "iwanttodeliver.com": {
+    "inter_audience": 0
+  },
+  "fibianet.dk": {
+    "inter_audience": 0
+  },
+  "rmtag.com": {
+    "inter_audience": 0
+  },
+  "mediahubaustralia.com": {
+    "inter_audience": 0
+  },
+  "grafana.com": {
+    "inter_audience": 22
+  },
+  "zillowstatic.com": {
+    "inter_audience": 29
+  },
+  "rlje.net": {
+    "inter_audience": 11
+  },
+  "bloomberg.com": {
+    "inter_audience": 0
+  },
+  "bbc.com": {
+    "inter_audience": 0
+  },
+  "rr.com": {
+    "inter_audience": 0
+  },
+  "fast.com": {
+    "inter_audience": 20
+  },
+  "bustle.com": {
+    "inter_audience": 13
+  },
+  "amazonmusic.com": {
+    "inter_audience": 8
+  },
+  "newshog.co": {
+    "inter_audience": 0
+  },
+  "wpdigital.net": {
+    "inter_audience": 0
+  },
+  "shifen.com": {
+    "inter_audience": 0
+  },
+  "sumologic.com": {
+    "inter_audience": 18
+  },
+  "podnapisi.net": {
+    "inter_audience": 1
+  },
+  "bsplayer-subtitles.com": {
+    "inter_audience": 0
+  },
+  "allophone.net": {
+    "inter_audience": 9
+  },
+  "man---dns-main.city": {
+    "inter_audience": 0
+  },
+  "one.one": {
+    "inter_audience": 6
+  },
+  "bose.io": {
+    "inter_audience": 0
+  },
+  "game-mode.net": {
+    "inter_audience": 0
+  },
+  "braze.com": {
+    "inter_audience": 40
+  },
+  "crazyegg.com": {
+    "inter_audience": 12
+  },
+  "byteoversea.net": {
+    "inter_audience": 0
+  },
+  "tiktokv.com": {
+    "inter_audience": 0
+  },
+  "grindr.com": {
+    "inter_audience": 21
+  },
+  "wsimg.com": {
+    "inter_audience": 35
+  },
+  "joebiden.com": {
+    "inter_audience": 4
+  },
+  "foresee.com": {
+    "inter_audience": 59
+  },
+  "grindr.mobi": {
+    "inter_audience": 0
+  },
+  "cookielaw.org": {
+    "inter_audience": 10
+  },
+  "onetrust.com": {
+    "inter_audience": 19
+  },
+  "cloudflare-dns.com": {
+    "inter_audience": 34
+  },
+  "fb.com": {
+    "inter_audience": 7
+  },
+  "canaryis.com": {
+    "inter_audience": 34
+  },
+  "na-att-idns.net": {
+    "inter_audience": 0
+  },
+  "on.net": {
+    "inter_audience": 4
+  },
+  "home-assistant.io": {
+    "inter_audience": 1
+  },
+  "castlabs.com": {
+    "inter_audience": 9
+  },
+  "swm.digital": {
+    "inter_audience": 0
+  },
+  "tapjoy.com": {
+    "inter_audience": 15
+  },
+  "ssacdn.com": {
+    "inter_audience": 11
+  },
+  "vungle.com": {
+    "inter_audience": 12
+  },
+  "tenjin.io": {
+    "inter_audience": 12
+  },
+  "ipify.org": {
+    "inter_audience": 11
+  },
+  "secb2b.com": {
+    "inter_audience": 12
+  },
+  "umeng.com": {
+    "inter_audience": 0
+  },
+  "mcafee.com": {
+    "inter_audience": 15
+  },
+  "machbird.com": {
+    "inter_audience": 17
+  },
+  "cpcphone.com": {
+    "inter_audience": 0
+  },
+  "gameanalytics.com": {
+    "inter_audience": 13
+  },
+  "wirelessregistry.com": {
+    "inter_audience": 52
+  },
+  "awsglobalaccelerator.com": {
+    "inter_audience": 0
+  },
+  "ltsapis.goog": {
+    "inter_audience": 0
+  },
+  "coolkit.cc": {
+    "inter_audience": 0
+  },
+  "gemius.pl": {
+    "inter_audience": 0
+  },
+  "iterable.com": {
+    "inter_audience": 20
+  },
+  "b6f8f0d234e90f6ec62aff9fce41a6a437997809.info": {
+    "inter_audience": 0
+  },
+  "lijit.com": {
+    "inter_audience": 0
+  },
+  "acompli.net": {
+    "inter_audience": 0
+  },
+  "slack.com": {
+    "inter_audience": 30
+  },
+  "33across.com": {
+    "inter_audience": 12
+  },
+  "whitepages.com": {
+    "inter_audience": 36
+  },
+  "callapp.com": {
+    "inter_audience": 23
+  },
+  "ovrc.com": {
+    "inter_audience": 26
+  },
+  "securecomwireless.com": {
+    "inter_audience": 0
+  },
+  "linksys.com": {
+    "inter_audience": 0
+  },
+  "miwifi.com": {
+    "inter_audience": 9
+  },
+  "airable.io": {
+    "inter_audience": 0
+  },
+  "not--thi-s-one.builders": {
+    "inter_audience": 0
+  },
+  "onetwotrade.com": {
+    "inter_audience": 11
+  },
+  "kabel-deutschland.de": {
+    "inter_audience": 0
+  },
+  "verizon.net": {
+    "inter_audience": 54
+  },
+  "optonline.net": {
+    "inter_audience": 52
+  },
+  "poneytelecom.eu": {
+    "inter_audience": 0
+  },
+  "videotron.ca": {
+    "inter_audience": 12
+  },
+  "tpnet.pl": {
+    "inter_audience": 0
+  },
+  "seedbox.io": {
+    "inter_audience": 1
+  },
+  "netvigator.com": {
+    "inter_audience": 9
+  },
+  "dodo.net.au": {
+    "inter_audience": 0
+  },
+  "telecomitalia.it": {
+    "inter_audience": 0
+  },
+  "torguard.org": {
+    "inter_audience": 0
+  },
+  "ertelecom.ru": {
+    "inter_audience": 0
+  },
+  "tpgi.com.au": {
+    "inter_audience": 1
+  },
+  "prtelecom.hu": {
+    "inter_audience": 0
+  },
+  "telenet.be": {
+    "inter_audience": 0
+  },
+  "spd-mgts.ru": {
+    "inter_audience": 0
+  },
+  "jazztel.es": {
+    "inter_audience": 0
+  },
+  "virginm.net": {
+    "inter_audience": 0
+  },
+  "ttnet.com.tr": {
+    "inter_audience": 0
+  },
+  "ebox.net": {
+    "inter_audience": 3
+  },
+  "rdsnet.ro": {
+    "inter_audience": 0
+  },
+  "comunitel.net": {
+    "inter_audience": 3
+  },
+  "bhn.net": {
+    "inter_audience": 0
+  },
+  "plus.net": {
+    "inter_audience": 15
+  },
+  "inet.fi": {
+    "inter_audience": 0
+  },
+  "btguard.com": {
+    "inter_audience": 0
+  },
+  "bezeqint.net": {
+    "inter_audience": 2
+  },
+  "dyndns.org": {
+    "inter_audience": 0
+  },
+  "cgates.lt": {
+    "inter_audience": 1
+  },
+  "16clouds.com": {
+    "inter_audience": 0
+  },
+  "cable.net.co": {
+    "inter_audience": 0
+  },
+  "rima-tde.net": {
+    "inter_audience": 0
+  },
+  "fastwebnet.it": {
+    "inter_audience": 3
+  },
+  "vodafonedsl.it": {
+    "inter_audience": 0
+  },
+  "getinternet.no": {
+    "inter_audience": 0
+  },
+  "ngi.it": {
+    "inter_audience": 0
+  },
+  "t-ipconnect.de": {
+    "inter_audience": 0
+  },
+  "direct-adsl.nl": {
+    "inter_audience": 0
+  },
+  "chello.pl": {
+    "inter_audience": 1
+  },
+  "pulsedmedia.com": {
+    "inter_audience": 1
+  },
+  "sytes.net": {
+    "inter_audience": 12
+  },
+  "tdc.net": {
+    "inter_audience": 0
+  },
+  "so-net.ne.jp": {
+    "inter_audience": 0
+  },
+  "chtrptr.net": {
+    "inter_audience": 0
+  },
+  "cgocable.ca": {
+    "inter_audience": 7
+  },
+  "onecomm.bm": {
+    "inter_audience": 5
+  },
+  "kabel-badenwuerttemberg.de": {
+    "inter_audience": 0
+  },
+  "novotelecom.ru": {
+    "inter_audience": 0
+  },
+  "icpnet.pl": {
+    "inter_audience": 0
+  },
+  "rr-severses.no": {
+    "inter_audience": 0
+  },
+  "telenor.hu": {
+    "inter_audience": 0
+  },
+  "telemach.net": {
+    "inter_audience": 0
+  },
+  "snarc.au": {
+    "inter_audience": 0
+  },
+  "centertel.pl": {
+    "inter_audience": 0
+  },
+  "gol.net.gy": {
+    "inter_audience": 0
+  },
+  "wanidarum.com": {
+    "inter_audience": 0
+  },
+  "time.net.my": {
+    "inter_audience": 4
+  },
+  "telecom.sk": {
+    "inter_audience": 0
+  },
+  "tp-link.com": {
+    "inter_audience": 21
+  },
+  "gowarriorathletics.com": {
+    "inter_audience": 24
+  },
+  "lifx.co": {
+    "inter_audience": 0
+  },
+  "vaders.tv": {
+    "inter_audience": 0
+  },
+  "ksmobile.com": {
+    "inter_audience": 16
+  },
+  "waipu.tv": {
+    "inter_audience": 0
+  },
+  "wpstr.tv": {
+    "inter_audience": 0
+  },
+  "minecraft.net": {
+    "inter_audience": 1
+  },
+  "lbsg.net": {
+    "inter_audience": 5
+  },
+  "hivebedrock.network": {
+    "inter_audience": 0
+  },
+  "cubecraft.net": {
+    "inter_audience": 14
+  },
+  "msgamestudios.com": {
+    "inter_audience": 0
+  },
+  "inpvp.net": {
+    "inter_audience": 0
+  },
+  "mineplex.com": {
+    "inter_audience": 0
+  },
+  "google.com.tw": {
+    "inter_audience": 12
+  },
+  "tenor.com": {
+    "inter_audience": 0
+  },
+  "usa-streams.com": {
+    "inter_audience": 0
+  },
+  "dwatchseries.to": {
+    "inter_audience": 0
+  },
+  "hwcdn.net": {
+    "inter_audience": 15
+  },
+  "hiyaapi.com": {
+    "inter_audience": 0
+  },
+  "t-mobile.com": {
+    "inter_audience": 30
+  },
+  "me2zengame.com": {
+    "inter_audience": 0
+  },
+  "fitbit.com": {
+    "inter_audience": 26
+  },
+  "freeviewplus.net.au": {
+    "inter_audience": 0
+  },
+  "ui.com": {
+    "inter_audience": 26
+  },
+  "ctfassets.net": {
+    "inter_audience": 0
+  },
+  "inbake.com": {
+    "inter_audience": 0
+  },
+  "foxneodigital.com": {
+    "inter_audience": 0
+  },
+  "outlook.com": {
+    "inter_audience": 228
+  },
+  "tv3cloud.com": {
+    "inter_audience": 0
+  },
+  "qwest.net": {
+    "inter_audience": 18
+  },
+  "whatbox.ca": {
+    "inter_audience": 2
+  },
+  "google.com.br": {
+    "inter_audience": 12
+  },
+  "yandex.net": {
+    "inter_audience": 0
+  },
+  "cdnlast.com": {
+    "inter_audience": 11
+  },
+  "kinecosystembi.com": {
+    "inter_audience": 0
+  },
+  "azure-devices.net": {
+    "inter_audience": 0
+  },
+  "gotdns.ch": {
+    "inter_audience": 12
+  },
+  "paypal.com": {
+    "inter_audience": 0
+  },
+  "vodafone.com": {
+    "inter_audience": 12
+  },
+  "outlookmobile.com": {
+    "inter_audience": 0
+  },
+  "wordpress.com": {
+    "inter_audience": 24
+  },
+  "ebillsoft.net": {
+    "inter_audience": 0
+  },
+  "united.cloud": {
+    "inter_audience": 0
+  },
+  "optusnet.com.au": {
+    "inter_audience": 2
+  },
+  "tile-api.com": {
+    "inter_audience": 0
+  },
+  "streamguys.com": {
+    "inter_audience": 0
+  },
+  "logitechmusic.com": {
+    "inter_audience": 47
+  },
+  "audible.com": {
+    "inter_audience": 8
+  },
+  "s-msn.com": {
+    "inter_audience": 0
+  },
+  "cdn77.com": {
+    "inter_audience": 5
+  },
+  "zoom.us": {
+    "inter_audience": 25
+  },
+  "oneplus.net": {
+    "inter_audience": 0
+  },
+  "zee5.com": {
+    "inter_audience": 21
+  },
+  "brightcove.com": {
+    "inter_audience": 96
+  },
+  "jwpsrv.com": {
+    "inter_audience": 0
+  },
+  "cineplex.com": {
+    "inter_audience": 51
+  },
+  "brightcove.net": {
+    "inter_audience": 0
+  },
+  "3gppnetwork.org": {
+    "inter_audience": 0
+  },
+  "epocrates.com": {
+    "inter_audience": 8
+  },
+  "newshosting.com": {
+    "inter_audience": 14
+  },
+  "whispersystems.org": {
+    "inter_audience": 6
+  },
+  "fongo.com": {
+    "inter_audience": 0
+  },
+  "newsy.com": {
+    "inter_audience": 13
+  },
+  "7tv.de": {
+    "inter_audience": 0
+  },
+  "animelab.com": {
+    "inter_audience": 12
+  },
+  "dnaip.fi": {
+    "inter_audience": 0
+  },
+  "gracedigital.com": {
+    "inter_audience": 2
+  },
+  "open-telekom-cloud.com": {
+    "inter_audience": 0
+  },
+  "hicloud.com": {
+    "inter_audience": 23
+  },
+  "247mahjong.com": {
+    "inter_audience": 0
+  },
+  "arn.com.au": {
+    "inter_audience": 3
+  },
+  "actcorp.in": {
+    "inter_audience": 1
+  },
+  "telmtp.xyz": {
+    "inter_audience": 0
+  },
+  "tapresearch.com": {
+    "inter_audience": 31
+  },
+  "iesnare.com": {
+    "inter_audience": 10
+  },
+  "fibertel.com.ar": {
+    "inter_audience": 0
+  },
+  "la.net.ua": {
+    "inter_audience": 0
+  },
+  "telenor.se": {
+    "inter_audience": 14
+  },
+  "home.ne.jp": {
+    "inter_audience": 0
+  },
+  "privacy.network": {
+    "inter_audience": 0
+  },
+  "ptd.net": {
+    "inter_audience": 0
+  },
+  "fvpnz.co.nz": {
+    "inter_audience": 0
+  },
+  "midco.net": {
+    "inter_audience": 6
+  },
+  "supercell.com": {
+    "inter_audience": 14
+  },
+  "telly.com": {
+    "inter_audience": 0
+  },
+  "wt-eu02.net": {
+    "inter_audience": 0
+  },
+  "steelhousemedia.com": {
+    "inter_audience": 0
+  },
+  "abcotvs.com": {
+    "inter_audience": 1
+  },
+  "grandenetworks.net": {
+    "inter_audience": 0
+  },
+  "jwpcdn.com": {
+    "inter_audience": 0
+  },
+  "jwpltx.com": {
+    "inter_audience": 0
+  },
+  "cedexis-radar.net": {
+    "inter_audience": 0
+  },
+  "rtve.es": {
+    "inter_audience": 0
+  },
+  "worldstream.nl": {
+    "inter_audience": 0
+  },
+  "brid.tv": {
+    "inter_audience": 25
+  },
+  "trackmenowsitn.club": {
+    "inter_audience": 0
+  },
+  "trkmenowapptwtree.site": {
+    "inter_audience": 0
+  },
+  "emisiondof6.com": {
+    "inter_audience": 0
+  },
+  "appstmira.eu": {
+    "inter_audience": 0
+  },
+  "samsungsmartcam.com": {
+    "inter_audience": 31
+  },
+  "thetake.com": {
+    "inter_audience": 10
+  },
+  "cgocable.net": {
+    "inter_audience": 0
+  },
+  "avangarddsl.ru": {
+    "inter_audience": 0
+  },
+  "rt.ru": {
+    "inter_audience": 0
+  },
+  "pldt.net": {
+    "inter_audience": 0
+  },
+  "broadband.hu": {
+    "inter_audience": 0
+  },
+  "eastlink.ca": {
+    "inter_audience": 0
+  },
+  "cableonline.com.mx": {
+    "inter_audience": 0
+  },
+  "ono.com": {
+    "inter_audience": 0
+  },
+  "alshamil.net.ae": {
+    "inter_audience": 0
+  },
+  "volia.net": {
+    "inter_audience": 0
+  },
+  "ziggozakelijk.nl": {
+    "inter_audience": 1
+  },
+  "hispeed.ch": {
+    "inter_audience": 0
+  },
+  "orange.es": {
+    "inter_audience": 0
+  },
+  "ab.ru": {
+    "inter_audience": 0
+  },
+  "00cdn.com": {
+    "inter_audience": 0
+  },
+  "gorillaservers.com": {
+    "inter_audience": 2
+  },
+  "online.no": {
+    "inter_audience": 18
+  },
+  "remotewd.com": {
+    "inter_audience": 0
+  },
+  "dion.ne.jp": {
+    "inter_audience": 0
+  },
+  "so-net.net.tw": {
+    "inter_audience": 0
+  },
+  "superhosting.cz": {
+    "inter_audience": 0
+  },
+  "sura.ru": {
+    "inter_audience": 3
+  },
+  "enoent.fr": {
+    "inter_audience": 0
+  },
+  "coloring.zone": {
+    "inter_audience": 0
+  },
+  "ovh.net": {
+    "inter_audience": 0
+  },
+  "telfort.nl": {
+    "inter_audience": 0
+  },
+  "xirvik.com": {
+    "inter_audience": 2
+  },
+  "ip-5-135-163.eu": {
+    "inter_audience": 5
+  },
+  "plus.com": {
+    "inter_audience": 15
+  },
+  "ovpn.com": {
+    "inter_audience": 1
+  },
+  "ip-142-4-214.net": {
+    "inter_audience": 5
+  },
+  "InterCable.net": {
+    "inter_audience": 0
+  },
+  "garodo.net": {
+    "inter_audience": 19
+  },
+  "casasio.co.uk": {
+    "inter_audience": 0
+  },
+  "sonarr.tv": {
+    "inter_audience": 0
+  },
+  "pulseway.com": {
+    "inter_audience": 8
+  },
+  "pusher.com": {
+    "inter_audience": 18
+  },
+  "livebarn.com": {
+    "inter_audience": 0
+  },
+  "knology.net": {
+    "inter_audience": 0
+  },
+  "windstream.net": {
+    "inter_audience": 1
+  },
+  "consolidated.net": {
+    "inter_audience": 0
+  },
+  "centurylink.net": {
+    "inter_audience": 1
+  },
+  "bellmts.net": {
+    "inter_audience": 0
+  },
+  "tds.net": {
+    "inter_audience": 1
+  },
+  "frontiernet.net": {
+    "inter_audience": 0
+  },
+  "bresnan.net": {
+    "inter_audience": 0
+  },
+  "vyvebroadband.net": {
+    "inter_audience": 0
+  },
+  "sparklight.net": {
+    "inter_audience": 0
+  },
+  "googlefiber.net": {
+    "inter_audience": 5
+  },
+  "vivintsky.com": {
+    "inter_audience": 1
+  },
+  "spacemonkey.com": {
+    "inter_audience": 0
+  },
+  "myicomfort.com": {
+    "inter_audience": 0
+  },
+  "samsungadhub.com": {
+    "inter_audience": 5
+  },
+  "indexww.com": {
+    "inter_audience": 0
+  },
+  "slkimg.com": {
+    "inter_audience": 0
+  },
+  "indigodomo.net": {
+    "inter_audience": 2
+  },
+  "bensoftware.com": {
+    "inter_audience": 1
+  },
+  "sc-prod.net": {
+    "inter_audience": 0
+  },
+  "peacocktv.com": {
+    "inter_audience": 39
+  },
+  "nbcuas.com": {
+    "inter_audience": 0
+  },
+  "nielsendigital.net": {
+    "inter_audience": 0
+  },
+  "tubi.io": {
+    "inter_audience": 0
+  },
+  "adition.com": {
+    "inter_audience": 6
+  },
+  "uktv.co.uk": {
+    "inter_audience": 3
+  },
+  "stv.tv": {
+    "inter_audience": 20
+  },
+  "youidomain2.com": {
+    "inter_audience": 0
+  },
+  "wwsga.me": {
+    "inter_audience": 0
+  },
+  "loggly.com": {
+    "inter_audience": 36
+  },
+  "aljazeera.com": {
+    "inter_audience": 9
+  },
+  "aetn.com": {
+    "inter_audience": 27
+  },
+  "ml314.com": {
+    "inter_audience": 23
+  },
+  "liadm.com": {
+    "inter_audience": 0
+  },
+  "getpocket.com": {
+    "inter_audience": 6
+  },
+  "obitalk.com": {
+    "inter_audience": 3
+  },
+  "obihai.com": {
+    "inter_audience": 0
+  },
+  "freephoneline.ca": {
+    "inter_audience": 7
+  },
+  "august.com": {
+    "inter_audience": 15
+  },
+  "docker.io": {
+    "inter_audience": 7
+  },
+  "metronetinc.com": {
+    "inter_audience": 15
+  },
+  "mikrotec.com": {
+    "inter_audience": 1
+  },
+  "miamioh.edu": {
+    "inter_audience": 11
+  },
+  "automatic.com": {
+    "inter_audience": 0
+  },
+  "ifttt.com": {
+    "inter_audience": 23
+  },
+  "ecouser.net": {
+    "inter_audience": 2
+  },
+  "revenuecat.com": {
+    "inter_audience": 12
+  },
+  "hubitat.com": {
+    "inter_audience": 6
+  },
+  "anveo.com": {
+    "inter_audience": 7
+  },
+  "podbean.com": {
+    "inter_audience": 0
+  },
+  "simplecast.com": {
+    "inter_audience": 11
+  },
+  "room84.ch": {
+    "inter_audience": 0
+  },
+  "paradise-distribution.com": {
+    "inter_audience": 4
+  },
+  "aboveandbeyond.nu": {
+    "inter_audience": 3
+  },
+  "entale.co": {
+    "inter_audience": 0
+  },
+  "podcastone.com": {
+    "inter_audience": 24
+  },
+  "thequantifiedbody.net": {
+    "inter_audience": 10
+  },
+  "vidazoo.com": {
+    "inter_audience": 154
+  },
+  "nocturnalradio.org": {
+    "inter_audience": 0
+  },
+  "kyauandalbert.com": {
+    "inter_audience": 18
+  },
+  "podomatic.com": {
+    "inter_audience": 39
+  },
+  "athom.com": {
+    "inter_audience": 4
+  },
+  "verisure.com": {
+    "inter_audience": 4
+  },
+  "printeron.net": {
+    "inter_audience": 14
+  },
+  "intel.com": {
+    "inter_audience": 33
+  },
+  "nicehash.com": {
+    "inter_audience": 19
+  },
+  "ahashpool.com": {
+    "inter_audience": 0
+  },
+  "zpool.ca": {
+    "inter_audience": 0
+  },
+  "bethesda.net": {
+    "inter_audience": 51
+  },
+  "p76prod.systems": {
+    "inter_audience": 0
+  },
+  "wnyc.org": {
+    "inter_audience": 3
+  },
+  "rfi.fr": {
+    "inter_audience": 9
+  },
+  "soletechnology.com": {
+    "inter_audience": 0
+  },
+  "slacker.com": {
+    "inter_audience": 15
+  },
+  "uktvapi.co.uk": {
+    "inter_audience": 0
+  },
+  "galaxie.ca": {
+    "inter_audience": 11
+  },
+  "netvision.net.il": {
+    "inter_audience": 0
+  },
+  "surfshark.com": {
+    "inter_audience": 8
+  },
+  "networking.apple": {
+    "inter_audience": 0
+  },
+  "navyfederal.org": {
+    "inter_audience": 3
+  },
+  "sophosupd.com": {
+    "inter_audience": 0
+  },
+  "utorrent.com": {
+    "inter_audience": 21
+  },
+  "bittorrent.com": {
+    "inter_audience": 21
+  },
+  "telesp.net.br": {
+    "inter_audience": 0
+  },
+  "nzbgeek.info": {
+    "inter_audience": 0
+  },
+  "adj.st": {
+    "inter_audience": 0
+  },
+  "opentable.com": {
+    "inter_audience": 20
+  },
+  "ticketmaster.ca": {
+    "inter_audience": 20
+  },
+  "verizon.com": {
+    "inter_audience": 54
+  },
+  "logi.com": {
+    "inter_audience": 43
+  },
+  "vzw.com": {
+    "inter_audience": 54
+  },
+  "verizonwireless.com": {
+    "inter_audience": 0
+  },
+  "bumble.com": {
+    "inter_audience": 25
+  },
+  "hoteles.com": {
+    "inter_audience": 24
+  },
+  "hotels.com": {
+    "inter_audience": 24
+  },
+  "bird.co": {
+    "inter_audience": 28
+  },
+  "sitestream.net": {
+    "inter_audience": 0
+  },
+  "servercontrol.com.au": {
+    "inter_audience": 0
+  },
+  "nomanssky.com": {
+    "inter_audience": 7
+  },
+  "avazunativeads.com": {
+    "inter_audience": 0
+  },
+  "myactv.net": {
+    "inter_audience": 4
+  },
+  "ondemand.com": {
+    "inter_audience": 0
+  },
+  "transmissionbt.com": {
+    "inter_audience": 1
+  },
+  "sknt.ru": {
+    "inter_audience": 0
+  },
+  "btc-net.bg": {
+    "inter_audience": 0
+  },
+  "mastercabo.com.br": {
+    "inter_audience": 0
+  },
+  "vnpt.vn": {
+    "inter_audience": 0
+  },
+  "bellaliant.net": {
+    "inter_audience": 0
+  },
+  "ctinets.com": {
+    "inter_audience": 5
+  },
+  "rcncustomer.com": {
+    "inter_audience": 0
+  },
+  "corbina.ru": {
+    "inter_audience": 0
+  },
+  "asianet.co.th": {
+    "inter_audience": 0
+  },
+  "teksavvy.com": {
+    "inter_audience": 3
+  },
+  "axtel.net": {
+    "inter_audience": 0
+  },
+  "suddenlink.net": {
+    "inter_audience": 52
+  },
+  "baltnet.ru": {
+    "inter_audience": 0
+  },
+  "ihug.co.nz": {
+    "inter_audience": 0
+  },
+  "unitymediagroup.de": {
+    "inter_audience": 0
+  },
+  "3bb.co.th": {
+    "inter_audience": 0
+  },
+  "omlinux.info": {
+    "inter_audience": 0
+  },
+  "starhub.net.sg": {
+    "inter_audience": 0
+  },
+  "adincube.com": {
+    "inter_audience": 0
+  },
+  "kbtelecom.net": {
+    "inter_audience": 11
+  },
+  "kyivstar.net": {
+    "inter_audience": 0
+  },
+  "telekom.rs": {
+    "inter_audience": 20
+  },
+  "petcube.com": {
+    "inter_audience": 49
+  },
+  "rogers.com": {
+    "inter_audience": 1
+  },
+  "gc-internal.net": {
+    "inter_audience": 0
+  },
+  "dice.se": {
+    "inter_audience": 45
+  },
+  "tnt-ea.com": {
+    "inter_audience": 0
+  },
+  "stanza.co": {
+    "inter_audience": 9
+  },
+  "afrihost.co.za": {
+    "inter_audience": 4
+  },
+  "epicgames.net": {
+    "inter_audience": 0
+  },
+  "orbitbhyve.com": {
+    "inter_audience": 0
+  },
+  "ups.com": {
+    "inter_audience": 32
+  },
+  "evergreen.space": {
+    "inter_audience": 0
+  },
+  "feedly.com": {
+    "inter_audience": 15
+  },
+  "netrange.com": {
+    "inter_audience": 9
+  },
+  "tventry.com": {
+    "inter_audience": 0
+  },
+  "btncdn.com": {
+    "inter_audience": 0
+  },
+  "htvapps.com": {
+    "inter_audience": 0
+  },
+  "melon.co.kr": {
+    "inter_audience": 0
+  },
+  "cjenm.com": {
+    "inter_audience": 0
+  },
+  "att-idns.net": {
+    "inter_audience": 0
+  },
+  "2ksports.com": {
+    "inter_audience": 11
+  },
+  "arrivalist.com": {
+    "inter_audience": 28
+  },
+  "pjiptn.com": {
+    "inter_audience": 0
+  },
+  "acexedge.com": {
+    "inter_audience": 0
+  },
+  "ssix.io": {
+    "inter_audience": 0
+  },
+  "imgsynd.com": {
+    "inter_audience": 0
+  },
+  "trkn.us": {
+    "inter_audience": 0
+  },
+  "wix.com": {
+    "inter_audience": 37
+  },
+  "quilvem.com": {
+    "inter_audience": 0
+  },
+  "datasrvsys.com": {
+    "inter_audience": 0
+  },
+  "tvsquared.com": {
+    "inter_audience": 380
+  },
+  "teads.tv": {
+    "inter_audience": 11
+  },
+  "parsely.com": {
+    "inter_audience": 13
+  },
+  "algolia.net": {
+    "inter_audience": 2
+  },
+  "section.io": {
+    "inter_audience": 4
+  },
+  "paypalobjects.com": {
+    "inter_audience": 29
+  },
+  "de.com": {
+    "inter_audience": 24
+  },
+  "spiegel.de": {
+    "inter_audience": 0
+  },
+  "kastenfisch.de": {
+    "inter_audience": 0
+  },
+  "conative.de": {
+    "inter_audience": 0
+  },
+  "immedia-semi.com": {
+    "inter_audience": 0
+  },
+  "cnn.io": {
+    "inter_audience": 1
+  },
+  "chartbeat.net": {
+    "inter_audience": 40
+  },
+  "usabilla.com": {
+    "inter_audience": 34
+  },
+  "tribalfusion.com": {
+    "inter_audience": 68
+  },
+  "connexity.net": {
+    "inter_audience": 0
+  },
+  "intentiq.com": {
+    "inter_audience": 26
+  },
+  "doordash.com": {
+    "inter_audience": 0
+  },
+  "s-onetag.com": {
+    "inter_audience": 0
+  },
+  "storygize.net": {
+    "inter_audience": 0
+  },
+  "zemanta.com": {
+    "inter_audience": 18
+  },
+  "bhvrdbd.com": {
+    "inter_audience": 0
+  },
+  "wral.com": {
+    "inter_audience": 38
+  },
+  "timewarnercable.com": {
+    "inter_audience": 22
+  },
+  "ddns.net": {
+    "inter_audience": 12
+  },
+  "amcrestsecurity.com": {
+    "inter_audience": 0
+  },
+  "tzulo.com": {
+    "inter_audience": 4
+  },
+  "cnbcfm.com": {
+    "inter_audience": 2
+  },
+  "bn765.com": {
+    "inter_audience": 0
+  },
+  "truex.com": {
+    "inter_audience": 14
+  },
+  "skycdp.com": {
+    "inter_audience": 0
+  },
+  "rhdemo.io": {
+    "inter_audience": 0
+  },
+  "fubo.tv": {
+    "inter_audience": 16
+  },
+  "unsplash.com": {
+    "inter_audience": 21
+  },
+  "playmakerservices.com": {
+    "inter_audience": 0
+  },
+  "dotscreen.com": {
+    "inter_audience": 5
+  },
+  "nba.net": {
+    "inter_audience": 19
+  },
+  "nbad.io": {
+    "inter_audience": 0
+  },
+  "rttnx.net": {
+    "inter_audience": 0
+  },
+  "count.ly": {
+    "inter_audience": 6
+  },
+  "prod-infinitum.com.mx": {
+    "inter_audience": 0
+  },
+  "fido.ca": {
+    "inter_audience": 0
+  },
+  "mchsi.com": {
+    "inter_audience": 0
+  },
+  "trackscale.net": {
+    "inter_audience": 0
+  },
+  "tagson.co": {
+    "inter_audience": 0
+  },
+  "trknewsapp.site": {
+    "inter_audience": 0
+  },
+  "swipeforwardgames.com": {
+    "inter_audience": 15
+  },
+  "infojobs.com": {
+    "inter_audience": 0
+  },
+  "movistarplus.es": {
+    "inter_audience": 0
+  },
+  "geniptv.com": {
+    "inter_audience": 27
+  },
+  "save.tv": {
+    "inter_audience": 0
+  },
+  "wd2go.com": {
+    "inter_audience": 6
+  },
+  "vonage.net": {
+    "inter_audience": 0
+  },
+  "asuscomm.com": {
+    "inter_audience": 23
+  },
+  "zeop.re": {
+    "inter_audience": 0
+  },
+  "zoominternet.net": {
+    "inter_audience": 0
+  },
+  "acndigital.net": {
+    "inter_audience": 0
+  },
+  "100tb-infra.io": {
+    "inter_audience": 0
+  },
+  "activision.com": {
+    "inter_audience": 43
+  },
+  "west-datacenter.net": {
+    "inter_audience": 0
+  },
+  "yourwaystofreedom.com": {
+    "inter_audience": 0
+  },
+  "ct.co.cr": {
+    "inter_audience": 0
+  },
+  "cablevision.net.mx": {
+    "inter_audience": 0
+  },
+  "centurytel.net": {
+    "inter_audience": 1
+  },
+  "digis.net": {
+    "inter_audience": 8
+  },
+  "mlg.com": {
+    "inter_audience": 38
+  },
+  "datahound.com": {
+    "inter_audience": 0
+  },
+  "psyonix.com": {
+    "inter_audience": 29
+  },
+  "psynet.gg": {
+    "inter_audience": 0
+  },
+  "midphase.com": {
+    "inter_audience": 11
+  },
+  "lifetism.info": {
+    "inter_audience": 0
+  },
+  "elderscrollsonline.com": {
+    "inter_audience": 52
+  },
+  "comhem.se": {
+    "inter_audience": 0
+  },
+  "wideopenwest.com": {
+    "inter_audience": 0
+  },
+  "ctm.net": {
+    "inter_audience": 7
+  },
+  "exede.net": {
+    "inter_audience": 0
+  },
+  "warframe.com": {
+    "inter_audience": 44
+  },
+  "ffxiv.com": {
+    "inter_audience": 0
+  },
+  "gearboxsoftware.com": {
+    "inter_audience": 37
+  },
+  "freshchat.com": {
+    "inter_audience": 40
+  },
+  "disneynow.com": {
+    "inter_audience": 1
+  },
+  "rapidgator.net": {
+    "inter_audience": 1
+  },
+  "musixmatch.com": {
+    "inter_audience": 5
+  },
+  "enosishermes.com": {
+    "inter_audience": 0
+  },
+  "360overseas.com": {
+    "inter_audience": 0
+  },
+  "as47377.net": {
+    "inter_audience": 0
+  },
+  "ibm.com": {
+    "inter_audience": 15
+  },
+  "ustream.tv": {
+    "inter_audience": 15
+  },
+  "vivozap.com.br": {
+    "inter_audience": 0
+  },
+  "scaleway.com": {
+    "inter_audience": 3
+  },
+  "stanford.edu": {
+    "inter_audience": 4
+  },
+  "stretchoid.com": {
+    "inter_audience": 0
+  },
+  "shodan.io": {
+    "inter_audience": 0
+  },
+  "bikersbash.com": {
+    "inter_audience": 0
+  },
+  "shadowserver.org": {
+    "inter_audience": 17
+  },
+  "onyphe.io": {
+    "inter_audience": 1
+  },
+  "research.com": {
+    "inter_audience": 3
+  },
+  "sparqnet.net": {
+    "inter_audience": 0
+  },
+  "quadmetrics.com": {
+    "inter_audience": 1
+  },
+  "cnt-grms.ec": {
+    "inter_audience": 0
+  },
+  "telnor.net": {
+    "inter_audience": 0
+  },
+  "parallaxv.com": {
+    "inter_audience": 0
+  },
+  "aruba.it": {
+    "inter_audience": 0
+  },
+  "axntechnologies.in": {
+    "inter_audience": 0
+  },
+  "superasteriod.club": {
+    "inter_audience": 0
+  },
+  "playstationcloud.com": {
+    "inter_audience": 0
+  },
+  "glasgow-ky.com": {
+    "inter_audience": 2
+  },
+  "atlanticbb.net": {
+    "inter_audience": 1
+  },
+  "bellsouth.net": {
+    "inter_audience": 0
+  },
+  "hargray.net": {
+    "inter_audience": 0
+  },
+  "highland.net": {
+    "inter_audience": 0
+  },
+  "ctvea.net": {
+    "inter_audience": 0
+  },
+  "deadorbit.net": {
+    "inter_audience": 0
+  },
+  "gravityshavings.net": {
+    "inter_audience": 0
+  },
+  "tedata.net": {
+    "inter_audience": 0
+  },
+  "versatel.nl": {
+    "inter_audience": 0
+  },
+  "belgacom.be": {
+    "inter_audience": 1
+  },
+  "telkomsa.net": {
+    "inter_audience": 0
+  },
+  "ziggo.nl": {
+    "inter_audience": 1
+  },
+  "vf.net.nz": {
+    "inter_audience": 0
+  },
+  "starman.ee": {
+    "inter_audience": 0
+  },
+  "start.ca": {
+    "inter_audience": 3
+  },
+  "vodafone.pt": {
+    "inter_audience": 0
+  },
+  "sparkbb.co.nz": {
+    "inter_audience": 0
+  },
+  "lyse.net": {
+    "inter_audience": 0
+  },
+  "singnet.com.sg": {
+    "inter_audience": 0
+  },
+  "netbynet.ru": {
+    "inter_audience": 0
+  },
+  "speedy.net.pe": {
+    "inter_audience": 0
+  },
+  "vectranet.pl": {
+    "inter_audience": 0
+  },
+  "ukrtel.net": {
+    "inter_audience": 0
+  },
+  "byfly.by": {
+    "inter_audience": 0
+  },
+  "tfn.net.tw": {
+    "inter_audience": 0
+  },
+  "contabo.host": {
+    "inter_audience": 3
+  },
+  "planet.nl": {
+    "inter_audience": 0
+  },
+  "177.in-addr.arpa": {
+    "inter_audience": 0
+  },
+  "tula.net": {
+    "inter_audience": 0
+  },
+  "soes.su": {
+    "inter_audience": 0
+  },
+  "myrepublic.com.sg": {
+    "inter_audience": 0
+  },
+  "ts-astra.ru": {
+    "inter_audience": 0
+  },
+  "cooolbox.bg": {
+    "inter_audience": 11
+  },
+  "kuzbass.net": {
+    "inter_audience": 0
+  },
+  "elisa-mobile.fi": {
+    "inter_audience": 0
+  },
+  "au-net.ne.jp": {
+    "inter_audience": 0
+  },
+  "ip-176-31-248.eu": {
+    "inter_audience": 5
+  },
+  "convergeict.com": {
+    "inter_audience": 0
+  },
+  "carrier.com": {
+    "inter_audience": 19
+  },
+  "cloud-home.me": {
+    "inter_audience": 0
+  },
+  "bom.gov.au": {
+    "inter_audience": 0
+  },
+  "zerotier.com": {
+    "inter_audience": 0
+  },
+  "oraclejava.net": {
+    "inter_audience": 0
+  },
+  "tado.com": {
+    "inter_audience": 5
+  },
+  "aws.dev": {
+    "inter_audience": 0
+  },
+  "appcues.com": {
+    "inter_audience": 17
+  },
+  "corusdigitaldev.com": {
+    "inter_audience": 8
+  },
+  "dictionary.com": {
+    "inter_audience": 53
+  },
+  "okpayinvest.net": {
+    "inter_audience": 0
+  },
+  "amcrestcloud.com": {
+    "inter_audience": 0
+  },
+  "duckduckgo.com": {
+    "inter_audience": 12
+  },
+  "squeezenetwork.com": {
+    "inter_audience": 14
+  },
+  "rackcdn.com": {
+    "inter_audience": 0
+  },
+  "zype.com": {
+    "inter_audience": 6
+  },
+  "sctv.ch": {
+    "inter_audience": 0
+  },
+  "sky.ch": {
+    "inter_audience": 1
+  },
+  "totinternet.net": {
+    "inter_audience": 0
+  },
+  "foxtel.net.au": {
+    "inter_audience": 0
+  },
+  "mindspring.com": {
+    "inter_audience": 0
+  },
+  "t-com.ne.jp": {
+    "inter_audience": 0
+  },
+  "vtr.net": {
+    "inter_audience": 0
+  },
+  "streamguys.us": {
+    "inter_audience": 0
+  },
+  "arlo.com": {
+    "inter_audience": 11
+  },
+  "prxu.org": {
+    "inter_audience": 0
+  },
+  "kwimer.com": {
+    "inter_audience": 0
+  },
+  "playfirst.com": {
+    "inter_audience": 0
+  },
+  "pocketcasts.com": {
+    "inter_audience": 17
+  },
+  "myportfolio.com": {
+    "inter_audience": 10
+  },
+  "myconnectwise.net": {
+    "inter_audience": 0
+  },
+  "umkc.edu": {
+    "inter_audience": 1
+  },
+  "kcrw.com": {
+    "inter_audience": 29
+  },
+  "realtor.com": {
+    "inter_audience": 23
+  },
+  "nchc.tv": {
+    "inter_audience": 9
+  },
+  "unrulymedia.com": {
+    "inter_audience": 0
+  },
+  "vonagenetworks.net": {
+    "inter_audience": 27
+  },
+  "hoerradar.de": {
+    "inter_audience": 0
+  },
+  "limelightcrm.com": {
+    "inter_audience": 33
+  },
+  "bomgarcloud.com": {
+    "inter_audience": 20
+  },
+  "denon.jp": {
+    "inter_audience": 0
+  },
+  "trustpilot.com": {
+    "inter_audience": 11
+  },
+  "vtuner.net": {
+    "inter_audience": 0
+  },
+  "theoceanscleanup.me.uk": {
+    "inter_audience": 0
+  },
+  "dynatrace.com": {
+    "inter_audience": 10
+  },
+  "mbtace.com": {
+    "inter_audience": 0
+  },
+  "addradio.de": {
+    "inter_audience": 0
+  },
+  "bosecm.com": {
+    "inter_audience": 0
+  },
+  "rundsp.com": {
+    "inter_audience": 0
+  },
+  "yamaha.com": {
+    "inter_audience": 6
+  },
+  "addradio.net": {
+    "inter_audience": 0
+  },
+  "addrad.io": {
+    "inter_audience": 0
+  },
+  "radioapi.io": {
+    "inter_audience": 0
+  },
+  "jazz.fm": {
+    "inter_audience": 7
+  },
+  "clashroyale.com": {
+    "inter_audience": 14
+  },
+  "sverigesradio.se": {
+    "inter_audience": 3
+  },
+  "tidal.com": {
+    "inter_audience": 0
+  },
+  "oceandraw.com": {
+    "inter_audience": 6
+  },
+  "radioline.fr": {
+    "inter_audience": 4
+  },
+  "reddirtproxies.io": {
+    "inter_audience": 0
+  },
+  "fon.com": {
+    "inter_audience": 13
+  },
+  "moovitapp.com": {
+    "inter_audience": 17
+  },
+  "invoxia.io": {
+    "inter_audience": 0
+  },
+  "withings.net": {
+    "inter_audience": 22
+  },
+  "dailymirror.lk": {
+    "inter_audience": 3
+  },
+  "samsungepa.com": {
+    "inter_audience": 0
+  },
+  "tizenservice.com": {
+    "inter_audience": 0
+  },
+  "jbhifi.com.au": {
+    "inter_audience": 11
+  },
+  "aerisapi.com": {
+    "inter_audience": 0
+  },
+  "dslavangard.ru": {
+    "inter_audience": 0
+  },
+  "hongtongtonggame.com": {
+    "inter_audience": 0
+  },
+  "jst586.com": {
+    "inter_audience": 0
+  },
+  "hulianwujie.com": {
+    "inter_audience": 0
+  },
+  "zmcho.cc": {
+    "inter_audience": 0
+  },
+  "rzhengdeli.cn": {
+    "inter_audience": 0
+  },
+  "xueshine.com": {
+    "inter_audience": 0
+  },
+  "sywm04.top": {
+    "inter_audience": 0
+  },
+  "ip-51-77-137.eu": {
+    "inter_audience": 0
+  },
+  "sdqjp46.top": {
+    "inter_audience": 0
+  },
+  "exileservers.com": {
+    "inter_audience": 0
+  },
+  "pwnedpasswords.com": {
+    "inter_audience": 0
+  },
+  "sonos.radio": {
+    "inter_audience": 0
+  },
+  "mios.com": {
+    "inter_audience": 0
+  },
+  "samsungknowledge.com": {
+    "inter_audience": 0
+  },
+  "origin.com": {
+    "inter_audience": 44
+  },
+  "mmechocaptiveportal.com": {
+    "inter_audience": 0
+  },
+  "flexitasks.co.uk": {
+    "inter_audience": 0
+  },
+  "neeo.io": {
+    "inter_audience": 0
+  },
+  "sense.com": {
+    "inter_audience": 14
+  },
+  "as43234.net": {
+    "inter_audience": 0
+  },
+  "tsp.li": {
+    "inter_audience": 0
+  },
+  "517-70.xyz": {
+    "inter_audience": 0
+  },
+  "spreaker.com": {
+    "inter_audience": 16
+  },
+  "bnr.nl": {
+    "inter_audience": 5
+  },
+  "divicon-stream.net": {
+    "inter_audience": 0
+  },
+  "divicon-stream.com": {
+    "inter_audience": 0
+  },
+  "wwe.com": {
+    "inter_audience": 57
+  },
+  "bigstar.tv": {
+    "inter_audience": 0
+  },
+  "ipvanish.com": {
+    "inter_audience": 25
+  },
+  "feelinsonice.com": {
+    "inter_audience": 0
+  },
+  "sc-jpl.com": {
+    "inter_audience": 0
+  },
+  "feralhosting.com": {
+    "inter_audience": 0
+  },
+  "rapidvideo.com": {
+    "inter_audience": 0
+  },
+  "rainierland.is": {
+    "inter_audience": 0
+  },
+  "cdnfile.info": {
+    "inter_audience": 11
+  },
+  "pubfilm.is": {
+    "inter_audience": 11
+  },
+  "thenailfiles.co.uk": {
+    "inter_audience": 0
+  },
+  "sift.co": {
+    "inter_audience": 48
+  },
+  "a986f15afc9c8b47424b7f0a43463f5be5455db4.com": {
+    "inter_audience": 0
+  },
+  "articlesvally.com": {
+    "inter_audience": 7
+  },
+  "rockantenne.de": {
+    "inter_audience": 0
+  },
+  "klarnaservices.com": {
+    "inter_audience": 0
+  },
+  "newsgroup.ninja": {
+    "inter_audience": 1
+  },
+  "slimcleaner.com": {
+    "inter_audience": 29
+  },
+  "kataweb.it": {
+    "inter_audience": 5
+  },
+  "nbcnews.com": {
+    "inter_audience": 39
+  },
+  "druva.com": {
+    "inter_audience": 26
+  },
+  "cloudnow.gg": {
+    "inter_audience": 0
+  },
+  "youseeu.com": {
+    "inter_audience": 14
+  },
+  "flirservices.com": {
+    "inter_audience": 0
+  },
+  "ozsn.net": {
+    "inter_audience": 0
+  },
+  "hotstar-cdn.net": {
+    "inter_audience": 0
+  },
+  "akamaitech.net": {
+    "inter_audience": 0
+  },
+  "telegram.org": {
+    "inter_audience": 10
+  },
+  "smhi.se": {
+    "inter_audience": 5
+  },
+  "quad9.net": {
+    "inter_audience": 4
+  },
+  "phoscon.de": {
+    "inter_audience": 19
+  },
+  "gymondo.de": {
+    "inter_audience": 14
+  },
+  "buzzsprout.com": {
+    "inter_audience": 3
+  },
+  "sogou.com": {
+    "inter_audience": 0
+  },
+  "asianet.co.in": {
+    "inter_audience": 4
+  },
+  "ip-176-31-253.eu": {
+    "inter_audience": 5
+  },
+  "97ygo.com": {
+    "inter_audience": 0
+  },
+  "ecsclick.com": {
+    "inter_audience": 0
+  }
+}

@@ -1,0 +1,125 @@
+<div><ul>  <li>English
+</li><li>Русский
+</li><li>Español
+</li><li>Português
+</li><li>日本語
+</li><li>简体中文
+</li><li>Français
+</li><li>Deutsch
+</li><li>Proxies
+</li><li>Proxy services
+</li><li>Residential Proxies</li></ul><span>  72 million+ IPs rotated from real-peer devices in 195 countries</span><ul>  <li>ISP Proxies</li></ul><span>  700,000+ real home IPs across the globe, for long-term use</span><ul>  <li>Datacenter Proxies</li></ul><span>  770,000+ shared datacenter IPs from any geolocation</span><ul>  <li>Mobile Proxies</li></ul></div> <span><span>  7,000,000+ IPs forming the largest real-peer 3G/4G mobile network
+</span></span> <div><ul>  <li>Tools
+</li><li>Proxy Manager</li></ul><span>  Manage all proxies using one open-source interface</span><ul>  <li>Proxy Browser Extension</li></ul><span>  Change location to collect Web data
+
+</span><ul>  <li>Scraping Solutions
+</li><li>Scraping Browser </li></ul><span>  New!</span><span>  Playwright/Puppeteer-compatible scraping browser with built-in website unlocking actions</span><ul>  <li>Web Scraper IDE</li></ul><span>  Use Javascript functions and existing code templates to build web scrapers</span></div> <div><ul>  <li>SERP API</li></ul><span>  Collect parsed search engine results</span><ul>  <li>Web Unlocker</li></ul><span>  Automate unlocking of the toughest websites with unprecedented success rates
+</span><ul>  <li>Web Data
+</li><li>Datasets</li></ul><span>  Get fresh, ready-to-use datasets or subsets</span><ul>  <li>Bright Insights</li></ul><span>  Get actionable market intelligence powered by machine learning
+</span><ul>  <li>Resources
+</li><li>Documentation
+</li><li>API documentation</li><li>FAQ</li><li>Integrations</li><li>SERP API start guide
+</li><li>Company
+</li><li>About</li><li>Data for good</li><li>Blog</li><li>Testimonials</li><li>Ethical usage</li><li>Proxy IP locations</li><li>Affiliate program</li><li>The Bright Initiative</li><li>Enterprise</li><li>Rebranding from Luminati</li><li>Web Data Masterclass
+</li><li>Data
+</li><li>Data Methodology</li><li>Bright VPN
+
+</li><li>Pricing
+</li><li>Proxy Networks
+</li></ul></div> <div><ul>  <li>Residential Proxies</li><li>Datacenter Proxies</li><li>ISP Proxies</li><li>Mobile Proxies
+</li><li>Scraping Solutions
+</li><li>Web Scraper IDE</li><li>Scraping Browser </li></ul><span>  New!</span><ul>  <li>SERP API</li><li>Web Unlocker
+</li><li>Web data
+</li><li>Datasets</li><li>Bright Insights </li></ul><span>  New!
+
+</span><ul>  <li>Products
+</li><li>wrapper 1
+</li><li>Proxy networks
+</li><li>Residential Proxies</li></ul><span>  72 million+ IPs rotated from real-peer devices in 195 countries</span></div> <div><ul>  <li>ISP Proxies</li></ul><span>  700,000+ real home IPs across the globe, for long-term use</span><ul>  <li>Datacenter Proxies</li></ul><span>  770,000+ shared datacenter IPs from any geolocation</span><ul>  <li>Mobile Proxies</li></ul><span>  7,000,000+ IPs forming the largest real-peer 3G/4G mobile network
+</span><ul>  <li>Proxy TOOLS
+</li><li>Proxy Manager</li></ul><span>  Manage all proxies using one open-source interface</span><ul>  <li>Proxy Browser Extension</li></ul><span>  Change location to collect Web data
+
+</span></div> <div><ul>  <li>wrapper 2
+</li><li>Scraping Solutions
+</li><li>Web Scraper IDE</li></ul><span>  Scrape public web data in real-time or in batches</span><ul>  <li>Scraping Browser</li></ul><span>  Playwright/Puppeteer-compatible scraping browser with built-in website unlocking actions</span><ul>  <li>SERP API</li></ul><span>  Collect parsed search engine results</span><ul>  <li>Web Unlocker</li></ul><span>  Automate unlocking of the toughest websites with unprecedented success rates
+</span><ul>  <li>Web Data Solutions
+</li><li>Datasets</li></ul></div> <span><span>  Get fresh, ready-to-use datasets or subsets</span></span> <div><ul>  <li>Bright Insights</li></ul><span>  Get actionable market intelligence powered by machine learning
+
+
+</span><ul>  <li>Solutions
+</li><li>wrapper 1
+</li><li>By use case
+</li><li>eCommerce</li><li>Social Media</li><li>SERP & SEO</li><li>Ad Tech</li><li>Market Research</li><li>Travel</li><li>Financial Services</li><li>Healthcare</li><li>Real Estate</li><li>Data for Good
+
+</li><li>wrapper 2 col_25
+</li><li>By Target
+</li><li>Amazon</li><li>LinkedIn</li><li>Instagram</li><li>Zillow</li><li>View all
+
+</li><li>wrapper 3 col_25
+</li><li>By solution type
+</li><li>For developers</li><li>No-code
+</li><li>By company type
+</li></ul></div> <div><ul>  <li>Enterprise</li><li>Non profit
+
+
+</li><li>Resources
+</li><li>wrapper 1
+</li><li>Documentation
+</li><li>API documentation</li><li>FAQ</li><li>Integrations
+
+</li><li>wrapper 2
+</li><li>Company
+</li><li>About</li><li>Blog</li><li>News</li><li>Testimonials</li><li>Ethical usage</li><li>Proxy IP locations</li><li>Affiliate program</li><li>The Bright Initiative</li><li>Web Data Masterclass
+
+</li><li>wrapper 3
+</li><li>Data
+</li><li>Data Methodology</li><li>Bright VPN
+
+
+</li><li>Pricing
+</li><li>wrapper 1
+</li></ul></div> <div><ul>  <li>Proxy Networks
+</li><li>Residential Proxies</li><li>Datacenter Proxies</li><li>ISP Proxies</li><li>Mobile Proxies
+
+</li><li>wrapper 2
+</li><li>Scraping Solutions
+</li><li>Web Scraper IDE</li><li>Scraping Browser </li></ul><span>  New!</span><ul>  <li>SERP API</li><li>Web Unlocker
+
+</li><li>wrapper 3
+</li><li>Web data
+</li><li>Datasets</li><li>Bright Insights </li></ul><span>  New!
+
+
+</span><ul>  <li>Sign out
+
+</li></ul></div> <div><h1>  Stable Proxy IPs from any country </h1><p>  <strong> Unlimited Numbers of Global Proxy IPs </strong></p><p>  Collect any public web data without getting blocked or cloaked, using an international network of over 72 million IPs in any proxy IP location</p><span>  Start free trial </span><span>  Start free with Google </span></div> <div><h2>  Top proxy IP locations</h2><label>  Residential IPs</label><label>  Mobile IPs</label><label>  Datacenter IPs</label><label>  ISP IPs</label><span>  Start free trial
+</span></div> <div><h3>  Largest Global Proxy IPs Networks</h3><p>  The world’s most popular proxy network platform is built of over 72+ million IPs from 195 countries with 99.99% network uptime.</p></div> <div><h3>  Best Proxy Infrastructure for Scalability</h3><p>  Unlimited scale and customizing possibilities from any city or country in the world</p></div> <div><h3>  Most Stable IPs Proxy Networks</h3><p>  Bright Data has the highest success rates of any global IPs provider</p></div> <div><h3>  Best Performing Geo Proxy</h3><p>  99.9%
+- Bright Data has the highest success rates of any IPs provider
+</p></div> <div><h3>  Top Proxy IP Speeds</h3><p>  99.99% Network Uptime, plus a real-time network status monitor</p></div> <div><h3>  Next-gen Proprietary Technology</h3><p>  The industry standard in 24/7 support</p></div> <div><h3>  Unparalleled Proxy Innovation</h3><p>  Speed up your project with a free Proxies Manager</p></div> <div><h3>  GDPR and CCPA privacy compliant</h3><p>  Bright Data's privacy practices comply with data protection laws</p><span>  Start free trial
+</span></div> <div><h3>  The best </h3><span>  customer experience in the industry </span><ul>  <li><strong> You ask, we develop </strong>New feature releases every day</li><li><strong> 24/7 global support </strong>To answer any questions right when you need it</li><li><strong> Full transparency </strong>Real-time network performance dashboard</li><li><strong> Dedicated Account Managers </strong>To optimize your performance</li><li><strong> Tailored solutions </strong>To meet your data collection goals</li></ul></div> <div><h2>  What makes Bright Datathe undisputed </h2><span>  industry leader</span><p>  Highest quality data, <a href="/network-status" target="_blank"> best network uptime </a>, fastest output </p><p>  Unlimited scale and customizing possibilities</p><p>  <a href="/ethical" target="_blank"> Transparent </a> and enterprise-friendly infrastructure</p><p>  Minimum in-house resources needed</p><span>  Start free trial 
+</span></div> <div><h3>  Asia</h3></div> <div><h3>  Europe</h3></div> <div><h3>  Africa</h3></div> <div><h3>  Oceania</h3></div> <div><h3>  North America</h3></div> <div><h3>  South America</h3></div> <div><h3>  Top city and state IPs</h3></div> <div><h2>  What are you waiting for?
+Bright Data proxies are the industry standard
+</h2><span>  Start free trial 
+</span><ul>  <li>Products
+</li><li>Datasets</li><li>Web Scraper IDE</li><li>Scraping Browser</li><li>SERP API</li><li>Bright Insights</li><li>Web Unlocker</li><li>Proxy Manager</li><li>Proxy Browser Extension</li><li>Proxy API
+</li><li>Proxy Services
+</li><li>Residential Proxies</li><li>Mobile Proxies</li><li>ISP Proxies</li><li>Datacenter Proxies</li><li>Proxy Servers</li><li>Proxy IP Locations</li><li>Proxy Solutions
+</li><li>Pricing
+</li><li>Proxy Network</li><li>Web Scraper IDE</li><li>Scraping Browser</li></ul></div> <div><ul>  <li>SERP API</li><li>Datasets
+</li><li>Programs
+</li><li>Impact Report 2023</li><li>Affiliate Program</li><li>Partners</li><li>SDK</li><li>Security Vulnerabilities
+</li><li>Learning Center
+</li><li>Data Documentary</li><li>Iron Analyst</li><li>Web Data Masterclass</li><li>FAQ</li><li>Webinars
+</li><li>Legal
+</li><li>Patents</li><li>Legal Governance</li><li>Privacy Policy</li><li>Don’t Sell My Personal Info
+</li><li>Company
+</li><li>About</li><li>Blog</li><li>Use Cases</li><li>Bright Data for Enterprise</li></ul></div> <div><ul>  <li>Case Studies</li><li>Trust Center</li><li>Testimonials</li><li>Careers</li><li>Career Journeys</li><li>Contact</li><li>Press Kit</li><li>Network Status
+</li></ul><span>  
+Start Free Trial 
+</span></div> <div><h4>  Contact Us</h4></div> <div><h4>  Follow Us</h4><ul>  <li>Cloud partnerships
+</li><li>AWS</li><li>Snowflake
+</li><li>Customer excellence partnerships
+</li><li>Capterra</li><li>GetApp</li><li>Software Advice
+</li><li>Partnerships
+</li><li>WIPO Alert</li><li>BDV</li><li>MRS</li><li>Gartner</li><li>ISO certified</li><li>GDPR ready</li><li>Tag
+</li></ul><span>  </span></div>

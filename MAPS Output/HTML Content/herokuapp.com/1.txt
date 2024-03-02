@@ -1,0 +1,108 @@
+<div><h2>  
+                
+                    Salesforce understands better customer experience starts with data privacy. 
+                
+                
+                
+                
+            
+</h2><p>  We’re happy to help with any questions, comments, or requests related to Salesforce’s Privacy Statement, our data privacy practices, or how Salesforce embraces privacy and data protection laws.</p><p>  Please choose the relevant option in the drop-down menu to the right and follow the instructions provided.</p></div> <p><p>  Want to learn more about Salesforce's approach to privacy? Visit our <a href="/privacy/overview/" target="_blank"> dedicated privacy website </a> for information and resources.</p></p> <div><label>  What is your privacy related request?</label><label>  Your Relationship to Salesforce</label><label>  
+      Name of customer/partner/other
+    </label><label>  
+      First Name
+    </label><label>  
+      Last Name
+    </label><label>  
+      Email Address
+    </label><span>  Enter a valid email address</span><label>  Country of Residence</label><span>  Select your country</span><label>  State</label><span>  Select your state/province</span><label>  
+      Details
+    </label><p>  <b> Email and SMS </b></p></div> <p><p>  You can manage your receipt of marketing and non-transactional communications from us by clicking on the “unsubscribe” link located on the bottom of our marketing emails, by replying or texting ‘STOP’ if you receive SMS communications or by turning off push notifications on our apps on your device. Additionally, you may <a href="https://cloud.mail.salesforce.com/unsubscribe" target="_blank"> unsubscribe here </a>. Please note that opting out of marketing communications does not opt you out of receiving important business communications related to your current relationship with us, such as communications about your subscriptions or event registrations, service announcements or security information.</p></p> <div><p>  <b> Phone </b></p><p>  If you want your phone number to be added to our internal Do-Not-Call telemarketing register, please contact us by using this form and selecting the ‘Other privacy enquiry’ option. Please include your first name, last name, company and the phone number you wish to add to our Do-Not-Call register. Alternatively, you can always let us know during a telemarketing call that you do not want to be called again for marketing purposes.</p><p>  If you would like to unsubscribe from marketing communications from another company using the Salesforce services to send their marketing communications, please contact that company directly.</p></div> <p><p>  We believe that this answers your request, if not, please select one of the other available options listed.</p></p> <p><p>  Trust is Salesforce's #1 value and as part of our commitment to Trust, the confidentiality and security of your personal data is one of our top priorities. The personal data that you submit per this web form will be processed by Salesforce, Inc., Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105 ("Salesforce", "we", "us") for the purpose to best respond to your privacy request.</p></p> <p><p>  We will process your personal data only to the extent this is necessary to perform our contract with you and for our legitimate interest in fulfilling your requests and communicating with you. For requests regarding the exercise of data subject rights, we will process your personal data to the extent this is necessary to fulfill our legal obligation to respond to your request in accordance with applicable privacy and data protection laws. Note that we may not be able to fulfill our legal obligation to respond to a data subject request where you fail to provide the required information. If necessary for fulfilling your request, we will share your personal data with our affiliates which may be located outside the EEA and with which we entered into standard contractual clauses for the transfer of data as approved by the European Commission to ensure an adequate level of data protection. We will not share your personal data with any third parties outside the Salesforce group. The personal data submitted will be stored as long as this is necessary to respond to your request.</p></p> <p><p>  For more information about our data privacy practices and for details about your related rights (including the right to data access, rectification, deletion, porting, restriction of processing and the right to object) please see <a href="https://www.salesforce.com/company/privacy/" target="_blank"> Salesforce's Privacy Statement </a> or reach out to our Data Protection Officer at <a href="mailto:privacy@salesforce.com" target="_blank"> privacy@salesforce.com </a>.</p></p> <p><p>  For requests about your personal data, please fill out this <u> form </u> in order to do one of the following:
+<b> Download </b>
+We will provide a complete report of your personal data across our systems
+<b> Transfer </b>
+Package up your data and send it to a desired recipient
+<b> Delete </b>
+Delete your personal data found in our systems
+<b> Update Inaccuracies </b>
+Update any inaccuracy you’ve found in our systems” 
+
+If your request is not regarding one of the options listed above, please select the “Other privacy inquiry” option from the dropdown menu at the top of this page.</p></p> <p><p>  Trust is Salesforce's #1 value and as part of our commitment to Trust, the confidentiality and security of your personal data is one of our top priorities. The personal data that you submit per this web form will be processed by Salesforce, Inc., Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105 ("Salesforce", "we", "us") for the purpose to best respond to your privacy request.</p></p> <p><p>  We will process your personal data only to the extent this is necessary to perform our contract with you and for our legitimate interest in fulfilling your requests and communicating with you. For requests regarding the exercise of data subject rights, we will process your personal data to the extent this is necessary to fulfill our legal obligation to respond to your request in accordance with applicable privacy and data protection laws. Note that we may not be able to fulfill our legal obligation to respond to a data subject request where you fail to provide the required information. If necessary for fulfilling your request, we will share your personal data with our affiliates which may be located outside the EEA and with which we entered into standard contractual clauses for the transfer of data as approved by the European Commission to ensure an adequate level of data protection. We will not share your personal data with any third parties outside the Salesforce group. The personal data submitted will be stored as long as this is necessary to respond to your request.</p></p> <p><p>  For more information about our data privacy practices and for details about your related rights (including the right to data access, rectification, deletion, porting, restriction of processing and the right to object) please see <a href="https://www.salesforce.com/company/privacy/" target="_blank"> Salesforce's Privacy Statement </a> or reach out to our Data Protection Officer at <a href="mailto:privacy@salesforce.com" target="_blank"> privacy@salesforce.com </a>.</p></p> <div><label>  
+      Email Address
+    </label><span>  Enter a valid email address</span><span>  Please Complete Captcha</span><span>  CALL US AT</span><span>  
+                CALL US
+            </span><span>  
+                1-800-667-6389
+            </span><p>  
+                
+                    Call us at 1-800-664-9073 
+                
+                
+                
+                
+            
+</p><p>  
+                
+                    See all ways to contact us > 
+                
+                
+                
+                
+            
+</p></div> <div><h3>  
+                
+                    New to Salesforce? 
+                
+                
+                
+                
+            
+</h3></div> <div><h3>  
+                
+                    About Salesforce 
+                
+                
+                
+                
+            
+</h3><span>  
+
+</span><span>  
+
+</span><span>  
+
+</span></div> <div><h3>  
+                
+                    Popular Links 
+                
+                
+                
+                
+            
+</h3><span>  
+
+</span><span>  WORLDWIDE</span></div> <div><h2>  
+                
+                    Americas 
+                
+                
+                
+                
+            
+</h2></div> <div><h2>  
+                
+                    Europe, Middle East, and Africa 
+                
+                
+                
+                
+            
+</h2></div> <div><h2>  
+                
+                    Asia Pacific 
+                
+                
+                
+                
+            
+</h2><p>  © Copyright 2023 Salesforce, Inc. <a href="/company/legal/intellectual/" target="_blank"> All rights reserved </a>. Various trademarks held by their respective owners. Salesforce, Inc. Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States</p></div> <div><h3>  Need help?</h3><p>  No problem. Chat with our sales experts or call us at 1-800-960-3691.</p></div> <div><h2>  Cookie Consent Manager</h2><ul>  <li>General Information</li><li>Required Cookies</li><li>Functional Cookies</li><li>Advertising Cookies</li></ul></div> <div><h4>  General Information</h4><p>  We use three kinds of cookies on our websites: required, functional, and advertising. You can choose whether functional and advertising cookies apply. Click on the different cookie categories to find out more about each category and to change the default settings.
+            <a href="https://www.salesforce.com/company/privacy/full_privacy/" target="_blank"> Privacy Statement </a></p></div> <div><h4>  Required Cookies</h4><p>  Required cookies are necessary for basic website functionality. Some examples include: session cookies needed to transmit the website, authentication cookies, and security cookies.</p></div> <div><h4>  Functional Cookies</h4><label>  Functional Cookies</label><p>  Functional cookies enhance functions, performance, and services on the website. Some examples include: cookies used to analyze site traffic, cookies used for market research, and cookies used to display advertising that is not directed to a particular individual.</p></div> <div><h4>  Advertising Cookies</h4><label>  Advertising Cookies</label><p>  Advertising cookies track activity across websites in order to understand a viewer’s interests, and direct them specific marketing. Some examples include: cookies used for remarketing, or interest-based advertising.</p></div> <div><h3>  Cookie List</h3><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><span>  Live chat:</span><span>  Let's Chat</span></div>

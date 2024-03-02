@@ -1,0 +1,207 @@
+<div><h1>  Privacy Trust Center</h1></div> <div><h2>  Data Protection at Akamai</h2><p>  Akamai is trusted to make digital experiences fast, intelligent, and secure. We understand that the way we process personal data is an important part of that trust and are committed to upholding the privacy of our customers, customer’s end users, employees, and online users. Akamai complies with the laws of all countries in which it operates, including the data protection laws in the Americas, Europe, and Asia.
+</p><p>  The Akamai Data Protection and Privacy Program protects the personal information that we process by respecting global privacy principles. Akamai’s Global Data Protection Office, headed by our Chief Data Protection Officer, manages this important effort.</p></div> <p><p>  Akamai Data Protection and Privacy Program. <a href="/content/dam/site/en/documents/akamai/akamai-data-protection-program.pdf" target="_blank"> Learn more. </a></p></p> <p><p>  Protection of Personal and Sensitive Data at Akamai. <a href="/content/dam/site/en/documents/akamai/protection-of-personal-and-sensitive-data.pdf" target="_blank"> Learn more. </a></p></p> <p><p>  Data Protection Rules of Engagement for Akamai's Vendors. <a href="/content/dam/site/en/documents/akamai/data-protection-rules-of-engagement-for-akamai-vendors.pdf" target="_blank"> Learn more. </a></p></p> <div><h2>  Identity Cloud and GDPR</h2><p>  Identity Cloud securely captures and manages customer identity and profile data, and controls customer access to applications and services.
+</p><p>  From enabling fine-grained data access control to allowing companies to manage consent from their customers, Akamai has helped global brands exceed customer privacy expectations and meet regulatory data protection requirements.</p><p>  Read also the White Paper "<a href="/content/dam/site/en/documents/white-paper/meeting-data-privacy-requirements-with-akamai-identity-cloud.pdf" target="_blank"> A Guide to Support Data Privacy Requirements with Akamai Identity Cloud </a>."</p></div> <p><p>  Visit the Identity Cloud page for more information about how a CIAM can help satisfy your GDPR compliance needs.</p></p> <div><h2>  Resources</h2><p>  <b> Akamai Data Processing Agreement — For Customers </b>
+This agreement supplements and amends Akamai’s Terms & Conditions with its customers.</p><p>  <b> Akamai Data Processing Agreement – For Partners </b>
+This agreement supplements and amends the Channel Agreement between Akamai and its partners.</p><p>  <b> Akamai Data Processing Agreement – For Vendors </b>
+This agreement supplements and amends the Master Service Agreement and/or the Terms and Conditions of Purchase between Akamai and its vendors.</p></div> <p><p>  <b> Technical and Organizational Measures to Secure the Personal Data </b>
+This overview outlines the technical and organizational measures Akamai has in place to secure the personal data it processes when providing its services.</p></p> <p><p>  TOMs for Performance, Enterprise Security and Application Security Services <a href="/legal/compliance/privacy-trust-center/technical-and-organizational-measures-performance-enterprise-application-security-services" target="_blank"> Learn more </a></p></p> <div><p>  TOMs for Guardicore Security Platform <a href="/legal/compliance/privacy-trust-center/technical-and-organizational-measures-guardicore-security-platform" target="_blank"> Learn more </a></p><p>  <b> Countries in which Akamai Maintains Servers </b>
+This document lists the countries in which Akamai maintains server points of presence and lists the Akamai subsidiaries that own Akamai servers.</p><p>  <b> Akamai's Sub-Processors for the Service Provisioning </b></p><p>  <b> HIPAA and HITECH ACT Compliance Statement </b></p></div> <div><p>  <b> Overview of Personal Data Processing Activities at Akamai </b></p><p>  <b> Cross-Border Data Transfer by Akamai </b></p></div> <div><h3>  Akamai's Privacy Team</h3><p>  To contact Akamai’s Global Data Protection Team please mail us at:
+</p><p>  <b> Akamai Technologies, Inc. </b>
+Att.: Chief Privacy Officer
+145 Broadway
+Cambridge, MA 02142, USA
+
+or
+
+<b> Akamai Technologies GmbH </b>
+Att.: EMEA Data Protection Officer
+22 Parkring
+85748 Garching, Germany
+
+or email us at <a href="mailto:privacy@akamai.com" target="_blank"> privacy@akamai.com </a>.</p><p>  <b> Marketing Email Communication </b>
+To unsubscribe from marketing email communication, please fill in our <a href="https://content.akamai.com/UnsubscribePage.html?" target="_blank"> Marketing Email Opt-Out Form </a>.</p></div> <p><p>  <b> Data Subject Access Request </b>
+To make a data subject access request, please fill in our <a href="https://privacyportal.onetrust.com/webform/1fb891e6-1cdb-46fd-a5e2-78b57cd7977a/b547fd1a-9fdd-4123-a7f0-d23482defb5f" target="_blank"> DSAR Form </a>.</p></p> <p><p>  <b> Akamai's Privacy Statement: </b>
+For further details on how and why we process your personal data, please take a look at our <a href="/legal/privacy-statement" target="_blank"> Privacy Statement </a>.</p></p> <div><span>  Twitter</span><span>  Facebook</span><span>  YouTube</span><span>  LinkedIn</span><ul>  <li>
+        
+        Cloud Computing
+        
+        
+        
+      
+</li><li>
+        
+        Security
+        
+        
+        
+      
+</li><li>
+        
+        Content Delivery (CDN)
+        
+        
+        
+      
+</li><li>
+        
+        History
+        
+        
+        
+      
+</li><li>
+        
+        Facts and Figures
+        
+        
+        
+      
+</li><li>
+        
+        Leadership
+        
+        
+        
+      
+</li><li>
+        
+        Board of Directors
+        
+        
+        
+      
+</li></ul></div> <ul><ul>  <li>
+        
+        Investor Relations
+        
+        
+        
+      
+</li><li>
+        
+        Environmental, Social, and Governance
+        
+        
+        
+      
+</li><li>
+        
+          Ethics
+        
+        
+        
+      
+</li><li>
+        
+        Locations
+        
+        
+        
+      
+</li><li>
+        
+        Press Releases
+        
+        
+        
+      
+</li><li>
+        
+        In the News
+        
+        
+        
+      
+</li><li>
+        
+        Awards
+        
+        
+        
+      
+</li></ul></ul> <div><ul>  <li>
+        
+        Media Resources
+        
+        
+        
+      
+</li><li>
+        
+        Working at Akamai
+        
+        
+        
+      
+</li><li>
+        
+        Students and Recent Grads
+        
+        
+        
+      
+</li><li>
+        
+        Workplace Diversity
+        
+        
+        
+      
+</li><li>
+        
+        Search Jobs
+        
+        
+        
+      
+</li><li>
+        
+        Careers Blog
+        
+        
+        
+      
+</li></ul></div> <div><h2>  Legal & Compliance
+</h2><ul>  <li>
+        
+        Legal
+        
+        
+        
+      
+</li><li>
+        
+        Information Security Compliance
+        
+        
+        
+      
+</li><li>
+        
+        Privacy Trust Center
+        
+        
+        
+      
+</li><li>
+        
+        Cookie Settings
+        
+        
+        
+      
+</li></ul><p>  ©2023 Akamai Technologies</p><ul>  <li>en</li><li>
+        
+        EMEA Legal Notices
+        
+        
+        
+      
+</li><li>
+        
+        Service Status
+        
+        
+        
+      
+</li></ul></div> <div><h2>  Your cookie choices for this website</h2><p>  We use cookies to ensure the fast reliable and secure operation of this website, to improve your website experience, to enable certain social media interactions and to manage your cookie choices. Some cookies process personal identifiable information. By continuing to visit our websites you are agreeing to our use of cookies. Click “Manage Preferences” to make individual choices and get details on the cookies in use and the processing activities. You can access the Cookie Management Page at any time via the Cookie Settings link in the footer. For additional information relating to your privacy take a look at our<a href="https://www.akamai.com/content/dam/site/en/documents/akamai/akamai-privacy-statement.pdf" target="_blank"> Privacy Statement </a></p></div>

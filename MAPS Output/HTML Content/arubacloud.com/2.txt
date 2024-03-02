@@ -1,0 +1,73 @@
+<ul><ul>  <li>Platform Overview<a href="https://liveramp.com/our-platform/" target="_blank"> $content_header['title'] </a></li></ul></ul> <div><h2>  Do more with your data:</h2><ul>  <li>Access</li></ul><p>  Access data from anywhere so it can be used everywhere.
+<a href="https://liveramp.com/our-platform/#access" target="_blank"> Access </a>
+</p><ul>  <li>Manage</li></ul><p>  Manage data assets in a safe and secure way.
+<a href="https://liveramp.com/our-platform/#manage" target="_blank"> Manage </a>
+</p><ul>  <li>Activate</li></ul><p>  Move beyond data to actionable intelligence.
+<a href="https://liveramp.com/our-platform/#act" target="_blank"> Activate </a>
+</p></div> <div><ul>  <li>Analyze</li></ul><p>  Measure and optimize data to deliver business outcomes.
+<a href="https://liveramp.com/our-platform/#analyze" target="_blank"> Analyze </a>
+</p></div> <div><h2>  Featured Products</h2><ul>  <li>Authenticated Traffic Solution (ATS)
+<a href="https://liveramp.com/our-platform/authenticated-traffic-solution-ats/" target="_blank"> Authenticated Traffic Solution (ATS) </a>
+</li><li>Advanced TV Measurement
+<a href="https://liveramp.com/our-platform/advanced-tv-advertising-measurement/" target="_blank"> Advanced TV Measurement </a>
+</li></ul></div> <div><h2>  Featured Resource</h2><ul>  <li>Take a tour of the LiveRamp Platform</li><li>
+            Get Started        
+
+</li><li>
+                                            Solutions by Business Need                                        </li></ul></div> <div><h2>  
+                                            Solutions By Team                                        </h2></div> <div><h2>  
+                                            Solutions By Industry                                        </h2><ul>  <li>Learn and Connect</li><li>Resource Center
+<a href="/resources/" target="_blank"> Resource Center </a>
+</li><li>Marketing Innovation Blog
+<a href="/blog/" target="_blank"> Marketing Innovation Blog </a>
+</li><li>Developer Blog
+<a href="/developers/blog/" target="_blank"> Developer Blog </a>
+</li><li>RampUp
+<a href="https://www.rampedup.us/" target="_blank"> RampUp </a>
+</li><li>LiveRamp University
+<a href="/liveramp-university/" target="_blank"> LiveRamp University </a>
+</li></ul></div> <div><h2>  Featured eBook</h2><ul>  <li>5 Best Practices for Building a Successful Media Network</li><li>
+            Read Now        
+
+</li><li>Partners</li><li>Partner Overview</li></ul><p>  Find out more about our partnerships and the value they can unlock for your business.
+<a href="/partners/" target="_blank"> Partner Overview </a>
+</p><ul>  <li>[NEW] Partner Discovery</li></ul><p>  Explore and discover the perfect partners for your use case.
+<a href="/partner-discovery/" target="_blank"> [NEW] Partner Discovery </a>
+</p></div> <div><ul>  <li>Partner Directory</li></ul><p>  View a list of partners from the world's leading technology platforms and providers of data, media and services.
+<a href="https://partner-directory.liveramp.com/" target="_blank"> Partner Directory </a>
+</p></div> <div><h2>  Partner Discovery Experience</h2><ul>  <li>Unlock the power of LiveRamp and our partner ecosystem</li><li>
+            Discover Partner Solutions        
+
+</li><li>Get to know LiveRamp</li><li>About Us
+<a href="/about/" target="_blank"> About Us </a>
+</li><li>Leadership
+<a href="/leadership/" target="_blank"> Leadership </a>
+</li><li>Press & News
+<a href="/news/" target="_blank"> Press & News </a>
+</li><li>Investors
+<a href="https://investors.liveramp.com" target="_blank"> Investors </a>
+</li><li>Contact
+<a href="/contact/" target="_blank"> Contact </a>
+</li></ul></div> <ul><ul>  <li>LiveRamp Ventures
+<a href="/liveramp-ventures/" target="_blank"> LiveRamp Ventures </a>
+</li><li>Events
+<a href="/events/" target="_blank"> Events </a>
+</li><li>Careers
+<a href="/careers/" target="_blank"> Careers </a>
+</li><li>Diversity, Inclusion & Belonging
+<a href="/diversity-inclusion-belonging/" target="_blank"> Diversity, Inclusion & Belonging </a>
+</li><li>LiveRamp.org
+<a href="https://www.liveramp.org/" target="_blank"> LiveRamp.org </a>
+</li><li>Data Ethics & Privacy
+<a href="/data-ethics-and-privacy/" target="_blank"> Data Ethics & Privacy </a>
+</li></ul></ul> <div><h2>  Featured Resource</h2><ul>  <li>Take a tour of the LiveRamp Platform</li><li>
+            Get Started        
+
+</li></ul><span>  
+ </span><span>  
+
+</span><span>  
+                                    Toogle search bar                                </span></div> <div><h1>  
+                        Data Privacy Portal                    </h1></div> <div><h2>  Data is a powerful tool. At LiveRamp, we believe a culture of accountability is essential to success in a data-driven world.</h2></div> <div><h2>  Read our Privacy Notices</h2><p>  Where required, we maintain privacy notices for various business purposes and multiple regions or regulatory jurisdictions of the world. The choices available to an individual may vary within these areas based on local laws and customs. Our full list of privacy notices is available on this page. Please select a privacy notice below to </p><span>  understand what information we collect, how the information is used and what choices you have to protect your information.</span></div> <div><h2>  General Privacy Notices </h2><ul>  <li>Product and </li></ul><span>  Service Privacy Notice</span><span>   (How we handle data within our databases when we are the business or controller.)</span><ul>  <li>Web and Business Representative Privacy Notice</li></ul><span>   (How we handle data on this website and collected from corporate activities and events.)</span></div> <div><h2>  Specific Country or U.S. State Privacy Notices</h2></div> <div><h4>  North America</h4><ul>  <li>California Privacy Notice</li></ul><span>   (How we handle personal data for California residents.)</span><ul>  <li>Mexico Privacy Notice</li></ul><span>    (How we handle personal data for Mexico residents.)</span></div> <div><h4>  Asia-Pacific</h4><ul>  <li>Australia Privacy Policies</li><li>Japan</li></ul></div> <div><h4>  European Union and United Kingdom</h4><ul>  <li>UK</li><li>France</li><li>Germany</li><li>Italy</li><li>Netherlands</li><li>Spain</li></ul></div> <div><h2>  Security</h2><p>  In addition to our privacy notices, we maintain strict security policies and procedures. See our </p><span>  Data Security Knowledge Base page</span><span>   for details.</span></div> <div><h2>  Your Privacy Choices </h2><p>  You may have certain legal rights with respect to data. These rights may include the right of access, deletion, limiting the use of or correction of personal data. These rights may be limited, for example if fulfilling your request would reveal personal data about another person, if they would infringe the rights of a third party (including our rights) or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping. We will inform you of any relevant exemptions we rely upon when responding to any request you make.</p></div> <div><p>  Select the appropriate link below to exercise your rights:</p><ul>  <li>Universal LiveRamp Opt Out Tools</li><li>United States Your Privacy Choices portal</li></ul><span>   (for regulated states, such as California, Nevada, and Virginia) </span><ul>  <li>Asia Pacific Countries (except Australia), email </li></ul><span>  apaclegal@liveramp.com</span><ul>  <li>Australia Your Rights portal</li><li>Canada Your Rights portal</li><li>EEA Countries 
+</li><li>The UK Your Rights Portal</li><li>France</li></ul></div> <span><span>   residents, email dpo.de@liveramp.com</span></span> <ul><ul>  <li>Germany residents,</li></ul></ul> <span><span>   email privacy.de@liveramp.com</span></span> <div><ul>  <li>Spain</li></ul><span>   residents, email privacy.es@liveramp.com</span><ul>  <li>Italy</li></ul><span>   residents, email privacy.it@liveramp.com</span><ul>  <li>Belgium residents, email privacy.be@liveramp.com</li><li>The Netherlands residents, email privacy.nl@liveramp.com
+</li><li>Mexico Your Rights portal</li></ul></div> <div><h2>  Platform</h2></div> <div><h2>  Solutions</h2></div> <div><h2>  Resources</h2></div> <div><h2>  Partners</h2></div> <div><h2>  Company</h2></div>

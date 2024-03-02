@@ -1,0 +1,231 @@
+<div><h1>  Amazon.com Privacy Notice</h1><p>   <strong> Last updated: August 11, 2023. </strong> To see prior version, </p><p>  We know that you care how information about you is used and shared, and we appreciate
+               your trust that we will do so carefully and sensibly. This Privacy Notice describes
+               how Amazon.com and its affiliates (collectively "Amazon") collect and process your
+               personal information through Amazon websites, devices, products, services, online
+               and physical stores, and applications that reference this Privacy Notice (together
+               "Amazon Services"). <strong> By using Amazon Services, you are consenting to the practices described in this Privacy
+                  Notice. </strong>
+</p></div> <div><h2>   What Personal Information About Customers Does Amazon Collect?</h2><p>  We collect your personal information in order to provide and continually improve our
+            products and services.</p><p>  Here are the types of personal information we collect:</p><ul>  <li> <strong> Information You Give Us: </strong> We receive and store any information you provide in relation to Amazon Services.
+                  Click <a href="#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01" target="_blank"> here </a> to see examples of what we collect. You can choose not to provide certain information,
+                  but then you might not be able to take advantage of many of our Amazon Services.</li><li> <strong> Automatic Information: </strong> We automatically collect and store certain types of information about your use of
+                  Amazon Services, including information about your interaction with products, content,
+                  and services available through Amazon Services. Like many websites, we use "cookies"
+                  and other unique identifiers, and we obtain certain types of information when your
+                  web browser or device accesses Amazon Services and other content served by or on behalf
+                  of Amazon on other websites. Our physical stores may use cameras, computer vision,
+                  sensors, and other technology to gather information about your activity in the store,
+                  such as the products and services you interact with. Click <a href="#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01" target="_blank"> here </a> to see examples of what we collect.</li></ul></div> <ul><ul>  <li> <strong> Information from Other Sources: </strong> We might receive information about you from other sources, such as updated delivery
+                  and address information from our carriers, which we use to correct our records and
+                  deliver your next purchase more easily. Click <a href="#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01" target="_blank"> here </a> to see additional examples of the information we receive. </li></ul></ul> <div><h2>  For What Purposes Does Amazon Use Your Personal Information?</h2><p>  We use your personal information to operate, provide, develop, and improve the products
+            and services that we offer our customers. These purposes include:</p><ul>  <li><strong> Purchase and delivery of products and services. </strong> We use your personal information to take and handle orders, deliver products and
+                  services, process payments, and communicate with you about orders, products and services,
+                  and promotional offers.</li><li><strong> Provide, troubleshoot, and improve Amazon Services. </strong> We use your personal information to provide functionality, analyze performance, fix
+                  errors, and improve the usability and effectiveness of the Amazon Services.</li></ul></div> <ul><ul>  <li><strong> Recommendations and personalization. </strong> We use your personal information to recommend features, products, and services that
+                  might be of interest to you, identify your preferences, and personalize your experience
+                  with Amazon Services.</li><li><strong> Provide voice, image and camera services. </strong> When you use our voice, image and camera services, we use your voice input, images,
+                  videos, and other personal information to respond to your requests, provide the requested
+                  service to you, and improve our services. For more information about Alexa voice services
+                  , click <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GVP69FUJ48X9DK8V" target="_blank"> here </a>.</li></ul></ul> <ul><ul>  <li><strong> Comply with legal obligations. </strong> In certain cases, we collect and use your personal information to comply with laws.
+                  For instance, we collect from sellers information regarding place of establishment
+                  and bank account information for identity verification and other purposes.</li><li><strong> Communicate with you. </strong> We use your personal information to communicate with you in relation to Amazon Services
+                  via different channels (e.g., by phone, email, chat).</li></ul></ul> <ul><ul>  <li><strong> Advertising. </strong> We use your personal information to display interest-based ads for features, products,
+                  and services that might be of interest to you. We do not use information that personally
+                  identifies you to display interest-based ads. To learn more, please read our </li><li><strong> Fraud Prevention and Credit Risks. </strong> We use personal information to prevent and detect fraud and abuse in order to protect
+                  the security of our customers, Amazon, and others. We may also use scoring methods
+                  to assess and manage credit risks.</li></ul></ul> <div><h2>   What About Cookies and Other Identifiers? </h2><p>  To enable our systems to recognize your browser or device and to provide and improve
+            Amazon Services, we use cookies and other identifiers. For more information about
+            cookies and how we use them, please read our </p></div> <div><h2>   Does Amazon Share Your Personal Information?</h2><p>  Information about our customers is an important part of our business, and we are not
+            in the business of selling our customers' personal information to others. We share
+            customers' personal information only as described below and with subsidiaries Amazon.com,
+            Inc. controls that either are subject to this Privacy Notice or follow practices at
+            least as protective as those described in this Privacy Notice.</p></div> <ul><ul>  <li> <strong> Transactions involving Third Parties: </strong> We make available to you services, products, applications, or skills provided by
+                  third parties for use on or through Amazon Services. For example, you can order products
+                  from third parties through our stores, download applications from third-party application
+                  providers from our App Store, and enable third-party skills through our Alexa services.
+                  We also offer services or sell product lines jointly with third-party businesses,
+                  such as co-branded credit cards. You can tell when a third party is involved in your
+                  transactions, and we share customers' personal information related to those transactions
+                  with that third party.</li></ul></ul> <ul><ul>  <li> <strong> Third-Party Service Providers: </strong> We employ other companies and individuals to perform functions on our behalf. Examples
+                  include fulfilling orders for products or services, delivering packages, sending postal
+                  mail and email, removing repetitive information from customer lists, analyzing data,
+                  providing marketing assistance, providing search results and links (including paid
+                  listings and links), processing payments, transmitting content, scoring, assessing
+                  and managing credit risk, and providing customer service. These third-party service
+                  providers have access to personal information needed to perform their functions, but
+                  may not use it for other purposes.</li></ul></ul> <ul><ul>  <li><strong> Business Transfers:  </strong>As we continue to develop our business, we might sell or buy other businesses or services.
+                  In such transactions, customer information generally is one of the transferred business
+                  assets but remains subject to the promises made in any pre-existing Privacy Notice
+                  (unless, of course, the customer consents otherwise). Also, in the unlikely event
+                  that Amazon.com, Inc. or substantially all of its assets are acquired, customer information
+                  will of course be one of the transferred assets.</li></ul></ul> <ul><ul>  <li> <strong> Protection of Amazon and Others: </strong> We release account and other personal information when we believe release is appropriate
+                  to comply with the law; enforce or apply our <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM" target="_blank"> Conditions of Use </a> and other agreements; or protect the rights, property, or safety of Amazon, our users,
+                  or others. This includes exchanging information with other companies and organizations
+                  for fraud protection and credit risk reduction.</li></ul></ul> <p><p>  Other than as set out above, you will receive notice when personal information about
+            you might be shared with third parties, and you will have an opportunity to choose
+            not to share the information.</p></p> <div><h2>   How Secure Is Information About Me? </h2><p>  We design our systems with your security and privacy in mind.</p><ul>  <li>We work to protect the security of your personal information during transmission by
+                  using encryption protocols and software. </li><li>We follow the Payment Card Industry Data Security Standard (PCI DSS) when handling
+                  credit card data. </li><li>We maintain physical, electronic, and procedural safeguards in connection with the
+                  collection, storage, and disclosure of customer personal information. Our security
+                  procedures mean that we may ask to verify your identity before we disclose personal
+                  information to you.</li></ul></div> <ul><ul>  <li>Our devices offer security features to protect them against unauthorized access and
+                  loss of data. You can control these features and configure them based on your needs.
+                  Click <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=200127470" target="_blank"> here </a> for more information on how to manage the security settings of your device.</li><li>It is important for you to protect against unauthorized access to your password and
+                  to your computers, devices, and applications. We recommend using a unique password
+                  for your Amazon account that is not used for other online accounts. Be sure to sign
+                  off when finished using a shared computer. Click <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GQL359FK7DM8294C" target="_blank"> here </a> for more information on how to sign off.</li></ul></ul> <div><h2>   What About Advertising? </h2><ul>  <li><strong> Third-Party Advertisers and Links to Other Websites: </strong> Amazon Services may include third-party advertising and links to other websites and
+                  apps. Third-party advertising partners may collect information about you when you
+                  interact with their content, advertising, and services. For more information about
+                  third-party advertising at Amazon, including interest-based ads, please read our </li></ul></div> <span><span>  <a href="https://www.amazon.com/ibanotice" target="_blank"> Interest-Based Ads </a> notice. To adjust your advertising preferences, please go to the <a href="https://www.amazon.com/privacyprefs?ref_=footer_iba" target="_blank"> Your Ads Privacy Choices </a> page.</span></span> <ul><ul>  <li><strong> Use of Third-Party Advertising Services: </strong> We provide ad companies with information that allows them to serve you with more
+                  useful and relevant Amazon ads and to measure their effectiveness. We never share
+                  your name or other information that directly identifies you when we do this. Instead,
+                  we use an advertising identifier like a cookie, a device identifier, or a code derived
+                  from applying irreversible cryptography to other information like an email address.
+                  For example, if you have already downloaded one of our apps, we will share your advertising
+                  identifier and data about that event so that you will not be served an ad to download
+                  the app again. While we do not share your specific shopping actions like purchases,
+                  product views, or searches with ad companies, we may share an advertising identifier
+                  and an estimate of the value of the ads they show you on our behalf so they can serve
+                  you with more effective Amazon ads. Some ad companies also use this information to
+                  serve you relevant ads from other advertisers. You can learn more about how to opt-out
+                  of personalized advertising (such as cross-context behavioral advertising) by going
+                  to the <a href="https://www.amazon.com/privacyprefs?ref_=footer_iba" target="_blank"> Your Ads Privacy Choices </a> page.</li></ul></ul> <div><h2>   What Information Can I Access? </h2><p>  You can access your information, including your name, address, payment options, profile
+            information, Prime membership, household settings, and purchase history in the "Your
+            Account" section of the website. Click <a href="#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01" target="_blank"> here </a> for a list of examples that you can access.</p></div> <div><h2>   What Choices Do I Have? </h2><p>  If you have any questions as to how we collect and use your personal information,
+            please contact our <a href="https://www.amazon.com/gp/help/contact-us" target="_blank"> Customer Service </a>. Many of our Amazon Services also include settings that provide you with options
+            as to how your information is being used. </p><ul>  <li>As described above, you can choose not to provide certain information, but then you
+                  might not be able to take advantage of many of the Amazon Services.</li><li>You can add or update certain information on pages such as those referenced in <a href="#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01" target="_blank"> What Information Can I Access? </a>. When you update information, we usually keep a copy of the prior version for our
+                  records.</li></ul></div> <ul><ul>  <li>If you do not want to receive email or other communications from us, please adjust
+                  your <a href="https://www.amazon.com/gp/cpc/homepage?ref=gss_to_cpc" target="_blank"> Customer Communication Preferences </a>. If you don't want to receive in-app notifications from us, please adjust your notification
+                  settings in the app or device. </li><li>You may adjust your personalized advertising preferences by visiting <a href="https://www.amazon.com/privacyprefs?ref_=footer_iba" target="_blank"> Your Ads Privacy Choices </a>.</li></ul></ul> <ul><ul>  <li>The Help feature on most browsers and devices will tell you how to prevent your browser
+                  or device from accepting new cookies or other identifiers, how to have the browser
+                  notify you when you receive a new cookie, or how to block cookies altogether. Because
+                  cookies and identifiers allow you to take advantage of some essential features of
+                  Amazon Services, we recommend that you leave them turned on. For instance, if you
+                  block or otherwise reject our cookies, you will not be able to add items to your Shopping
+                  Cart, proceed to Checkout, or use any Services that require you to Sign in. For more
+                  information about cookies and other identifiers, see our </li></ul></ul> <ul><ul>  <li>If you want to browse our websites without linking the browsing history to your account,
+                  you may do so by logging out of your account <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201293120" target="_blank"> here </a> and blocking cookies on your browser.</li><li>You can manage the recommendations you receive in our store <a href="https://www.amazon.com/gp/yourstore/iyr/" target="_blank"> here </a>, remove recommendations you don’t want to see <a href="https://www.amazon.com/gp/yourstore/home" target="_blank"> here </a> by selecting View All and Manage then selecting the Remove Items toggle that appears
+                  at the top of the page, and edit your browsing history <a href="https://www.amazon.com/gp/history/" target="_blank"> here </a>.</li></ul></ul> <ul><ul>  <li>You will also be able to opt out of certain other types of data usage by updating
+                  your settings on the applicable Amazon website (e.g., in "Manage Your Content and
+                  Devices"), device, or application. For more information click <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GQFYXZHZB2H629WN" target="_blank"> here </a>. Most non-Amazon devices also provide users with the ability to change device permissions
+                  (e.g., disable/access location services, contacts). For most devices, these controls
+                  are located in the device's settings menu. If you have questions about how to change
+                  your device permissions on devices manufactured by third parties, we recommend you
+                  contact your mobile service carrier or your device manufacturer.</li></ul></ul> <ul><ul>  <li>If you are a seller, you can add or update certain information in </li></ul></ul> <span><span>  <a href="https://sellercentral.amazon.com" target="_blank"> Seller Central </a>, update your account information by accessing your <a href="https://sellercentral.amazon.com/hz/sc/account-information" target="_blank"> Seller Account Information </a>, and adjust your email or other communications you receive from us by updating your
+                  <a href="https://sellercentral.amazon.com/notifications/preferences/ref=xx_notifpref_dnav_xx" target="_blank"> Notification Preferences </a>.</span></span> <ul><ul>  <li>If you are an author, you can add or update the information you have provided in the
+                  <a href="https://authorcentral.amazon.com/gp/help?topicID=200649520" target="_blank"> Author Portal </a> and </li></ul></ul> <span><span>  <a href="https://authorcentral.amazon.com/" target="_blank"> Author Central </a>  by accessing your accounts in the Author Portal and Author Central, respectively.</span></span> <ul><ul>  <li> If you shop in our physical stores, you can manage how certain data is used to analyze
+                  the performance of our products and services, as well as learn more </li></ul></ul> <p><p>  In addition, to the extent required by applicable law, you may have the right to request
+            access to or delete your personal information. If you wish to do any of these things,
+            you may go to <a href="https://www.amazon.com/hz/contact-us/request-data" target="_blank"> Data Privacy Queries </a>. Depending on your data choices, certain services may be limited or unavailable.</p></p> <div><h2>   Are Children Allowed to Use Amazon Services? </h2><p>  Amazon does not sell products for purchase by children. We sell children's products
+            for purchase by adults. If you are under 18, you may use Amazon Services only with
+            the involvement of a parent or guardian. We do not knowingly collect personal information
+            from children under the age of 13 without the consent of the child's parent or guardian.
+            For more information, please see our </p></div> <div><h2>  EU-US and Swiss-US Data Privacy Framework</h2><p>   Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension
+            to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework*. Click
+            <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=G202135380" target="_blank"> here </a> to learn more. </p><p>  <em> *We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the
+               EU-US Data Privacy Framework until they enter into force, but we adhere to their required
+               commitments in anticipation of their doing so. </em></p></div> <div><h2>   Additional State-Specific Privacy Disclosures</h2><p>  Click <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GC5HB5DVMU5Y8CJ2" target="_blank"> here </a> to read additional state-specific privacy disclosures as required under applicable
+            laws.</p></div> <div><h2>   Conditions of Use, Notices, and Revisions </h2><p>  If you choose to use Amazon Services, your use and any dispute over privacy is subject
+            to this Notice and our <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=GLSBYFE9MGKKQXXM" target="_blank"> Conditions of Use </a>, including limitations on damages, resolution of disputes, and application of the
+            law of the state of Washington. If you have any concern about privacy at Amazon, please
+            contact us with a thorough description, and we will try to resolve it. Our business
+            changes constantly, and our Privacy Notice will change also. You should check our
+            websites frequently to see recent changes. Unless stated otherwise, our current Privacy
+            Notice applies to all information that we have about you and your account. We stand
+            behind the promises we make, however, and will never materially change our policies
+            and practices to make them less protective of customer information collected in the
+            past without the consent of affected customers. </p></div> <div><h2>  Related Practices and Information</h2></div> <div><h2>   Examples of Information Collected </h2><p>  <strong> Information You Give Us When You Use Amazon Services </strong> </p><p>  You provide information to us when you:</p><ul>  <li>search or shop for products or services in our stores;</li><li>add or remove an item from your cart, or place an order through or use Amazon Services;</li><li>download, stream, view, or use content on a device or through a service or application
+                  on a device;</li><li>provide information in <a href="https://www.amazon.com/gp/css/homepage.html/ref=hp_468496_youraccount" target="_blank"> Your Account </a> (and you might have more than one if you have used more than one email address or
+                  mobile number when shopping with us) or <a href="https://www.amazon.com/gp/pdp/profile" target="_blank"> Your Profile </a> ;</li></ul></div> <ul><ul>  <li>talk to or otherwise interact with our Alexa Voice service;</li><li>upload your contacts;</li><li>configure your settings on, provide data access permissions for, or interact with
+                  an Amazon device or service;</li><li>provide information in your </li></ul></ul> <span><span>  <a href="https://kdp.amazon.com" target="_blank"> Kindle Direct Publishing </a> account , </span></span> <span><span>  <a href="https://developer.amazon.com/" target="_blank"> Developer </a> account , or any other account we make available that allows you to develop or offer software,
+                  goods, or services to Amazon customers;</span></span> <ul><ul>  <li>offer your products or services on or through Amazon Services;</li><li>communicate with us by phone, email, or otherwise;</li><li>complete a questionnaire, a support ticket, or a contest entry form;</li><li>upload or stream images, videos or other files to Prime Photos, Amazon Drive, or other
+                  Amazon Services;</li><li>use our services such as Prime Video;</li><li>compile Playlists, Watchlists, <a href="https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist2" target="_blank"> Wish Lists </a>, or other gift registries;</li></ul></ul> <ul><ul>  <li>participate in Discussion Boards or other community features;</li><li>provide and rate <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=G4N2FJ6WB9RDPEHW" target="_blank"> Reviews </a>;</li><li>specify a Special Occasion Reminder; or</li><li>employ <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=569162" target="_blank"> Product Availability Alerts </a>, such as Available to Order Notifications.</li></ul></ul> <p><p>  <strong> As a result of those actions, you might supply us with such information as: </strong>
+</p></p> <ul><ul>  <li>identifying information such as your name, address, and phone numbers;</li><li>payment information;</li><li>your age;</li><li>your location information;</li><li>your IP address;</li><li>people, addresses and phone numbers listed in your Addresses;</li><li>email addresses of your friends and other people;</li><li>content of reviews and emails to us; </li><li>personal description and photograph in <a href="https://www.amazon.com/gp/pdp/profile" target="_blank"> Your Profile </a>;</li><li>voice recordings when you speak to Alexa;</li></ul></ul> <ul><ul>  <li>images and videos collected or stored in connection with Amazon Services;</li><li>information and documents regarding identity, including Social Security and driver's
+                        license numbers;</li><li>corporate and financial information;</li><li>credit history information; and</li><li>device log files and configurations, including Wi-Fi credentials, if you choose to
+                        automatically synchronize them with your other Amazon devices.</li></ul></ul> <div><p>  <strong> Automatic Information </strong> </p><p>  Examples of the information we collect and analyze include:</p><ul>  <li>the internet protocol (IP) address used to connect your computer to the internet;</li><li>login, email address, and password; </li><li>the location of your device or computer;</li><li>content interaction information, such as content downloads, streams, and playback
+                  details, including duration and number of simultaneous streams and downloads, and
+                  network details for streaming and download quality, including information about your
+                  internet service provider;</li></ul></div> <ul><ul>  <li>device metrics such as when a device is in use, application usage, connectivity data,
+                  and any errors or event failures;</li><li>Amazon Services metrics (e.g., the occurrences of technical errors, your interactions
+                  with service features and content, your settings preferences and backup information,
+                  location of your device running an application, information about uploaded images
+                  and files such as the file name, dates, times and location of your images);</li></ul></ul> <ul><ul>  <li>version and time zone settings;</li><li>purchase and content use history, which we sometimes aggregate with similar information
+                  from other customers to create features like <a href="https://www.amazon.com/gp/bestsellers" target="_blank"> Top Sellers </a>;</li><li>the full Uniform Resource Locator (URL) clickstream to, through, and from our websites,
+                  including date and time; products and content you viewed or searched for; page response
+                  times, download errors, length of visits to certain pages, and page interaction information
+                  (such as scrolling, clicks, and mouse-overs);</li></ul></ul> <ul><ul>  <li>phone numbers used to call our customer service number; and</li><li>images or videos when you shop in our stores, or stores using Amazon Services.</li></ul></ul> <p><p>  We may also use device identifiers, cookies, and other technologies on devices, applications,
+            and our web pages to collect browsing, usage, or other technical information.</p></p> <div><p>  <strong> Information from Other Sources </strong> </p><p>  Examples of information we receive from other sources include:</p><ul>  <li>updated delivery and address information from our carriers or other third parties,
+                  which we use to correct our records and deliver your next purchase or communication
+                  more easily;</li><li>account information, purchase or redemption information, and page-view information
+                  from some merchants with which we operate co-branded businesses or for which we provide
+                  technical, fulfillment, advertising, or other services;</li><li>information about your interactions with products and services offered by our subsidiaries;</li></ul></div> <ul><ul>  <li>search results and links, including paid listings (such as Sponsored Links);</li><li>information about internet-connected devices and services linked with Alexa; and</li><li>credit history information from credit bureaus, which we use to help prevent and detect
+                  fraud and to offer certain credit or financial services to some customers.</li></ul></ul> <div><p>  <strong> Information You Can Access </strong> </p><p>  Examples of information you can access through Amazon Services include:</p><ul>  <li>status of recent orders (including subscriptions);</li><li>your complete order history;</li><li>personally identifiable information (including name, email, password, and address
+                  book);</li><li>payment settings (including payment card information, promotional certificate and
+                  gift card balances, and 1-Click settings);</li><li>email notification settings (including Product Availability Alerts, Delivers, Special
+                  Occasion Reminders and newsletters);</li></ul></div> <ul><ul>  <li>recommendations and the products you recently viewed that are the basis for recommendations
+                  (including Recommended for You and Improve Your Recommendations);</li><li>shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries);</li><li>your content, devices, services, and related settings, and communications and personalized
+                  advertising preferences;</li><li>content that you recently viewed;</li><li>voice recordings associated with your account;</li></ul></ul> <ul><ul>  <li>Your Profile (including your product Reviews, Recommendations, Reminders and personal
+                  profile);</li><li>If you are a seller, you can access your account and other information, and adjust
+                  your communications preferences, by updating your account in </li><li>If you are an author, you can access your account and other information, and update
+                  your accounts, on the </li></ul></ul> <span><span>  <a href="https://authorcentral.amazon.com/" target="_blank"> Author Central </a> website, as applicable.</span></span> <ul><ul>  <li>If you are a developer participating in our Developer Services Program, you can access
+                  your account and other information, and adjust your communications preferences, by
+                  updating your accounts in the </li></ul></ul> <div><p>  
+            Was this information helpful?
+        </p><span>  
+                Yes
+            
+</span><span>  
+                No
+            
+</span><p>  
+            Thank you for your feedback.
+        </p><p>  
+            Please select what best describes the information:
+        </p><label>  
+                This information is confusing or wrong
+            </label><label>  
+                This isn't the information I was looking for
+            </label><label>  
+                I don't like this policy
+            </label></div> <div><span>  
+                Submit
+            
+</span><p>  
+            
+	Thanks! While we're unable to respond directly to your feedback, 
+	we'll use this information to improve our online Help.
+    
+        </p></div> <div><h3>  Legal Policies</h3><ul>  <li>Amazon.com Privacy Notice</li></ul></div> <div><h3>  
+                Quick solutions
+            </h3><p>  
+                                        Your Orders
+                                    </p><p>  
+                                        Track or cancel orders
+                                    </p><p>  
+                                        Returns & Refunds
+                                    </p><p>  
+                                        Exchange or return items
+                                    </p><p>  
+                                        Manage Prime
+                                    </p></div> <div><p>  
+                                        Cancel or view benefits
+                                    </p><p>  
+                                        Payment Settings
+                                    </p><p>  
+                                        Add or edit payment methods
+                                    </p><p>  
+                                        Carrier Info
+                                    </p><p>  
+                                        Shipping carrier information
+                                    </p></div> <div><p>  
+                                        Account Settings
+                                    </p><p>  
+                                        Change email or password
+                                    </p><span>  
+    Back to top
+  </span><span>  English</span><span>  United States</span><span>  Stream millionsof songs</span><span>  Find, attract, andengage customers</span><span>  Score dealson fashion brands</span><span>  Books, art& collectibles</span><span>  Audiobook PublishingMade Easy</span></div> <div><span>  Start a Selling Account</span><span>  Everything ForYour Business</span><span>  Groceries & MoreRight To Your Door</span><span>  Ship OrdersInternationally</span><span>  Experienced ProsHappiness Guarantee</span><span>  Scalable CloudComputing Services</span><span>  Listen to Books & OriginalAudio Performances</span><span>  Books With FreeDelivery Worldwide</span><span>  Find MovieBox Office Data</span><span>  Thousands ofDigital Comics</span><span>  DigitalPhotography</span><span>  Sewing, Quilting& Knitting</span></div> <div><span>  Book reviews& recommendations</span><span>  Movies, TV& Celebrities</span><span>  Get Info EntertainmentProfessionals Need</span><span>  Indie Digital & Print PublishingMade Easy
+</span><span>  Unlimited Photo StorageFree With Prime</span><span>  Video DistributionMade Easy</span><span>  DesignerFashion Brands</span><span>  Great Deals onQuality Used Products </span><span>  America’s HealthiestGrocery Store</span><span>  Deals and Shenanigans</span><span>  Shoes &Clothing</span><span>  Smart HomeSecurity Systems
+</span></div> <div><span>  Stream 4K Videoin Every Room</span><span>  Smart Securityfor Every Home
+</span><span>   Real-Time Crime& Safety Alerts
+</span><span>  Top subscription boxes – right to your door</span><span>  Pharmacy Simplified</span><span>  Like-new productsyou can trust</span><span>  © 1996-2023, Amazon.com, Inc. or its affiliates</span></div>

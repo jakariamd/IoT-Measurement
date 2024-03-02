@@ -1,0 +1,63 @@
+<div><h1>  Privacy Policy for Podcast Listeners</h1><p>  Effective Date: June 18, 2021</p></div> <div><h3>  Hi There!</h3><p>  
+					Omny Studio takes data protection and privacy responsibilities seriously. It is important
+					that you know that we not only care about the companies who choose us to distribute their
+					podcasts (publishers), but also about their listeners. If you are curious to find out what
+					happens with your data when you listen to a podcast distributed by Omny Studio, please
+					check out our summary below. If you still have questions and want to learn more about our
+					privacy practices, check out our full <a href="/policies/privacy" target="_blank"> Privacy Policy </a>,
+					which applies to everyone visiting our websites and/or using the Omny Studio services.
+				</p></div> <div><h3>  Full Disclosure.</h3><p>  
+					When you listen to a podcast hosted with Omny Studio, whether you’re using an app (such as Apple Podcasts, Spotify, etc.) or listening from a website, we receive the indirect identifiers from the table below.
+				</p><td>  <strong> User agent </strong></td><td>  
+								This allows us to find out the name of the app you’re using (if you’re using
+								an app) and the type of device you’re connecting with.
+							</td><td>  <strong> Referral address </strong></td></div> <td><td>  
+								This allows us to find out the name of the website you visited to listen to
+								the podcast.
+							</td></td> <div><td>  <strong> IP address </strong></td><td>  
+								This allows us to find out your approximate location as well as the name of
+								your ISP or mobile provider. To be clear, with an IP address, we can’t work
+								out your name or address. IP addresses often change and can be shared by more
+								than one person. For example, you will share the same IP address as everyone
+								in your place of work or school.
+							</td><td>  <strong> Information regarding the file you downloaded </strong></td></div> <td><td>  
+								This allows us to find out what you downloaded, when (date and time) and
+								whether you downloaded it in its totality or just a snippet.
+							</td></td> <div><h3>  What We (and Others) Do With This Data</h3><p>  
+					We use the above-mentioned data for our own internal analysis purposes, to provide our
+					services and to help our publishers better understand how you listen to their podcasts.
+				</p><p>  
+					Except as instructed by the publishers (data controllers), we do not provide any of the
+					raw data that we receive to third parties. Rather, we provide them with aggregated
+					reports, which include the total numbers of downloads, information regarding the
+					geo-location of their listeners and the devices they use. Also, we do not combine the data
+					that we receive with any other data source aside from using a geo-database to turn your IP
+					address into an estimated location, as well as comparing your IP address with a blocklist
+					to ensure that you’re not an automated download from a server that we should disregard
+					when it comes to analytics.
+				</p></div> <p><p>  
+					Additionally, publishers may choose to activate functionalities within our services that
+					require us to integrate with third party technology platforms who may also have access to
+					the above-mentioned data for analytics, marketing and/or advertising purposes (e.g.
+					third-party ad servers). Publishers may also choose to utilize a third party “prefix” or
+					“prepend” service to their podcast downloads, which will redirect your download to a
+					third-party technology platform who may also have access to the above-mentioned data.
+					Please know that we do not control these third-party services and are not responsible for
+					their privacy practices, which may use your information for other purposes than the ones
+					stated above.
+				</p></p> <div><h3>  We Obey The Law</h3><p>  
+					We may also share your data to third parties as necessary to comply with applicable laws
+					or to protect the security of Omny Studio, its corporate parents, affiliates and
+					subsidiaries, our website and/or the Omny Studio Services.
+				</p><p>  
+					We only process data as necessary to provide the services to our publisher clients and
+					keep it only for as long as necessary to provide the services. Furthermore, we follow
+					industry standard security practices.
+				</p></div> <p><p>  
+					If you listen to a podcast through an app or a third-party website, your data may also be
+					collected by that app or website, and you should check the privacy policy of the podcast
+					app/website that you use.
+				</p></p> <p><p>  
+					If you have any questions regarding the above, we’d love to help. Contact us today at
+					<a href="mailto:privacy@tritondigital.com" target="_blank"> privacy@tritondigital.com </a>.
+				</p></p> <div><h3>  Features</h3></div> <div><h3>  Solution</h3></div> <div><h3>  Get in touch</h3></div> <div><h3>  Resources</h3><p>  A Triton Digital Company.</p><p>  © 2023 121cast Pty Ltd.</p><span>  Your Opt Out Preference Signal is Honored</span></div> <div><h2>  This Website Does Not Sell Personal Information or Share Personal Information for Cross-Context Behavioral Advertising</h2></div> <div><h2>  Cookie Data</h2></div> <div><h2>  Exercise Privacy Rights</h2></div> <div><h3>   Manage Cookie Preferences</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function, and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. </p></div> <div><h4>  Performance Cookies</h4><label>  Performance Cookies</label><p>  Performance cookies collect data that allows the website to understand how you interact with the website. For example, these cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. This information allows us to improve the website and our services. You may enable or disable these cookies by using this toggle switch. </p></div> <div><h4>  Functionality Cookies</h4><label>  Functionality Cookies</label><p>  Functionality cookies allow the website to remember your site preferences and choices such as username, region, and language. Similar to strictly necessary cookies, functionality cookies are used to provide services you request. You may enable or disable these cookies by using this toggle switch, but the website may not remember your settings unless you have an account with the website.</p></div> <div><h4>  Targeting Cookies</h4><label>  Targeting Cookies</label><p>  Ad targeting cookies collect information to personalize your experience with targeted ads. You can accept or reject these cookies by using this toggle switch. If you reject them, this website will not allow third parties to collect your personal information via cookies for the purpose of serving cross-context behavioral advertising. You will continue to receive online advertisements, but they may not be as relevant to you.</p></div> <div><h3>  Cookie List</h3><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span></div>

@@ -1,0 +1,4 @@
+<div><h2>  Managing Your Privacy Choices</h2><p>  Alphonso participates in independent, third-party systems that allow consumers to opt out of our services. These opt-out solutions rely on a variety of technologies (such as cookies), but none of them permit Alphonso to exercise your choice on your behalf.</p><p>  Here you will find all the information you need on managing your privacy choices, and how to opt out of Alphonso services. Please <a href="/contact" target="_blank"> contact us </a> if you have further questions.</p></div> <div><h3>  User Opt-Out
+</h3></div> <div><h3>  Cookie Policy
+</h3></div> <div><h3>  Consumer Privacy
+</h3></div> <div><h3>  Join the conversation:</h3><ul>  <li>© 2023 Alphonso Inc. </li></ul></div>

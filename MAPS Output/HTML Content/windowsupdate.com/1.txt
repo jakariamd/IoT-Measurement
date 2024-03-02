@@ -1,0 +1,55 @@
+<div><span>  
+
+
+
+
+
+</span><p>  
+
+The Windows automatic updating feature notifies you when critical updates are available for your computer. This update replaces the previous version of Automatic Update that is installed on your computer. To receive further automatic notification about critical updates you must install this update. Within 24 hours of installing this update, the Automatic Update setup wizard appears, to guide you through configuring your operating system so you will be notified when critical updates are available for your computer.
+
+
+
+</p></div> <div><p>  
+<strong> Windows Update Privacy Statement </strong>
+
+</p><p>  
+Windows Update is committed to protecting your privacy. To provide you with the appropriate list of updates, Windows Update must collect a certain amount of configuration information from your computer. This information includes:
+
+</p><ul>  <li>Operating-system version number and Product Identification number 
+</li><li>Internet Explorer version number 
+</li><li>Version numbers of other software 
+</li><li>Plug and Play ID numbers of hardware devices
+
+</li></ul></div> <p><p>  
+The Product Identification number is collected to confirm that you are running a validly licensed copy of Windows. A validly licensed copy of Windows ensures that you will receive on-going updates from Windows Update. Windows Update does not collect your name, address, e-mail address, or any other form of personally identifiable information. The configuration information collected is used only for the period of time that you are visiting the site, and is not saved.
+
+</p></p> <p><p>  
+To provide you with the best possible service, Windows Update also tracks and records how many unique machines visit its site and whether the download and installation of specific updates succeeded or failed. In order to do this, Windows generates a Globally Unique Identifier (GUID) that is stored on your computer to uniquely identify it. Windows Update records the GUID of the computer that attempted the download, the ID of the item that you attempted to download and install, and information about your operating system version and Internet Explorer version.
+
+</p></p> <p><p>  
+Because Windows Update does not collect personally identifiable information, the configuration information and GUID cannot be used to identify you.
+
+
+
+
+
+
+
+
+This update applies to Windows Millennium Edition (Windows Me).
+
+
+</p></p> <p><p>  
+
+Restart your computer to complete the installation.
+</p></p> <div><p>  
+
+</p><span>  
+
+</span><p>  
+
+Uninstall is not available.
+</p><p>  
+
+</p><p>  </p></div>

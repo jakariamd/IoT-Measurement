@@ -1,0 +1,70 @@
+<div><h1>  Transmission</h1><p>  A Fast, Easy, and Free BitTorrent client</p><span>  Search</span><span>  Advanced search</span><ul>  <li>Quick links
+</li><li>Unanswered topics
+</li><li>Active topics
+</li><li>Search
+</li><li>FAQ
+</li><li>Login
+</li><li>Register
+</li><li>Board index
+</li><li>General
+</li><li>Web Interface
+</li><li>Search
+</li></ul><span>  Post Reply</span><span>  
+
+</span><ul>  <li>Print view
+</li></ul><span>  Search</span><span>  Advanced search</span><ul>  <li>Page  of 
+</li><li>Jump to page:</li><li>
+
+
+
+</li><li>Next</li><li>Quote
+</li></ul></div> <div><p>  Post
+</p><span>  <strong> Prerequisites: </strong></span><ul>  <li>You have an up-and-running transmission-daemon WITH a working web UI.</li><li>You have an up-and-running transmission-daemon WITH a working web UI.</li><li>You have an up-and-running transmission-daemon WITH a working web UI.</li></ul><span>  <strong> Installation: </strong></span><ul>  <li>Download the zip file from github and unzip on your machine where transmission-daemon resides. (Or use git for future easy updating.)</li><li>Verify that transmission-daemon has proper access to the files. (See chmod and/or chown.)</li><li>Set the <a href="https://trac.transmissionbt.com/wiki/EnvironmentVariables" target="_blank"> TRANSMISSION_WEB_HOME </a> environment variable to the path to where you placed the Shift files.
+Example:
+</li></ul></div> <div><p>  Code: <a href="#" target="_blank"> Select all </a></p><ul>  <li>If transmission-daemon is executed from a script you should put the export command in there.</li><li>If transmission-daemon is executed from a systemd script you should add an Environment line there.
+</li></ul><p>  Code: <a href="#" target="_blank"> Select all </a></p><ul>  <li>(Re)start transmission-daemon.</li><li>Once started any changes to index.html, shift.js or any other file will be picked up after a page reload.</li></ul></div> <div><span>  <strong> Screenshots: </strong></span><span>  <strong> Related TRAC tickets: </strong></span><ul>  <li><a href="https://trac.transmissionbt.com/ticket/6138" target="_blank"> Download specific files via http from the web-ui </a> - Shift allows you to create URLs for the files within a torrent. You need a proper web(/*)server to serve those files.</li><li><a href="https://trac.transmissionbt.com/ticket/6032" target="_blank"> Enable Queue sub-menu only if sorting is set to 'By Queue' </a> - As of 2.40 every torrent has a queue index. Shift shows it and also allows you to change it. It can be used in many ways.</li></ul></div> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/6031" target="_blank"> setInterval()-based polling causes problems ... </a> - Shift uses <a href="http://api.prototypejs.org/ajax/Ajax/PeriodicalUpdater/" target="_blank"> Prototype's Ajax.PeriodicalUpdater </a>. Loading big chunks of static data every time is not helping either.</li><li><a href="https://trac.transmissionbt.com/ticket/5965" target="_blank"> Mass adding of trackers </a> - You can find it under Session/Shift.</li><li><a href="https://trac.transmissionbt.com/ticket/5962" target="_blank"> Rename single files in Web UI </a> - Implemented. You can find it under Torrent/Files.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/5949" target="_blank"> Web UI: allow drag'n'dropping torrent files into the browser </a> - Implemented since like forever.</li><li><a href="https://trac.transmissionbt.com/ticket/5945" target="_blank"> Add downloaded queue size/enabled option to preference in web </a> - All properties are shown by default.</li><li><a href="https://trac.transmissionbt.com/ticket/5935" target="_blank"> Sort torrents by amount of data uploaded </a> - Shift shows this column when filtering on status = "Seeding" and then it is automatically sortable.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/5894" target="_blank"> Content Security Policy for WebUI </a> - Shift is self contained and approved to work with the upcoming Content Security Policy.</li><li><a href="https://trac.transmissionbt.com/ticket/5863" target="_blank"> Web-UI does not allow copying of Magnet-Link </a> - You can find the link in the torrent details. You can even download the actual torrent if you configure and symlink everything correctly.</li><li><a href="https://trac.transmissionbt.com/ticket/5857" target="_blank"> Web client - keyboard shortcuts </a> - Shift uses very different keyboard shortcuts from what is mentioned in the TRAC ticket.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/5796" target="_blank"> Sort by ETA for transmission-daemon web UI </a> - Torrents are by default filtered by status Downloading and sorted by percentage done in descending order, which is almost the same as ETA. Instructions for adding ETA as a visible column can be found <a href="https://github.com/killemov/Shift" target="_blank"> right here </a>.</li><li><a href="https://trac.transmissionbt.com/ticket/5632" target="_blank"> Add the download/upload speed in the title </a> - You can switch between version numbers and upload/download in Session/Shift/showSpeedTitle.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/5620" target="_blank"> Inspector - Clickable urls in Comment field </a> - Implemented.</li><li><a href="https://trac.transmissionbt.com/ticket/5606" target="_blank"> Copy magnet link from the web interface </a> - You can find the link in the torrent details. You can even download the actual torrent if you configure and symlink everything correctly.</li><li><a href="https://trac.transmissionbt.com/ticket/5520" target="_blank"> Use the new API for notifications in the Web Client </a> - Implemented.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/5479" target="_blank"> Always selectable files in torrent </a> - Implemented.</li><li><a href="https://trac.transmissionbt.com/ticket/5433" target="_blank"> IE10 torrent upload not working </a> - The way Shift uploads torrents over rpc was copied to Clutch (main web UI) leading to less supported pre IE10 browsers because of the FileReader api.</li><li><a href="https://trac.transmissionbt.com/ticket/5350" target="_blank"> Disable right-click browser menu </a> - No right-click events used.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/5349" target="_blank"> Delete key should remove torrent from list </a> - Yes, and Shift + Delete should trash it, which it does.</li><li><a href="https://trac.transmissionbt.com/ticket/5138" target="_blank"> Sort setting lost after some days </a> - Torrents are by default filtered by status Downloading and sorted by percentage done in descending order. It is quite easy to change this to fit your needs.</li><li><a href="https://trac.transmissionbt.com/ticket/5045" target="_blank"> Please add setting per-torrent properties to the web interface </a> - Updating ALL editable properties implemented.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/5011" target="_blank"> Possible to include preserved "Sort Transfer By" order state? </a> - Torrents are by default filtered by status (Downloading/Seeding/Stopped...).</li><li><a href="https://trac.transmissionbt.com/ticket/5006" target="_blank"> Possibility to remove torrent data by using toolbar </a> - No right-click events used.</li><li><a href="https://trac.transmissionbt.com/ticket/4992" target="_blank"> Possible to add "Download to: " on torrent upload ? </a> - Implemented using Add button only.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/4971" target="_blank"> Mismatch Torrent Title and associated bar </a> - Row DOM element is tightly coupled with associated torrent.</li><li><a href="https://trac.transmissionbt.com/ticket/4962" target="_blank"> Display total seeding time with torrent details </a> - All properties are shown by default. "secondsSeeding" has been in the RPC-spec since revision <a href="https://trac.transmissionbt.com/browser/trunk/extras/rpc-spec.txt?rev=11597" target="_blank"> 11597 </a>.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/4904" target="_blank"> Mark completed files in torrent in a distinguished way </a> - File download progress is indicated with a percentage, so 100% means complete.</li><li><a href="https://trac.transmissionbt.com/ticket/4876" target="_blank"> "Web Seeds" field is not displayed in the Web Client </a> - Displayed as link in details.</li><li><a href="https://trac.transmissionbt.com/ticket/4866" target="_blank"> Replace existing menus with jQueryUI menu </a> - Shift has no need for this. Once you discover the menus present, you will appreciate their simplicity. Oh, NO right clicks here.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/4703" target="_blank"> Remove libtransmission API for configuring units </a> - Shift uses 1024.</li><li><a href="https://trac.transmissionbt.com/ticket/4572" target="_blank"> Unable to trash and remove torrents from touch devices </a> - No right-click events used.</li><li><a href="https://trac.transmissionbt.com/ticket/4395" target="_blank"> Crash when removing data for incomplete magnetized torrent file </a> - Though fixed in transmission, implemented for older versions.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/3652" target="_blank"> Allow editing tracker list in the webinterface </a> - Basic tracker management implemented.</li><li><a href="https://trac.transmissionbt.com/ticket/3575" target="_blank"> Web Client should allow viewing/changing bandwith priorities for torrents </a> - Updating ALL editable properties implemented.</li><li><a href="https://trac.transmissionbt.com/ticket/3473" target="_blank"> Show folder of torrents in inspector </a> - Implemented and added manipulation per tree node.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/3436" target="_blank"> Allow for adding multiple URLs at one time </a> - Implemented Drag n Drop (And dropping files containing urls).</li><li><a href="https://trac.transmissionbt.com/ticket/2601" target="_blank"> Add download link the web client </a> - Implemented.</li><li><a href="https://trac.transmissionbt.com/ticket/1920" target="_blank"> Multi upload for web ui </a> - Implemented with Drag 'n' Drop and the add torrent dialog.</li><li><a href="https://trac.transmissionbt.com/ticket/1817" target="_blank"> Add "verify torrent" feature to web client as in transmission client </a> - Checking implemented.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/1767" target="_blank"> Add "remove local data" feature to web client as in transmission client </a> - Trashing implemented.</li><li><a href="https://trac.transmissionbt.com/ticket/1496" target="_blank"> Support specification of download directory for individual torrent </a> - Manual entry implemented.</li><li><a href="https://trac.transmissionbt.com/ticket/1494" target="_blank"> Web Interface should support max speed per torrent </a> - Updating ALL editable properties implemented.</li></ul></ul> <ul><ul>  <li><a href="https://trac.transmissionbt.com/ticket/1228" target="_blank"> Upload multiple torrents at once </a> - Implemented with Drag 'n' Drop and the add torrent dialog.</li><li><a href="https://trac.transmissionbt.com/ticket/1212" target="_blank"> Free space </a> - Implemented.</li><li><a href="https://trac.transmissionbt.com/ticket/1147" target="_blank"> "Add torrent by URL" from web client </a> - Implemented.</li></ul></ul> <div><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><ul>  <li>Added options for adding torrent.</li><li>Update file names and links when configuration has changed.</li><li>Initialize sort order when rendering table.</li></ul><span>  Top</span><ul>  <li>Quote
+</li></ul></div> <div><p>  Post
+</p><ul>  <li>Fixed periodical updater to keep it from forking on onFailure.</li><li>Changed Add and About popups to fixed position.</li></ul><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><ul>  <li>Torrent details now update.</li><li>Implemented proper iteration over dropped files.</li><li>Implemented single click file (de)selection.</li><li> Prevented trashing incomplete magnets, they are removed separately.</li></ul></div> <div><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><ul>  <li>Quote
+</li></ul><p>  Post
+</p><span>  Top</span><span>  Post Reply</span><span>  
+
+</span><ul>  <li>Print view
+</li></ul><span>  
+
+</span><label>  Display: </label><label>  Sort by: </label><label>  Direction: </label><ul>  <li>Page  of 
+</li><li>Jump to page:</li><li>
+
+
+
+</li><li>Next</li></ul><p>  Return to “Web Interface”
+</p><span>  Jump to
+</span><ul>  <li> General</li><li>↳   General</li><li>↳   Requests</li><li>↳   Support</li><li>↳   Web Interface</li><li> Mac</li><li>↳   Mac Requests</li><li>↳   Mac Support</li><li> GTK+</li><li>↳   GTK+ Requests</li><li>↳   GTK+ Support</li><li>↳   Binaries</li><li> Windows</li><li>↳   Windows Requests</li><li>↳   Windows Support</li><li>Board index </li><li>All times are </li></ul></div> <div><span>  UTC</span><ul>  <li>Delete cookies
+</li></ul><p>  Powered by <a href="https://www.phpbb.com/" target="_blank"> phpBB </a>® Forum Software © phpBB Limited
+</p><p>  Privacy
+			|
+			</p><span>  Terms
+</span><p>  </p></div>

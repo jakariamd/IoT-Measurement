@@ -1,0 +1,136 @@
+<p><p>  This browser is no longer supported.</p></p> <p><p>  Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.</p></p> <div><span>  Learn</span><span>  Global navigation</span><ul>  <li>Learn
+</li><li>Documentation
+</li><li>Training
+</li><li>Certifications
+</li><li>Q&A
+</li><li>Code Samples
+</li><li>Assessments
+</li><li>Shows
+</li><li>Events
+</li><li>More</li><li>
+
+</li></ul><span>  
+					Suggestions will filter as you type
+				</span><span>  
+					Suggestions will filter as you type
+				</span><span>  Search</span><span>  
+Table of contents						</span><span>  Exit focus mode</span><label>  Search</label><span>  
+					Suggestions will filter as you type
+				</span></div> <div><span>  Download PDF</span><span>  Read in English</span><span>  Add</span><span>  Table of contents</span><span>  Read in English</span><span>  Add</span><span>  Edit</span><span>  Print</span><span>  Twitter</span><span>  LinkedIn</span><span>  Facebook</span><span>  Email</span><span>  Table of contents</span></div> <div><h1>  Frequently asked questions about creating or deleting resources in Azure App Service</h1><ul>  <li>
+FAQ													</li><li>
+
+</li></ul><span>  Feedback</span></div> <div><h2>  In this article</h2><p>  This article answers common questions about creating and deleting <a href="https://azure.microsoft.com/services/app-service/web/" target="_blank"> web apps in Azure App Service </a>.</p><p>  If your Azure issue is not addressed in this article, visit the Azure forums on <a href="https://azure.microsoft.com/support/forums/" target="_blank"> MSDN and Stack Overflow </a>. You can post your issue in these forums, or post to <a href="https://twitter.com/AzureSupport" target="_blank"> @AzureSupport on Twitter </a>. You also can submit an Azure support request. To submit a support request, on the <a href="https://azure.microsoft.com/support/options/" target="_blank"> Azure support </a> page, select <strong> Get support </strong>.</p></div> <div><h2>  Create a web app</h2></div> <div><h3>  What if I create a web app with the same name as another one?
+</h3><p>  We cannot create a web app with a name that already exists in the Azure. The web app name is part of the web app's URL, so it must be unique among all Azure App Service web apps.</p></div> <div><h3>  How can I create a web app in a region that's unavailable in the subscription?
+</h3><p>  Certain Azure regions require customers to go through a request process to gain access. For more information, see the <a href="/en-us/troubleshoot/azure/general/region-access-request-process" target="_blank"> Azure region access request process </a> and <a href="https://azure.microsoft.com/global-infrastructure/services/?products=app-service&regions=all" target="_blank"> Azure App Service available by region </a>.</p></div> <div><h3>  What if the requested SKU of the App Service Plan isn't available in the Resource Group?
+</h3><p>  Your App Service deployments may not have specific SKUs available due to constraints (for example, the SKU isn't available in the region or country).</p><p>  If the requested SKU isn't available in the Resource Group, you must create a new App Service Plan in a new Resource Group in the same region or in the same Resource Group using a different region.</p><p>  If you want to reuse the same Resource Group and region, you must delete all the App Services, App Service Plans, and  resources in this Resource Group, then create the desired SKU in this Resource Group. Note that migrating App Services originating in this Resource Group to another Resource Group won't unblock the creation.</p></div> <div><h2>  Delete or restore a web app</h2></div> <div><h3>  If I delete all my web apps, will I still be charged?
+</h3><p>  Yes, charges will still apply unless you delete the App Service plan that the web app runs on and its all web apps.</p><p>  To stop all billing associated with your App Service, you need to delete the App Service Plan or scale the App Service Plan to the free tier. For more information, see <a href="/en-us/azure/app-service/overview-hosting-plans#how-much-does-my-app-service-plan-cost" target="_blank"> How much does my App Service Plan cost? </a> and <a href="/en-us/azure/app-service/overview-manage-costs" target="_blank"> Plan and manage costs for Azure App Service </a>.</p></div> <div><h3>  I cannot create or delete a web app due to a permission error. What the permissions do I need to create or delete a web app?
+</h3><p>  You would need minimum Contributor access on the Resource Group to deploy App Services. If you have Contributor access only on App Service Plan and web app, it won't allow you to create the app service in the Resource Group.</p><p>  For more information, see <a href="/en-us/azure/role-based-access-control/built-in-roles" target="_blank"> Azure built-in roles </a>.</p></div> <div><h3>  I'm trying to delete my App Service Plan, but I'm getting the following error "Storage usage quota exceeded. Can't update or delete a server farm. Please make sure your file system storage is below the limit of the target pricing tier". How and where do I check the file system storage limit?
+</h3><p>  During the deletion process, we calculate the usage of the remaining App Service Plans. If they are above the remaining limit, then this error appears.</p><p>  The storage limit is the total content size across all apps in the same App Service Plan. The total content size of all apps across all App Service Plans in a single Resource Group and region can't exceed 500 GB. The file system quota for App Service hosted apps is determined by the aggregate of App Service Plans created in a region and Resource Group.</p></div> <p><p>  For more information, see <a href="/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#app-service-limits" target="_blank"> App Service limits - Storage </a> and <a href="https://azure.microsoft.com/pricing/details/app-service/windows/" target="_blank"> App Service pricing </a>.</p></p> <div><h3>  Is there a way to list the deleted web apps for my Subscription?
+</h3><p>  You can run  to get the list of the web apps that were deleted within the last 30 days in your Subscription ID. Deleted apps are purged from the system 30 days after the initial deletion. After an app is purged, it can't be recovered. For more information, see <a href="/en-us/azure/app-service/app-service-undelete#list-deleted-apps" target="_blank"> List deleted apps </a>.</p></div> <div><h3>  How do I restore a deleted web app or a deleted App Service Plan?
+</h3><p>  If the web app was deleted within the last 30 days, you can restore it using . For more information, see <a href="/en-us/azure/app-service/app-service-undelete#restore-deleted-app" target="_blank"> Restore deleted app </a> and <a href="https://techcommunity.microsoft.com/t5/apps-on-azure-blog/restore-undelete-deleted-web-apps/ba-p/2922088" target="_blank"> Restore Deleted web apps </a>.</p></div> <div><h2>  Contact us for help</h2><p>  If you have questions or need help, <a href="https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview?DMC=troubleshoot" target="_blank"> create a support request </a>, or ask <a href="/en-us/answers/products/azure?product=all" target="_blank"> Azure community support </a>. You can also submit product feedback to <a href="/en-us/answers/products/azure?product=all" target="_blank"> Azure community support </a>.</p></div> <div><h2>  Feedback</h2><p>  Was this page helpful?</p><span>  Yes</span><span>  No</span><span>  Get help at Microsoft Q&A</span></div> <div><h2>  Additional resources</h2><p>  
+
+			Documentation
+		</p><p>  
+			Learn how to add an existing custom DNS domain name (vanity domain) to a web app, mobile app back end, or API app in Azure App Service.
+		
+</p><p>  
+			Secure HTTPS access to your custom domain by creating a TLS/SSL binding with a certificate. Improve your website's security by enforcing HTTPS or TLS 1.2.
+		
+</p><p>  
+			Create an App Service certificate and manage it (such as renew, sync, and delete).
+		
+</p><p>  
+			Learn how to configure a PHP app in a pre-built PHP container, in Azure App Service. This article shows the most common configuration tasks.
+		
+</p></div> <p><p>  
+			Learn how to clone your App Service app to a new app using PowerShell. A variety of cloning scenarios are covered, including Traffic Manager integration.
+		
+</p></p> <p><p>  
+			Learn how inbound and outbound IP addresses are used in Azure App Service, when they change, and how to find the addresses for your app.
+		
+</p></p> <p><p>  
+			Learn how to secure your brand with App Service using a custom domain and enabling App Service managed certificate.
+		
+</p></p> <p><p>  
+			Create a free certificate, import an App Service certificate, import a Key Vault certificate, or buy an App Service certificate in Azure App Service.
+		
+</p></p> <div><span>  Show 5 more</span><p>  
+
+			Training
+		</p><p>  
+					Learning path
+				</p><p>  
+			Learn how Azure App Service functions and how to create and update an app. Explore App Service authentication and authorization, configuring app settings, scale apps, and how to use deployment slots.
+		</p><p>  
+					Certification
+				</p><p>  
+			Azure administrators implement, manage, and monitor an organization’s Microsoft Azure environment, including virtual networks, storage, compute, identity, security, and governance.
+		</p></div> <div><span>  English (United States)</span><span>  Theme</span><ul>  <li>
+
+
+</li></ul><span>  
+Light					
+</span><ul>  <li>
+
+
+</li></ul><span>  
+Dark					
+</span><ul>  <li>
+
+
+</li></ul><span>  
+High contrast					
+</span><ul>  <li>© Microsoft 2023</li></ul></div> <div><h2>  Additional resources</h2><p>  
+
+			Training
+		</p><p>  
+					Learning path
+				</p><p>  
+			Learn how Azure App Service functions and how to create and update an app. Explore App Service authentication and authorization, configuring app settings, scale apps, and how to use deployment slots.
+		</p><p>  
+					Certification
+				</p><p>  
+			Azure administrators implement, manage, and monitor an organization’s Microsoft Azure environment, including virtual networks, storage, compute, identity, security, and governance.
+		</p></div> <div><p>  
+
+			Documentation
+		</p><p>  
+			Learn how to add an existing custom DNS domain name (vanity domain) to a web app, mobile app back end, or API app in Azure App Service.
+		
+</p><p>  
+			Secure HTTPS access to your custom domain by creating a TLS/SSL binding with a certificate. Improve your website's security by enforcing HTTPS or TLS 1.2.
+		
+</p><p>  
+			Create an App Service certificate and manage it (such as renew, sync, and delete).
+		
+</p><p>  
+			Learn how to configure a PHP app in a pre-built PHP container, in Azure App Service. This article shows the most common configuration tasks.
+		
+</p></div> <p><p>  
+			Learn how to clone your App Service app to a new app using PowerShell. A variety of cloning scenarios are covered, including Traffic Manager integration.
+		
+</p></p> <p><p>  
+			Learn how inbound and outbound IP addresses are used in Azure App Service, when they change, and how to find the addresses for your app.
+		
+</p></p> <p><p>  
+			Learn how to secure your brand with App Service using a custom domain and enabling App Service managed certificate.
+		
+</p></p> <p><p>  
+			Create a free certificate, import an App Service certificate, import a Key Vault certificate, or buy an App Service certificate in Azure App Service.
+		
+</p></p> <div><span>  Show 5 more</span></div> <div><h3>  In this article</h3><span>  English (United States)</span><span>  Theme</span><ul>  <li>
+
+
+</li></ul><span>  
+Light					
+</span><ul>  <li>
+
+
+</li></ul><span>  
+Dark					
+</span><ul>  <li>
+
+
+</li></ul><span>  
+High contrast					
+</span><ul>  <li>© Microsoft 2023</li></ul></div>

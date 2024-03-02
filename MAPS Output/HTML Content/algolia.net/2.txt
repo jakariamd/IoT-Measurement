@@ -1,0 +1,263 @@
+<div><h1>  Chapter 1. Security Overview</h1><p>  Because of the increased reliance on powerful, networked computers to
+      help run businesses and keep track of our personal information, industries
+      have been formed around the practice of network and computer
+      security. Enterprises have solicited the knowledge and skills of security
+      experts to properly audit systems and tailor solutions to fit the
+      operating requirements of the organization. Because most organizations are
+      dynamic in nature, with workers accessing company IT resources locally and
+      remotely, the need for secure computing environments has become more
+      pronounced.
+    </p></div> <p><p>  Unfortunately, most organizations (as well as individual users) regard
+      security as an afterthought, a process that is overlooked in favor of
+      increased power, productivity, and budgetary concerns. Proper security
+      implementation is often enacted <i> postmortem </i> —
+      after an unauthorized intrusion has already occurred. Security experts
+      agree that the right measures taken prior to connecting a site to an
+      untrusted network such as the Internet is an effective means of thwarting
+      most attempts at intrusion.
+    </p></p> <div><h1>  1.1. What is Computer Security?</h1><p>  Computer security is a general term that covers a wide area of
+	computing and information processing. Industries that depend on computer
+	systems and networks to conduct daily business transactions and access
+	crucial information regard their data as an important part of their
+	overall assets. Several terms and metrics have entered our daily
+	business vocabulary, such as total cost of ownership (TCO) and quality
+	of service (QoS). In these metrics, industries calculate aspects such as
+	data integrity and high-availability as part of their planning and
+	process management costs. In some industries, such as electronic
+	commerce, the availability and trustworthiness of data can be the
+	difference between success and failure.
+      </p></div> <div><h2>  1.1.1. How did Computer Security Come about?</h2><p>  Many readers may recall the movie "Wargames," starring Matthew
+	  Broderick in his portrayal of a high school student who breaks into
+	  the United States Department of Defense (DoD) supercomputer and
+	  inadvertently causes a nuclear war threat. In this movie, Broderick
+	  uses his modem to dial into the DoD computer (called WOPR) and plays
+	  games with the artificially intelligent software controlling all of
+	  the nuclear missile silos. The movie was released during the "cold
+	  war" between the former Soviet Union and the United States and
+	  was considered a success in its theatrical release in 1983. The
+	  popularity of the movie inspired many individuals and groups to begin
+	  implementing some of the methods that the young protagonist used to
+	  crack restricted systems, including what is known as <i> war
+	  dialing </i> — a method of searching phone numbers for
+	  analog modem connections in a defined area code and phone prefix
+	  combination.
+	</p></div> <p><p>  More than 10 years later, after a four-year, multi-jurisdictional
+	  pursuit involving the Federal Bureau of Investigation (FBI) and the
+	  aid of computer professionals across the country, infamous computer
+	  cracker Kevin Mitnick was arrested and charged with 25 counts of
+	  computer and access device fraud that resulted in an estimated US$80
+	  Million in losses of intellectual property and source code from Nokia,
+	  NEC, Sun Microsystems, Novell, Fujitsu, and Motorola. At the time, the
+	  FBI considered it the largest computer-related criminal offense in
+	  U.S. history. He was convicted and sentenced to a combined 68 months
+	  in prison for his crimes, of which he served 60 months before his
+	  parole on January 21, 2000. He was further barred from using computers
+	  or doing any computer-related consulting until 2003. Investigators say
+	  that Mitnick was an expert in <i> social
+	  engineering </i> — using human beings to gain access to
+	  passwords and systems using falsified credentials.
+	</p></p> <p><p>  Information security has evolved over the years due to the
+	  increasing reliance on public networks to disclose personal,
+	  financial, and other restricted information. There are numerous
+	  instances such as the Mitnick and the Vladimir Levin case (refer to
+	  <a href="ch-sgs-ov.html#S2-SGS-OV-CS-TIMELINE" target="_blank"> Section 1.1.2  </a><i> Computer Security Timeline </i> for more information) that
+	  prompted organizations across all industries to rethink the way they
+	  handle information transmission and disclosure. The popularity of the
+	  Internet was one of the most important developments that prompted an
+	  intensified effort in data security.
+	</p></p> <p><p>  An ever-growing number of people are using their personal
+	  computers to gain access to the resources that the Internet has to
+	  offer. From research and information retrieval to electronic mail and
+	  commerce transaction, the Internet has been regarded as one of the
+	  most important developments of the 20th century.
+	</p></p> <p><p>  The Internet and its earlier protocols, however, were developed as
+	  a <i> trust-based </i> system. That is, the Internet
+	  Protocol was not designed to be secure in itself. There are no
+	  approved security standards built into the TCP/IP communications
+	  stack, leaving it open to potentially malicious users and processes
+	  across the network. Modern developments have made Internet
+	  communication more secure, but there are still several incidents that
+	  gain national attention and alert us to the fact that nothing is
+	  completely safe.
+	</p></p> <div><h2>  1.1.2. Computer Security Timeline</h2><p>  Several key events contributed to the birth and rise of computer
+	security. The following lists some of the most important events that
+	brought attention to computer and information security and its
+	importance today.
+	</p></div> <div><h3>  1.1.2.1. The 1960s</h3><ul>  <li>Students at the Massachusetts Institute of Technology (MIT)
+		form the Tech Model Railroad Club (TMRC) begin exploring and
+		programming the school's PDP-1 mainframe computer system. The
+		group eventually use the term "hacker" in the context it is
+		known today.
+	      </li><li>The DoD creates the Advanced Research Projects Agency
+	      Network (ARPANet), which gains popularity in research and academic
+	      circles as a conduit for the electronic exchange of data and
+	      information. This paves the way for the creation of the carrier
+	      network known today as the Internet.
+	      </li></ul></div> <ul><ul>  <li>Ken Thompson develops the UNIX operating system, widely
+	      hailed as the most "hacker-friendly" OS because of its accessible
+	      developer tools and compilers, and its supportive user
+	      community. Around the same time, Dennis Ritchie develops the C
+	      programming language, arguably the most popular hacking language
+	      in computer history.
+	      </li></ul></ul> <div><h3>  1.1.2.2. The 1970s</h3><ul>  <li>Bolt, Beranek, and Newman, a computing research and
+	      development contractor for government and industry, develops the
+	      Telnet protocol, a public extension of the ARPANet. This opens
+	      doors to public use of data networks once restricted to government
+	      contractors and academic researchers. Telnet, though, is also
+	      arguably the most insecure protocol for public networks, according
+	      to several security researchers.
+	      </li><li>Steve Jobs and Steve Wozniak found Apple Computer and begin
+		marketing the Personal Computer (PC). The PC is the springboard
+		for several malicious users to learn the craft of cracking
+		systems remotely using common PC communication hardware such as
+		analog modems and war dialers.
+	      </li></ul></div> <ul><ul>  <li>Jim Ellis and Tom Truscott create USENET, a bulletin-board
+	      style system for electronic communication between disparate
+	      users. USENET quickly becomes one the most popular forums for the
+	      exchange of ideas in computing, networking, and, of course, cracking.
+	      </li></ul></ul> <div><h3>  1.1.2.3. The 1980s</h3><ul>  <li>IBM develops and markets PCs based on the Intel 8086
+	      microprocessor, a relatively inexpensive architecture that brought
+	      computing from the office to the home. This serves to commodify
+	      the PC as a common and accessible tool that was fairly powerful
+	      and easy to use, aiding in the proliferation of such hardware in
+	      the homes and offices of malicious users.
+	      </li><li>The Transmission Control Protocol, developed by Vint Cerf,
+		is split into two separate parts. The Internet Protocol is born
+		from this split, and the combined TCP/IP protocol becomes the
+		standard for all Internet communication today.
+	      </li></ul></div> <ul><ul>  <li>Based on developments in the area of
+		<i> phreaking </i>, or exploring and hacking the
+		telephone system, the magazine <i> 2600: The Hacker
+		Quarterly </i> is created and begins discussion on topics
+		such as cracking computers and computer networks to a broad
+		audience.
+	      </li><li>The 414 gang (named after the area code where they lived and
+		hacked from) are raided by authorities after a nine-day cracking
+		spree where they break into systems from such top-secret
+		locations as the Los Alamos National Laboratory, a nuclear
+		weapons research facility.
+	      </li></ul></ul> <ul><ul>  <li>The Legion of Doom and the Chaos Computer Club are two
+	      pioneering cracker groups that begin exploiting vulnerabilities in
+	      computers and electronic data networks.
+	      </li><li>The Computer Fraud and Abuse Act of 1986 was voted into law
+	      by congress based on the exploits of Ian Murphy, also known as
+	      Captain Zap, who broke into military computers, stole information
+	      from company merchandise order databases, and used restricted
+	      government telephone switchboards to make phone calls.
+	      </li></ul></ul> <ul><ul>  <li>Based on the Computer Fraud and Abuse Act, the courts were
+	      able to convict Robert Morris, a graduate student, for unleashing
+	      the Morris Worm to over 6,000 vulnerable computers connected to
+	      the Internet. The next most prominent case ruled under this act
+	      was Herbert Zinn, a high-school dropout who cracked and misused
+	      systems belonging to AT&T and the DoD.
+	      </li><li>Based on concerns that the Morris Worm ordeal could be
+	      replicated, the Computer Emergency Response Team (CERT) is created
+	      to alert computer users of network security issues.
+	      </li></ul></ul> <ul><ul>  <li>Clifford Stoll writes <i> The Cuckoo's
+	      Egg </i>, Stoll's account of investigating crackers who
+	      exploit his system.
+	      </li></ul></ul> <div><h3>  1.1.2.4. The 1990s</h3><ul>  <li>ARPANet is decommissioned. Traffic from that network is
+	      transferred to the Internet.
+	      </li><li>Linus Torvalds develops the Linux kernel for use with the
+	      GNU operating system; the widespread development and adoption of
+	      Linux is largely due to the collaboration of users and developers
+	      communicating via the Internet. Because of its roots in UNIX,
+	      Linux is most popular among hackers and administrators who found
+	      it quite useful for building secure alternatives to legacy servers
+	      running proprietary (closed-source) operating systems.
+	      </li></ul></div> <ul><ul>  <li>The graphical Web browser is created and sparks an
+	      exponentially higher demand for public Internet access.
+	      </li><li>Vladimir Levin and accomplices illegally transfer US$10
+	      Million in funds to several accounts by cracking into the CitiBank
+	      central database. Levin is arrested by Interpol and almost all of
+	      the money is recovered.
+	      </li><li>Possibly the most heralded of all crackers is Kevin Mitnick,
+	      who hacked into several corporate systems, stealing everything
+	      from personal information of celebrities to over 20,000 credit
+	      card numbers and source code for proprietary software. He is
+	      arrested and convicted of wire fraud charges and serves 5 years in
+	      prison.
+	      </li></ul></ul> <ul><ul>  <li>Kevin Poulsen and an unknown accomplice rig radio station
+	      phone systems to win cars and cash prizes. He is convicted for
+	      computer and wire fraud and is sentenced to 5 years in prison.
+	      </li><li>The stories of cracking and phreaking become legend, and
+	      several prospective crackers convene at the annual DefCon
+	      convention to celebrate cracking and exchange ideas between peers.
+	      </li><li>A 19-year-old Israeli student is arrested and convicted for
+	      coordinating numerous break-ins to US government systems during
+	      the Persian-Gulf conflict. Military officials call it "the most
+	      organized and systematic attack" on government systems in US
+	      history.
+	      </li></ul></ul> <ul><ul>  <li>US Attorney General Janet Reno, in response to escalated
+	      security breaches in government systems, establishes the National
+	      Infrastructure Protection Center.
+	      </li><li>British communications satellites are taken over and
+	      ransomed by unknown offenders. The British government eventually
+	      seizes control of the satellites.
+	      </li></ul></ul> <div><h2>  1.1.3. Security Today</h2><p>  In February of 2000, a Distributed Denial of Service (DDoS) attack
+	  was unleashed on several of the most heavily-trafficked sites on the
+	  Internet. The attack rendered yahoo.com, cnn.com, amazon.com, fbi.gov,
+	  and several other sites completely unreachable to normal users, as it
+	  tied up routers for several hours with large-byte ICMP packet
+	  transfers, also called a <i> ping flood </i>. The attack
+	  was brought on by unknown assailants using specially created, widely
+	  available programs that scanned vulnerable network servers, installed
+	  client applications called <i> trojans </i> on the
+	  servers, and timed an attack with every infected server flooding the
+	  victim sites and rendering them unavailable. Many blame the attack on
+	  fundamental flaws in the way routers and the protocols used are
+	  structured to accept all incoming data, no matter where or for what
+	  purpose the packets are sent.
+	</p></div> <p><p>  This brings us to the new millennium, a time where an estimated 400
+	  Million people use or have used the Internet worldwide. At the same
+	  time:
+	</p></p> <ul><ul>  <li>On any given day, there are approximately 225 major incidences
+	      of security breach reported to the CERT Coordination Center at
+	      Carnegie Mellon University. [source: <a href="http://www.cert.org" target="_blank"> http://www.cert.org </a>]
+	    </li><li>In 2002, the number of CERT reported incidences jumped to
+	      82,094 from 52,658 in 2001. As of this writing, the number of
+	      incidences reported in only the first quarter of 2003 is
+	      42,586. [source: <a href="http://www.cert.org" target="_blank"> http://www.cert.org </a>]
+	    </li></ul></ul> <ul><ul>  <li>The worldwide economic impact of the three most dangerous
+	      Internet Viruses of the last two years was estimated at US$13.2
+	      Billion. [source: <a href="http://www.newsfactor.com/perl/story/16407.html" target="_blank"> http://www.newsfactor.com/perl/story/16407.html </a>]
+	    </li></ul></ul> <p><p>  Computer security has become a quantifiable and justifiable
+	  expense for all IT budgets. Organizations that require data integrity
+	  and high availability elicit the skills of system administrators,
+	  developers, and engineers to ensure 24x7 reliability of their systems,
+	  services, and information. To fall victim to malicious users,
+	  processes, or coordinated attacks is a direct threat to the success of
+	  the organization.
+	</p></p> <p><p>  Unfortunately, system and network security can be a difficult
+	  proposition, requiring an intricate knowledge of how an organization
+	  regards, uses, manipulates, and transmits its
+	  information. Understanding the way an organization (and the people
+	  that make up the organization) conducts business is paramount to
+	  implementing a proper security plan.
+	</p></p> <div><h2>  1.1.4. Standardizing Security</h2><p>  Enterprises in every industry rely on regulations and rules that
+	  are set by standards making bodies such as the American Medical
+	  Association (AMA) or the Institute of Electrical and Electronics
+	  Engineers (IEEE). The same ideals hold true for information
+	  security. Many security consultants and vendors agree upon the
+	  standard security model known as CIA, or <i> Confidentiality,
+	  Integrity, and Availability </i>. This three-tiered model is a
+	  generally accepted component to assessing risks of sensitive
+	  information and establishing security policy. The following describes
+	  the CIA model in further detail:</p></div> <ul><ul>  <li>Confidentiality — Sensitive information must be
+	      available only to a set of pre-defined individuals. Unauthorized
+	      transmission and usage of information should be restricted. For
+	      example, confidentiality of information ensures that a customer's
+	      personal or financial information is not obtained by an
+	      unauthorized individual for malicious purposes such as identity
+	      theft or credit fraud.</li><li>Integrity — Information should not be altered in ways
+	      that render it incomplete or incorrect. Unauthorized users should
+	      be restricted from the ability to modify or destroy sensitive
+	      information. 
+	      </li></ul></ul> <ul><ul>  <li>Availability — Information should be accessible to
+	      authorized users any time that it is needed. Availability is a
+	      warranty that information can be obtained with an agreed-upon
+	      frequency and timeliness. This is often measured in terms of
+	      percentages and agreed to formally in Service Level Agreements
+	      (SLAs) used by network service providers and their enterprise
+	      clients.
+	      </li></ul></ul> <div><td>  A General Introduction to Security</td><td>  Security Controls</td></div>

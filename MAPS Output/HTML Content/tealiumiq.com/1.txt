@@ -1,0 +1,146 @@
+<div><ul>  <li>  </li></ul><span>  
+
+</span><span>   Expand/CollapseMenu 
+</span><ul>  <li> TLC 
+
+</li></ul><span>   Home 
+</span><span>   Home 
+</span><ul>  <li>
+
+</li></ul><span>   Discussions 
+</span><span>   Discussions 
+</span><ul>  <li>
+
+</li></ul><span>   Documentation 
+</span><span>   Documentation 
+</span><ul>  <li>
+
+</li></ul><span>  Knowledge Base
+</span><span>   Knowledge Base 
+</span><ul>  <li>
+
+</li><li>
+
+</li></ul><span>   Education 
+</span><span>   Education 
+</span><ul>  <li>
+
+</li><li>
+
+</li></ul></div> <div><span>   Blog 
+</span><span>   Blog 
+</span><ul>  <li>
+
+</li></ul><span>  Support Desk
+</span><span>   Support Desk 
+</span><ul>  <li>
+
+
+
+</li></ul></div> <div><h1>  Announcements Blog</h1><span>  
+
+</span><span>  
+				Show  only 
+			</span><span>   | </span><span>  
+			Search instead for 
+</span><ul>  <li>:
+</li><li>:
+</li><li>:
+</li><li>Preparing for GDPR
+</li><li>Mark as New</li><li>Mark as Read</li></ul></div> <div><h1>  Preparing for GDPR</h1><span>  ‎03-13-2018
+</span><span>  09:17 AM
+</span><span>  
+
+</span><span>  TealiumJustin
+</span><ul>  <li>Mark as New</li><li>Mark as Read</li></ul><p>  In this announcement:</p></div> <div><h1>  Overview</h1></div> <div><h2>  What is GDPR?</h2><p>  The <a href="http://www.eugdpr.org/" target="_blank"> EU General Data Protection Regulation </a> (GDPR) is European legislation meant to consolidate data privacy regulations across Europe. </p><span>  The date to begin enforcement for GDPR compliance is <strong> May 25, 2018 </strong></span><span>  . </span></div> <div><h2>  Your Role as a Data Controller</h2><p>  The data controller determines the purposes and means of collecting personal data and is the owner of the data. A</p><span>  ll personal data collected is subject to GDPR and requires consent from the data subjects. The consent must be a clear affirmative act. In addition, the data controller must be able to demonstrate that the data subject has given consent to the processing operation.</span></div> <div><h2>  Our Role as a Data Processor</h2><p>  When you send data into the products–EventStream, AudienceStream, or DataAccess</p><span>  –we act as a data processor. As a data processor, we have the responsibility to provide you (the data controller) the means to fulfill data subject access requests and to provide responsible data collection practices. Read below to learn more the Visitor API.</span></div> <div><h2>  Our Role as a Tag Manager</h2><p>  Our client-side solution to tag management (iQ) ensures that <em> we </em></p><span>  <em>  do not collect or process personal data </em> being sent directly to third-party vendors via the browser or device. However, iQ Tag Management offers a feature to help you, as the data controller, with data governance and consent management. Read below to learn more about the Consent Management feature.</span></div> <div><h1>  How Tealium Can Help</h1></div> <div><h2>  Consent Management in iQ</h2><p>  <strong> Update (May 8th, 2018) </strong>The full releases of the <a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/Explicit-Consent-Prompt-Manager/ta-p/22714" target="_blank"> Explicit Consent Prompt Manager </a> and <a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/Consent-Preferences-Manager/ta-p/22715" target="_blank"> Consent Preferences Manager </a> are now available. Once activated and turned on, your next publish will contain the new consent features.</p></div> <p><p>  <strong> Update (May 1st, 2018) </strong></p></p> <span><span>  Preview releases of the <a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/Explicit-Consent-Prompt-Manager/ta-p/22714" target="_blank"> Explicit Consent Prompt Manager </a> and <a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/Consent-Preferences-Manager/ta-p/22715" target="_blank"> Consent Preferences Manager </a> are available. They can be configured, but not activated. An upcoming release will make it possible to activate and publish them.</span></span> <p><p>  As a data controller, you are responsible for ensuring that consent is properly acquired from your users and to give them the option to withdraw that consent at any time. iQ offers Consent Management to help you comply with these requirements. </p></p> <div><p>  Consent Management uses the following two (2) components to help you manage consent:</p><ul>  <li><strong> Consent Request Manager </strong>Configure the prompt that is presented on your website to request consent from users. Users can grant consent or withdraw consent via the prompt.
+</li><li><strong> Consent Preferences Manager </strong>Configure the categories of tracking offered to users that give consent.
+</li></ul><p>  Consent Management offers the following features:</p><ul>  <li>Multi-Language Support</li><li>Customizable Content: Message, Logo, Call to Action Button, etc.</li><li>Fully Customizable Presentation: HTML, JavaScript, and CSS</li><li>Global Settings (for multiple profiles)</li><li>Automated Load Rule Creation to Target Users in the EU</li><li>Configure the Tags to Omit (non-tracking tags)</li><li>Logging Consent Changes</li><li>Preview Mode</li></ul></div> <p><p>  This is an upcoming feature and more details will be announced as they become available. Until then, enjoy this quick preview of the consent management feature:</p></p> <div><h2>  Visitor Lookup in AudienceStream</h2><p>  <strong> Update (May 10th, 2018) </strong>The <a href="https://community.tealiumiq.com/t5/Universal-Data-Hub/Visitor-Lookup-Tool/ta-p/23035" target="_blank"> Visitor Lookup tool </a> is now available in AudienceStream. Use this new feature to lookup individual visitor records and delete the if needed. Also, see the details of the API running behind the scenes, which is available to customers to build their our GDPR compliance features.</p><p>  <strong> Update (March 26th, 2018) </strong>A preview release of the Visitor API is now available: <a href="https://community.tealiumiq.com/t5/Tealium-API/Visitor-API/ta-p/22859" target="_blank"> Tealium API > Visitor Lookup API </a>This release includes active endpoints that can be developed against, however they will only return placeholder data. Stay tuned for a future release that will fully enable the API to service visitor lookup requests for your account.</p></div> <p><p>  As a data controller, you must comply with data subjects' rights to access, rectify, and delete data. The Visitor API will be available as a screen within AudienceStream as well as an API to be integrated programmatically. Access to the <a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/Managing-and-Generating-API-Keys/ta-p/21205" target="_blank"> API is secured by access keys </a> that must be granted to active users of the account.</p></p> <div><p>  The Visitor API offers the following features:</p><ul>  <li>Lookup/View Visitor Data</li><li>Delete Visitor Data</li><li>View Visitor ID Attributes</li><li>Check Delete Status.</li></ul></div> <div><h1>  Frequently Asked Questions</h1></div> <div><h3>  How does Tealium use cookies?</h3><p>  See the article <a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/How-Tealium-Uses-Cookies/ta-p/23440" target="_blank"> How Tealium Uses Cookies </a>.</p></div> <div><h3>  Does Tealium provide logging or evidence of consent, so that I don’t have to?</h3><p>  Yes, if enabled, EventDB and EventStore can accommodate this logging.</p></div> <div><h3>  Can Tealium request consent from my website visitors for me?</h3><p>  While Tealium does not inherit the burden of consent responsibility, Tealium iQ will offer a convenient set of consent management features that assist with collecting consent.</p></div> <div><h3>  Does a request to delete data assume consent withdrawal?</h3><p>  No, erasure and consent are independent. If you submit an erasure request, all data for that user is deleted. If that user visits your site again, without withdrawing consent, then data collection will continue.</p></div> <div><h3>  Is Tealium a data processor or a data controller?</h3><p>  Tealium is a data processor with respect to your web properties and your users.</p><p>  Tealium is a data controller only with respect to our own web properties and services such as tealium.com and my.tealiumiq.com.</p></div> <div><h3>  Do my website visitors go to Tealium to submit data inquiries?</h3><p>  No, your customers will submit their data inquiries directly to you and you will use the API or the Universal Data Hub  (UDH) user interface to fulfill those inquiries, as detailed above in this document.</p></div> <div><h3>  Will Tealium handle data inquiries for all the tag vendors I manage in iQ?</h3><p>  No, Tealium cannot certify or monitor the data inquires of third-party vendors. Tealium iQ Tag Management software only honors the consent response and tracking preferences of the data subject as configured in the consent management feature.</p></div> <div><h3>  Will Tealium handle data inquires for all the connector vendors I manage in EventStream/AudienceStream?</h3><p>  Tealium is dedicated to passing along the data inquiry to vendors that provide an API for GDPR Data Subject Access Requests. Check the Connector Marketplace for vendors that support this functionality.</p></div> <div><h3>  If a user consents to be tracked by a website from one device but declines consent on another device, will he or she be tracked?</h3><p>  Consent is granted on a device, browser, or app basis. A user will be tracked on any device, browser, or app where consent has been given and not tracked on those devices where it has not be given (or has been withdrawn).</p></div> <div><h3>  What will happen to the <a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/Privacy-Manager-Extension/ta-p/13624" target="_blank"> Privacy Manager extension </a>?</h3><p>  The new Consent Management tools are a replacement for the functionality offered by the Privacy Manager extension. After the Consent Management tools are fully released the Privacy Manager extension will be removed from the Extension Marketplace, though existing instances of the extension will continue to function.</p></div> <div><ul>  <li>Tags:</li></ul><span>  
+	
+			12
+		
+</span><span>  
+	Kudos
+
+</span><ul>  <li>Back to Blog
+</li><li>Newer Article
+</li><li>Older Article</li></ul><span>  Latest Articles</span><span>  Labels</span><span>  1
+</span><span>  53
+</span><span>  40
+</span><span>  66
+</span><span>  Latest Comments</span><ul>  <li>
+
+</li></ul><span>  Jane_PS
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Support-Challenge-Winner-Spotlight-Tarun-Kumar/bc-p/34397#M191" target="_blank"> Support Challenge Winner Spotlight: Tarun Kumar </a>
+</span></div> <ul><ul>  <li>ksmith
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Introducing-CCPA-Consent-Manager-for-Tealium-iQ-Tag-Management/bc-p/35384#M168" target="_blank"> Introducing CCPA Consent Manager for Tealium iQ Ta... </a>
+</li><li>ThijsvanOirscho
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Introducing-Server-Side-User-Permissions/bc-p/32993#M73" target="_blank"> Introducing Server-Side User Permissions </a>
+</li><li>
+
+</li></ul></ul> <span><span>  mitchellt
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/New-Location-Tracking-and-Geofencing-Feature-for-Mobile/bc-p/33105#M64" target="_blank"> New Location Tracking and Geofencing Feature for M... </a>
+</span></span> <ul><ul>  <li>KristenMeren
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Get-More-Out-of-Customer-Data-with-Machine-Learning-Plus-Details/bc-p/32021#M58" target="_blank"> Get More Out of Customer Data with Machine Learnin... </a>
+</li><li>Tony_Taliaferro
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Introducing-the-View-Through-Tracking-Extension/bc-p/30264#M47" target="_blank"> Introducing the View-Through Tracking Extension </a>
+</li><li>
+
+</li></ul></ul> <div><span>  Tirrusri
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Release-Notes-December-2018/bc-p/27272#M26" target="_blank"> Release Notes - December 2018 </a>
+</span><ul>  <li>
+
+</li></ul><span>  zed_haque
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Hosted-Data-Layer-Now-Supports-JSON-Files/bc-p/26196#M7" target="_blank"> Hosted Data Layer Now Supports JSON Files </a>
+</span><ul>  <li>
+
+</li></ul><span>  TealiumJustin
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Tealium-Release-Notes-April-2018/bc-p/23393#M138" target="_blank"> Tealium Release Notes - April 2018 </a>
+</span></div> <div><ul>  <li>
+
+</li></ul><span>  tamedbeast
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Introducing-Product-Ideas/bc-p/21526#M130" target="_blank"> Introducing Product Ideas </a>
+</span><ul>  <li>
+
+</li><li> Products 
+</li><li> Company 
+</li></ul><p>  Copyright All Rights Reserved © 2008-2023</p><span>  Public</span></div>

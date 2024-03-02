@@ -1,0 +1,536 @@
+<div><div>  
+
+
+</div><span>  Skip to main content
+</span><div>  
+
+
+
+</div><div>  
+
+
+
+
+</div><span>  Main Menu
+
+
+
+
+</span><ul>  <li>Products
+</li></ul><div>  
+
+
+</div><ul>  <li>Hardware
+</li><li>Software
+</li><li>
+
+
+</li><li>Gaming and Creating
+</li><li>Laptops and Workstations
+</li><li>Cloud and Data Center
+</li><li>Networking
+</li><li>GPUs
+</li><li>Embedded Systems
+</li><li>Application Frameworks
+</li><li>Apps and Tools
+</li><li>Gaming and Creating
+</li><li>Infrastructure
+</li><li>Cloud Services
+</li><li>Solutions
+</li><li>AI and Data Science
+</li><li>Data Center and Cloud Computing
+</li><li>Design and Simulation
+</li><li>Robotics and Edge Computing
+</li><li>High-Performance Computing
+</li></ul></div> <div><ul>  <li>Self-Driving Vehicles
+</li><li>Industries
+</li><li>Industries  
+</li><li>For You
+</li></ul><div>  
+
+
+
+
+
+
+
+
+</div><ul>  <li>Creatives/Designers
+</li><li>Data Scientists
+</li><li>Developers
+</li><li>Gamers
+</li><li>IT Professionals
+</li><li>Researchers
+</li><li>Roboticists
+</li><li>
+
+
+</li><li>NVIDIA Studio
+</li><li>Industries
+</li><li>
+<i> All Industries > </i>
+
+</li><li>Solutions
+</li><li>Industries
+</li><li>
+<i> All Industries > </i>
+
+</li><li>Solutions
+</li><li>Software
+</li><li>Products
+</li><li>Resources
+</li><li>Developer Resources
+</li><li>
+<em> Developer Home </em>
+
+</li><li>Application Frameworks
+</li><li>Top SDKs and Libraries
+</li></ul></div> <div><ul>  <li>GeForce
+</li><li>GeForce NOW
+</li><li>SHIELD
+</li><li>Solutions
+</li><li>Software
+</li><li>Apps and Tools
+</li><li>Resources
+</li><li>Products
+</li><li>Software
+</li><li>Use Cases
+</li><li>
+<i> More > </i>
+
+</li><li>Resources
+</li><li>
+
+
+
+
+
+</li><li>
+
+
+</li><li>
+
+
+</li></ul><div>  
+
+
+
+
+
+
+
+</div><ul>  <li>Cart</li><li> Your cart is empty.  </li><li>Login </li></ul><span>  Log out
+
+
+</span><span>  Skip to main content
+</span><ul>  <li>
+
+</li></ul><span>  
+
+
+</span><ul>  <li>
+
+
+</li><li>
+
+</li><li>
+
+
+</li></ul></div> <div><div>  
+
+
+
+
+
+
+
+
+</div><ul>  <li>
+
+</li><li>0
+
+</li><li>
+
+</li><li>Login
+</li></ul><span>  LogOut
+
+
+
+
+</span><div>  
+
+
+</div><ul>  <li>Main Menu
+
+
+
+</li><li>Gaming and Creating
+</li><li>Laptops and Workstations
+</li><li>Cloud and Data Center
+</li><li>Networking
+</li><li>GPUs
+</li><li>Embedded Systems
+</li><li>Application Frameworks
+</li><li>Apps and Tools
+</li><li>Gaming and Creating
+</li><li>Infrastructure
+</li><li>Cloud Services
+</li><li>AI and Data Science
+</li><li>Data Center and Cloud Computing
+</li><li>Design and Simulation
+</li><li>Robotics and Edge Computing
+</li><li>High-Performance Computing
+</li><li>Self-Driving Vehicles
+</li></ul></div> <div><ul>  <li>Industries  
+</li><li>NVIDIA Studio
+</li><li>Industries
+</li><li>
+<i> All Industries > </i>
+
+</li><li>Solutions
+</li><li>Industries
+</li><li>
+<i> All Industries > </i>
+
+</li><li>Solutions
+</li><li>Software
+</li><li>Products
+</li><li>Resources
+</li><li>Developer Resources
+</li><li>
+<em> Developer Home </em>
+
+</li><li>Application Frameworks
+</li><li>Top SDKs and Libraries
+</li><li>GeForce
+</li><li>GeForce NOW
+</li><li>SHIELD
+</li><li>Solutions
+</li><li>Software
+</li><li>Apps and Tools
+</li><li>Resources
+</li></ul></div> <div><ul>  <li>Products
+</li><li>Software
+</li><li>Use Cases
+</li><li>
+<i> More > </i>
+
+</li><li>Resources
+</li></ul><div>  
+
+</div><span>  About Us
+
+</span><div>  
+
+</div><div>  
+
+
+
+
+</div><ul>  <li>
+                                                                Overview
+                                                            </li><li>History</li><li>Our Body of Work</li><li>Awards</li><li>Executive Bios</li><li>Investors</li><li>Brand Guidelines</li><li>Diversity and Inclusion</li></ul><span>  
+
+</span></div> <div><div>  
+
+
+</div><span>   Our Work
+                                                        </span><div>  
+
+
+
+
+</div><ul>  <li>AI Computing Leadership</li><li>Technologies</li><li>Research</li><li>Corporate Responsibility</li><li>NVIDIA Foundation</li></ul><span>  
+
+</span><div>  
+
+</div><div>  
+
+
+
+
+</div><ul>  <li>
+                                                                Overview
+                                                            </li><li>Life at NVIDIA </li><li>Open Positions</li><li>How We Hire</li><li>University Recruiting</li><li>Benefits</li></ul></div> <div><span>  
+
+</span><div>  
+
+
+</div><span>   News
+                                                        </span><div>  
+
+
+
+
+</div><ul>  <li>Newsroom</li><li>NVIDIA Blog</li><li>AI Podcast</li><li>Stay Informed</li></ul><span>  
+
+</span><div>  
+
+
+</div><span>   Events
+                                                        </span><div>  
+
+
+
+
+</div><ul>  <li>Events Calendar</li><li>Webinars</li><li>NVIDIA GTC</li></ul><span>  
+
+</span><span>  
+
+
+
+</span><ul>  <li> Company 
+</li><li> Our Work 
+</li><li> Careers 
+</li><li> News 
+</li><li> Events 
+</li></ul></div> <div><span>  
+
+
+</span><div>  
+
+
+
+
+</div><div>  
+
+</div><span>  NVIDIA Privacy Center
+
+</span><div>  
+
+
+
+
+
+
+</div><div>  This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the <a href="http://www.enable-javascript.com/" target="_blank"> instructions how to enable JavaScript in your web browser. </a></div><div>  
+
+ 
+</div></div> <div><h1>  How We Protect Your Privacy
+</h1></div> <div><h2>  We promise to protect your privacy and your data.
+</h2><p>  Our <a href="https://www.nvidia.com/en-us/about-nvidia/privacy-policy/" target="_blank"> NVIDIA Privacy Policy </a> explains what data we collect and what we do with it. We never sell your data. 
+</p><p>  If you have a registered NVIDIA account, you can change your privacy settings at any time.
+</p><div>  
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div>  
+
+ 
+</div><div>   
+</div><div>  
+
+
+
+
+
+
+
+</div><div>  
+
+
+
+
+
+
+</div></div> <div><h4>  Manage My Email Preferences
+
+
+
+
+
+
+</h4><div>   
+</div><div>  
+
+
+
+
+
+
+
+</div><div>  
+
+
+
+
+
+
+</div></div> <div><h4>  Manage My Account Privacy Settings*
+
+
+
+
+
+
+</h4><div>   
+</div><div>  
+
+</div><div>  
+
+
+
+
+
+
+
+</div><p>  Manage My Cookies
+</p><div>  
+
+
+
+
+
+
+</div></div> <div><h4>  Manage My Cookies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h4><div>  
+
+</div><div>  
+
+
+
+
+
+
+
+</div><div>  
+
+
+
+
+
+
+</div></div> <div><h4>  Delete My Data
+
+
+
+
+
+
+</h4><div>  
+
+
+
+
+
+
+
+</div><div>  
+
+
+
+
+
+
+</div></div> <div><h4>  Request  My Data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</h4><p>  * If you have a registered NVIDIA account, you can change your privacy settings at any time.
+</p><div>  
+
+
+
+
+
+
+
+</div><div>  
+
+
+
+
+
+
+
+
+</div><div>  
+
+
+ 
+
+</div><div>  
+
+</div><div>  
+
+</div><div>  Corporate Information
+</div><div>  Get Involved
+</div><div>  News & Events
+</div><div>  
+
+
+
+
+</div><div>  Follow NVIDIA
+
+
+
+
+
+
+
+
+
+
+
+</div><div>  
+
+</div><span>  
+		           United States
+		        
+
+</span><div>  Copyright © 2023 NVIDIA Corporation
+
+
+
+
+
+</div></div> <div><div>   
+
+ 
+</div><p>  NVIDIA uses cookies to enable and improve the use of the website. Please see our <a href="https://www.nvidia.com/en-us/about-nvidia/cookie-policy/" target="_blank"> Cookie Policy </a> for more information. By clicking "Accept" or continuing to browse the site, you consent to our use of cookies.</p><p>  NVIDIA uses cookies to enable and improve the use of the website. GPC signal detected and only ‘Required’ cookies have been enabled. To update your communication preferences please visit the <a href="https://www.nvidia.com/en-us/preferences/start/" target="_blank"> Preference Center </a>. Please see our <a href="https://www.nvidia.com/en-us/about-nvidia/cookie-policy/" target="_blank"> Cookie Policy </a> for more information.</p></div> <div><p>  Cookie Settings</p><p>  NVIDIA websites use cookies to deliver and improve the visitor experience. Learn more about the cookies we use on our <a href="https://www.nvidia.com/en-us/about-nvidia/cookie-policy/" target="_blank"> Cookie Policy </a> page.</p><p>  Required Cookies</p><p>  These cookies are required for the site to function and cannot be turned off.</p><p>  Performance Cookies</p><label>  Performance Cookies </label><p>  Counts website visits and clicks to understand where people most engage with links to make the experience better.</p></div> <div><p>  Advertising Cookies</p><label>  Advertising Cookies </label><p>  Set by our advertising partners, these cookies are used to build a profile of your interests and show you relevant ads on other sites. They do not store personal information, but are based on uniquely identifying your browser and internet device. </p></div> <div><h3>  Cookie List</h3><label>  checkbox label </label><span>  label</span><span>  Consent </span><span>  Leg.Interest</span><label>  checkbox label </label><span>  label</span><label>  checkbox label </label><span>  label</span><label>  checkbox label </label><span>  label</span><span>  </span></div>

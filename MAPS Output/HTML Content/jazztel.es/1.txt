@@ -1,0 +1,4 @@
+<div><h1>  Secure Connection Failed</h1><p>  An error occurred during a connection to 96.36.15.62.static.jazztel.es. Peer reports it experienced an internal error.</p><p>  Error code: SSL_ERROR_INTERNAL_ERROR_ALERT</p><p>  What can you do about it?</p><ul>  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li><li>Please contact the website owners to inform them of this problem.</li></ul><p>  You can continue with your default DNS resolver. However, a third-party might be able to see what websites you visit.</p></div> <p><p>  You can continue with your default DNS resolver. However, a third-party might be able to see what websites you visit.</p></p> <p><p>  It looks like your network security settings might be causing this. Do you want the default settings to be restored?</p></p> <div><p>  
+
+</p><label>  Report errors like this to help Mozilla identify and block malicious sites
+</label></div>

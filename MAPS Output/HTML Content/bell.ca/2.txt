@@ -1,0 +1,303 @@
+<div><ul>  <li>Personal</li><li>Opens in new tab
+</li><li>Business
+</li><li>Small and Medium</li></ul><span>  1 to 99 employees
+</span><ul>  <li>Large</li></ul><span>  100+ employees
+
+</span><ul>  <li>Bell for Better</li><li>Opens in new tab
+</li></ul></div> <div><h2>  Find a store</h2><label>  Enter your address or postal code</label><label>  
+            Mobile devices for business + consumer
+            
+</label><ul>  <li>
+            TV
+            
+</li><li>
+            Business TV + Internet + phone
+            
+</li><li>
+            Product assistance centre
+            
+</li><li>
+            Fibe TV live demo
+            
+</li><li>
+            Bell Trade-in program
+            
+</li><li>
+            Push-to-talk
+            
+</li><li>
+                In-store appointments
+                
+</li><li>
+                In-store repair locations
+                
+</li></ul></div> <div><span>  
+
+</span><ul>  <li>
+
+</li></ul><span>  Change province: 
+</span><span>  Currently selected ON
+</span><ul>  <li>
+                            Alberta
+                        </li><li>
+                            British Columbia
+                        </li><li>
+                            Manitoba
+                        </li><li>
+                            New Brunswick
+                        </li><li>
+                            Newfoundland And Labrador
+                        </li><li>
+                            Northwest Territories
+                        </li><li>
+                            Nova Scotia
+                        </li></ul></div> <div><ul>  <li>
+                            Nunavut
+                        </li><li>
+                            Ontario
+                        </li><li>
+                            Prince Edward Island
+                        </li><li>
+                            Quebec
+                        </li><li>
+                            Saskatchewan
+                        </li><li>
+                            Yukon
+                        </li></ul><span>  
+
+</span><span>  
+
+</span><ul>  <li>français</li></ul></div> <span><span>  Consulter le site en français.</span></span> <div><span>  Switch to French
+</span><span>  Billing and payments</span><span>  
+            Home
+        </span><ul>  <li>
+                        Stores
+                    
+</li><li>
+                                    Bell Stores
+                                
+</li><li>Book an appointment
+
+</li><li>Shop
+</li><li>Internet
+</li><li>Rural Internet
+</li><li>Fibe TV
+</li><li>Fibe TV app
+</li><li>Bell Satellite TV
+</li><li>What's on
+</li><li>Support
+</li><li>Fibe TV
+</li><li>Fibe TV app
+</li><li>Bell Satellite TV
+</li><li>MyBell
+</li><li>
+                    ON
+                </li><li>FR</li></ul></div> <span><span>  Consulter le site en français.</span></span> <div><span>  Switch to French
+</span><ul>  <li>Small and Medium</li></ul><span>  1 to 99 employees
+</span><ul>  <li>Large</li></ul><span>  100+ employees
+</span><span>  Select this button, then dictate your search. Results will be displayed automatically.</span><span>  
+
+</span><span>  Reset search terms </span><span>  Perform voice search</span><span>  
+
+</span><span>  
+
+</span><span>  Dictate your search</span><span>  Shopping cart 
+</span><span>  0
+</span><span>  item
+</span><span>  Dictate your search</span></div> <div><span>  Billing & Accounts</span></div> <div><h2>  
+Log in / Register                </h2><span>  (Bell Aliant)</span><p>  
+        Manage your Bell Aliant Fibe TV, Internet, Home phone and Home security services
+    </p></div> <div><h3>  My Account</h3><span>   Fibe TV, Internet and Home phone</span><span>   Register for My Account</span><span>  (Log in to MyBell)</span><p>  
+        Manage your Bell Satellite TV and Mobility services
+    </p></div> <div><h3>  Log in to MyBell</h3><span>  Register now</span><span>  Your current region:  </span><span>   Change</span><ul>  <li>  Alberta
+</li><li>  British Columbia
+</li><li>  Manitoba
+</li><li>  New Brunswick
+</li><li>  Newfoundland And Labrador
+</li><li>  Northwest Territories
+</li><li>  Nova Scotia
+</li><li>  Nunavut
+</li><li>  Ontario</li><li>  Prince Edward Island
+</li><li>  Quebec
+</li><li>  Saskatchewan
+</li><li>  Yukon
+</li></ul><span>  Close province setting</span></div> <div><h1>  Learn how to keep yourself and your information safe.</h1></div> <div><h2>  Learn how to keep yourself and your information safe.</h2></div> <div><h2>  Learn how to keep yourself and your information safe.</h2><ul>  <li>
+
+</li></ul><span>  Understanding cybersecurity risks</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Understanding computer viruses and malware</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Safely using the Internet</span></div> <div><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Email safety</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Safe texting</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul></div> <div><span>  Fraud and suspicious calls</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Using passwords effectively</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Reporting security issues</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul></div> <div><span>  Understanding cybersecurity risks</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Understanding computer viruses and malware</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Safely using the Internet</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul></div> <div><span>  Email safety</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Safe texting</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Fraud and suspicious calls</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul></div> <div><span>  Using passwords effectively</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li><li>
+
+</li></ul><span>  Reporting security issues</span><ul>  <li>Collapsed
+
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+</li><li>show details
+
+</li></ul><p>  Start by selecting a topic on the left.</p></div> <div><h2>  About us</h2></div> <div><h2>  Customer resources</h2></div> <div><h2>  About us</h2></div> <div><h2>  Customer resources</h2></div> <div><h2>  Get in touch</h2><ul>  <li>Contact us
+
+</li><li>Find a store
+
+</li><li>Book an appointment
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>© Bell Canada, 2023. All rights reserved.
+</li><li> | </li></ul><span>  Site feedback
+</span></div>

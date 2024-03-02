@@ -1,0 +1,239 @@
+<div><p>  Version:
+April 2021</p><p>  
+
+</p><p>  Action
+Service and Distribution B.V. (“Action”, “we”, “us”, “our”) is committed to
+protect your privacy. This Privacy Policy describes how we process your
+personal data when you use the LSC-Smart Connect mobile application (the “LSC
+Smart Connect App”), by which LSC smart devices (the “Smart Device”) can be
+controlled remotely. Please find below more information about why we process
+personal data, how we do it and what rights you have relating to your personal
+data.</p></div> <div><p>  
+
+</p><p>  In order
+to become able to properly provide our services relating to the LSC Smart
+Connect App (“Services”) to you, we will ask you to register an account. In
+order to properly carry out the Services, it is necessary to process your
+personal data. We find it important that the processing of personal data is
+executed in a manner that is in accordance with the existing safeguards for the
+protection of privacy. In this, we follow legislation regarding the protection
+of personal data, such as the General Data Protection Regulation (GDPR).</p></div> <div><p>  
+
+</p><p>  Action
+will be the controller of your data. Action is seated inZwaagdijk-Oost, the
+Netherlands, and is registered at the Dutch Chamber of Commerce under number
+50969838. In case of any questions relating to the processing of your personal
+data, please contact us via the contact details below.</p><p>  
+
+</p><p>  What
+personal data does the LSC Smart Connect App process?</p><p>  Personal
+data are data that can identify you, such as your name, address, e-mail
+address, IP address, telephone number and age. We process the following
+personal data:</p></div> <div><p>  
+
+</p><td>  Category</td><td>  Personal
+   data</td><td>  App users – account
+  data and feedback or other messages</td><td>  ·Contact details, such
+  as name, e-mail address and (sometimes) telephone number and/or profile
+  picture;</td><td>  ·Video material (in
+  case your Smart Device involves video);</td><td>  ·Any information you
+  may include in your feedback and/or other messages to us, that can be used to
+  identify you.</td><td>  SmartDeviceor
+  mobiledeviceinformation</td><td>  ·We automatically
+  collect information about your Smart Device or relating to the mobile device
+  you are using the LSC Smart Connect App with, such as the MAC address of your
+  device, IP address, wireless connection information, operating system type
+  and version (incl. language settings) of the device, application version
+  number, push notification identifier, log files, and mobile network
+  information.</td></div> <td><td>  And relating to the
+  Smart Device; the device name, device ID, online status, location, activation
+  time, firmware version, and upgrade information.</td></td> <div><p>  
+
+</p><p>  How do we
+obtain your personal data?</p><p>  We receive
+your personal data in various ways, but mainly because you provide us with your
+data when registering an account with us via the LSC Smart Connect App and by
+using the feedback and suggestion features in the LSC Smart Connect App or
+otherwise contact us (for example via e-mail), or when you make use of the LSC
+Smart Connect App to manage your Smart Device. We also collect certain personal
+data automatically, to the extent this is necessary to properly provide our
+Services, as indicated above.</p></div> <div><p>  
+
+</p><p>  On what
+grounds and for what purposes does LSC process your personal data?</p><p>  The
+personal data that we collect are necessary for the provision of our Services
+and improving these. Without this personal data, we cannot conclude and/or
+execute the service agreement with you and/or process and answer your messages
+properly. The purposes of our processing are described in more detail below.</p><p>  
+
+</p><p>  We process
+personal data in particular for the following purposes and only to the extent
+necessary for those purposes:</p></div> <div><p>  
+
+</p><p>  ·To became
+able to enter into a Service Agreement with you and to provide you with the
+Services as agreed upon in our Service Agreement;</p><p>  ·To create
+and operate an account to use the LSC Smart Connect App for you;</p><p>  ·To send
+you relevant information in relation with the Services and to otherwise
+communicate with you, inter alia, when answering you questions;</p><p>  ·To send
+you promotional messages relating to our products and/or services, for which we
+will ask your permission in case we are obliged to do so by law;</p></div> <p><p>  ·To
+provide functionality, analyze performance, fix errors, monitor safety and
+improve usability and effectiveness of our LSC Smart Connect App;</p></p> <p><p>  ·To comply
+with laws and regulations.</p></p> <div><p>  
+
+</p><p>  Children
+data</p><p>  Our
+Services do not address anyone under the age of 18. We do not knowingly collect
+personal data from children under 18. In the case we discover that a child
+under 18 has provided us with personal information, we immediately delete this
+from our servers. If you are a parent or guardian and you are aware that your
+child has provided us with personal information, please contact us so that we
+will be able to perform necessary actions (please find our contact details
+below).</p></div> <div><p>  
+
+</p><p>  Access to
+your personal data</p><p>  Except if
+otherwise indicated below, only the employees of Action and our service
+provider who need access to your personal data to perform activities for the
+aforementioned purposes have direct access to your personal data to perform
+their work. Employees who have access to personal data are bound by
+confidentiality. In this way (<i> in combination with the security measures
+mentioned below </i>) we ensure that the personal data are only accessible to
+persons who are authorized to do so by virtue of their position and that the
+personal data is only used for the purposes for which the personal data were
+obtained.</p></div> <div><p>  
+
+</p><p>  Exchange
+of personal data with third parties and/or other countries</p><p>  In
+principle, Action and our service provider do not make your personal data
+available to third parties. However, for the provision of the Services we make
+use of the third party platform providerTuyaInc. Please be referred to the
+privacy policy ofTuyafor more information on how your data is processed by this
+platform provider (</p><p>  TuyaSmart Developer
+Center</p><span>  ).</span><p>  
+
+</p><p>  Action
+enters into a written agreement with our service provider, by which they are
+obligated not to disclose or use the information for any other purpose and
+bound to security and other requirements. We do not transfer your personal data
+outside the European Economic Area.</p></div> <div><p>  
+
+</p><p>  In some
+cases, we are required by law to provide personal data to (other) institutions
+or authorities. We always look at how we can respect your privacy as much as
+possible. The sharing of your personal data occurs where reasonably possible in
+anonymous or otherwise pseudonymized form.</p><p>  
+
+</p><p>  You may
+choose to use the LSC Smart Connect App in combination with another account
+provided by a third party, such as your account at Google or Amazon. In case
+legally required, Action will also conclude agreements with such third parties,
+as indicated above. However, you will use these applications or functionalities
+at your own responsibility and for the use of these services your permission
+will always be asked. Please be referred to the information regarding external
+links below, which apply accordingly in that case.</p></div> <div><p>  
+
+</p><p>  Security
+of personal data</p><p>  Actions
+handles your personal data with the utmost care and takes appropriate and
+commercially acceptable means of organizational and technical security measures
+to protect the personal data of the users of our LSC Smart Connect App against
+unauthorized access or changes, disclosure or destruction of personal data.
+Therefore, we comply with the applicable security standards. In addition, the
+information that is exchanged, collected and analyzed via the LSC Smart Connect
+App, is (two-way) encrypted.</p></div> <div><p>  
+
+</p><p>  Remember
+that no method of transmission over the internet, or method of electronic
+storage is 100% secure and reliable, and we cannot guarantee its absolute
+security. If, despite the security measures we have taken, there is a security
+incident that is very likely to have an adverse effect on your privacy, we will
+inform you as soon as possible about the incident. We therefore inform you
+about the measures we have taken to limit the consequences and to prevent any
+recurrence in the future.</p></div> <div><p>  
+
+</p><p>  If you
+unexpectedly encounter a security breach or you suspect that the security of
+your personal data is not properly guaranteed, please contact Action
+immediately. We have procedures in place to handle these reports adequately and
+carefully in accordance with applicable legislation. Please find our<i> contact
+details </i>below.</p><p>  
+
+</p><p>  Retention
+periods</p><p>  The LSC
+Smart Connect App only stores personal data as long as necessary for the
+purpose for which it has been processed or for any longer period we are
+required for by law. We do not process your personal data longer than during 7
+days after the end of our Service Agreement or our last contact (depending on
+the matter). Retention periods may be longer, for example in case of disputes.</p></div> <div><p>  
+
+</p><p>  External
+links</p><p>  The LSC
+Smart Connect App may contain links to other websites, applications and/or
+third party services. Some of these have been explicitly mentioned in this
+Privacy Policy. We are not responsible for the practices of third-party
+applications, websites or services that are linked to or from our LSC Smart
+Connect Appor that you use in relation herewith. Our privacy policy does not
+apply when you use a link to switch from our LSC Smart Connect App to another
+application, website or use any third party account or service. Your conduct on
+a third-party application, website or service, including those who have a link
+on our LSC Smart Connect App, is subject to their own rules and policies. We
+are not responsible for the processing activities, privacy policy or the
+content or other practicing of these other websites and/or services,
+notwithstanding that LSC may have entered into a written agreement with the
+third party to safeguard user rights to the extent reasonably possible.</p></div> <div><p>  
+
+</p><p>  Your
+rights with regard to the processing of personal data</p><p>  You have
+the following rights with regard to the processing of your personal data:</p><p>  ·You can
+request<b> information </b>about and/or<b> access </b>to the personal data that we
+process about you. This means that you can request which personal data has been
+registered and for what purposes that personal data is used;</p><p>  ·You can
+request us to have your personal data<b> changed/corrected </b>and/or to<b> limit </b>the
+processing of your personal data;</p></div> <div><p>  ·You can
+also ask us to<b> remove </b>your personal data from our systems;</p><p>  ·You can
+also ask us to ensure that your personal data is<b> transferred </b>to another
+party.</p><p>  
+
+</p><p>  Requests
+regarding the exercise of the aforementioned rights can be submitted via the<i> contact
+details </i>below. We will update you on the status of your request within one
+(1) month after receiving your request. We will comply with your request,
+unless we have a compelling and legitimate interest not to delete data that
+outweighs your privacy interest or when fulfilling your request is otherwise
+not required by law and/or in case we could then no longer perform our Service
+Agreement with you. If we have deleted the data, for technical reasons we
+cannot immediately remove all copies of the data from our systems and backup
+systems. We may refuse to comply with the aforementioned requests if they are
+made unreasonably often, require unreasonable technical efforts, or have
+unreasonable technical consequences for our systems or endanger the privacy of
+others. If we have complied with a request to improve, supplement or delete
+personal data, we will also inform third parties to whom this personal data has
+been provided of the changes made. Please note that we may ask you to verify
+your identity before taking further action on your request, for security
+purposes.</p></div> <p><p>  If you are
+not satisfied with the way in which we have dealt with your request or
+objection or otherwise with the processing of your personal data, you can also
+submit a complaint about the use of your personal data to the competent Data
+Protection Authority in your country.</p></p> <div><p>  
+
+</p><p>  Contact
+details</p><p>  If you
+want to exercise your abovementioned rights, or you have any questions that are
+not answered by this privacy policy, or you have suggestions or comments about
+the content hereof, or have any complaints about the way we deal with your
+personal data, you can contact us in writing by using the following contact
+details:</p><p>  Action
+Klantenservice</p><p>  Perenmarkt
+15</p><p>  1681
+PG Zwaagdijk-Oost</p><p>  E-mail:
+klantenservice@action.nl</p><p>  
+
+</p></div> <div><p>  Privacy
+Policy changes</p><p>  Action may
+adjust or update this privacy policy from time to time. Adjustments to this
+privacy policy take effect the moment these have been published. We therefore
+recommend you to regularly consult this privacy policy, so that you are aware
+of any changes to this privacy policy. If these adjustments are of significant
+importance to you, we will always inform you about this.</p><p>  </p></div>

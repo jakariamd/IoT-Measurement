@@ -1,0 +1,171 @@
+<div><h3>  
+  Apache HTTP Server Version 1.3
+ </h3></div> <div><h1>  Known Problems in Clients</h1><p>  Over time the Apache Group has discovered or been notified of problems
+with various clients which we have had to work around, or explain.
+This document describes these problems and the workarounds available.
+It's not arranged in any particular order.  Some familiarity with the
+standards is assumed, but not necessary.
+
+</p><p>  For brevity, <em> Navigator </em> will refer to Netscape's Navigator
+product (which in later versions was renamed "Communicator" and
+various other names), and <em> MSIE </em> will refer to Microsoft's
+Internet Explorer product.  All trademarks and copyrights belong to
+their respective companies.  We welcome input from the various client
+authors to correct inconsistencies in this paper, or to provide us with
+exact version numbers where things are broken/fixed.
+
+</p></div> <p><p>  For reference,
+<a href="ftp://ds.internic.net/rfc/rfc1945.txt" target="_blank"> RFC1945 </a>
+defines HTTP/1.0, and
+<a href="ftp://ds.internic.net/rfc/rfc2068.txt" target="_blank"> RFC2068 </a>
+defines HTTP/1.1.  Apache as of version 1.2 is an HTTP/1.1 server (with an 
+optional HTTP/1.0 proxy).
+
+</p></p> <p><p>  Various of these workarounds are triggered by environment variables.
+The admin typically controls which are set, and for which clients, by using 
+<a href="../mod/mod_browser.html" target="_blank"> mod_browser </a>.  Unless otherwise
+noted all of these workarounds exist in versions 1.2 and later.
+
+</p></p> <p><p>  This is a legacy issue.  The CERN webserver required 
+data to have an extra  following it.  Thus many
+clients send an extra  that
+is not included in the  of the request.
+Apache works around this problem by eating any empty lines which
+appear before a request.
+
+</p></p> <p><p>  Various clients have had broken implementations of <em> keepalive </em>
+(persistent connections).  In particular the Windows versions of
+Navigator 2.0 get very confused when the server times out an
+idle connection.  The workaround is present in the default config files:
+</p></p> <p><p>  MSIE 4.0b2, which claims to support HTTP/1.1, does not properly
+support keepalive when it is used on 301 or 302 (redirect)
+responses.  Unfortunately Apache's  code
+prior to 1.2.2 would not work with HTTP/1.1 clients.  You must apply
+<a href="http://www.apache.org/dist/patches/apply_to_1.2.1/msie_4_0b2_fixes.patch" target="_blank"> this patch </a> to version 1.2.1.  Then add this to your config:
+</p></p> <p><p>  To quote from section 3.1 of RFC1945:
+</p></p> <p><p>  The first major indication of this problem was with AOL's proxy servers.
+When Apache 1.2 went into beta it was the first wide-spread HTTP/1.1
+server.  After some discussion, AOL fixed their proxies.  In
+anticipation of similar problems, the 
+environment variable was added to Apache.  When present Apache will
+indicate "HTTP/1.0" in response to an HTTP/1.0 client,
+but will not in any other way change the response.
+
+</p></p> <p><p>  The pre-1.1 Java Development Kit (JDK) that is used in many clients
+(including Navigator 3.x and MSIE 3.x) exhibits this problem.  As do some
+of the early pre-releases of the 1.1 JDK.  We think it is fixed in the
+1.1 JDK release.  In any event the workaround:
+</p></p> <p><p>  RealPlayer 4.0 from Progressive Networks also exhibits this problem.
+However they have fixed it in version 4.01 of the player, but version
+4.01 uses the same  as version 4.0.  The
+workaround is still:
+</p></p> <p><p>  MSIE 4.0b2 has this problem.  Its Java VM makes requests in HTTP/1.1
+format but the responses must be in HTTP/1.0 format (in particular, it
+does not understand <em> chunked </em> responses).  The workaround
+is to fool Apache into believing the request came in HTTP/1.0 format.
+</p></p> <p><p>  All versions of Navigator from 2.0 through 4.0b2 (and possibly later)
+have a problem if the trailing CRLF of the response header starts at
+offset 256, 257 or 258 of the response.  A BrowserMatch for this would
+match on nearly every hit, so the workaround is enabled automatically
+on all responses.  The workaround implemented detects when this condition would
+occur in a response and adds extra padding to the header to push the
+trailing CRLF past offset 258 of the response.
+
+</p></p> <p><p>  On multipart responses some clients will not accept quotes (")
+around the boundary string.  The MIME standard recommends that
+such quotes be used.  But the clients were probably written based
+on one of the examples in RFC2068, which does not include quotes.
+Apache does not include quotes on its boundary strings to workaround
+this problem.
+
+</p></p> <p><p>  A byterange request is used when the client wishes to retrieve a
+portion of an object, not necessarily the entire object.  There
+was a very old draft which included these byteranges in the URL.
+Old clients such as Navigator 2.0b1 and MSIE 3.0 for the MAC
+exhibit this behaviour, and
+it will appear in the servers' access logs as (failed) attempts to
+retrieve a URL with a trailing ";xxx-yyy".  Apache does not attempt
+to implement this at all.
+
+</p></p> <p><p>  A subsequent draft of this standard defines a header
+, and a response type
+.  The HTTP/1.1 standard includes
+this draft with a few fixes, and it defines the header
+ and type .
+
+</p></p> <p><p>  Navigator (versions 2 and 3) sends both  and
+ headers (with the same value), but does not
+accept a  response.  The response must
+be .  As a workaround, if Apache
+receives a  header it considers it "higher
+priority" than a  header and in response uses
+.
+
+</p></p> <p><p>  The Adobe Acrobat Reader plugin makes extensive use of byteranges and
+prior to version 3.01 supports only the 
+response.  Unfortunately there is no clue that it is the plugin
+making the request.  If the plugin is used with Navigator, the above
+workaround works fine.  But if the plugin is used with MSIE 3 (on
+Windows) the workaround won't work because MSIE 3 doesn't give the
+ clue that Navigator does.  To workaround this,
+Apache special cases "MSIE 3" in the  and serves
+.  Note that the necessity for this
+with MSIE 3 is actually due to the Acrobat plugin, not due to the browser.
+
+</p></p> <p><p>  Netscape Communicator appears to not issue the non-standard
+ header.  When an Acrobat plugin prior to
+version 3.01 is used with it, it will not properly understand byteranges.
+The user must upgrade their Acrobat reader to 3.01.
+
+</p></p> <p><p>  The HTTP specifications say that it is legal to merge headers with
+duplicate names into one (separated by semicolon).  Some browsers
+that support Cookies don't like merged headers and prefer that each
+ header is sent separately.  When parsing the
+headers returned by a CGI, Apache will explicitly avoid merging any
+ headers.
+
+</p></p> <p><p>  Navigator versions 2 through 4 will erroneously re-request
+GIF89A animations on each loop of the animation if the first
+response included an  header.  This happens
+regardless of how far in the future the expiry time is set.  There
+is no workaround supplied with Apache, however there are hacks for <a href="http://www.arctic.org/~dgaudet/patches/apache-1.2-gif89-expires-hack.patch" target="_blank"> 1.2 </a>
+and for <a href="http://www.arctic.org/~dgaudet/patches/apache-1.3-gif89-expires-hack.patch" target="_blank"> 1.3 </a>.
+
+</p></p> <p><p>  In certain situations Navigator 3.01 through 3.03 appear to incorrectly
+issue a POST without the request body.  There is no
+known workaround.  It has been fixed in Navigator 3.04, Netscapes
+provides some
+<a href="http://help.netscape.com/kb/client/971014-42.html" target="_blank"> information </a>.
+There's also
+<a href="http://www.arctic.org/~dgaudet/apache/no-content-length/" target="_blank"> 
+some information </a> about the actual problem.
+
+</p></p> <p><p>  The http client in the JDK1.2beta2 and beta3 will throw away the first part of
+the response body when both the headers and the first part of the body are sent
+in the same network packet AND keep-alive's are being used. If either condition
+is not met then it works fine.
+
+</p></p> <p><p>  See also Bug-ID's 4124329 and 4125538 at the java developer connection.
+
+</p></p> <p><p>  If you are seeing this bug yourself, you can add the following BrowserMatch
+directive to work around it:
+
+</p></p> <p><p>  We don't advocate this though since bending over backwards for beta software
+is usually not a good idea; ideally it gets fixed, new betas or a final release
+comes out, and no one uses the broken old software anymore.  In theory.
+
+</p></p> <p><p>  Navigator (all versions?) will cache the 
+for an object "forever".  Using reload or shift-reload will not cause
+Navigator to notice a  change.  The only
+work-around is for the user to flush their caches (memory and disk).  By
+way of an example, some folks may be using an old 
+file which does not map  to ,
+in this case Apache will default to sending .
+If the user requests the page and it is served as .
+After the admin fixes the server, the user will have to flush their caches
+before the object will be shown with the correct 
+type.
+
+</p></p> <div><h3>  
+ Apache HTTP Server Version 1.3
+</h3></div>

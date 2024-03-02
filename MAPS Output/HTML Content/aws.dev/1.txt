@@ -1,0 +1,74 @@
+<ul><ul>  <li>
+<b>  -  </b><a href="" target="_blank"> Introduction
+          
+             </a>
+</li><li>
+<b> 1.  </b><a href="" target="_blank"> Quick Wins
+          
+             </a>
+</li><li>
+<b> 2.  </b><a href="" target="_blank"> Foundational
+          
+             </a>
+</li><li>
+<b> 3.  </b><a href="" target="_blank"> Efficient
+          
+             </a>
+</li><li>
+<b> 4.  </b><a href="" target="_blank"> Optimized
+          
+             </a>
+</li><li>
+<b> --  </b><a href="" target="_blank"> Maturity Model
+          
+             </a>
+</li></ul></ul> <ul><ul>  <li>
+<b> -  </b><a href="" target="_blank"> Events calendar
+          
+             </a>
+</li><li>
+<b> -  </b><a href="" target="_blank"> Webinars
+          
+             </a>
+</li><li>
+<b> -  </b><a href="" target="_blank"> Assessment Tools
+          
+             </a>
+</li><li>
+<b> -  </b><a href="" target="_blank"> Whitepapers, FAQ, others
+          
+             </a>
+</li><li>
+<b> -  </b><a href="" target="_blank"> Contact
+          
+             </a>
+</li><li>
+<b> -  </b><a href="" target="_blank"> Survey
+          
+             </a>
+</li></ul></ul> <div><ul>  <li>
+
+</li></ul><p>  © 2022 Amazon Web Services, Inc. or its Affiliates. All rights reserved.</p><span>  
+
+</span><span>  
+<a href="/en/" target="_blank"> Home </a> > <a href="/en/whitepapers-faq/" target="_blank"> Whitepapers, FAQ, others </a> > AWS Security FAQ
+          
+        
+          
+        
+          
+        
+                 
+                  </span></div> <div><h1>  
+              
+              AWS Security FAQ
+            </h1></div> <div><h4>  1. How can I best complete my annual AWS Vendor/Due Diligence Questionnaire? </h4><p>  If you need help completing a questionnaire to document AWS security and compliance posture, we recommend the following resources that are most commonly used to complete security and compliance questionnaires:</p></div> <div><h5>  AWS Artifact: </h5><p>  <a href="https://aws.amazon.com/artifact" target="_blank"> AWS Artifact </a>
+ is your go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS security and compliance reports and select online agreements. The AWS SOC 2 report is particularly useful for completing questionnaires because it provides a complete overview of the implementation and operational effectiveness of AWS security controls. Another useful document is the Executive Briefing within the AWS FedRAMP Partner Package.</p></div> <div><h5>  Cloud Security Alliance Consensus Assessment Initiative Questionnaire </h5><p>  The CSA Consensus Assessment Initiative Questionnaire provides a set of questions that the CSA anticipates a cloud consumer and/ or auditor would ask a cloud provider. It provides a series of security, control, and process questions that can then be used for a wide range of cases, including cloud vendor selection and security assessment. This document contains AWS’s responses to the CSA questionnaire.</p></div> <div><h5>  Risks and Regulatory Compliance on AWS: </h5><p>  This document addresses AWS specific information on general cloud computing compliance subjects. It provides detailed descriptions of all AWS third-party certifications, programs, reports, and attestations.</p></div> <div><h5>  AWS Data Centers Security Checks Website: </h5><p>  Many questionnaires have a complete section with questions related to the physical security of data centers. This website provides information about some of our physical and environmental controls.</p></div> <div><h5>  Virtual Tour of an AWS Data Center: </h5><p>  Learn key aspects about how we build our data centers to provide you with security in the following layers:</p><ul>  <li>Perimeter Layer</li><li>Infrastructure Layer</li><li>Data Layer</li><li>Environmental Layer</li></ul></div> <div><h4>  2. Which AWS services and features meet common cloud security and compliance standards? </h4><p>  <a href="https://aws.amazon.com/compliance/services-in-scope/" target="_blank"> AWS Services in Scope </a>
+ provides a list of services that are evaluated to meet common compliance standards. Unless specifically indicated as excluded, the characteristics of each of the listed services are considered within the scope of the compliance program and are reviewed and tested as part of the assessment. Check AWS documentation to know more about the features of an AWS service.</p></div> <div><h4>  3. Can I meet my regulatory requirements on AWS? </h4><p>  AWS has customers throughout the world and continuously adapts to evolving regulations. <a href="https://www.atlas.aws/" target="_blank"> AWS Compliance Center </a>
+ provides you with a central location to investigate cloud-related regulatory requirements and how they affect your industry. Select the country you are interested in, and the AWS Compliance Center will display the country’s regulatory position regarding the adoption of cloud services.</p></div> <div><h4>  4. Does AWS have sub-processors? - Subcontractor access to data centers: </h4><p>  AWS may engage entities listed on the <a href="https://aws.amazon.com/compliance/sub-processors/" target="_blank"> AWS sub-processor </a>
+ website to perform specific processing activities on behalf of the customer or data center facility management activities. This website also gives customers the option to subscribe to email notifications for changes to the list.</p><p>  AWS proactively informs our customers about any subcontractors that have access to customer-owned content that you upload to AWS, including content that may contain personal data. <strong> There are no subcontractors authorized by AWS to access any customer-owned content you upload to AWS </strong>. To monitor access for subcontractors throughout the year, see the AWS <a href="https://aws.amazon.com/es/compliance/third-party-access" target="_blank"> Third-Party Access </a>
+ website.</p></div> <div><h4>  5. Can you provide AWS data center locations for my business continuity or disaster recovery policies? </h4><p>  AWS data center locations are strictly confidential information to maintain the security and privacy of customer data. Locations are disclosed only to AWS employees and contractors who have an approved business need to be on-site.</p><p>  Customers can assess the security and resilience of their AWS physical infrastructure by considering all the security controls that AWS has in place for their data centers. To help customers assess risks related to AWS data centers, AWS provides the <a href="https://aws.amazon.com/compliance/data-center/controls" target="_blank"> AWS Data Center Controls </a>
+ website and the AWS SOC 2 report, available in <a href="https://aws.amazon.com/artifact" target="_blank"> AWS Artifact </a>
+.</p></div> <div><h4>  6. What factors are important for customers to evaluate as part of their disaster recovery plan? </h4><p>  Customers who evaluate AWS as part of their disaster recovery plan should first identify their resilience objectives and consider applicable regulatory requirements for resilience and disaster recovery. Customers can then design their AWS environment to meet their resilience goals and regulatory requirements. For example, to mitigate environmental risks, customers can design their AWS workloads to leverage physically separate Availability Zones and regions to achieve their goals. Customers with high availability requirements often use multiple Availability Zones or regions for critical applications. Learn more at the AWS Disaster Recovery website, the <a href="https://aws.amazon.com/compliance/data-center/controls" target="_blank"> AWS Data Center Controls </a>
+ website, and the AWS SOC 2 report available at <a href="https://aws.amazon.com/artifact" target="_blank"> AWS Artifact </a>
+.</p></div>

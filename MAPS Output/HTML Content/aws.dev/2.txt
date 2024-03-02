@@ -1,0 +1,73 @@
+<ul><ul>  <li>
+<b>  -  </b><a href="" target="_blank"> Introduction
+          
+             </a>
+</li><li>
+<b> 1.  </b><a href="" target="_blank"> Quick Wins
+          
+             </a>
+</li><li>
+<b> 2.  </b><a href="" target="_blank"> Foundational
+          
+             </a>
+</li><li>
+<b> 3.  </b><a href="" target="_blank"> Efficient
+          
+             </a>
+</li><li>
+<b> 4.  </b><a href="" target="_blank"> Optimized
+          
+             </a>
+</li><li>
+<b> -  </b><a href="" target="_blank"> Complete Maturity Model
+          
+             </a>
+</li></ul></ul> <ul><ul>  <li>
+<b> -  </b><a href="" target="_blank"> Webinars, Whitepapes, FAQ
+          
+             </a>
+</li><li>
+<b> -  </b><a href="" target="_blank"> Contact
+          
+             </a>
+</li><li>
+<b> -  </b><a href="" target="_blank"> Survey
+          
+             </a>
+</li><li>
+
+</li></ul></ul> <p><p>  © 2020 Amazon Web Services, Inc. or its Affiliates. All rights reserved.</p></p> <div><span>  
+
+</span><span>  
+<a href="/en/" target="_blank"> Home </a> > <a href="/en/webinars-whitepapers-faq/" target="_blank"> Webinars, Whitepapes, FAQ </a> > Free security services
+          
+        
+          
+        
+          
+        
+                 
+                  </span></div> <div><h1>  
+              
+              Free security services
+            </h1></div> <div><h4>  AWS Shield Standard (DDoS Mitigation) </h4><p>  Protection against the most common DDoS Attacks (such as SYN/UDP Floods, Reflection Attacks. Layer 3 and 4).
+Available to all the customers without additional cost, activated by default.
+Detection and mitigation is automatic.
+<a href="https://aws.amazon.com/shield/" target="_blank"> https://aws.amazon.com/shield/ </a>
+</p></div> <div><h4>  IAM </h4><p>  Identity and Access Management of the AWS infrastructure, granular control and enabling virtul MFA is free.
+<a href="https://aws.amazon.com/iam/" target="_blank"> https://aws.amazon.com/iam/ </a>
+</p></div> <div><h4>  IAM Access Analyzer </h4><p>  AWS offers free of charge this tool that uses Automated Reasoning to detect human mistakes in the configuration of policies, such as external actors (Principals) with permissions granted by resource policies such as Bucket Policies, Key Policies, etc. 
+<a href="https://aws.amazon.com/iam/features/analyze-access/" target="_blank"> https://aws.amazon.com/iam/features/analyze-access/ </a>
+</p></div> <div><h4>  AWS Organizations </h4><p>  AWS Organizations allows you to generate a Multi-Account structure with centralized billing and gives the organization the possibility to limit the maximum permissions available for the whole organization, for a particular Business Unit, or for a specific account (with Service Control Policies)
+<a href="https://aws.amazon.com/organizations/" target="_blank"> https://aws.amazon.com/organizations/ </a>
+</p></div> <div><h4>  AWS SSO </h4><p>  AWS SSO is a service that allows to centralize the access to multiple accounts offering a portal that allows accessing to multiple AWS Accounts with different roles and other 3rd party corporate applications. Allows the usage of an internal user repository or you can use an external directory such as AWS Directory Services, AD on-prem, or an external identity provider such as Okta, PingIdentity, OneLogin, AzureAD. AWS SSO allows access to the AWS Console and to the AWS CLI and grants temporary credentials (according to best practices). 
+<a href="https://aws.amazon.com/single-sign-on/" target="_blank"> https://aws.amazon.com/single-sign-on/ </a>
+</p></div> <div><h4>  S3 Block Public Access </h4><p>  The Amazon S3 Block Public Access feature provides settings for access points, buckets, and accounts to help you manage public access to Amazon S3 resources. By default, new buckets, access points, and objects don’t allow public access.
+<a href="https://aws.amazon.com/s3/features/block-public-access/" target="_blank"> https://aws.amazon.com/s3/features/block-public-access/ </a>
+<a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html" target="_blank"> https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-control-block-public-access.html </a>
+</p></div> <div><h4>  AWS Systems Manager: Patch Manager </h4><p>  Note: it’s free for EC2 Instances in the AWS Cloud, for servers on-prem or multicloud it has associated costs.
+Patch Manager, a capability of AWS Systems Manager, automates the process of patching managed nodes with both security related and other types of updates. You can use Patch Manager to apply patches for both operating systems and applications.
+<a href="https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-patch.html" target="_blank"> https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-patch.html </a>
+</p></div> <div><h4>  AWS Systems Manager: Session Manager </h4><p>  The service allows you to connect to Linux or Windows instances (powershell) to manage them through a command interface. It does not require the opening of security groups to management ports or the use of bastions. Optionally, it allows to record the executed commands and their response in text files. By integrating with AWS Console Authentication, it enables configuration of MFA for instance access.</p></div> <div><h4>  AWS Systems Manager: Fleet Manager </h4><p>  The service allows you to manage instances running on AWS or on-prem servers, through a unified interface that allows you to see the health and performance of your server fleet from a console. It also allows you to collect information from the nodes to solve problems or management tasks directly from the AWS console. It includes the ability to connect to Windows instances using Remote Desktop Protocol (RDP), view folder and file contents, manage the windows registry, manage operating system users, and more.
+<a href="https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet.html" target="_blank"> https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet.html </a>
+</p></div> <div><h4>  AWS Trusted Advisor </h4></div> <div><h4>  EC2 Image Builder (Golden Images) </h4><p>  (the service is free, only the generated infrastructure incurs in costs)</p></div> <div><h4>  AWS CloudFormation (Infrastructure as Code) </h4><p>  (the service is free, only the generated infrastructure incurs in costs)</p></div> <div><h4>  AWS Well Architected Tool (which has a Security pillar) </h4><span>  </span></div>

@@ -1,0 +1,34 @@
+0: miscellaneous
+1: tv/streaming services
+2: video streaming services 			
+3: ad/tracker
+4: mobile apps services
+5: radio/music
+6: search engine/google/bing
+7: adware/popup services
+8: cdn/cloud
+9: ssl service
+10: dns service
+11: webmail service
+12: iot/cloud service
+13: gaming services
+14: iot platforms
+15: amazon/ecommerce service
+16: samsung services
+17: business/it
+18: advertising
+19: audio/music
+20: video streaming
+21: weather forcast
+22: web
+23: miscellaneous
+24: news/sports/social
+25: torrent/file server
+26: miscellaneous
+27: vpn/proxy
+28: tv/internet/broadband
+29: microsoft services
+
+
+
+

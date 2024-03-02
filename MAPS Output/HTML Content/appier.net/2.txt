@@ -1,0 +1,50 @@
+<div><h1>  
+                     Website privacy and security
+                </h1></div> <div><h3>  
+                    Last updated: 12th Jan, 2021
+                  </h3></div> <div><h2>  Our Statement of Commitment</h2><p>  At Appier, we are committed to protecting data privacy and prioritizing security. In a time when hacks and leaks are commonplace, we understand your concerns and take measures to ensure you can use our solutions with confidence. Appier is doing the utmost to maintain compliance with personal data regulations and data privacy guidelines, including GDPR and ISO 27001, two of the most comprehensive data protection and information security standards in the world. We employ a number of product and data security features that provide layers of protection for you and your business from threats and risks. Appier takes issues of privacy and security with the utmost seriousness, and we work on maintaining your trust in us everyday.</p></div> <div><h2>  Product Security</h2><p>  We are aware of the sorts of backdoors and attacks unauthorized third parties may try to gain access to your sensitive information. To fend off these unauthorized access, we have equipped our products with a number of security features.</p><ul>  <li>Single Sign-On
+</li></ul><p>  Appier offers users a “Single Sign-On'' (SSO) option to access its platforms. With the one set of credentials, users can securely authenticate and sign into all Appier’s platforms. The SSO eliminates the complications of having multiple sets of credentials while ensuring that all users are authenticated. Furthermore, we support multi-factor authentication for logins, making the authentication process more stringent and thus more secure.
+</p></div> <div><ul>  <li>API Security
+</li></ul><p>  API, short for application programming interface, is the software intermediary that makes it possible for two applications to communicate with each other. To keep this intermediary safe, Appier adopts a principle of least privilege for its platforms and requires authentication and authorization to access any of them.
+</p><ul>  <li>Account Audit Log
+</li></ul><p>  Appier’s platforms come with an audit log that allows the administrators to see who made what changes to the content on the platforms as well as control who has access to what information.
+</p></div> <div><ul>  <li>IP Whitelisting
+</li></ul><p>  Appier gives users the ability to choose which IP addresses users grant access to where the default setting is denying all addresses. This feature enables users to create an IP whitelist of addresses they trust with access.
+</p></div> <div><h2>  Certification</h2><p>  To ensure that our customers can rest assured that their data is safe and protected when using our solutions, Appier continues to monitor the latest regulations and policies surrounding privacy and security and strives to comply with them.</p><ul>  <li>GDPR compliant
+</li></ul><p>  The General Data Protection Regulation (GDPR) is a legal framework that sets guidelines for governing the collection and processing of personal information from individuals who live in the European Union. All businesses, whether or not they have a presence in Europe, need to comply with the GDPR if they are processing personal data from EU residents. Appier has assembled a cross-functional team to work on GDPR compliance tasks and ensure that we meet the legislative and/or contractual GDPR-related obligations. For more information about what compliance entails, please refer to our <a href="/gdpr-customer-statement/?hsLang=en" target="_blank"> GDPR statement </a>.
+</p></div> <div><ul>  <li>ISO 27001
+</li></ul><p>  ISO 27001 is the international standard for managing information security. The standard lays out the requirements for “establishing, implementing and continually improving an information security management system” within an organization. This is a voluntary certification for which Appier has successfully completed the requirements and been certified via an audit.
+</p><ul>  <li>ISO 27701
+</li></ul><p>  ISO 27701 is a privacy extension of ISO27001. The standard is meant to enhance the existing information security management system, mentioned above, making a privacy information management system. Appier has received this certification and can assure customers that it has a robust system in place to reduce the risk to the privacy rights of individuals.
+</p></div> <div><p>  
+                Appier Named as Best Business AI Applications Service Provider 2021 by APAC Insider 
+              </p><p>  
+                AiDeal Named as Best Overall AI-based Analytics Solution in 2020 by AI Breakthrough
+              </p><p>  
+                Appier Highly Commended in The Drum Digital Advertising Awards APAC 2020
+              </p><p>  
+                Appier Received TAG Anti-Fraud Certification
+              </p><p>  
+                Appier Received ISO 27001 Certification
+              </p></div> <div><p>  
+                Appier Received ISO 27701 Certification
+              </p><p>  
+                Appier Named in CB Insights’ Second Annual AI 100 Companies 2018
+              </p><p>  
+                Appier Named as Gartner Cool Vendor for Artificial Intelligence, East Asia, 2017
+              </p><p>  Making AI easy by making software intelligent</p><ul>  <li>
+                    Products
+                  
+</li><li>
+                    Industries
+                  
+</li><li>
+                    Resources
+                  
+</li><li>
+                    About
+                  
+</li><li>
+                    Investor Relations
+                  
+</li></ul></div> <p><p>  © 2023 Appier Inc. All Rights Reserved.</p></p>

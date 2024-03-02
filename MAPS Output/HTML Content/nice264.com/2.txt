@@ -1,0 +1,49 @@
+<div><p>  <strong> Integration </strong></p><p>  Integration is simple and fast. With our plugins, Nice Analytics seamlessly aggregates metrics and events across multiple platforms including PC, Android, IOS, STBs, Consoles, and Smart TVs.</p><p>  <strong> Dashboard </strong></p><p>  More than just KPI dashboards, Nice Analytics offers high resolution metrics and events from your Audience, Quality,  Engagement and Network data, enabling high detail summaries of all user play sessions.</p><p>  <strong> Developers API </strong></p></div> <p><p>  Nice Analytics comes with full API enabling access to all captured data and graphs. Use our API to manage data form your CMS or upload it to your Business Intelligence / CRM platform or dashboard.</p></p> <div><p>  <strong> Tracking </strong></p><p>  Access a line-by-line report of every single play session, with all details for that view. Use the tracking tool for managing your customer support, or addressing any particular quality issue in depth.</p><p>  <strong> Alerts </strong></p><p>  Define how and when you want to be alerted. Establish thresholds for every KPI and who to alert for each scenario.
+                          Nice Analytics offers a diagnostics tool to asses the severity and reach of any incidence.</p></div> <div><p>  <strong> Reports </strong></p><p>  Manage and create usage reports with full details (title, type of DRM, device, users, rights owners etc).. Export your reports to common formats ( excel, csv, txt ).</p><p>  
+
+</p><span>  <strong> INTEGRATION </strong>
+</span><p>  Integration is simple and fast. Simply include our plugin 
+            libraries in your player code. Our plugin is available for 
+            multiple platforms, check here for your device(s) of 
+            choice.</p><ul>  <li>Download plugins and guides for each player here.</li><li>Integrate the libraries into your player code using 
+                the installation guides, if in trouble contact our 
+                support team</li><li>Once the plugins are installed on the players, login 
+                to the management tool here, using your username/
+                password</li></ul></div> <div><small>  Return to product features</small><p>  
+
+</p><span>  <strong> DASHBOARD </strong>
+</span><ul>  <li>Access your dashboard anytime, from most devices (a 
+                simple website in appearance).</li><li>Authorise multiple accounts to access the same data 
+                (Premium only)</li><li>Navigate though the graphs and KPI lists, with amazing 
+                features (pinch zoom, predictive search, multi filters, snap 
+                graphs..</li><li>Info on concurrent users, views, viewing time, traffic, 
+                bitrate, join time, exits, buffer ratio, buffer stops, DRM and 
+                many other parameters</li></ul></div> <ul><ul>  <li>Access info on Media (Hash), visualization 
+                data, location, IP/User, Bitrate, join time, 
+                buffers, buffering time, device, DRM, CDN, 
+                Domain</li></ul></ul> <div><small>  Return to product features</small><p>  
+
+</p><span>  <strong> DEVELOPERS API </strong>
+</span><ul>  <li>Use our REST API to develop around our 
+                solution</li><li>Access all data, controls, graphs and 
+                preferences configured via Web</li><li>Integrate the information into your existing 
+                Dashboard, NOC, or CMS of choice</li><li>Support and general tips available in our 
+                developers forum and community</li></ul><small>  Return to product features</small></div> <div><p>  
+
+</p><span>  <strong> TRACKING </strong>
+</span><ul>  <li>Use the tracking tool for customer care, and 
+                for finding all parameters & variables for a 
+                specific view</li><li>Search by username, IP, Transaction</li><li>Access info on Media (Hash), visualization 
+                data, location, IP/User, Bitrate, join time, 
+                buffers, buffering time, device, DRM, CDN, 
+                Domain</li></ul><small>  Return to product features</small><p>  
+
+</p></div> <div><span>  <strong> ALERTS </strong>
+</span><ul>  <li>Define how and when you want to be alerted</li><li>Define alerts and procedures</li><li>Manage, archive and inspect alerts</li><li>View alerts for a single visualisation (exceeded 
+                KPI threshold) or for a generalized incidence 
+                (affecting specific devices/areas/CDNs/titles)</li></ul><small>  Return to product features</small><p>  
+
+</p><span>  <strong> REPORTS </strong>
+</span><ul>  <li>Configure and define your reports</li><li>Manage reports, save and share</li><li>Or download to common format files (excel, 
+                csv, txt)</li><li>Filter information by title/owner/ device/
+                license type, etc..</li></ul></div> <div><small>  Return to product features</small><p>  (c) 2014 NicePeopleAtWork, All rights reserved.</p><span>  |</span></div>

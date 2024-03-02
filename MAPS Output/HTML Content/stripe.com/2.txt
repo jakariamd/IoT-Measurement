@@ -1,0 +1,2104 @@
+<div><h1>  
+
+</h1><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><span>  
+        Sign in
+      </span><span>  Back</span></div> <div><h1>  Global Payments</h1><p>  Accept payments online, in person, or through your platform.</p></div> <div><h1>  Revenue and Finance Automation</h1><p>  Grow your business with automated revenue and finance.</p></div> <div><h1>  Banking-as-a-Service</h1><p>  Embed financial services in your platform or product.</p></div> <div><h1>  Global Payments</h1><ul>  <li>
+        Payments 
+
+</li></ul><p>  Online payments
+
+</p><ul>  <li>
+        Checkout 
+
+</li></ul><p>  Prebuilt payments page
+
+</p><ul>  <li>
+        Elements 
+
+</li></ul><p>  Customizable payments UIs
+
+</p><ul>  <li>
+        Payment Links 
+
+</li></ul><p>  No-code payments
+
+</p><ul>  <li>
+        Radar 
+
+</li></ul><p>  Fraud & risk management
+
+</p><ul>  <li>
+        Connect 
+
+</li></ul><p>  Payments for platforms
+
+</p><ul>  <li>
+        Billing 
+
+</li></ul><p>  Subscription management
+
+</p></div> <div><ul>  <li>
+        Invoicing 
+
+</li></ul><p>  Online invoices
+
+</p><ul>  <li>
+        Terminal 
+
+</li></ul><p>  In-person payments
+
+</p><ul>  <li>
+        Financial Connections 
+
+</li></ul><p>  Linked financial account data
+
+</p><ul>  <li>
+        Identity 
+
+</li></ul><p>  Online identity verification
+
+</p><ul>  <li>
+        Climate 
+
+</li></ul><p>  Carbon removal
+
+</p></div> <div><h1>  Revenue and Finance Automation</h1><ul>  <li>
+        Billing 
+
+</li></ul><p>  Subscription management
+
+</p><ul>  <li>
+        Invoicing 
+
+</li></ul><p>  Online invoices
+
+</p><ul>  <li>
+        Tax 
+
+</li></ul><p>  Sales tax & VAT automation
+
+</p><ul>  <li>
+        Revenue Recognition 
+
+</li></ul><p>  Accounting automation
+
+</p><ul>  <li>
+        Sigma 
+
+</li></ul><p>  Custom reports
+
+</p><ul>  <li>
+        Data Pipeline 
+
+</li></ul><p>  Data warehouse sync
+
+</p><ul>  <li>
+        Atlas 
+
+</li></ul></div> <div><p>  Startup incorporation
+
+</p><span>  
+        Automate revenue and finance on Stripe 
+</span></div> <div><h1>  Banking-as-a-Service</h1><ul>  <li>
+        Connect 
+
+</li></ul><p>  Payments for platforms
+
+</p><ul>  <li>
+        Capital 
+
+</li></ul><p>  Business financing
+
+</p><ul>  <li>
+        Issuing 
+
+</li></ul><p>  Card creation
+
+</p><ul>  <li>
+        Treasury 
+
+</li></ul><p>  Banking-as-a-service
+
+</p></div> <div><h1>  Use Cases</h1><ul>  <li>
+        Enterprises 
+
+
+</li><li>
+        SaaS 
+
+
+</li><li>
+        Marketplaces 
+
+
+</li><li>
+        Creator Economy 
+
+
+</li><li>
+        Finance Automation 
+
+
+</li><li>
+        Platforms 
+
+
+</li><li>
+        Ecommerce 
+
+
+</li><li>
+        Crypto 
+
+
+</li><li>
+        Embedded Finance 
+
+
+</li><li>
+        Global Businesses 
+
+
+</li></ul></div> <div><h1>  Integrations & Custom Solutions</h1><ul>  <li>
+        App Marketplace 
+
+
+
+</li><li>
+        Professional Services 
+
+
+</li><li>
+        Partner Ecosystem 
+
+
+</li><li>
+        Documentation 
+
+
+</li></ul></div> <div><h1>  Get started</h1><ul>  <li>
+        Prebuilt checkout 
+
+
+</li><li>
+        Libraries and SDKs 
+
+
+</li><li>
+        Plugins 
+
+
+</li></ul></div> <div><h1>  Guides</h1><ul>  <li>
+        Accept Online Payments 
+
+
+</li><li>
+        Manage Subscriptions 
+
+
+</li><li>
+        Send Payments 
+
+
+</li><li>
+        Full API Reference 
+
+
+</li><li>
+        API Status 
+
+
+</li><li>
+        API Changelog 
+
+
+</li><li>
+        Build a Stripe App 
+
+
+</li><li>
+        Support Center 
+
+
+</li><li>
+        Support Plans 
+
+
+</li><li>
+        Guides 
+
+
+</li><li>
+        Customer Stories 
+
+
+</li><li>
+        Blog 
+
+
+</li><li>
+        Annual Conference 
+
+
+</li><li>
+        Contact Sales 
+
+
+</li></ul></div> <div><ul>  <li>
+        Jobs 
+
+
+</li><li>
+        Newsroom 
+
+
+</li><li>
+        Stripe Press 
+
+
+</li><li>
+        Become a Partner 
+
+
+</li></ul><span>  
+        Sign in
+      </span><span>  
+
+</span><p>  Accept payments online, in person, or through your platform.</p><p>  Grow your business with automated revenue and finance.</p><p>  Embed financial services in your platform or product.</p><ul>  <li>
+        Payments 
+
+</li></ul><p>  Online payments
+
+</p><ul>  <li>
+        Checkout 
+
+</li></ul><p>  Prebuilt payments page
+
+</p></div> <div><ul>  <li>
+        Elements 
+
+</li></ul><p>  Customizable payments UIs
+
+</p><ul>  <li>
+        Payment Links 
+
+</li></ul><p>  No-code payments
+
+</p><ul>  <li>
+        Radar 
+
+</li></ul><p>  Fraud & risk management
+
+</p><ul>  <li>
+        Connect 
+
+</li></ul><p>  Payments for platforms
+
+</p><ul>  <li>
+        Billing 
+
+</li></ul><p>  Subscription management
+
+</p><ul>  <li>
+        Invoicing 
+
+</li></ul><p>  Online invoices
+
+</p><ul>  <li>
+        Terminal 
+
+</li></ul><p>  In-person payments
+
+</p><ul>  <li>
+        Financial Connections 
+
+</li></ul></div> <div><p>  Linked financial account data
+
+</p><ul>  <li>
+        Identity 
+
+</li></ul><p>  Online identity verification
+
+</p><ul>  <li>
+        Climate 
+
+</li></ul><p>  Carbon removal
+
+</p><ul>  <li>
+        Billing 
+
+</li></ul><p>  Subscription management
+
+</p><ul>  <li>
+        Invoicing 
+
+</li></ul><p>  Online invoices
+
+</p><ul>  <li>
+        Tax 
+
+</li></ul><p>  Sales tax & VAT automation
+
+</p><ul>  <li>
+        Revenue Recognition 
+
+</li></ul><p>  Accounting automation
+
+</p><ul>  <li>
+        Sigma 
+
+</li></ul></div> <div><p>  Custom reports
+
+</p><ul>  <li>
+        Data Pipeline 
+
+</li></ul><p>  Data warehouse sync
+
+</p><ul>  <li>
+        Atlas 
+
+</li></ul><p>  Startup incorporation
+
+</p><span>  
+        Automate revenue and finance on Stripe 
+</span><ul>  <li>
+        Connect 
+
+</li></ul><p>  Payments for platforms
+
+</p><ul>  <li>
+        Capital 
+
+</li></ul><p>  Business financing
+
+</p><ul>  <li>
+        Issuing 
+
+</li></ul><p>  Card creation
+
+</p><ul>  <li>
+        Treasury 
+
+</li></ul><p>  Banking-as-a-service
+
+</p></div> <div><h1>  Use Cases</h1><ul>  <li>
+        Enterprises 
+
+
+</li><li>
+        SaaS 
+
+
+</li><li>
+        Marketplaces 
+
+
+</li><li>
+        Creator Economy 
+
+
+</li><li>
+        Finance Automation 
+
+
+</li><li>
+        Platforms 
+
+
+</li><li>
+        Ecommerce 
+
+
+</li><li>
+        Crypto 
+
+
+</li><li>
+        Embedded Finance 
+
+
+</li><li>
+        Global Businesses 
+
+
+</li></ul></div> <div><h1>  Integrations & Custom Solutions</h1><ul>  <li>
+        App Marketplace 
+
+
+
+</li><li>
+        Professional Services 
+
+
+</li><li>
+        Partner Ecosystem 
+
+
+</li><li>
+        Documentation 
+
+</li></ul><p>  Start integrating Stripe’s products and tools
+
+</p></div> <div><h1>  Get started</h1><ul>  <li>
+        Prebuilt checkout 
+
+
+</li><li>
+        Libraries and SDKs 
+
+
+</li><li>
+        Plugins 
+
+
+</li><li>
+        Code samples 
+
+
+</li></ul></div> <div><h1>  Guides</h1><ul>  <li>
+        Accept online payments 
+
+
+</li><li>
+        Manage subscriptions 
+
+
+</li><li>
+        Send payments 
+
+
+</li><li>
+        Set up in-person payments 
+
+
+</li><li>
+        Full API Reference 
+
+
+</li><li>
+        API Status 
+
+
+</li><li>
+        API Changelog 
+
+
+</li><li>
+        Build a Stripe App 
+
+
+</li><li>
+        Support Center 
+
+
+</li><li>
+        Support Plans 
+
+
+</li><li>
+        Guides 
+
+
+</li><li>
+        Customer Stories 
+
+
+</li><li>
+        Blog 
+
+
+</li><li>
+        Annual Conference 
+
+
+</li></ul></div> <div><ul>  <li>
+        Contact Sales 
+
+
+</li><li>
+        Jobs 
+
+
+</li><li>
+        Newsroom 
+
+
+</li><li>
+        Stripe Press 
+
+
+</li><li>
+        Become a Partner 
+
+
+</li></ul></div> <div><h1>  Cookie settings</h1><p>  
+          Stripe uses cookies and similar technologies to improve your experience and for marketing purposes. Review and manage your cookie settings below to control your privacy. For more information on how we use cookies, please see <a href="https://stripe.com/cookies-policy/legal" target="_blank"> Stripe’s Cookie Policy </a>.
+        </p><p>  
+          Disable the “Advertising” section below to opt-out of targeted advertising, including data “sharing” under California privacy law. <a href="https://stripe.com/privacy-center/legal#what-data-may-be-shared-or-made-available-to-enable-me-to-see-stripe-ads-on-other-sites" target="_blank"> Learn more </a>.
+        </p></div> <div><h1>  Advertising</h1><label>  
+
+</label><span>  
+
+</span><label>  
+
+
+
+</label><span>  
+
+</span><span>  Stores your qualification to chat directly with a Stripe sales representative.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 week </strong>
+</td><span>  
+
+</span><span>  Used for Stripe's marketing teams to optimize advertising on Facebook.
+
+</span><td>  
+<strong> .facebook.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></div> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 3 months </strong>
+</td><span>  
+
+</span><span>  Enriches web analytics and form submissions with firmographic data, controlled by a Clearbit script.
+
+</span><td>  
+<strong> .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Provides information on the marketing campaign originally clicked on to get to Stripe.com.
+
+</span><td>  
+<strong> .stripe.com, .go.stripe.global </strong>
+</td></div> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 60 days </strong>
+</td><span>  
+
+</span><span>  Stores Google Marketing campaign information. Used to determine when you click an ad and later visit the linked site.
+
+</span><td>  
+<strong> .stripe.com, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 3 months </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to provide device characteristics and user activity indicators across page views.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 day </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on LINE and visits to our ad partners' websites
+
+</span><td>  
+<strong> .line.me, .stripe.com, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Set by our marketing automation platform, Marketo, to track how marketing email recipients use Stripe's websites, measure campaign effectiveness, and show you more relevant content.
+
+</span></div> <td><td>  
+<strong> .stripecdn.com, .stripe.com, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to provide device characteristics and user activity indicators across page views.
+
+</span><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 30 days </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to provide device characteristics and user activity indicators across page views.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to track the last time analytics data was synced.
+
+</span><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 30 days </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to provide device characteristics and user activity indicators across page views.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  Set by Facebook to provide device characteristics and user activity indicators when visiting stripe.com while logged into Facebook.
+
+</span><td>  
+<strong> .clearbit.com, .facebook.com, .go.stripe.global, .stripe.com, .stripe.events </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Reddit and visits to our ad partners' websites
+
+</span></div> <td><td>  
+<strong> .reddit.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Set by Facebook to provide device characteristics and user activity indicators when visiting stripe.com while logged into Facebook.
+
+</span><td>  
+<strong> .facebook.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  Set by Facebook to provide device characteristics and user activity indicators when visiting stripe.com while logged into Facebook.
+
+</span></div> <td><td>  
+<strong> .facebook.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 week </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Reddit and visits to our ad partners' websites
+
+</span><td>  
+<strong> .reddit.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 15 months </strong>
+</td><span>  
+
+</span><span>  Set by Facebook to provide device characteristics and user activity indicators when visiting stripe.com while logged into Facebook.
+
+</span></div> <td><td>  
+<strong> .facebook.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 3 months </strong>
+</td><span>  
+
+</span><span>  Used so that other Google properties can show you more relevant ads.
+
+</span><td>  
+<strong> .youtube.com </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 30 minutes </strong>
+</td><span>  
+
+</span><span>  Facilitates remarketing on other websites with the DoubleClick ad network.
+
+</span><td>  
+<strong> .doubleclick.net </strong>
+</td><td>  
+<strong> Third party </strong>
+</td></div> <div><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  Remembers how you entered Stripe's website to help our marketing teams set goals and measure campaign performance.
+
+</span><td>  
+<strong> stripe.com, stripecdn.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to provide device characteristics and user activity indicators across page views.
+
+</span><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td></div> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 month </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to provide device characteristics and user activity indicators across page views.
+
+</span><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 3 months </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to provide device characteristics and user activity indicators across page views.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to remarket website visitors via LinkedIn.
+
+</span><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global, .stripe.events </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 24 hours </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to provide device characteristics and user activity indicators across page views.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Reddit and visits to our ad partners' websites
+
+</span><td>  
+<strong> .reddit.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Quora and visits to our ad partners' websites.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .go.stripe.global, .stripe.events </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Quora and visits to our ad partners' websites.
+
+</span><td>  
+<strong> .stripe.com, .go.stripe.global, .stripe.events </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Quora and visits to our ad partners' websites.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .go.stripe.global, .stripe.events </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Quora and visits to our ad partners' websites.
+
+</span><td>  
+<strong> .stripe.com, .go.stripe.global, .stripe.events </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Quora and visits to our ad partners' websites.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .go.stripe.global, .stripe.events </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Quora and visits to our ad partners' websites.
+
+</span><td>  
+<strong> .stripe.com, .go.stripe.global, .stripe.events </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Quora and visits to our ad partners' websites.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .go.stripe.global, .stripe.events </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 22 months </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Reddit and visits to our ad partners' websites
+
+</span><td>  
+<strong> .reddit.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 18 months </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Reddit and visits to our ad partners' websites
+
+</span></div> <td><td>  
+<strong> .reddit.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  Set by Facebook to provide device characteristics and user activity indicators when visiting stripe.com while logged into Facebook.
+
+</span><td>  
+<strong> .facebook.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  Set by LinkedIn on the careers pages and is used for the 'Apply with LinkedIn' function.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Reddit and visits to our ad partners' websites
+
+</span><td>  
+<strong> .reddit.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Set by Facebook to provide device characteristics and user activity indicators when visiting stripe.com while logged into Facebook.
+
+</span></div> <td><td>  
+<strong> .facebook.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  Session cookie used by splashthat for identification of visitors to event marketing pages that they host.
+
+</span><td>  
+<strong> .stripe.events </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Reddit and visits to our ad partners' websites
+
+</span></div> <td><td>  
+<strong> .reddit.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  Created by LinkedIn’s tracking script and used by LinkedIn to identify browsers.
+
+</span><td>  
+<strong> .adsymptotic.com, .stripe.com, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 3 months </strong>
+</td><span>  
+
+</span><span>  This cookie is used by LinkedIn Ads to help Stripe measure advertising performance.
+
+</span><td>  
+<strong> .stripe.com, .linkedin.com, .ads.linkedin.com, .go.stripe.global </strong>
+</td></div> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 30 days </strong>
+</td><span>  
+
+</span><span>  Used by YouTube to enable recommendations and analytics. Also used to detect and resolve problems with the service.
+
+</span><td>  
+<strong> .youtube.com </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Set by Facebook to provide device characteristics and user activity indicators when visiting stripe.com while logged into Facebook.
+
+</span></div> <td><td>  
+<strong> .facebook.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 week </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Yahoo! Japan and visits to our ad partners' websites.
+
+</span><td>  
+<strong> .yahoo.co.jp, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  To help us deliver ads, measure their performance, and make them more relevant to you based on criteria like your activity on Yahoo! Japan and visits to our ad partners' websites.
+
+</span></div> <td><td>  
+<strong> .yahoo.co.jp, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 20 months </strong>
+</td><span>  
+
+</span><span>  Set by Facebook to provide device characteristics and user activity indicators when visiting stripe.com while logged into Facebook.
+
+</span><td>  
+<strong> .facebook.com, .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Used to keep statistics of what videos you have seen.
+
+</span></div> <td><td>  
+<strong> .youtube.com </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Used to store YouTube video player preferences.
+
+</span><td>  
+<strong> youtube.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Used to store YouTube video player preferences.
+
+</span><td>  
+<strong> youtube.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span></div> <span><span>  Used by YouTube to queue the next video.
+
+</span></span> <td><td>  
+<strong> youtube.com </strong>
+</td></td> <div><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Used to remember which YouTube videos have already been watched.
+
+</span><td>  
+<strong> youtube.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td></div> <div><h1>  Preferences</h1><label>  
+
+</label><span>  
+
+</span><label>  
+
+
+
+</label><span>  
+
+</span><span>  Remembers your choice to use an unsupported browser so that we don't keep prompting you to switch to a supported one.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Remembers your choice to temporarily use the old version of the connected account detail page.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 week </strong>
+</td><span>  
+
+</span><span>  Remembers whether you want a light or dark color scheme in the API reference.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Disables the Cmd/Ctrl + F shortcut in Stripe's API reference. Uses the browser's default behavior instead to search the page.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Remembers preferences that you selected in our docs.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Tracks your use of the Cmd/Ctrl + F shortcut in Stripe's API reference. If you already use it or have opted out a certain number of times, we stop suggesting it.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Remembers which topics are expanded in Stripe's API reference between page refreshes.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Remembers whether you explicitly chose to view docs with curl.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td></div> <div><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Remembers which programming language is selected for the code examples in Stripe's docs.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Allows us to save the name of the last used payment method and later use this stored information to improve local payment method presentment, making it easier for payers to checkout.
+
+</span></div> <td><td>  
+<strong> checkout.stripe.com, js.stripe.com </strong>
+</td></td> <div><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Remembers the last viewed platform on your payment methods settings page.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Remembers your last few visits to the Stripe docs, including the page and timestamp, to help you pick up where you left off.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Temporarily hides the reminder to update your integration for Strong Customer Authentication.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 7 days </strong>
+</td><span>  
+
+</span><span>  Sometimes a user accesses a country-specific version of the docs that doesn't match the location of their IP address. Remembers that you closed the notification in this case so that we don't keep prompting you to switch countries.
+
+</span></div> <td><td>  
+<strong> .stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Remembers your preference to skip two-factor authentication so that we don't show it the next time you log in.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 30 days </strong>
+</td><span>  
+
+</span><span>  Remembers whether or not Workbench is enabled in the Dashboard.
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td></div> <div><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Remembers the state of Workbench, such as the last active tab, sizing, etc.
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td><td>  
+<strong> Session storage </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Remembers whether you dismissed a notice on support.stripe.com.
+
+</span><td>  
+<strong> support.stripe.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td></div> <div><h1>  Analytics</h1><label>  
+
+</label><span>  
+
+</span><label>  
+
+
+
+</label><span>  
+
+</span><span>  Remembers how you got to our website, including the URL you came from and the Stripe page you originally landed on.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Automatically created by a Google Analytics script to throttle the request rate to Google Analytics.
+
+</span><td>  
+<strong> .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></div> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 minute </strong>
+</td><span>  
+
+</span><span>  Automatically created by a Google Analytics script to throttle the request rate to Google Analytics.
+
+</span><td>  
+<strong> .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 minute </strong>
+</td><span>  
+
+</span><span>  Automatically created by a Google Analytics script to throttle the request rate to Google Analytics.
+
+</span></div> <div><td>  
+
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 minute </strong>
+</td><span>  
+
+</span><span>  Automatically created by a Google Analytics script to throttle the request rate to Google Analytics.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 minute </strong>
+</td><span>  
+
+</span><span>  Automatically created by a Google Analytics script to track a user's page views and clicks with a unique ID, without revealing who you are.
+
+</span></div> <td><td>  
+<strong> .stripe.com, .stripe.events, .go.stripe.global </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 60 days </strong>
+</td><span>  
+
+</span><span>  Automatically created by a Google Analytics script to track a user’s page views and clicks with a unique ID, without revealing who you are.
+
+</span><td>  
+<strong> .stripe.com, .go.stripe.global </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 1 day </strong>
+</td><span>  
+
+</span><span>  Applies relevant promotional incentives if you signed up through an invitation link.
+
+</span></div> <td><td>  
+<strong> .stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Tracks browsing activity across the site, including whether you interacted with advertisements.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 3 months </strong>
+</td><span>  
+
+</span><span>  Used for A/B testing Stripe Checkout features. Remembers which experiment you're in.
+
+</span><td>  
+<strong> .checkout.stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 2 months </strong>
+</td><span>  
+
+</span><span>  Allows us to note a consistent value for A/B testing in certain US states.
+
+</span><td>  
+<strong> js.stripe.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Allows Stripe to track the effects of implementing Link on merchant hosted checkout pages in certain US states.
+
+</span><td>  
+<strong> js.stripe.com </strong>
+</td></div> <div><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Controls which variant of Stripe sites you see when we’re experimenting with the site's look and feel. This ensures you will get a consistent experience.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 2 months </strong>
+</td><span>  
+
+</span><span>  Measures the effectiveness of our job listings outside of Stripe's websites.
+
+</span></div> <td><td>  
+<strong> .stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span><span>  Remembers that you signed up via a promotional invitation link so that Stripe applies the relevant discounts even if you don't sign up right away.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Serves as a fallback for the cid cookie.
+
+</span><td>  
+<strong> stripe.com </strong>
+</td></div> <div><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  To prevent fraud, enables Stripe to determine the merchant ID in the Stripe Dashboard.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  For new features and A/B testing, remembers which version of the docs you're in so that we show you the right UI and features.
+
+</span><td>  
+<strong> support.stripe.com </strong>
+</td></div> <div><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Anonymously provides device characteristics and user activity indicators across stripe.com to help us improve our site.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 2 hours </strong>
+</td><span>  
+
+</span><span>  To prevent fraud, enables Stripe to determine the user in the Stripe Dashboard.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td></div> <div><h1>  Authentication</h1><label>  
+
+</label><span>  
+
+</span><span>  
+
+</span><span>  
+    These cookies are necessary for our systems to work.
+  
+</span><span>  
+
+</span><span>  Authenticates your identity & grants you authorization for Stripe V2 APIs.
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 90 days </strong>
+</td><span>  
+
+</span><span>  Lets you log in to the Stripe CLI with your Stripe account from the command line.
+
+</span></div> <td><td>  
+<strong> dashboard.stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 3 minutes </strong>
+</td><span>  
+
+</span><span>  Stores consumer credentials to provide a one click payment experience at checkout.
+
+</span><td>  
+<strong> checkout-cookies.stripe.com, merchant-ui-api.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Identify unauthenticated users to remain connected to a live support session to enable a continuous support experience.
+
+</span></div> <td><td>  
+<strong> support.stripe.com, support-conversations.stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  User privacy-related session identifier. The cookie allows visitors who are authenticated in the Data Access Tool to visit their data report and take further action related to their data, like exporting data or requesting deletion.
+
+</span><td>  
+<strong> privacy.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 30 minutes </strong>
+</td><span>  
+
+</span><span>  Lets you access the Stripe Atlas Community forum.
+
+</span></div> <td><td>  
+<strong> .discuss.stripe.community </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Lets you access the <a href="https://discuss.stripe.community/" target="_blank"> Stripe Atlas Community </a> forum.
+
+</span><td>  
+<strong> .discuss.stripe.community </strong>
+</td><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 2 months </strong>
+</td><span>  
+
+</span><span>  Used to enable some OAuth workflows in the Dashboard.
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td></div> <div><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Provide a logged-in experience when a consumer uses Stripe-hosted payment UIs to make purchases and Crypto Onramp to purchase crypto. Provide a personalized button with last 4 card digits when a consumer sees Link in the Payment Request Button and Card Element.
+
+</span><td>  
+<strong> js.stripe.com, crypto-js.stripe.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td></div> <div><span>  
+
+</span><span>  Stores consumer credentials such that users can stay logged in at Link Marketing, Support and Web App sites. Additionally it provides a one click payment experience at Checkout.
+
+</span><td>  
+<strong> .checkout.stripe.com, .edge-checkout.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Used to sign requests to improve the security posture.
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td></div> <div><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Ensures that you've re-authenticated before performing sensitive actions in the Stripe Dashboard, as defined by SCA regulations.
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 30 seconds </strong>
+</td><span>  
+
+</span><span>  Identifies your email during SSO session authentication for restricted actions.
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 16 minutes </strong>
+</td><span>  
+
+</span><span>  Indicates when two-factor authentication is required, for SCA compliance.
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 16 minutes </strong>
+</td><span>  
+
+</span><span>  Stores an embedded user session key for authentication within Connect embedded elements.
+
+</span><td>  
+<strong> stripecdn.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td></div> <div><td>  
+<strong> N/A </strong>
+</td></div> <div><h1>  Fraud prevention</h1><label>  
+
+</label><span>  
+
+</span><span>  
+
+</span><span>  
+    These cookies are necessary for our systems to work.
+  
+</span><span>  
+
+</span><span>  Set for fraud prevention purposes and helps us assess the risk associated with an attempted transaction. Learn more about <a href="https://stripe.com/docs/disputes/prevention/advanced-fraud-detection" target="_blank"> advanced fraud detection </a>.
+
+</span><td>  
+<strong> .checkout.stripe.com, request </strong>
+</td><td>  
+<strong> First party </strong>
+</td></div> <div><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Set for fraud prevention purposes and helps us assess the risk associated with an attempted transaction. Learn more about <a href="https://stripe.com/docs/disputes/prevention/advanced-fraud-detection" target="_blank"> advanced fraud detection </a>.
+
+</span><td>  
+<strong> .checkout.stripe.com, request </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 30 minutes </strong>
+</td><span>  
+
+</span><span>  reCAPTCHA sets a necessary cookie when executed for the purpose of providing its risk analysis.
+
+</span></div> <td><td>  
+<strong> .stripe.com </strong>
+</td></td> <div><td>  
+<strong> Third party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  For fraud detection. Helps Stripe assess the risk associated with an attempted transaction on the your website. Read more about <a href="https://stripe.com/docs/disputes/prevention/advanced-fraud-detection" target="_blank"> advanced fraud detection </a>.
+
+</span><td>  
+<strong> .m.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 2 years </strong>
+</td><span>  
+
+</span></div> <span><span>  To prevent fraud, enables Stripe to determine the computer being used on the Stripe Dashboard.
+
+</span></span> <td><td>  
+<strong> .stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Set by Mastercard when the Stripe ACS is used to authenticate 3D-Secure payments. This cookie facilitates device detection in order to enhance fraud detection and prevention as well as to identify suspicious devices or devices that are behaving abnormally.
+
+</span><td>  
+<strong> .acs.touch.tech, .idcheck.acs.touchtechpayments.com, .verifiedbyvisa.acs.touchtechpayments.com </strong>
+</td><td>  
+<strong> Third party </strong>
+</td></div> <div><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Identifies the computer across login sessions and users to prevent fraud.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td></div> <div><h1>  Functionality</h1><label>  
+
+</label><span>  
+
+</span><span>  
+
+</span><span>  
+    These cookies are necessary for our systems to work.
+  
+</span><span>  
+
+</span><span>  Used to remember whether a user has requested to install the Stripe Netsuite Connector app.
+
+</span><td>  
+<strong> marketplace.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 7 days </strong>
+</td><span>  
+
+</span><span>  Stores details about the most recent single sign-on based login, such as timestamp, and status, which are used to detect when a the saml re-authentication flow succeeds.
+
+</span></div> <td><td>  
+<strong> dashboard.stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 60 seconds </strong>
+</td><span>  
+
+</span><span>  Tracks various chat session states, chat<em> terminated, expanded, survey </em>submitted & nav<em> cooldown </em>date, allowing us to keep track of previous & current states of the application to drive UI interactions.
+
+</span><td>  
+<strong> sales-live-chat.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 week </strong>
+</td><span>  
+
+</span><span>  Stores post engagement session survey form data, allowing us to provide the user with the expected UI interaction upon form submission.
+
+</span></div> <td><td>  
+<strong> sales-live-chat.stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 week </strong>
+</td><span>  
+
+</span><span>  Tracks current or previous chat sessions with our sales representatives, allowing you to continue chats while navigating the site or returning after leaving.
+
+</span><td>  
+<strong> sales-live-chat.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 week </strong>
+</td><span>  
+
+</span><span>  Remembers your language preference from Connect signup and Dashboard pages so that you can read site content in your selected language.
+
+</span></div> <td><td>  
+<strong> .connect.stripe.com, .express.stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Stores a user's cookie permissions.
+
+</span><td>  
+<strong> .stripe.com, .stripe.dev, .go.stripe.global, .increment.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 6 months </strong>
+</td><span>  
+
+</span><span>  Ensures you see the correct content (like product offerings) on stripe.com for the country you're in.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Remembers the state of elements in docs between sessions. (IndexedDB)
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td><td>  
+<strong> N/A </strong>
+</td><span>  
+
+</span><span>  Controls the language on stripe.com to deliver a reading experience in the language you expect.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td></div> <div><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Stores details about the most recent SAML integration test, i.e., test results, status, and test request ID, which are used to display saml configuration problems.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Fixes bugs on our website in certain situations by forcing the browser cache to clear.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 1 year </strong>
+</td><span>  
+
+</span><span>  Remembers whether you're logged in to the Stripe Dashboard.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Local storage items that store chat state.
+
+</span><td>  
+<strong> dashboard.stripe.com, support-conversations.stripe.com </strong>
+</td><td>  
+<strong> Local storage </strong>
+</td></div> <div><td>  
+<strong> N/A </strong>
+</td></div> <div><h1>  Security</h1><label>  
+
+</label><span>  
+
+</span><span>  
+
+</span><span>  
+    These cookies are necessary for our systems to work.
+  
+</span><span>  
+
+</span><span>  Determines your identity when authenticating to the Stripe Dashboard (so that you can log in to the right account).
+
+</span><td>  
+<strong> support.stripe.com, support-conversations.stripe.com, stripe.com, dashboard.stripe.com, connect.stripe.com, express.stripe.com, marketplace.stripe.com, manage.stripe.com, billing.stripe.com, pay.stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 90 days </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Link from other websites.
+
+</span><td>  
+
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td></div> <div><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+<strong> stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+<strong> stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span></div> <span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span></span> <td><td>  
+<strong> hooks.stripe.com </strong>
+</td></td> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+<strong> support.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Stores the account confirmation email’s secret token.
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td></div> <div><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Stores the account recovery token
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  When a user is confirming a bank account change, via an email link, we set this cookie to the secret token given in the email. This avoids us keeping the secret token in the url as the user moves through the process.
+
+</span><td>  
+<strong> dashboard.stripe.com, connect.stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Determines your identity when authenticating to the Stripe Dashboard on stripe.com domains (so that you can log in to the right account).
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> 25 hours </strong>
+</td><span>  
+
+</span><span>  Stores the inactive account email challenge's secret token
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td></div> <div><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Stores the account password reset token
+
+</span><td>  
+<strong> dashboard.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+<strong> marketplace.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td></div> <div><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+<strong> climate.stripe.com, edge-climate.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+<strong> .stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td></div> <div><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+<strong> billing.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that create multiple objects in our backend.
+
+</span><td>  
+<strong> delegated-authentication.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td></div> <div><td>  
+<strong> 30 minutes </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+<strong> stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Prevents attackers from making requests that change user data to Stripe from other websites.
+
+</span><td>  
+<strong> verify.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td></div> <div><td>  
+<strong> session </strong>
+</td><span>  
+
+</span><span>  Securely stores the support token confirmation email's secret token.
+
+</span><td>  
+<strong> dashboard.stripe.com, connect.stripe.com </strong>
+</td><td>  
+<strong> First party </strong>
+</td><td>  
+<strong> session </strong>
+</td></div> <div><h1>  Third-party providers</h1><span>  United States</span><span>  English (United States)</span><ul>  <li>
+  
+
+  
+    © 2023 Stripe, Inc.
+  
+
+  
+</li></ul></div> <div><h1>  Products</h1></div> <div><h1>  Solutions</h1></div> <div><h1>  Integrations & Custom Solutions</h1></div> <div><h1>  Developers</h1></div> <div><h1>  Resources</h1></div> <div><h1>  Company</h1></div>

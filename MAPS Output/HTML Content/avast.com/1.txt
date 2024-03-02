@@ -1,0 +1,141 @@
+<div><h2>  We value your privacy</h2><p>  By clicking "OK" you allow cookies that improve your experience on our site, help us analyze site performance and usage, and enable us to show relevant marketing content. You can manage cookie settings below. See <a href="https://www.avast.com/cookies-policy" target="_blank"> Cookies Policy </a></p></div> <div><h2>  Privacy preference center</h2></div> <div><h3>  Manage consent settings</h3></div> <div><h4>  Necessary cookies</h4><p>  Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.</p></div> <div><h4>  Preference cookies</h4><label>  Preference cookies</label><p>  Preference cookies enable a website to remember information that changes the way the website behaves or looks, such as your preferred language or the region that you are in. De-selecting these cookies may result in improper functionality and setting of the website.</p></div> <div><h4>  Performance cookies</h4><label>  Performance cookies</label><p>  Performance cookies help us improve our website by analyzing how visitors use it and interact with it. De-selecting these cookies may result in poorly-designed content and slow site performance.</p></div> <div><h4>  Marketing cookies</h4><label>  Marketing cookies</label><p>  Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. De-selecting these cookies may result in seeing advertising that is not as relevant to you.</p><ul>  <li>Targeting cookies</li><li>Switch Label</li></ul><span>  label</span><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div> <div><ul>  <li>Social media cookies</li><li>Switch Label</li></ul><span>  label</span><p>  These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.</p></div> <div><h3>  Back</h3><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><span>  Close</span><span>  For home
+</span><span>  Products for PC and mobile phone protection
+</span><span>  For business
+</span><span>  Protect your business with Avast
+</span><span>  For partners
+</span><span>  Partner with Avast and boost your business
+</span></div> <div><span>  About us
+</span><span>  Carriers, investors, media, contact
+</span><ul>  <li>Blogs
+</li></ul><span>  Academy, Blog, Decoded, Forum
+</span><span>  Search
+</span><ul>  <li>Blogs</li><li>Avast Blog</li></ul><span>  Read about recent news from the security world
+</span><ul>  <li>Avast Academy</li></ul><span>  Best point of reference about cyber attacks
+</span><ul>  <li>Avast Decoded</li></ul><span>  In-depth technical articles regarding security threats
+</span><ul>  <li>Avast Forum</li></ul><span>  Discuss with the community
+</span></div> <div><ul>  <li>Select region</li><li>
+    Security
+
+
+</li><li>
+    Privacy
+
+
+</li><li>
+    Performance
+
+
+</li><li>
+    Security
+
+
+</li><li>
+    Privacy
+
+
+</li><li>
+    Performance
+
+
+</li></ul><span>  English
+
+</span><ul>  <li>
+    Security
+ 
+</li><li>
+    Privacy
+ 
+</li><li>
+    Performance
+ 
+</li><li>English
+
+</li></ul><span>  Menu</span><span>  academy</span><span>  Security</span><span>  Privacy</span><span>  Performance</span><span>  English</span><span>  Security</span><span>  Malware</span><span>  Viruses</span></div> <div><span>  Ransomware</span><span>  Phishing</span><span>  Scams</span><span>  Hacking</span><span>  Other Threats</span><span>  Passwords</span><span>  Business</span><span>  Security Tips</span><span>  Privacy</span><span>  Browser</span><span>  IP Address</span><span>  VPN</span><span>  Streaming</span><span>  Identity Protection</span><span>  Dark Web</span><span>  Digital Life</span><span>  Privacy Tips</span><span>  Performance</span><span>  Speed</span><span>  Cleaning</span><span>  Gaming</span></div> <div><span>  Hardware</span><span>  Software</span><span>  Drivers</span><span>  Performance Tips</span><span>  
+    Select language
+</span><span>  English</span><span>  Čeština</span><span>  Deutsch</span><span>  Español</span><span>  Français</span><span>  Italiano</span><span>  日本語</span><span>  Polski</span><span>  Português</span><span>  Русский</span></div> <div><h1>  
+    Privacy
+</h1><p>  
+    Safeguard your privacy and freedom online with our expert guides. Learn how to use a VPN and other tools to shut down targeted ads, block invasive tracking, and protect your data.
+</p><span>  
+                                                
+    Browser
+
+                                            </span><span>  
+                                                
+    IP Address
+
+                                            </span><span>  
+                                                
+    VPN
+
+                                            </span></div> <div><span>  
+                                                
+    Streaming
+
+                                            </span><span>  
+                                                
+    Identity Protection
+
+                                            </span><span>  
+                                                
+    Dark Web
+
+                                            </span><span>  
+                                                
+    Digital Life
+
+                                            </span></div> <div><span>  
+                                                
+    Privacy Tips
+
+                                            </span><span>  
+                
+    Privacy
+
+        </span></div> <div><h3>  
+    Browser
+</h3></div> <div><h3>  
+    IP Address
+</h3></div> <div><h3>  
+    VPN
+</h3></div> <div><h3>  
+    Streaming
+</h3></div> <div><h3>  
+    Identity Protection
+</h3></div> <div><h3>  
+    Dark Web
+</h3></div> <div><h3>  
+    Digital Life
+</h3></div> <div><h3>  
+    Privacy Tips
+</h3></div> <div><h4>  Tags</h4></div> <div><h4>  What's New on Avast Academy</h4><span>  
+                            
+    Security
+
+                        </span><span>  
+                            
+    Privacy
+
+                        </span><span>  
+                            
+    Performance
+
+                        </span></div> <div><h4>  
+    Free Privacy Tools
+ </h4><span>  Australia VPN Servers
+</span><span>  UK VPN Servers
+</span><span>  USA VPN Servers
+</span><span>  Download Avast SecureLine PC VPN for Free
+</span><span>  Avast SecureLine VPN Reviews and Ratings
+</span><span>  Download Avast SecureLine VPN for iOS
+</span><span>  Download Avast SecureLine VPN for Mac
+</span><span>  Download Avast SecureLine VPN for Android
+</span></div> <div><h3>  
+    For Home
+</h3></div> <div><h3>  
+    For Business
+</h3></div> <div><h3>  
+    For Partners
+</h3></div> <div><h3>  
+    Company
+</h3><span>  1988-2023 Copyright Avast Software s.r.o.</span></div>

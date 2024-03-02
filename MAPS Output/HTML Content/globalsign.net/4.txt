@@ -1,0 +1,347 @@
+<div><h1>  Privacy Notice</h1><p>  This Privacy Notice has been designed to inform you of our policies regarding the collection, use, and disclosure of
+    personal data.</p><p>  N.Rich Technologies Oy (“N.Rich”, “IntentHub”, “we”, “us”, “our”) will be transparent with you about why and how we collect personal
+    data.</p><p>  This Privacy Notice applies to personal information that we receive while we operate as a “controller” or as a
+    “processor” under the EU General Data Protection Regulation (GDPR) pr as a “business” or a “service provider” under
+    the California Consumer Privacy Act (CCPA). Please note that this Privacy Notice may be revised and reissued from
+    time to time. You should visit this page regularly to review the latest version.</p></div> <div><ul>  <li><strong> In brief </strong>
+</li></ul><p>  N.Rich intent data, sales intelligence and advertising services for Business-to-Business (B2B) companies.
+                We process both personal- and behavioural data
+                in order to enable serving advertising and content that is more relevant for your work and professional
+                interests. We use cookies and similar technologies and you can <a href="./opt-out" target="_blank"> opt-out </a>
+                at any time.
+</p></div> <div><ul>  <li><strong> What we do </strong>
+</li></ul><p>  We are N.Rich Technologies Oy, a Finnish company developing and operatingproviding two software-as-a-service
+                platforms called N.Rich and IntentHub. N.Rich is an Account-Based Go-To-Market software platform offering
+                advertising, sales intelligence, and automation capabilities to B2B companies. IntentHub is an intent data
+                software platform for sales, marketing and customer-success functions of B2B companies. What this means is
+                that our customers use our services to be able to offer more relevant products, services and messages to
+                their existing and potential customers through utilizing company data, behavioural signals and targeted
+                advertising capabilities we offer. We collect company-level behavioral data from millions of websites globally,
+                through programmatic advertising systems, our clients’ or partners’ websites, and from our partners and augment
+                this data using algorithms and machine-learning. We also deliver targeted advertising to companies and
+                professionals through the said advertising systems.</p></div> <p><p>  In order to offer our service, we process three types of data; (i) “pseudonymised” data that alone can’t
+                be associated with the end-user, such as IP-address or unique user identifiers, (ii) direct personal
+                data that can be associated with the end-user such as name, email address or phone number, and (iii)
+                online and offline activity data that may be associated with the two categories of personal data
+                described above and may be used for creating personal behavioural profile of the end-user for marketing,
+                sales and analytics purposes.</p></p> <p><p>  We process end-user personal and behavioural data in the business or professional role related to an
+                organisation such as a company. We do not have any interest in processing or understanding the end-user
+                data or behaviour in “consumer mode” related to a non-business or professional role. Since it is often
+                impossible to separate professional and “consumer mode data”, we are typically forced to process
+                “consumer mode” data as well. Whenever possible, we take active steps to avoid processing “consumer
+                mode” data.</p></p> <p><p>  We gather personal and activity data using three primary methods; (i) through a small piece of code
+                called N.Rich Tag deployed on third party and our client websites, (ii) through integrations to our
+                clients’ other software systems, and (iii) through our clients importing such data into the N.Rich
+                software.</p></p> <p><p>  We use cookies and similar technologies to store unique end-user identifiers into your web browser.
+                Cookies are used to ensure that we or our clients reach the right end-users with advertising and the
+                advertising content the end-users see will be relevant. We also use cookies for maintaining a consistent
+                profile of the end-users and their activities enabling serving personalised advertising or content, and
+                for providing analytics related to the activities and potential interest of the end-users towards our-,
+                or our clients’ business offering.</p></p> <p><p>  More information about the cookies used by N.Rich is available <a href="https://n-rich.atlassian.net/wiki/spaces/NK/pages/1287323667/N.Rich+Website+Tag+fundamentals" target="_blank"> here </a>.
+            </p></p> <p><p>  If you use a Google, Facebook, Linkedin or Twitter account, these platforms may – depending on the
+                settings saved in your account – link your web and app browser history with your personal account and
+                use information from your personal account in order to personalise advertisements. You can find more
+                detailed information on this matter from: <a href="https://policies.google.com/privacy?hl=en-US" target="_blank"> Google’s
+                    Privacy Statement </a>, <a href="https://www.facebook.com/policy.php" target="_blank"> Facebook’s
+                    Data Usage Policy </a>, <a href="https://www.linkedin.com/legal/privacy-policy" target="_blank"> Linkedin Privacy
+                    Policy </a>, and from <a href="https://twitter.com/en/privacy" target="_blank"> Twitter’s Privacy Policy </a>
+</p></p> <div><ul>  <li><strong> To whom does this Privacy Policy apply? </strong>
+</li></ul><p>  This Privacy Policy is relevant people whose data needs to be processed for us to offer our services as described in section 2,
+                as well as visitors of our webistes. We have separate Privacy
+                Policies for <a href="https://n.rich/privacy-notice-for-users" target="_blank"> N.Rich clients using N.Rich software </a>
+                and for <a href="https://n.rich/privacy-notice-for-potential-customers" target="_blank"> Potential Customers of N.Rich
+                    Technologies Products and Services </a>.
+</p></div> <div><ul>  <li><strong> What does this Privacy Policy concern? </strong>
+</li></ul><p>  N.Rich has created this Privacy Policy in order to inform you about:</p><ul>  <li>How do we process Personal Data?</li><li>What Personal Data we process?</li><li>Why do we process the personal data?</li><li>To whom this Personal Data is disclosed?</li><li>What are the rights of the data subjects?</li><li>How is the Personal Data protected?</li><li>Who should you contact in case you need more information?
+</li><li><strong> Definitions </strong>
+</li></ul></div> <p><p>  The General Data Protection Regulation means the <a href="https://op.europa.eu/en/publication-detail/-/publication/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/language-en#:~:text=Skip%20to%20Content-,Regulation%20(EU)%202016%2F679%20of%20the%20European%20Parliament%20and,)%20(Text%20with%20EEA%20relevance)" target="_blank"> REGULATION
+                    (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 </a> on the protection
+                of natural persons with regard to the processing of personal data and on the free movement of such data,
+                and repealing Directive 95/46/EC (“GDPR”).</p></p> <p><p>  “CCPA” means the <a href="https://oag.ca.gov/privacy/ccpa" target="_blank"> California Consumer
+                    Privacy Act of 2018 </a>, as amended (California Civil Code 1798.100 to 1798.199), and any related
+                regulations or guidance provided by the California Attorney General. Terms defined in the ,
+                including personal information and business purposes, carry the same meaning in this Agreement.</p></p> <p><p>  “Personal Data”, “Processing”, “Processor”, “Controller”, “Profiling” and “Data Subject” shall have the
+                same meaning as in the .
+            </p></p> <p><p>  “Personal Information” as described in Section 1798.140(b),(o) and 1798.145(c)-(f) of the  shall have
+                the same meaning and included under the term of “Personal Data” pursuant to the  for consumers that
+                have certain rights that are protected under the .</p></p> <p><p>  “Processing” as defined under the 
+                shall also comprise the meaning of “Collecting”, “Selling” and
+                “Processing” as defined in Sections 1798.140(e),(o),(t),(q) and 1798.145 of the .</p></p> <p><p>  “Cookie” is a small text file stored within your web browser (e.g. Google Chrome) when you visit a
+                website, allowing site operators and their partners to store, for example, user preferences and unique
+                identifiers. The site that places the cookie has permission to read its contents each time it
+                communicates with your browser.
+</p></p> <ul><ul>  <li><strong> The role of N.Rich </strong>
+</li></ul></ul> <p><p>  Under the  and , N.Rich may fulfil
+                simultaneously two alternative roles towards the end-users,
+                depending on the personal data processed and its source;</p></p> <ul><ul>  <li>N.Rich operates as the “controller” in accordance with Article 4(7) of the  and as a
+                    “business”
+                    in accordance with California Civil Code Sections 1798.105, 1798.140, 1798.145 and 1798.155 with
+                    regards to the following personal data:
+                    </li><li>Unique user identifiers stored as Cookies as well as IP address data stored and collected
+                            when you visit other websites than those owned by our Clients.
+                        </li></ul></ul> <ul><ul>  <li>User identifiers stored as browser Cookies and IP address data collected when you visit the
+                            websites of our clients. For this data, N.Rich may also have the “processor” role defined in
+                            the next paragraph.
+                        
+</li><li>N.Rich operates as the “processor” of personal data in accordance with Article 4(8) of the  and
+                    as a “service provider” in accordance with California Civil Code Sections 1798.105, 1798.140,
+                    1798.145 and 1798.155 with regards to the following personal data:
+                    </li></ul></ul> <ul><ul>  <li>User identifiers stored as Cookies and IP address data collected when you visit websites of
+                            our clients. For this data, depending on a contract between the Client and N.Rich, N.Rich
+                            may also have the “controller” role for such data as defined in the above paragraph.
+                        </li><li>Any direct personal data processed by N.Rich for which our client or partner has the role of
+                            a controller, including for example name, email address, phone number or job title.
+                        
+</li></ul></ul> <p><p>  N.Rich has created a dedicated online service that allows end-users to verify what is the role fulfilled
+                by N.Rich related to the processing of personal data pertaining to the given data subject. This online
+                service is available at the following address: <a href="./my-data" target="_blank"> My data </a>
+</p></p> <div><ul>  <li><strong> What personal data do we gather and process and what is the legal basis and
+            purpose? </strong>
+</li></ul><p>  Our service collects information that identifies, relates to, describes, references is capable of being
+                associated with, or could reasonably be linked, directly or indirectly, with a particular data subject
+                (pursuant to the ) or
+                consumer (pursuant to the ). Therefore, to reach the intended target
+                audiences, we need to process certain data that may include information related to natural
+                persons/consumers, as described hereunder.</p></div> <p><p>  The personal and activity data processed by N.Rich includes the following sources and categories:</p></p> <ul><ul>  <li><strong> Pseudonymised personal information obtained from third-party websites: </strong> IP addresses
+                    and unique user identifiers stored as cookies. This data is collected automatically by the N.Rich
+                    Tag installed on the third-party websites.
+                </li><li><strong> Pseudonymised personal information obtained from our client websites: </strong> IP addresses
+                    and unique user identifiers stored as cookies and IP addresses. This data is collected automatically
+                    by the N.Rich Tag installed on the client website.
+                </li></ul></ul> <ul><ul>  <li><strong> Direct personal information obtained from our clients: </strong> Data on business customers
+                    that has been collected in accordance with our clients’ own privacy policies, that may include, for
+                    example, name, business email address, phone number or job title. This data is collected either
+                    through integrations with clients’ other software systems or through the client importing the data
+                    into N.Rich platform
+                </li></ul></ul> <ul><ul>  <li><strong> Online activity data: </strong> Information on which third-party or client hosted web pages
+                    you visit and how you interact with such web pages. Information on the emails you receive from us or
+                    from our clients and how you interact with such emails.
+                </li><li><strong> Other activity data: </strong> Information stored within our clients’ systems about your
+                    interactions, such as phone calls or meetings.
+                </li></ul></ul> <p><p>  A complete overview of the personal data, purpose and legal basis collected by N.Rich is illustrated in
+                the table hereunder:</p></p> <td><td>  Websites operated by our Clients, our partners or third-parties</td></td> <div><ul>  <li>To recognise the actions you take on websites you visit;
+</li></ul><p>  To deliver more relevant, personalised communications to you, including to investigate
+                                and address your concerns and monitor and improve our responses;
+</p><p>  To allow our partners or clients to improve their advertising targeting and/or analytics
+                                capabilities.
+</p><ul>  <li>Consent (N.Rich as the Data Processor or Data Controller, <a href="./my-data" target="_blank"> Visit this
+                                    page to learn
+                                    more </a>)
+</li></ul></div> <p><p>  Article 6.1(a),(f).
+</p></p> <td><td>  Section 1798.120</td></td> <td><td>  Our clients or their other software systems like Marketing Automation or CRM.</td></td> <td><td>  To combine such identifiers originating from other systems, such as. Marketing Automation
+                            System with N.Rich identifiers and enable associating the data within such systems into the
+                            data within the N.Rich system.
+                        </td></td> <td><td>  Defined by the Controller (e.g. N.Rich Client) N.Rich operates as the data processor.
+                            Article 6.1(a),(f).
+                        </td></td> <td><td>  Section 1798.120</td></td> <td><td>  Websites operated by our Clients, our partners or third-parties</td></td> <ul><ul>  <li>To identify which company or organisation you work for.
+</li></ul></ul> <p><p>  To deliver more relevant, personalised advertising and content to you;
+</p></p> <p><p>  To allow our partners or clients to improve their advertising targeting and/or analytics
+                                capabilities.
+</p></p> <ul><ul>  <li>Legitimate interest or consent (N.Rich as the Data Processor or Data Controller, <a href="./my-data" target="_blank"> Visit
+                                    this page to learn more </a>)
+</li></ul></ul> <p><p>  Article 6.1(a),(f).
+</p></p> <td><td>  Section 1798.120</td></td> <ul><ul>  <li>1) Our clients or their other software systems like Marketing Automation or CRM.
+</li></ul></ul> <p><p>  2) When you decide to disclose such information to our Clients using the functionalities
+                                we provide.
+</p></p> <td><td>  To combine the website activity data to email and person-to-person communication data and to
+                            deliver more relevant, personalised communications to you.
+                        </td></td> <td><td>  Defined by the Controller (e.g. N.Rich Client) N.Rich operates as the data processor.
+                            Article 6.1(a),(f).
+                        </td></td> <td><td>  Section 1798.120</td></td> <p><p>  In the preceding twelve (12) months, we have disclosed non-identifiable personal data, which is described
+                above, for a business purpose to the following categories of third parties:</p></p> <ul><ul>  <li>our affiliates;</li><li>our clients;</li><li>our service providers.</li></ul></ul> <p><p>  We collect various kinds of behavioral data and associate these data with your personal details in order
+                to enable us, or our clients, serve your needs better and to deliver more relevant and personalised
+                communications to you (e.g. advertising, emails, person-to-person communications).</p></p> <td><td>  Our Client, our Partner or third-party websites</td></td> <div><td>  Emails our Clients have sent</td><td>  Interactions, such as calls or meetings, our Clients have logged in their systems, like the
+                        CRM
+                    
+</td><ul>  <li><strong> Purpose and lawful basis for the data collection and data processing </strong>
+</li></ul><p>  In order for us to be able to process your personal data, we may rely on different legal bases,
+                including:</p><ul>  <li>Your separate consent (when legally and/or contractually required): For example, when we enable our
+                    clients to use Google Ads for remarketing (i.e. connecting with you based on your previous
+                    interactions with a website, advertising or application), we make sure we have obtained your consent
+                    for the use of your personal data for personalization of ads through the <a href="https://iabeurope.eu/transparency-consent-framework/" target="_blank"> IAB
+                        Europe Transparency & Consent Framework </a>. Your separate consent as obtained from you by us or
+                    by our client (only when legally required). To the extent we rely on your consent as a legal basis
+                    for processing your personal data, you have the right to withdraw your consent at any time by
+                    opting-out (see below);
+                </li></ul></div> <ul><ul>  <li>Our necessary and legitimate commercial interests and those of our clients, in particular, to
+                    provide analytics services and make sure our clients’ business-to-business marketing efforts, and
+                    those of our own, reach and engage their intended audience. With respect to this legal basis, we
+                    have carefully assessed our processing activities and determined that they are compatible with your
+                    interests and fundamental rights and freedoms as a data subject. <a href="https://n-rich.atlassian.net/wiki/spaces/NK/pages/56164370/GDPR+Legitimate+Interest+Assessment+Sheet" target="_blank"> You
+                        can find details of this “Legitimate Interest” assessment here </a>.
+                
+</li></ul></ul> <div><ul>  <li><strong> IAB TCF Policy Attestation </strong>
+</li></ul><p>  As already indicated above, N.Rich participates in the IAB Transparency and Consent Framework and complies with its Specifications and Policies.</p><p>  The IAB Europe Transparency & Consent Framework (TCF) is an industry standard for obtaining user consent under the EU's General Data Protection Regulation and providing transparency into online advertising data practices.</p><p>  As a participant in the TCF, N.Rich commits to adhering to the TCF Policies and implementing the technical Specifications published by IAB Europe. This allows us to obtain, document, and respect user preferences for data processing in support of the digital advertising ecosystem. N.Rich’s participation in IAB’s TCF and compliance with its Policies and Specifications includes, in particular, the following:
+                </p></div> <ul><ul>  <li>Registering with IAB Europe as a Framework participant.</li><li>Integrating with a registered Consent Management Platform (CMP) to surface and honor transparency and consent signals.</li><li>Disclosing our data processing activities aligned with standard TCF purposes and special purposes.</li><li>Respecting user choices and objections communicated via TCF technical signals.</li><li>N.Rich's identification number on the <a href="https://iabeurope.eu/vendor-list-tcf/" target="_blank"> Global Vendor List </a>, which enumerates TCF-registered companies, is <b> 20 </b>.</li></ul></ul> <p><p>  Contact our Data Protection Officer at privacy@n.rich for any questions related to our TCF compliance and participation.
+</p></p> <div><ul>  <li><strong> How do we share your information </strong>
+</li></ul><p>  We may share your information with our clients and partners for the above-mentioned purposes and for
+                carrying out related or complementary activities such as advertisement delivery or-analytics.</p><p>  We may share end user information with our affiliated companies, or from time to time use third parties
+                to assist us with data processing, software development, hosting, database management and administrative
+                tasks related to the processing activities described in this document. These third parties may be
+                permitted to access your information, but they may only do so to perform these tasks on our behalf and
+                are not allowed to disclose or use your information for any other purpose.</p></div> <p><p>  It is important to highlight that we will not collect additional categories of Personal Information or
+                use the Personal Information we collected for materially different, unrelated, or incompatible purposes
+                without providing you notice. Moreover, we will not sell or disclose this data to any other third party,
+                but we are using pseudonymised personal information such as cookies and IP addresses for targeting
+                advertising through third parties. Such use may be considered “selling” according to , so we provide
+                an option for you to opt-out from such use here.</p></p> <p><p>  In addition, N.Rich may receive requests from law enforcement agencies / institutions as required by
+                applicable law, court order, or governmental regulations. These requests may be necessary to investigate
+                an alleged crime, to establish, exercise or defend legal rights. However, N.Rich will only fulfil such
+                requests when allowed by the applicable law.
+</p></p> <div><ul>  <li><strong> Consumer and data subject rights </strong>
+</li></ul><p>  End-users, residents in the  protected by the  or consumers
+                protected under the  of
+                whom
+                personal data is processed by N.Rich have the following rights as described hereunder:</p><ul>  <li><strong> Right of access </strong>
+</li></ul><p>  The right to request from N.Rich confirmation as to whether or not personal data concerning them
+                        are processed by N.Rich. If that is the case, N.Rich’s end-users can request and get access to
+                        that personal data that was collected over the past (12) months in accordance with applicable
+                        law. End-users can request a copy of all the personal data you had shared with us in a
+                        machine-readable format at any time. When requesting such information, if based on pseudonymised
+                        data, such as a cookie identifier or IP address, we will not share any information without a
+                        concrete proof of association of such pseudonymised data to the specific individual. Please
+                        direct such requests by email to: privacy@n.rich.
+</p></div> <div><ul>  <li><strong> Right to rectification under the  </strong>
+</li></ul><p>  The right to request rectification of any inaccurate personal data that is processed by N.Rich.
+                        End-users have the right to provide additional personal data that is necessary to complete any
+                        missing information. End-users can do this by sending an email to privacy@n.rich.
+</p><ul>  <li><strong> Right to erasure </strong>
+</li></ul><p>  End-users are given the possibility to be able to completely or partially delete their personal
+                        data that is processed by N.Rich. The  right only applies if
+                        this request meets one of six
+                        specific conditions as described under Article 17 of the .
+</p></div> <p><p>  Under the , you
+                        have the right to request that we delete any of your Personal Information
+                        that we collect from you and retain, subject to certain exceptions. Once we receive and confirm
+                        your verifiable consumer request, we will delete (and direct our service providers or clients to
+                        delete) your Personal Information from our records, unless an exception applies. We may deny
+                        your deletion request if retaining that Personal Information under  is necessary
+                        for us, our
+                        clients or our service providers to:
+</p></p> <ul><ul>  <li>complete the transaction for which we collected the Personal Information, provide a good or
+                            service that you requested, take actions reasonably anticipated within the context of our
+                            ongoing business relationship with you, or otherwise perform our contract with you;
+                        </li><li>detect security incidents, protect against malicious, deceptive, fraudulent, or illegal
+                            activity, or prosecute those responsible for such activities;
+                        </li></ul></ul> <ul><ul>  <li>debug products to identify and repair errors that impair existing intended functionality;
+                        </li><li>exercise free speech, ensure the right of another consumer to exercise their free speech
+                            rights or exercise another right provided for by law;
+                        </li><li>comply with the California Electronic Communications Privacy Act;</li><li>engage in public or peer-reviewed scientific, historical, or statistical research in the
+                            public interest that adheres to all other applicable ethics and privacy laws, when the
+                            information’s deletion may likely render impossible or seriously impair the research’s
+                            achievement if you previously provided informed consent;
+                        </li></ul></ul> <ul><ul>  <li>enable solely internal uses that are reasonably aligned with consumer expectations based on
+                            your relationship with us;
+                        </li><li>comply with a legal obligation;</li><li>make other internal and lawful uses that are compatible with the context in which you
+                            provided it;
+                        </li><li>processing customer requests.
+</li><li><strong> Right to object to, or limit to restrict, the use of data </strong>
+</li></ul></ul> <p><p>  The personal data collected by N.Rich is based on the consent that was offered by the end-user.
+                        The end-user can at any time object to further processing of its personal data by N.Rich.
+                        End-users can contact N.Rich at privacy@n.rich for this purpose.
+</p></p> <div><ul>  <li><strong> Right to filing complaints </strong>
+</li></ul><p>  End-users of personal data that N.Rich is processing must be aware that they can file complaints
+                        with the relevant data protection authority in their country in relation to N.Rich’s processing
+                        of their personal data. More information about this is available at the following address: <a href="https://edpb.europa.eu/about-edpb/board/members_en" target="_blank"> https://edpb.europa.eu/about-edpb/board/members_en </a>.
+                    
+</p></div> <div><ul>  <li><strong> Your right to opt-out under the CCPA </strong>
+</li></ul><p>  You may choose not to let N.Rich process your personal data to target advertisements to you by
+                        opting-out at any time. You are also able to opt-out of advertisement cookies we set by
+                        adjusting the cookie settings on your browser (please see your browser Help for how to do
+                        this).
+</p><p>  If you are 16 years of age or older, you have the right to direct us to not to use your Personal
+                        Information at any time for any purpose (the right to opt-out). We do not use the Personal
+                        Information of consumers we actually know are less than 18 years of age. In general, we do not
+                        collect any Personal Information about children. If we discover that we have unknowingly
+                        collected Personal Information from these children, we will delete such data. If you believe we
+                        have collected Personal Information from a child, please contact us via email at
+                        privacy@n.rich.
+</p></div> <p><p>  Once you make an opt-out request, we will wait at least twelve (12) months before asking you to
+                        reauthorize use of Personal Information. However, you may change your mind and opt back in to
+                        the use of Personal Information at any time from here. We will only use Personal Information
+                        provided in an opt-out request to review and comply with the request.
+</p></p> <div><ul>  <li><strong> Non discrimination under the CCPA </strong>
+</li></ul><p>  We will not discriminate against you for exercising any of your  rights. Unless
+                        permitted by
+                        the , we will
+                        not:
+</p><ul>  <li>deny goods or services from you;</li><li>charge you different prices or rates for goods or services, including through granting
+                            discounts or other benefits, or imposing penalties;
+                        </li><li>provide you a different level or quality of goods or services;</li><li>suggest that you may receive a different price or rate for goods or services or a different
+                            level or quality of goods or services.
+                        
+</li></ul></div> <p><p>  To exercise your rights described above, please submit a verifiable request to us by sending us a
+                        letter on email privacy@n.rich.
+</p></p> <p><p>  We endeavor to respond to a verifiable request within one month (i.e. for personal data under the
+                        ) or 45 days
+                        (i.e. for personal information under the ) of its receipt.
+                        If we require
+                        more time (up to 90 days), we will inform you of the reason and extension period in writing. If
+                        you have not provided an email address, but have provided a mailing address, we will deliver our
+                        written response by mail. If you have provided an email account, we will deliver our written
+                        response to that email. We are not taking any responsibility for delivery failures because of
+                        faulty email or mailing addresses.
+</p></p> <p><p>  Any disclosures will only be available for a 12-month period preceding the verifiable request’s
+                        receipt. The response we provide will also explain the reasons we cannot comply with a request,
+                        if applicable.
+</p></p> <p><p>  Please note, however, that due to the anonymization and pseudonymization measures explained
+                        above, we are usually not in a position to identify you as a data subject and thus not able or
+                        required to fulfill the above-mentioned requests.
+</p></p> <p><p>  Please contact us for any inquiries related to exercising the above rights. We may charge you the
+                        reasonable costs of providing you access to this information where allowed by applicable
+                        law.
+
+</p></p> <div><ul>  <li><strong> Children’s Privacy </strong>
+</li></ul><p>  N.Rich takes the protection of children’s privacy very seriously. N.Rich does not process personal data
+                of persons under the age of 18. If N.Rich is informed about the processing of such personal data from a
+                child under the relevant age without parental consent, we would take all reasonable steps to delete that
+                data.
+</p><ul>  <li><strong> Protection of Personal Data </strong>
+</li></ul></div> <p><p>  N.Rich takes the security of all data it processes very seriously as the security of the foregoing data
+                is at the heart of N.Rich’s concern. We had put in place a framework of policies, procedures, and
+                training to cover professional secrecy, data protection, confidentiality and security. A regular audit
+                of the appropriateness of the measures is put in place to keep the data secure.</p></p> <div><p>  Your information is stored in accordance with this Privacy Notice and any applicable laws in secure
+                locations and servers within the European Economic Area as follows:</p><ul>  <li>Strict security measures are applied to ensure the confidentiality and integrity of your personal
+                    data when we process it. N.Rich follows strict data security procedures defined in ISO/IEC 27002
+                    information security standards.
+                </li><li>We use physical, technical and organizational measures to counter the risk of accidental or unlawful
+                    destruction, loss, alteration, unauthorized disclosure of, or access to, your personal data.
+                </li></ul></div> <ul><ul>  <li>Only designated persons and a limited amount of our personnel have access to the information. Our
+                    personnel have been trained to observe data security in their work. Where your personal data needs
+                    to be disclosed to our subcontractors, we require them to process and safeguard the data in a manner
+                    consistent with applicable laws and this Privacy Notice.
+                </li></ul></ul> <p><p>  Despite our continuous efforts to protect your personal data, you should acknowledge that:</p></p> <ul><ul>  <li>Due to the fast development of the IT development sector, in particular, in the security and privacy
+                    sector of the Internet, there are limitations which are beyond our control;
+                </li><li>The security, stability of the IT systems, and privacy of the information processed cannot be
+                    guaranteed; and
+                </li><li>Any such information and data may be read or interfered with a third-party, despite our continuous
+                    efforts to avoid that.
+                
+</li></ul></ul> <div><ul>  <li><strong> Data retention </strong>
+</li></ul><p>  We retain your information, related to your data, only for as long as is necessary for the purposes
+                detailed in this notice. When this personal data is no longer required, N.Rich will delete it in a
+                secure manner.</p><p>  N.Rich may also process personal data for statistical and algorithm / machine learning training purposes,
+                but in such cases, the data will be anonymised.</p><p>  Please note that the lifetime of the cookies that we set is 540 days and it will be reset every time you
+                visit a website or see an advertisement with our tracking code. So unless you delete the cookies
+                yourself, the cookies we set may take up to 540 days to expire from the last time you visited a web page
+                with our tracking code.
+</p></div> <div><ul>  <li><strong> Transfer of data to third countries </strong>
+</li></ul><p>  Personal data of EEA (European Economic Area) residents may be transferred to our sub-processors, which
+                are based / process this data outside the  under strict compliance rules pursuant to the . We
+                ensure that all necessary measures have been taken in order to protect the personal data in accordance
+                with the applicable law.</p><p>  The personal data is only transferred if the recipient ensures an adequate level of protection for the
+                rights and freedoms of the data subjects or the transfer is performed in accordance with Chapter V of
+                the  and in particular,
+                with any of the safeguards that are provided under Article 46 of the
+                .
+</p></div> <div><ul>  <li><strong> Changes to this statement </strong>
+</li></ul><p>  We are aware that transparency and accountability are an ongoing responsibility, therefore, this Privacy
+                Policy will be kept under regular review. Any changes to this Privacy Notice will be published on our
+                website. We encourage you to periodically review it in order to be informed.
+</p><ul>  <li><strong> Contact information </strong>
+</li><li>N.Rich Technologies Oy, a Finnish limited liability company
+</li></ul></div> <div><p>  Business ID: 2624746-6
+</p><td>  N.Rich</td><td>  privacy@n.rich</td><td>  c/o TulosSatama Oy, Kirkkokatu 1, 70100 Kuopio, Finland</td><p>  We are happy to answer if you have any questions about this Privacy Notice or our data processing
+                practices.
+</p><ul>  <li><strong> Other N.Rich Privacy Notices </strong>
+</li></ul></div>

@@ -1,0 +1,260 @@
+<div><span>  Menu</span><ul>  <li>
+
+</li></ul><span>  Create account</span><span>  Create account</span><span>  Create account</span><span>  Close</span><span>  or</span></div> <div><h1>  My Profiles:</h1><ul>  <li> Log in</li></ul><span>  arrow up</span><span>  Games</span><span>  arrow</span></div> <div><h1>  Explore:</h1><ul>  <li>  </li></ul><span>  World of Tanks </span><ul>  <li>  </li></ul></div> <div><h2>  Links</h2><ul>  <li>Game Website</li><li>Forum</li><li>Player Support</li><li>Clans</li><li>Mod Hub</li><li>WoT Assistant (iOS)
+</li><li>WoT Assistant (Android)</li></ul></div> <div><h2>  World of Tanks</h2><p>  Join the 110-million strong army of devoted fans and take part in epic tank battles with over 600 vehicles to choose from.</p><ul>  <li>Windows </li></ul><span>  Windows </span><ul>  <li>Mac </li></ul><span>  Mac </span><ul>  <li>  </li></ul><span>  World of Warships </span><ul>  <li>  </li></ul></div> <div><h2>  Links</h2><ul>  <li>Game Website</li><li>Forum</li><li>Player Support</li><li>Invite a Friend</li></ul></div> <div><h2>  World of Warships</h2><p>  Immerse yourself in the world of epic naval warfare and command legendary warships from the early 20th century in a free-to-play massively multiplayer online game.</p><ul>  <li>Windows </li></ul><span>  Windows </span><ul>  <li>  </li></ul><span>  World of Tanks Console </span><ul>  <li>  </li></ul></div> <div><h2>  Links</h2><ul>  <li>Game Website</li><li>Player Support</li></ul></div> <div><h2>  World of Tanks Modern Armor</h2><p>  Wage war in the premier free-to-play team-based action game dedicated to armored combat on game consoles.</p><ul>  <li>Xbox One </li></ul><span>  Xbox One </span><ul>  <li>Xbox Series X </li></ul><span>  Xbox Series X </span><ul>  <li>  </li></ul><span>  World of Warships: Legends </span><ul>  <li>  </li></ul></div> <div><h2>  Links</h2><ul>  <li>Game Website</li><li>Player Support</li></ul></div> <div><h2>  World of Warships: Legends</h2><p>  Experience epic naval action in World of Warships: Legends, an MMO console game that puts you on a course to master the seas. Sail on history's greatest warships, helmed by legendary Commanders!</p><ul>  <li>Xbox One </li></ul><span>  Xbox One </span><ul>  <li>Xbox Series X </li></ul><span>  Xbox Series X </span><ul>  <li>  </li></ul><span>  World of Tanks Blitz </span><ul>  <li>  </li></ul></div> <div><h2>  Links</h2><ul>  <li>Game Website</li><li>Forum</li><li>Player Support</li></ul></div> <div><h2>  World of Tanks Blitz</h2><p>  Choose the new absolutely free-to-play massively multiplayer online game and get involved in tank battles with vehicles from the middle of the 20th century using your mobile device.</p><ul>  <li>Windows </li></ul><span>  Windows </span><ul>  <li>Android </li></ul><span>  Android </span><ul>  <li>iOS </li></ul><span>  iOS </span><ul>  <li>Mac </li></ul><span>  Mac </span><ul>  <li>  </li></ul><span>  World of Warplanes </span><ul>  <li>  </li></ul></div> <div><h2>  Links</h2><ul>  <li>Game Website</li><li>Forum</li><li>Player Support</li><li>Clans</li></ul></div> <div><h2>  World of Warplanes</h2><p>  A global update of the free-to-play MMO game about the golden era of military aviation. Join breathtaking air battles for control of the battlefield with legendary planes from the 20th century.</p><ul>  <li>Windows </li></ul><span>  Windows </span><ul>  <li>  </li></ul><span>  World of Warships Blitz </span><ul>  <li>  </li></ul></div> <div><h2>  Links</h2><ul>  <li>Game Website</li><li>Player Support</li><li>Install the game on iOS</li><li>Install the game on Android</li></ul></div> <div><h2>  World of Warships Blitz</h2><p>  Free-to-play mobile action MMO that plunges you into intense naval combat of the first half of the 20th century.</p><ul>  <li>Android </li></ul><span>  Android </span><ul>  <li>iOS </li></ul><span>  iOS </span><ul>  <li>  </li></ul><span>  Master of Orion </span><ul>  <li>  </li></ul></div> <div><h2>  Links</h2><ul>  <li>Game Website</li><li>Forum</li><li>Player Support</li></ul></div> <div><h2>  Master of Orion</h2><p>  The iconic 4X strategy gameplay of Explore, Expand, Exploit and Exterminate that formed the blueprint for a whole generation of 4X games has been resurrected and upgraded.</p><ul>  <li>Windows </li></ul><span>  Windows </span><ul>  <li>Mac </li></ul><span>  Mac </span><ul>  <li>Linux </li></ul><span>  Linux </span><span>  arrow up</span><span>  Services</span><span>  arrow</span><span>  Premium Shop</span><span>  Player Support</span><span>  Battle Pass</span><span>  Roadmap Highlights</span></div> <p><p>  browsers-alert   Please <a href="//cm-us.wargaming.net/public/browser.html?realm=us&service=ptl&project=wot&language=en&frontend_url=https://cdn-cm.wgcdn.co" target="_blank"> update your browser </a>. The new version will make browsing the internet safer, faster, and more convenient. </p></p> <ul><ul>  <li>Failed to log in.
+
+</li><li>Log in
+</li></ul></ul> <span><span>  
+                or <a href="http://cpm.wargaming.net/r3fvksbt/?pub_id=cmenu_www.bing.com" target="_blank"> create account </a>
+
+
+</span></span> <div><ul>  <li>Newcomer Central
+</li><li>
+
+</li></ul><span>  Newcomer's Guide
+</span><ul>  <li>Getting Started
+</li><li>Controls and Firing
+</li><li>How to Survive
+</li><li>In-Game Economy
+</li><li>Upgrading Your Vehicles
+</li><li>In-Game Communication
+</li><li>Tank Academy
+</li><li>New Victories Ahead!
+
+</li><li>
+
+</li></ul><span>  General
+</span><ul>  <li>Wargaming.net Game Center Guide
+</li><li>How to Activate Invite and Bonus Codes
+</li><li>Frequently Asked Questions
+</li><li>System Requirements
+</li><li>Video Tutorials
+</li><li>Achievements
+</li><li>Vehicle Types and Functions
+</li><li>Purchase and Research Vehicles 
+</li><li>Vehicle Crew
+</li><li>Crew Training
+</li><li>Equipment
+</li><li>Directives
+</li><li>Personal Reserves
+</li><li>In-Game Store and Depot
+</li><li>Daily Missions
+</li><li>Exterior Customization
+</li><li>Vehicle Blueprints
+</li></ul></div> <ul><ul>  <li>How to Earn Rewards with Missions
+</li><li>Platoons
+</li><li>Premium Shop Instructions
+</li><li>Refer a Friend: The Recruitment Program
+</li><li>Vehicle and Crew Recovery
+</li><li>Preloading Updates
+</li><li>Battle Pass
+</li><li>Steel Hunter
+</li><li>Frontline
+</li><li>Tours of Duty
+</li><li>Personal Missions
+</li><li>Multinational Vehicles Q&A
+</li><li>How to Convert Free XP to Crew XP
+</li><li>Coupons
+</li><li>Changing Your Username
+</li><li>Onslaught
+</li><li>Onslaught. Season of the Crimson Griffin
+</li></ul></ul> <div><ul>  <li>Common Tests and Sandbox Tests: Your Definitive Guide
+</li><li>Twitch Drops Guide
+
+</li><li>
+
+</li></ul><span>  Economy in World of Tanks
+</span><ul>  <li>Going Premium
+</li><li>Currency Exchange and Resource Conversion
+
+</li><li>
+
+</li></ul><span>  Gold FAQ
+</span><ul>  <li>Gifting via Premium Shop
+</li><li>Pay via Wargaming Prepaid Card
+
+</li><li>
+
+</li></ul><span>  Fair Play Policy
+</span><ul>  <li>Botting
+</li><li>Prohibited Mods
+</li><li>Toxicity
+</li><li>Rigged Battles
+</li><li>Teamkill
+</li><li>Complaint System
+</li><li>Watch out for Scammers
+
+</li><li>
+
+</li></ul></div> <div><span>  Account Security
+</span><ul>  <li>Trouble Logging In?
+</li><li>Keeping Your Account Safe
+</li><li>Recovering a Stolen Account
+</li><li>Financial Fraud
+</li><li>Account Sales Are Fraudulent
+</li><li>Binding Your Account to a Mobile Phone
+
+</li><li>Events Calendar
+</li><li>
+
+</li></ul><span>  Tank Classes
+</span><ul>  <li>Light Tanks
+</li><li>Medium Tanks
+</li><li>Heavy Tanks
+</li><li>Tank Destroyers
+</li><li>Artillery
+
+</li><li>World of Tanks Do's and Don'ts
+</li><li>
+
+</li></ul><span>  Crew 101: The Absolute Basics
+</span></div> <div><ul>  <li>Crew 102: Moving Crew
+</li><li>Crew 103: Skills and Perks
+</li><li>Crew 104: Min/Max Mastery of Your Crew
+</li><li>Full List of Crew Skills and Perks
+
+</li><li>Steel Hunter 2021 Regulations
+</li><li>
+
+</li></ul><span>  Map Guides
+</span><ul>  <li>Map Guide: Cliff
+</li><li>Map Guide: Ensk
+</li><li>Map Guide: Himmelsdorf
+</li><li>Map Guide: Karelia
+</li><li>Map Guide: Mines
+</li><li>Map Guide: Outpost
+</li><li>Map Guide: Oyster Bay
+</li><li>Map Guide: Redshire
+
+</li><li>Stream Team and Schedule
+</li><li>Tournament Guide
+</li></ul></div> <div><h1>  Account Security</h1><ul>  <li>Newcomer Central
+</li><li>
+
+</li></ul><span>  Newcomer's Guide
+</span><ul>  <li>Getting Started
+</li><li>Controls and Firing
+</li><li>How to Survive
+</li><li>In-Game Economy
+</li><li>Upgrading Your Vehicles
+</li><li>In-Game Communication
+</li><li>Tank Academy
+</li><li>New Victories Ahead!
+
+</li><li>
+
+</li></ul><span>  General
+</span><ul>  <li>Wargaming.net Game Center Guide
+</li><li>How to Activate Invite and Bonus Codes
+</li><li>Frequently Asked Questions
+</li><li>System Requirements
+</li><li>Video Tutorials
+</li><li>Achievements
+</li><li>Vehicle Types and Functions
+</li><li>Purchase and Research Vehicles 
+</li><li>Vehicle Crew
+</li><li>Crew Training
+</li><li>Equipment
+</li><li>Directives
+</li><li>Personal Reserves
+</li><li>In-Game Store and Depot
+</li><li>Daily Missions
+</li><li>Exterior Customization
+</li><li>Vehicle Blueprints
+</li></ul></div> <ul><ul>  <li>How to Earn Rewards with Missions
+</li><li>Platoons
+</li><li>Premium Shop Instructions
+</li><li>Refer a Friend: The Recruitment Program
+</li><li>Vehicle and Crew Recovery
+</li><li>Preloading Updates
+</li><li>Battle Pass
+</li><li>Steel Hunter
+</li><li>Frontline
+</li><li>Tours of Duty
+</li><li>Personal Missions
+</li><li>Multinational Vehicles Q&A
+</li><li>How to Convert Free XP to Crew XP
+</li><li>Coupons
+</li><li>Changing Your Username
+</li><li>Onslaught
+</li><li>Onslaught. Season of the Crimson Griffin
+</li></ul></ul> <div><ul>  <li>Common Tests and Sandbox Tests: Your Definitive Guide
+</li><li>Twitch Drops Guide
+
+</li><li>
+
+</li></ul><span>  Economy in World of Tanks
+</span><ul>  <li>Going Premium
+</li><li>Currency Exchange and Resource Conversion
+
+</li><li>
+
+</li></ul><span>  Gold FAQ
+</span><ul>  <li>Gifting via Premium Shop
+</li><li>Pay via Wargaming Prepaid Card
+
+</li><li>
+
+</li></ul><span>  Fair Play Policy
+</span><ul>  <li>Botting
+</li><li>Prohibited Mods
+</li><li>Toxicity
+</li><li>Rigged Battles
+</li><li>Teamkill
+</li><li>Complaint System
+</li><li>Watch out for Scammers
+
+</li><li>
+
+</li></ul></div> <div><span>  Account Security
+</span><ul>  <li>Trouble Logging In?
+</li><li>Keeping Your Account Safe
+</li><li>Recovering a Stolen Account
+</li><li>Financial Fraud
+</li><li>Account Sales Are Fraudulent
+</li><li>Binding Your Account to a Mobile Phone
+
+</li><li>Events Calendar
+</li><li>
+
+</li></ul><span>  Tank Classes
+</span><ul>  <li>Light Tanks
+</li><li>Medium Tanks
+</li><li>Heavy Tanks
+</li><li>Tank Destroyers
+</li><li>Artillery
+
+</li><li>World of Tanks Do's and Don'ts
+</li><li>
+
+</li></ul><span>  Crew 101: The Absolute Basics
+</span></div> <div><ul>  <li>Crew 102: Moving Crew
+</li><li>Crew 103: Skills and Perks
+</li><li>Crew 104: Min/Max Mastery of Your Crew
+</li><li>Full List of Crew Skills and Perks
+
+</li><li>Steel Hunter 2021 Regulations
+</li><li>
+
+</li></ul><span>  Map Guides
+</span><ul>  <li>Map Guide: Cliff
+</li><li>Map Guide: Ensk
+</li><li>Map Guide: Himmelsdorf
+</li><li>Map Guide: Karelia
+</li><li>Map Guide: Mines
+</li><li>Map Guide: Outpost
+</li><li>Map Guide: Oyster Bay
+</li><li>Map Guide: Redshire
+
+</li><li>Stream Team and Schedule
+</li><li>Tournament Guide
+</li></ul></div> <p><p>  If you cannot enter the game with your account and password, please read the following <a href="http://worldoftanks.com/en/content/guide/account_security/unable-enter-game/" target="_blank"> instructions </a>, in which we strived to depict all possible situations.</p></p> <p><p>  What is an unauthorized access? An unauthorized access takes place when a non-owner of the account gets access to it. Players usually consider an unauthorized access to be a technically complicated procedure though generally an account keeper gives the login data to a computer trespasser due to various reasons.</p></p> <p><p>  This <a href="http://worldoftanks.com/en/content/guide/account_security/preventing-unauthorized-access/" target="_blank"> article </a> will tell you how unauthorized access happens and what to do to avoid it.</p></p> <p><p>  If your account has been compromised please read the following <a href="http://worldoftanks.com/en/content/guide/account_security/recovering-stolen-account/" target="_blank"> instructions </a> on what to do to recover the account.</p></p> <p><p>  Dear Users, due to the ever increasing number of World of Tanks accounts being sold, we inform you that any account sale is a financial fraudulence. Thus, we strongly recommend you to read the following <a href="http://worldoftanks.com/en/content/guide/account_security/account-selling-fraudulent/" target="_blank"> information </a>, which explains why such procedures are never good for a player.</p></p> <p><p>  Dear users! Some of you could come across various websites or auctions which offer you World of Tanks Gold purchase at low prices. We warn you that such offers are fraudulent. Thus, we strongly recommend you to read the following <a href="http://worldoftanks.com/en/content/guide/account_security/preventing-unauthorized-access/#9" target="_blank"> information </a>.</p></p> <div><p>  
+                                        
+                                            Share on social networks
+                                        
+                                    </p><ul>  <li>Facebook
+</li><li>Twitter
+</li></ul><span>  0
+
+</span><span>  shared
+</span><span>  Account Security</span><p>  Europe:</p><p>  North and South America:</p><span>  English</span><p>  Asia:</p><p>  Europe:</p><p>  North and South America:</p><span>  English</span><p>  Asia:</p></div> <div><h2>  Privacy Preference Center</h2></div> <div><h3>   Manage Consent Preferences</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div> <div><h4>  Functional Cookies</h4><p>  These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div> <div><h4>  Performance Cookies</h4><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div> <div><h4>  Targeting Cookies</h4><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div> <div><h4>  Social Media Cookies</h4><p>  These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools.</p></div> <div><h3>  Performance Cookies</h3><label>  Vendor Search</label><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><ul>  <li>View Cookies</li></ul><p>  We use cookies so that we can offer you the best possible website content and experience.<a href="http://legal.eu.wargaming.net/en/privacy-policy/" target="_blank"> Privacy Policy </a></p></div>

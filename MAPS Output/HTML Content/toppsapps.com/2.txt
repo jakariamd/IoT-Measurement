@@ -1,0 +1,56 @@
+<div><span>  ™
+</span><label>  Apps
+
+                        </label><span>  ™
+</span><ul>  <li>  
+</li><li>  
+</li><li>  
+</li><li>Enter Code
+</li><li>FAQ
+</li><li>Support
+</li></ul></div> <div><h1>   How do I ... </h1><span>  
+
+</span></div> <div><h3>  Frequently asked questions</h3><p>  If you need assistance with an issue that you encountered in one of the following apps, please visit our help pages linked below:</p><p>  <strong> Apps </strong>:</p><p>  <strong> How Can I contact Topps Digital Customer Support? </strong></p><p>  We have several ways for you to reach out for Support! </p><ul>  <li><strong> In-App Settings > Support (Best Option) </strong>: Head to the In-App Settings menu and tap Support for assistance (see steps below). 
+
+	</li><li>This option will save you time by automatically pulling in important information such as your username (if you're signed in), device info, etc.
+</li><li><strong> Submission Form (2nd Best Option):  </strong>Submit a ticket for the applicable app by completing a ticket form, seen <a href="/hc/en-us/requests/new" target="_blank"> here </a>.</li></ul></div> <ul><ul>  <li><strong> Customer Support Email: </strong> Lastly you can always submit a ticket by using the applicable app-specific support email address listed below:
+	</li><li>Disney Collect! - <a href="mailto:DisneySupport@topps.com" target="_blank"> DisneySupport@topps.com </a></li><li>HUDDLE - <a href="mailto:HUDDLE@topps.com" target="_blank"> HUDDLE@topps.com </a></li><li>Marvel Collect! - <a href="mailto:Marvel@topps.com" target="_blank"> Marvel@topps.com </a></li><li>Star Wars Card Trader - <a href="mailto:SWCT@topps.com" target="_blank"> SWCT@topps.com </a></li></ul></ul> <ul><ul>  <li>SKATE - <a href="mailto:SKATE@topps.com" target="_blank"> SKATE@topps.com </a></li><li>Walking Dead Card Trader - <a href="mailto:TWDCT@topps.com" target="_blank"> TWDCT@topps.com </a></li><li>KNOCKOUT - <a href="mailto:KNOCKOUT@topps.com" target="_blank"> KNOCKOUT@topps.com </a>
+</li></ul></ul> <div><h1>  Contact us</h1><p>  Select an app to submit a question to support</p><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul></div> <div><h3>  Support</h3></div> <div><h3>  Apps</h3><span>  ™
+
+</span><p>   © 2023  The Topps Company, Inc. All Rights Reserved.</p></div> <div><h2>  Redeem Code</h2></div> <div><h2>  Download App</h2></div> <div><h2>  Forgot Fan Name</h2><p>  To retrieve your FAN NAME, you'll need to enter the email address associated with your account.</p></div> <div><h2>  Start Playing Now!</h2><p>  
+                        Playing our apps on your mobile device gives you the most optimal experience
+                        so we recommend you either email yourself a download link or head to the App
+                        store directly.
+                    </p></div> <div><h2>  Start Playing now!</h2><p>  We have sent your download link, please check your email.</p><p>  
+                        Remember to always check your spam folder.
+                        
+                        If you don't get your email, please contact <a href="https://play.toppsapps.com/faq#contact-support" target="_blank"> support </a>.
+                    </p></div> <div><h2>  Redemption Successful</h2></div> <div><h2>  Redemption Failed!</h2><p>  Oops! Looks like the CODE or FAN NAME you entered was incorrect.</p><p>  
+                        Please try again by clicking RETRY below.
+                        
+                        If the issue persists, please contact <a href="https://play.toppsapps.com/faq#contact-support" target="_blank"> support </a>.
+                    </p></div> <div><h2>  Fan Code sent!</h2><p>  We have sent your fan code to your email, please check your email.</p><p>  
+                        Remember to always check your spam folder.
+                        
+                        If you don't get your email, please contact <a href="https://play.toppsapps.com/faq#contact-support" target="_blank"> support </a>.
+                    </p><span>  </span></div>

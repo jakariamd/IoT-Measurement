@@ -1,0 +1,31 @@
+<div><h1>  
+          DuckDuckGo Privacy for Safari
+ </h1><span>  4+
+</span></div> <div><h2>  
+            Privacy, simplified.
+          </h2><ul>  <li>Free
+</li></ul></div> <div><h2>  Screenshots</h2></div> <div><h2>  Description</h2><p>  Tired of being tracked online? We can help.</p><p>  DuckDuckGo Privacy Essentials comes packed with best-in-class privacy essentials and makes browsing Safari even faster.</p><p>  Block Tracking Cookies — prevent most 3rd-party cookies from tracking you as you browse from site to site.</p><p>  Escape Website Trackers Before They Load - we automatically stop most hidden trackers (3rd-party scripts) from loading, which prevents companies from collecting and using any personal data from these trackers.  Our cutting-edge tracker blocking technology – called 3rd-Party Tracker Loading Protection – goes above and beyond what you get in most popular browsers by default.</p></div> <p><p>  After you install our extension, you’ll be asked to enable Tracker Blocking and the Privacy Dashboard within Safari. While the extension doesn’t include DuckDuckGo Private Search, it is built into Safari as a default search option. Enabling all three gives you seamless privacy protection.</p></p> <p><p>  Privacy, simplified.</p></p> <p><p>  Note about our 3rd-Party Tracker Loading Protection following DuckDuckGo ad clicks: Our 3rd-Party Tracker Protection goes above and beyond what you get in most popular browsers by default, but we’re constantly working to make it more comprehensive. Currently, if an advertiser wants to detect conversions on their own website for our private DuckDuckGo search ads, our 3rd-Party Tracker Loading Protection will not stop bat.bing.com requests from loading on the advertiser’s website following DuckDuckGo ad clicks, but those requests are stopped in all other contexts. This is because DuckDuckGo private search advertising is in partnership with Microsoft. As part of that partnership, viewing ads on DuckDuckGo is anonymous and Microsoft has committed to not profile our users’ ad clicks.</p></p> <p><p>  Read more about this and our Tracking Protections at https://help.duckduckgo.com/privacy/web-tracking-protections/</p></p> <p><p>  You don't need to wait to take back your privacy. Join the millions of people using DuckDuckGo and protect many of your everyday online activities with one app. It's privacy, simplified.</p></p> <div><p>  More About DuckDuckGo</p><p>  • About Us: https://duckduckgo.com/about/</p><p>  • Privacy Newsletter: https://duckduckgo.com/newsletter</p><p>  • Privacy Policy: https://duckduckgo.com/privacy/</p><p>  • Open Source Code: https://github.com/duckduckgo/duckduckgo-privacy-extension</p></div> <div><h2>  What’s New</h2><p>  Version 1.8.0</p><p>  Bug fixes and improvements.</p></div> <div><h2>  
+          Ratings and Reviews
+        </h2><span>  4.2</span><p>  410 Ratings</p><span>  
+    GeramyW
+</span></div> <div><h3>  
+    Helpful sidekick to Safari's existing UI (Multi-Device)
+</h3><p>  I've strictly used duckduckgo for browsing comfortably on iOS and desktop for years.</p><p>  Heres my two cents on what the folks at DuckDuckGo are doing: WHAT OTHERS CAN'T!</p><p>  At a currently rare price of $0.00, you receive an even rarer, comfortable interface on mobile. That alone shows how these devs don't cut corners and use their resources in a expertly manner. In MacOS, it is much the same. It works within the Safari browser, as an extension, where it becomes a second line of defense for tracker-blocking throughout the internet. Above all, their services prompted me to write a thourough, positive review. Thank you DuckDuckGo!</p></div> <div><span>  
+    chaya
+</span></div> <div><h3>  
+    Sometimes, you just want to have fun ...
+</h3><p>  ... and not have the world watching. Like others, I'm a big fan of the iOS version. In this case, I was a bit confused at first because it's not a separate browser. This is good and bad - good because you don't have to transfer all your bookmarks & preferences to a new app. The bad is minor. Because it's the same browser if you need to open recently updated files and don't want to clear cache, good luck on sites that are slow to update -or  that just might be my site, in which case, no bad at all.</p></div> <div><span>  
+    Oz Knozz
+</span></div> <div><h3>  
+    Interesting Feature
+</h3><p>  I have used the DDG for years. As Safari ups its game on privacy and tracker blocking, I wondered of using DDG on top of that was redundant.</p><p>  As a test, I uninstalled the DDG extension, and relied solely on Safari. To my surprise, ads started appearing on sites I visit frequently. I reinstalled the DDG extension, and the ads were gone.</p><p>  Little did I know that an interesting feature of DDG includes a level of ad blocking.</p></div> <div><h2>  
+      App Privacy
+    </h2><p>  
+    The developer, </p><span>  DuckDuckGo, Inc., indicated that the app’s privacy practices may include handling of data as described below. For more information, see the <a href="https://duckduckgo.com/privacy" target="_blank"> developer’s privacy policy </a>.
+  </span></div> <div><h3>  Data Not Linked to You</h3><p>  The following data may be collected but it is not linked to your identity:</p><span>  Usage Data
+
+</span><span>  Diagnostics
+
+</span><p>  Privacy practices may vary, for example, based on the features you use or your age. <a href="https://apps.apple.com/story/id1538632801" target="_blank"> Learn More </a></p></div> <div><h2>  Information</h2><p>  English</p></div> <div><h2>  
+          More By This Developer
+        </h2><span>  Or call 1-800-MY-APPLE.</span></div>

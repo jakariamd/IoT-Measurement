@@ -1,0 +1,60 @@
+<div><h1>  CHILI is a European entertainment Company. The first and only entertainment-centred marketplace. CHILI is currently only available in the UK, Italy, Germany, Austria, Spain and Poland.</h1><p>  Choose a country to browse the huge local catalogue with thousands of movies and TV shows.</p></div> <div><h3>  TYPES OF COOKIES</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are strictly necessary to allow your browsing on the Site and for its proper functioning. They do not store personal information and are set only in response to your actions (such as, for example, a request for services, setting privacy preferences, logging in or filling out forms). 
+Navigation cookies are normally session cookies and, therefore, once the browser is closed, they are deleted. You can also set your browser to block or warn you about these cookies, but as a result some parts of the Site may not work or work incorrectly. </p></div> <td><td>  help.chili.com</td></td> <div><td>  First Party
+</td><td>  pl.chili.com</td><td>  First Party
+</td><td>  assistenza.chili.com</td><td>  First Party
+</td><td>  chili.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/OptanonAlertBoxClosed" target="_blank"> 
+                        OptanonAlertBoxClosed
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/rskxRunCookie" target="_blank"> 
+                        rskxRunCookie
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/rCookie" target="_blank"> 
+                        rCookie
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/OptanonConsent" target="_blank"> 
+                        OptanonConsent
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/eupubconsent" target="_blank"> 
+                        eupubconsent
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  it.chili.com</td><td>  First Party
+</td><td>  hilfe.chili.com</td><td>  First Party
+</td><td>  rCookie, rskxRunCookie, lastRskxRun
+</td><td>  Third Party
+</td><td>  __cfduid
+</td><td>  Third Party
+</td></div> <div><h4>  Performance or analytical cookies</h4><p>  These cookies allow us to gather statistical information, in an anonymous and aggregate form, about how many users access the Site and how they use and engage with it. This allows us to improve the Site performance and services. </p><td>  chili.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/_uetvid" target="_blank"> 
+                        _uetvid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gid" target="_blank"> 
+                        _gid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gclxxxx" target="_blank"> 
+                        _gclxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_ga" target="_blank"> 
+                        _ga
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat" target="_blank"> 
+                        _gat
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  de.chili.com</td><td>  First Party
+</td></div> <div><h4>  Functionality cookies</h4><p>  These cookies allow us to provide you with enhanced functionality and customization. In particular, they are used to store some of your preferences and information (e.g. language, country of origin, products selected for purchase) without you having to re-enter them on subsequent visits. Functionality cookies are often persistent cookies: they remain stored on your Device even after you close your browser, until their expiration date or until the user decides to delete them. If you do not authorize these cookies, some or all of the services may not function properly.</p></div> <td><td>  pomoc.chili.com</td></td> <div><td>  First Party
+</td></div> <div><h4>  Profiling cookies</h4><p>  Profiling cookies are designed to create profiles of the user and are used to send you advertisements in line with your browsing preferences.
+These cookies may be set through our site by our advertising partners. They may be used by these companies to build a profile of your interests and to show you relevant ads on other websites.
+The use of profiling cookies and other tracking tools requires the prior acquisition of your free consent. If you do not consent to the use of these cookies, you will not be shown or sent personalized ads, nor will profiles be created based on your interests. On the other hand, refusal or withdrawal of consent will not affect your ability to access or navigate the Site. </p></div> <td><td>  chili.com</td></td> <div><td>  First Party
+</td><td>  MUID
+</td><td>  Third Party
+</td><td>  fr
+</td><td>  Third Party
+</td><td>  ATN
+</td><td>  Third Party
+</td><td>  Third Party
+</td><p>  This website uses technical and profiling cookies, including from third parties, to send you advertisements and services according to your preferences. By clicking on “Accept All Cookies”, you agree to store cookies on your device to improve the website’s browsing. If you want to know more or refuse to accept all or some cookies, click on “Cookies Settings”.<a href="https://www.chili.com/cookie-policy" target="_blank"> Cookie policy </a></p></div> <div><h2>  Privacy Preference Center</h2></div> <div><h3>   Manage Consent Preferences</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are strictly necessary to allow your browsing on the Site and for its proper functioning. They do not store personal information and are set only in response to your actions (such as, for example, a request for services, setting privacy preferences, logging in or filling out forms). 
+Navigation cookies are normally session cookies and, therefore, once the browser is closed, they are deleted. You can also set your browser to block or warn you about these cookies, but as a result some parts of the Site may not work or work incorrectly. </p></div> <div><h4>  Performance or analytical cookies</h4><label>  Performance or analytical cookies</label><p>  These cookies allow us to gather statistical information, in an anonymous and aggregate form, about how many users access the Site and how they use and engage with it. This allows us to improve the Site performance and services. </p></div> <div><h4>  Functionality cookies</h4><label>  Functionality cookies</label><p>  These cookies allow us to provide you with enhanced functionality and customization. In particular, they are used to store some of your preferences and information (e.g. language, country of origin, products selected for purchase) without you having to re-enter them on subsequent visits. Functionality cookies are often persistent cookies: they remain stored on your Device even after you close your browser, until their expiration date or until the user decides to delete them. If you do not authorize these cookies, some or all of the services may not function properly.</p></div> <div><h4>  Profiling cookies</h4><label>  Profiling cookies</label><p>  Profiling cookies are designed to create profiles of the user and are used to send you advertisements in line with your browsing preferences.
+These cookies may be set through our site by our advertising partners. They may be used by these companies to build a profile of your interests and to show you relevant ads on other websites.
+The use of profiling cookies and other tracking tools requires the prior acquisition of your free consent. If you do not consent to the use of these cookies, you will not be shown or sent personalized ads, nor will profiles be created based on your interests. On the other hand, refusal or withdrawal of consent will not affect your ability to access or navigate the Site. </p></div> <div><h3>  Performance Cookies</h3><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><span>  </span></div>

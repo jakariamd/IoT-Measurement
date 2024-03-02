@@ -1,0 +1,65 @@
+<div><div>  
+
+
+</div><div>  
+                Privacy Settings
+            
+
+            Manage Privacy Settings
+        
+</div><div>  
+
+
+</div><div>  
+                    We have put a lot of time and thought into this application and hope you will enjoy it.
+                
+</div><div>  
+                    In order to keep the app 100% free, it includes ads by StartApp. To improve the service and deliver
+                    targeted and relevant ads from trusted partners, StartApp may collect some standard information.
+                    This information doesn't include any private data, but it includes without limitation:
+                
+</div></div> <ul><ul>  <li>
+
+</li><li>An encrypted, un-identifiable and
+                                secured list of the current applications on your device
+                            
+
+</li><li>
+
+</li><li>The Advertising ID of your device
+                            
+
+</li></ul></ul> <div><div>  
+
+</div><div>  
+                    In order to stop the collection of this information, click
+                    <a href="#" target="_blank"> 
+                        here
+                     </a>
+
+</div><div>  
+                    To provide you an optimized user experience we might use the geo-location of your device (using GPS
+                    or other geo-location data) for showing targeted ads.
+                
+</div><div>  
+                    For more information see
+                    
+<a href="http://www.startapp.com/policy/sdk-policy/" target="_blank"> Full Privacy Policy </a>
+
+
+
+
+</div></div> <div><div>  
+
+
+
+
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div></div>

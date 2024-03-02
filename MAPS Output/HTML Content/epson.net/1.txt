@@ -1,0 +1,67 @@
+<div><h2>  
+		PRIVACY STATEMENT
+        </h2><p>  Effective Date January 22, 2018</p></div> <div><h3>  
+			Introduction.
+		</h3><p>  
+			This privacy statement ("Privacy Statement") is designed to provide information about the privacy and data usage practices of Seiko Epson Corporation and its subsidiaries and affiliates (collectively referred to herein as "Epson", "we", "our" or "us") for the Epson iPrint and any other software products or software features that refer to, post a link to, or otherwise include this Privacy Statement (collectively the "Service"). This Privacy Statement does not apply to any other websites, applications or services.
+		</p></div> <p><p>  
+			Please review this Privacy Statement carefully. If you have questions or concerns regarding this Privacy Statement, contact Epson’s privacy coordinator by sending email to Privacy.epsonmobileprintapps@exc.epson.co.jp, or sending a letter to 80 Harashinden, Hirooka, Shiojiri, Nagano, Japan, Seiko Epson Corporation Printing Solutions Division, Epson Mobile Application (for Printer) Personal Information Protection Manager.
+		</p></p> <p><p>  
+			In addition, please review any applicable terms and conditions, which govern your use of the Service.
+		</p></p> <div><h3>  
+			Information we collect through the Application.
+		</h3><p>  
+				We will only use Google Analytics provided by Google Inc. to collect the following information if you opt-in to the usage survey of the Application (“Usage Survey”).
+			</p><p>  
+				See the URL (<a href="https://www.google.com/intl/en/policies/privacy/partners/" target="_blank"> https://www.google.com/intl/en/policies/privacy/partners/ </a>) for details on how data is used by Google Inc.
+			</p><p>  
+				Information we collect does not include identification information on the individual. Information is collected through the Application to improve the service.
+			</p></div> <p><p>  
+				Google Analytics uses first party cookies to record information on the usage status of users.
+			</p></p> <p><p>  
+				Epson does not collect personally identifiable information. Epson uses Google Analytics to help us measure usage trends including the following to view and analyze the application usage by you through the Usage Survey.
+			</p></p> <div><h4>  
+			User information
+		</h4><ul>  <li>Version of the application</li><li>Location and language</li><li>Frequency of application usage and usage time</li><li>Most frequently used OS / device</li></ul></div> <div><h4>  
+			Number of users
+		</h4><ul>  <li>Trends in the number of new users who installed the application</li></ul></div> <div><h4>  
+			Behavior information
+		</h4><ul>  <li>View status of each screen and total screen impressions per session</li><li>The order and flow in which the screens were displayed</li><li>Number of technical errors such as crash of application</li><li>Time taken for each application element to read</li><li>Function usage of application</li><li>Connection status to device</li><li>Print settings and number of printed pages</li></ul></div> <div><h3>  
+            Opt-out.
+        </h3><p>  
+			You can prevent this data from being collected by opting out of the Usage Survey in the application's settings menu.
+		</p></div> <div><h3>  
+            How we use information.
+        </h3><p>  
+				Based on the above information, Epson may use information from Usage Survey that we receive to understand user's behavior and continually improves user-friendly applications monitor metrics, diagnose or fix technology problems, develop and test new features. The aggregated information may be shared within the Epson affiliated companies. For a list of Epson affiliated companies, you can check the link below.
+			</p></div> <div><h3>  
+            How we store information.
+        </h3><p>  
+			The Usage Survey data is stored and processed by Google, and Epson uses and analyzes this information collected through the Usage Survey. Such information may be stored and processed in Japan.
+		</p></div> <div><h3>  
+            Children’s Privacy.
+        </h3><p>  
+			Epson does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Application or Usage Survey. The Application or Usage Survey and its contents are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible.
+		</p></div> <div><h3>  
+            Access to function.
+        </h3><p>  
+			In order that you use the Application, the Application accesses following functions of your device.
+		</p><ul>  <li>Camera: Camera function is accessed for printing the captured images.*</li><li>Wi-Fi: Wi-Fi function is accessed for connecting the devices.*</li></ul><p>  
+			The Application accesses these functions, but Epson does not store or collect any access logs or contents that are printed through your device.
+		</p></div> <div><h3>  
+            Access to data.
+        </h3><p>  
+			In order that you use the Application, the Application accesses the following data from your device.
+		</p><ul>  <li>Image files: The specified image files are accessed for printing them.*</li><li>Document files: The specified document files are accessed for printing them.*</li></ul><p>  
+				*Depending on OS version or devices, some functions may not be available.
+			</p><p>  
+				The Application accesses these files, but Epson does not store or collect any access logs or contents that are projected through your device.
+			</p></div> <p><p>  
+			Complaints, inquiries, and requests for disclosure. You should direct any complaints, inquiries, and requests pertaining to this Privacy Statement to the Privacy Coordinator. You can terminate your use of the Service by following the instructions set forth in the applicable terms of service, or by uninstalling and deleting the software or application.
+		</p></p> <div><h3>  
+			Contacting Us. 
+		</h3><p>  
+                        If you have any questions about this Privacy Statement, our practices, or your dealings with the Services, or you have reason to believe Epson may have failed to adhere to this Privacy Statement, you can contact us by email or you can write to:
+		</p><p>  
+                        Privacy Coordinator.
+		</p><p>  80 Harashinden, Hirooka, Shiojiri, Nagano, Japan</p><p>  Seiko Epson Corporation</p><p>  Printing Solutions Division</p><p>  Epson Mobile Application (for Printer) Personal Information Protection Manager</p></div> <p><p>  Privacy.epsonmobileprintapps@exc.epson.co.jp</p></p>

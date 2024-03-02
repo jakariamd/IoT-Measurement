@@ -1,0 +1,250 @@
+<div><h2>  
+		
+				PRIVACY POLICY
+			
+		
+
+
+
+
+
+</h2><div>  
+<strong> Native Instruments, effective April 12, 2022 </strong>
+
+
+
+
+
+
+</div><div>  
+							The following information on data privacy applies to visits to our webpages, including the use of our online shop and services, as well as to the software and apps offered by Native Instruments. Information on the type, purpose, and scope of data processing is provided hereunder. This Privacy Policy also describes the shared privacy practices with the affiliates of Native Instruments iZotope, Inc., iZotope GmbH and Soundwide GmbH.
+
+We are aware that the careful handling of personal data is of utmost importance. When collecting, processing, and using data we strictly comply with the provisions of the law. 
+To ensure the privacy of personal data, we implement technical and organizational measures to protect such data. These measures entail procedural and electronic security features in the processing of data, as well as the training of our teams and their obligation to ensure data privacy. 
+
+The entity in charge for data processing pursuant to Art. 4 no. 7 GDPR can be contacted with regard to any questions pertaining to the data privacy of our aforementioned offers:
+
+Native Instruments GmbH
+Schlesische Str. 29-30
+10997 Berlin, Germany
+Email: 
+
+Our data protection officer Arne Platzbecker, HABEWI GmbH & Co. KG, Palmaille 96, 22767 Hamburg, may be contacted at:
+
+
+
+</div></div> <div><h2>  1. Personal Data
+The following information applies to the processing of personal data. Personal data are defined as any information related to an identified or identifiable natural person. Such data may be any information provided, such as name, address, email address, including payment information or online identifiers, as well as browsing behavior.
+
+
+</h2></div> 2. Collecting Data from Webpage Visitors a) Usage Data Each time you visit to our webpages, even if it is for informational purposes only, i.e., whenever you visit our webpages without logging in or registering an account, or knowingly transmit information to us (for example, when registering for a newsletter), we collect the following data, which are transmitted by your browser to enable you to visit our webpages (usage data): IP address date and time of request duration of website visit time difference to Greenwich Mean Time (GMT) content of the request (exact website) access status/http status code data volume transferred in each case website where the request comes from browser, language of browser, browser software version operating systemFor IT security reasons, we store the IP address in our IT system log files for 7 days from the date the webpages were visited to identify and prevent (distributed) denial of service attacks. IP addresses are anonymized after 7 days by removing the last 8 bits of the IP addresses.The legal basis for processing such data is our legitimate interest in the security of our webpages (Art. 6 para. 1 lit. f) GDPR). b) Cookies When you visit our webpages or our online shop, cookies are stored on the device you use to access our website. Such cookies enable the systems of Native Instruments to recognize your browser and offer various personalized services. Cookies are small text files (alphanumeric identifiers) that are stored on your terminal when you visit a webpage. The information stored is sent back to the respective servers during a repeat visit. We use first-party cookies and third-party cookies, which may either be session cookies or temporary cookies.Once the browser session has ended, session cookies are automatically deleted from your hard drive. These cookies store a so-called session ID to assign various requests from your browser to a common session. We use this type of cookie for the shopping cart feature as well as for the user and license data. Using such cookies is a technical prerequisite for assigning all activities during multiple webpage visits to your account. Temporary cookies are automatically deleted after a specified period of time, or after 36 months maximum. The feedback given by cookies to the servers concerned in various browser sessions enables us to recognize repeat visitors to our website or to maintain the language settings selected for multiple website visits. A connection to customer accounts (if any) and thus possible identification is only made if the "Remember Me" feature is selected during log-in so we may provide a personalized shopping experience. The processing of data associated with the setting of the cookies required is based on our legitimate interest in providing the respective service requested (Art. 6 para. 1 lit. f) GDPR).Third-party cookies are set by servers other than our servers, i.e., the website you visit. However, browsers do not render first-party cookies accessible across domains. When visiting our webpages or online shop, third-party cookies are used by some third party companies. A list of such third party companies and the third-party cookies they use is available here . Further details are provided below in this Privacy Policy. By using such cookies, also known as "tracking cookies", visits to various webpages can be assigned to a specific person. It is thus possible to get a good idea of the interests of this particular person and adapt the webpages accordingly (personalization, e.g., by providing customized advertisements).We only set such third-party tracking cookies, provided you have given us your consent via our cookie settings (Art. 6 para. 1 lit. a) GDPR). You may change or revoke your consent in the cookie settings provided in the footer of each webpage under "Manage cookies" at any time with future effect.Furthermore, you may also configure your browser in the browser settings in such a way to object to the use of specific types of cookies or to block them from the outset. You may visit our webpages if you have blocked the setting of cookies or have not consented to them. However, we would like to point out that in this case you may not use our webpages to the full extent and may in particular not do any shopping by virtual shopping cart for technical reasons (see above). c) Third-Party Web Analytics (aa) AB Tasty We use the AB Tasty web analytics service provided by AB TASTY SAS, 17-19 Rue Michel-le-Comte, 75003 Paris, France ("AB Tasty") for so-called A/B tests to improve our webpages.AB Tasty collects statistical information on visits to our webpages. Such information pertains to usage data - e.g., with regard to the browser concerned, the number of pages viewed, the number of visits, the order of visits, the length of visits to a webpage, the filling of a shopping cart or the deletion thereof, as well as the location from which our webpages are accessed. The data collected are anonymized and statistically analyzed. Furthermore, based on the IP address used, AB Tasty provides geolocation (regional details of the location concerned). Following geolocation, which is instantly provided when a webpage is visited, the IP address is immediately deleted. In the course of performing its contractual services, AB Tasty does not collect any data other than the IP address which might refer to a specific person (such as the name, telephone number, email address).For the purpose of storing and recognizing your visit to our webpages, cookies are set for a period of 13 months maximum and are then automatically deleted.The legal basis for applying AB Tasty is your consent pursuant to Art. 6 para. 1 lit. a) GDPR. You may revoke your consent at any time with future effect by deleting the cookies in your browser or in the cookie settings.AB Tasty provides further information on its collection of data here . (bb) Braze For newsletter marketing and push messages, we use the services of Braze Inc., 318 West 39th Street, 5th Floor New York, NY 10018, USA ("Braze"). Braze processes usage data, such as the respective email address, push tokens, interaction data, and IP addresses to control the dispatch of newsletters and push messages, and to analyze how customers interact with our newsletters. We have mutually agreed with Braze on so-called standard contractual clauses governing third-country transfers, a copy of which is available on request.We use this service in view of our legitimate interest (Art. 6 para. 1 lit. f) GDPR) in optimizing our newsletter content and app push messages. Push messages are sent subject to your consent on the respective terminal used.Braze provides further information on its data processing in its privacy policy . (cc) Google Analytics We use Google Analytics on our website. This is a web analysis tool provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland ("Google"). Google Analytics sets the aforementioned cookies to analyze how webpages are used. The information generated by cookies on the use of our web pages, including the shortened IP address, is transmitted to a Google server, which may be located in the US, and is stored there. We have mutually agreed with Google Ireland Limited on so-called standard contractual clauses for the transfer of data to the US, a copy of which is available on request. Google exclusively analyzes anonymized data by using the code extension "anonymizeIp" provided by Google to partially change and thus anonymize IP addresses for the processing of data as described hereunder. If you register an account with us, we use an additional so-called "User ID" for this particular service. It is made up of a unique, permanent, and non-personalized string of characters, which is assigned by us when you first log into your account. When you log into your account during future visits to our website, all website activities are assigned to your user ID. This user ID is not assigned to a specific terminal (smartphone, laptop, etc.), but to you. With regard to Google Universal Analytics, your user ID is transmitted to Google and used by us as a pseudonym vis-à-vis Google. The cookies, identifiers (e.g., user ID), or data linked to advertising IDs transmitted by us are automatically deleted after 36 months maximum.The legal basis for the use of Google Analytics is your consent pursuant to Art. 6 para. 1 lit. a) GDPR. You may revoke your consent at any time with future effect by deleting the cookies in your browser or in the cookie settings. You may generally block the use of Google Analytics in your web browser. To this end, you merely need to install the browser add-on to disable Google Analytics. It is available for download here .Further information on the terms of use and its privacy policy is provided by Google in its Terms of Service | Google Analytics - Google and/or in its privacy policy . (dd) Hotjar We use the web analytics service of Hotjar Ltd, Level 2, St Julian's Business Centre, 3, Elia Zammit Street, St Julian's STJ 1000, Malta ("Hotjar") for our webpages. The information provided by this web analytics service helps us improve our webpages and render them more user friendly. The information recorded by Hotjar by way of cookies includes in particular information on how you navigate and interact with the content of our webpages. Furthermore, Hotjar obtains information on your shortened and anonymized IP address, the screen size, as well as information on your browser, your geographical location (only the country concerned), your preferred language, the referring domain, and the pages visited (including the date and time you visited the pages concerned). The legal basis for the use of Hotjar is your consent pursuant to Art. 6 para. 1 lit. a) GDPR. You may revoke your consent at any time with future effect by deleting the cookies in your browser or in the cookie settings. Furthermore, you may deactivate tracking by Hotjar at any time. Instructions on how to proceed are available at Hotjar's website . Further relevant information is provided by Hotjar in its privacy policy . d) Third-Party Retargeting Providers Retargeting is a particular kind of online targeting enabling providers to mark users accessing an online offer by means of the retargeting feature. This feature is used to present interest-based advertisements on websites that are part of the advertising network concerned. To this effect, your browser stores so-called cookies (see above) enabling providers to recognize visitors to websites belonging to the same advertising network. This means that based on your browsing history, you are shown ads for products that you were interested in when visiting other websites before which use the remarketing feature of the provider concerned. We only set such third-party retargeting cookies if you have given your consent in our cookie settings (Art. 6 para. 1 lit. a) GDPR). You may change or revoke your consent in the cookie settings provided in the footer of each webpage under "Manage cookies" at any time with future effect.We mainly use the retargeting features of the following providers on our webpages: (aa) Criteo We use the remarketing services of Criteo SA, 32 Rue Blanche, 75009 Paris, France ("Criteo"). In this context, cookies are used on our webpages for advertising purposes. This enables us to show visitors to our webpages, who are interested in our products, our ads on partner websites, apps, and emails. Retargeting technologies use cookies or advertising IDs and show advertisements based on the previous browsing history of website visitors. We may share data, such as technical identifiers with the trusted advertisers that we cooperate with based on the registration information provided on our website or CRM system. In doing so, terminals and/or environments can be linked to provide seamless user experience.The legal basis for our use of Criteo is your consent pursuant to Art. 6 para. 1 lit. a) GDPR. You may revoke your consent at any time with future effect by deleting cookies in your browser or in the cookie settings.Further details and the option to reject the Criteo service in general are provided by Criteo in its privacy policy . (bb) Facebook Custom Audiences (Pixel) We use Facebook Pixel provided by Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland ("Facebook") on our webpages. Of the several features offered we use the Custom Audiences (Pixel) one. This allows for our advertising to be shown in a targeted manner on Facebook to people visiting our webpages who also have a Facebook account. To this effect, Facebook Pixel provides a direct connection to Facebook servers whilst the usage data are transmitted to Facebook for analysis and marketing purposes. If you have a Facebook account, such data can be assigned to you. Your activities may be tracked by Facebook over several pages. The processing of personal data is the sole responsibility of Facebook and beyond our control. Facebook provides further information on the collection and use of data here . The legal basis for using Facebook Custom Audiences is your consent pursuant to Art. 6 para. 1 lit. a) GDPR. You may revoke your consent at any time with future effect by deleting cookies in your browser or in the cookie settings. You may object to the use of Facebook Pixel at any time in the settings of your Facebook-account. Pursuant to data protection law, Facebook and we are jointly responsible for targeted advertising on Facebook. Further information can be found here and here . (cc) Google Remarketing On our website, we use the remarketing or "Similar Target Groups" feature of Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland ("Google"). This feature analyzes the browsing behavior and interests of all website visitors.Google uses cookies for analyzing webpage usage which interest-based advertisements are based on. The cookies serve to record visits to our webpages and anonymized data on the usage of our webpages. No personal data are stored. If another website that is part of the Google display network is subsequently visited, advertisements are shown which are very likely to reflect previously visited product and information pages. In such cases, data may also be transmitted to the US. We have mutually agreed with Google on so-called standard contractual clauses, a copy of which is available on request.The legal basis for the use of Google Remarketing is your consent pursuant to Art. 6 para. 1 lit. a) GDPR. You may revoke your consent at any time with future effect by deleting the cookies in your browser or in the cookie settings.Further information on Google Remarketing and the relevant privacy policy is available here . The remarketing feature of Google can generally be blocked. The relevant settings can be made here .Alternatively, the use of cookies in interest-based advertising can generally be disabled via the network advertising initiative. Relevant instructions are available here . e) Marketing (aa) abaGada We use the performance marketing service abaGada from abaGada Internet Ltd, Habarzel 21b, Ramat Hachayal 6971029 Israel ("abaGada"). Israel provides an adequate level of data privacy which is recognized by the EU Commission. We use this service to evaluate, create, and manage advertising campaigns. We use this service in view of our legitimate interest (Art. 6 para. 1 lit. f) GDPR) in optimizing our advertising campaigns.Further information on abaGada's privacy policy can be found here . (bb) Facebook Custom Audiences (List Method) We use the Facebook Custom Audiences list method provided by Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland ("Facebook"). This method provides for users who have an account with Facebook to be shown our targeted advertising on Facebook.To this effect, we transmit pseudonymized email addresses to Facebook. The email addresses are encrypted before they are sent to Facebook, i.e., a hash value is created from email addresses (a combination of various letters and numbers). Facebook can match these hash values with the corresponding hash values of the email addresses of Facebook users.If you have a Facebook account, such data can be assigned to you. The processing of personal data is the sole responsibility of Facebook and thus beyond our control. Facebook provides more information on the collection and use of data here .We use the Facebook Custom Audiences list method in view of our legitimate interest (Art. 6 para. 1 lit. f) GDPR) in optimizing our advertising campaigns, which may be objected to at any time with future effect by notifying our data protection officer accordingly. You may object to the use of Facebook Custom Audiences at any time in the settings of your Facebook account. Pursuant to data protection law, Facebook and we are jointly responsible for targeted advertising on Facebook. Further information can be found here and here . (cc) Google Ads We use the Google Ads service provided by Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland ("Google"). Google uses cookies to present relevant advertisements. To this end, Google assigns a pseudonymous identification number (ID) to your browser. This number is used to check which advertisements were presented on your browser and which ads you called up. The Google Ads cookies enable Google and its partner websites to present advertisements based on your previous visits to our webpages or those of others. No personal data are stored in the cookies. The cookies set may occasionally contain an additional anonymized identifier to track your interaction with a specific campaign. The information generated by the cookies is transmitted by Google to a server in the US and stored there. The data collected and stored are anonymized and merely evaluated for statistical purposes. We have mutually agreed with Google on so-called standard contractual clauses for the transfer of data to the US, a copy of which is available on request. The legal basis for the use of Google Ads is your consent pursuant to Art. 6 para. 1 lit a) GDPR. You may revoke your consent at any time with future effect by deleting the cookies in your browser or in the cookie settings. The data transmitted by us, which are linked to cookies, customer IDs (e.g., user ID) or advertising IDs, are automatically deleted after 26 months.You may block the collection of data generated by cookies that are related to your use of our webpages as well as the processing of such data by Google at any time. The required settings can be made here . Further information is available here . (dd) ShareASale We use the ShareASale advertising network provided by ShareASale.com Inc, 15 W. Hubbard St. STE 500, Chicago IL 60654, USA ("ShareASale"). ShareASale is a so-called affiliate network, which processes information on pages visited and purchases made so this information may be used for interest-based advertising on the websites of affiliated publishers, i.e., the websites on which the advertisements are placed. We have mutually agreed with ShareASale on so-called standard contractual clauses governing third-country transfers, a copy of which is available on request. The legal basis for the use of ShareASale is your consent pursuant to Art. 6 para. 1 lit. a) GDPR. You may revoke your consent at any time with future effect by deleting the cookies in your browser or in the cookie settings. For further information on ShareASale's privacy policy refer to here and here . (ee) Smartly.io We use the Smartly.io service provided by Solutions Inc., Elielinaukio 2G, 00100 Helsinki, Finland ("Smartly.io"). This service is used to evaluate, create, and manage advertisements on social media platforms. When you are directed to our webpages when clicking on an advertisement of ours on social media platforms, such as Instagram or Facebook, the ad ID, and the time you called up the ad are recorded and aggregated by Smartly.io, and are stored without any reference to you and are used for the above-mentioned purposes. We use this service in view of our legitimate interest (Art. 6 para. 1 lit. f) GDPR) in optimizing our advertising campaigns.For further information on the privacy policy of Smartly.io refer to their privacy policy . (ff) Twitter We use Twitter Ads provided by Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland ("Twitter"). Twitter Ads processes information on your browsing behavior on our webpages. To this effect, we use cookies that record all interactions with our webpages. When you access our webpages via a Twitter ad, Twitter Ads stores a cookie on your terminal. This cookie enables Twitter Ads to see that you clicked on an ad and that you were redirected to our webpages. We do not collect and process any personal data generated during such advertising measures. All we get from Twitter are statistical evaluations, which help us determine the effectiveness of our advertising campaigns. We have no control over the scope and further use of the data collected by Twitter via this tool.Your consent pursuant to Art. 6 para. 1 lit. a) GDPR is the legal basis for our use of Twitter Ads. You may revoke your consent at any time with future effect by deleting the cookies in your browser or in your cookie settings. Further information is available in Twitter's privacy policy . You may determine to which extent Twitter may use your personal data for personalization purposes. You can make the relevant settings and may also object to the use of your data -if applicable - here (opt-out). f) Other Third Parties (aa) YouTube We embed YouTube videos on our webpages. Youtube.com is a video portal operated by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland ("YouTube"). When you watch a YouTube video embedded on our webpages, a connection to youtube.com is established. This connection is required to display the respective video on our webpages in your browser. Google is responsible for the processing of data and the setting of cookies by YouTube. Such processing is beyond our control. It should be noted that YouTube records and processes at least the IP address of your terminal, the date and time at which you watched the video, and the webpage you visited. Furthermore, a connection to Google's DoubleClick advertising network is established. Google provides further information on Google Ads as well as on opt-out options here as well as here .If you are logged into YouTube when accessing our website, YouTube assigns the connection information to your YouTube account. If you wish to prevent this, you have to either log out of YouTube before visiting our webpages or make the relevant settings in your YouTube account.We use this service in view of our legitimate interest (Art. 6 para. 1 lit. f) GDPR) in the user-friendly design of our website.For further information on the collection and use of data as well as on your rights and protection options, refer to Google' privacy policy . (bb) Zendesk We use the "Zendesk" helpdesk system to process all requests submitted, in particular those addressed to our customer support. The relevant features are provided by Zendesk, Inc., 989 Market Street #300, San Francisco, CA 94102, USA. We have mutually agreed with Zendesk on so-called standard contractual clauses governing third-country transfers, a copy of which is available on request.In the context of customer support, the following data are stored in Zendesk to enable us to respond to your requests: your name, email address, phone number, postal code, city, and country. In the case of inquiries pertaining to and the provision of hardware repair work, your full postal address is stored if this is essential for providing the repair work in question. Further information can be found on Zendesk's privacy policy . g) App-Specific Processing We use Firebase for our apps, a service provided by Google Ireland Limited, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland ("Google"). Firebase enables us to provide our app and to analyze its use by our user base. To this end, the following data are collected: the opening/closing of an app, the time spent in the app, clicks, features used, and pages visited, GPS data, search entries as well as bookings made via the app. We use these data to evaluate the use of our app, and to improve our app and our services in general.We use this service in view of our legitimate interest (Art. 6 para. 1 lit. f) GDPR). The data collected are stored for a period of 14 months. You may object to the data processing by Google Analytics for Firebase by terminating the use of our app and uninstalling the app from your mobile device.Further information on Google Analytics for Firebase is available at Privacy and Security in Firebase and Google Analytics for Firebase Use Policy You may refer to Policies and Terms for information by Google on how we use data generated by webpages or apps via which our services are used. h) Links to Third-Party Providers We also provide links to third-party providers and to our website on Facebook, Twitter, Instagram, YouTube, and Soundcloud. When clicking on the relevant icon (such as the Facebook button) at the bottom of our website you will be redirected accordingly. Native Instruments is not responsible for the ensuing processing of data by third-party providers. The companies responsible provide information on data processing in their respective privacy policies. <div><h2>  3. Additional Data Processing Regarding Newsletter, Surveys, Questionnaires, and Sweepstakes.
+
+<strong> a) Newsletter Registration </strong>
+
+We regularly inform you about offers, promotions, and other news in our newsletters. You may register for our newsletter on our webpages by providing a valid email address. 
+
+We use the so-called double opt-in process for newsletter registrations. This means that we will send an email to the email address you provided when registering for our newsletter and request you to confirm the correctness of the registered email address and that you wish to receive our newsletter. 
+
+The legal basis for the above is your consent (Art. 6 para. 1 lit. a) GDPR in conjunction with Art. 7 para. 2 no. 3 UWG [German Unfair Competition Act]). You may revoke your consent at any time with future effect at <a href="https://www.native-instruments.com/de/company/newsletter-unsubscribe/" target="_blank"> Newsletter Unsubscribe </a> and via the unsubscribe link contained in every email. 
+
+When you buy a Native Instruments software product or download a demo version or a free version of a software we offer, we will also send you our newsletter. The legal basis for doing so is Art. 7 para. 3 UWG. You may object to the newsletter being sent to you at any time <a href="https://www.native-instruments.com/ende/company/newsletter-unsubscribe/" target="_blank"> here </a>. As an alternative, you can do so via the unsubscribe link contained in every email.
+
+<strong> b) Surveys and Questionnaires </strong>
+
+Once you have bought a Native Instruments product, we may conduct an email survey. The legal basis for doing so is your consent (Art. 6 para. 1 lit. a) GDPR), which you may revoke at any time. With the help of such questionnaires, we would like to use your feedback to continuously improve our products.
+
+<strong> c) Sweepstakes </strong>
+
+We offer sweepstakes at irregular intervals. You are invited to participate in such sweepstakes on our webpages, via social media, or by email. If you take part in sweepstakes, the data collected (your name, email address, and country of residence) are required to ensure that you are effectively participating in the sweepstakes. Your data will be deleted once the sweepstakes have ended.
+
+The legal basis for the processing of data generated in the course of sweepstakes is Art. 6 para. 1 lit. b) GDPR.
+
+
+</h2></div> <div><h2>  4. Contact and Customer Support
+<strong> a) Email </strong>
+
+If you contact us by email, we will use your email address and your name so we may attend to /respond to your request.
+
+<strong> b) Customer Support </strong>
+
+Registered users may also contact our customer support via a so-called help center. We use the email address and name of the person contacting us to attend to the respective request. Furthermore, we use and store the hardware and software data entered in the input mask. We can thus ensure that our customers are provided with the best support possible at a later date and in the long term.
+
+We process requests made by email or via our help center so we may respond to them, which is also in line with our legitimate interest in data processing (Art. 6 para. 1 lit. f) GDPR).
+
+
+</h2></div> <div><h2>  5. Additional Data Processing Regarding User Accounts
+A user account is needed to view the data of current and past orders, and to check the status of current orders at any time. 
+
+The mandatory information to be provided includes your name, email address, and a password of your choice. All other information may be given voluntarily and is marked accordingly.
+
+If you buy products, it is mandatory to provide your address and payment information so we may process your order. Mandatory information is specifically marked. All other information may be provided voluntarily.
+
+We place all personal data provided in this context - both those that are required for fulfilling the contract and those provided voluntarily – in revocable storage. You may adjust your user account settings at any time in the customer portal. 
+The legal basis for the processing of data pertaining to user accounts is pursuant to Art. 6 para. 1 lit. b) GDPR.
+
+
+</h2></div> <div><h2>  6. Ordering, Activating, and Registering Products
+<strong> a) Ordering Products </strong>
+
+You may place orders in our online shop via your user account by providing the personal data required for processing orders. 
+
+The data collected and stored by us for processing your orders are: your name, address, email address, and payment information. All other information may be given voluntarily and is marked accordingly.
+
+We store order data to record the order history. The order data are sent to you by email. When confirming an order by email, we do not reveal payment details, but only the selected payment method. Our general terms and conditions are available <a href="/en/company/legal-information/terms-and-conditions/" target="_blank"> here </a>.
+
+Information on payment methods are available <a href="/en/shop-information/shipping-fees-payment/" target="_blank"> here </a>.
+
+The legal basis for processing order data is Art. 6 para 1 lit. b) GDPR. 
+
+<strong> b) Activating Software Products </strong>
+
+Before you can use our software products, you have to activate them via our respective web tool. The serial number of the respective software is then stored and assigned to your customer account. 
+
+The legal basis for processing data for product activation is Art. 6 para. 1 lit. b) GDPR.
+
+<strong> c) Registering Hardware Products </strong>
+
+Apart from the required activation of our software products, you may also register any hardware purchased. When you register such products via our webpages, the serial number of the respective hardware is stored and assigned to your customer account.
+
+The legal basis for processing data for product registration is Art. 6 para. 1 lit. b) GDPR.
+
+
+</h2></div> <div><h2>  7. Credit Check and Credit Card Verification
+We may request a credit agency to assess the creditworthiness of our customers for each order placed. 
+
+The legal basis for processing these data is Art. 6 para. 1 lit. f) GDPR. We have a legitimate interest in preventing payment defaults.
+
+To detect credit card fraud, we may also consult credit card fraud detection companies. No personal data are disclosed if such companies want to use them for commercial purposes. The legal basis for our legitimate interest in fraud prevention is Art. 6 para. 1 lit. f) GDPR. 
+
+
+</h2></div> <div><h2>  8. Disclosure of Personal Data
+We use the personal data entrusted to us for processing orders or sending newsletters. As a matter of principle, we only pass data on to third parties for such purposes. 
+
+However, Native Instruments may be obligated by law to disclose information to third parties (Art. 6 para. 1 lit. c) GDPR). This is in particular the case if there is suspicion of a criminal offense, in which case Native Instruments may be obligated to disclose data to law enforcement authorities.
+
+We also enlist the services of external service providers if we cannot or cannot reasonably perform such services ourselves. Apart from the third-party providers mentioned in clauses 2. c) - f), such external service providers are mainly IT service providers, such as our hoster, email provider, telecommunications provider, or our IT maintenance service provider.
+
+When processing orders, we provide the commissioned shipping company with your name and address, and may pass on the relevant payment data to banks or payment service providers.
+
+
+</h2></div> <div><h2>  9. Processing Time
+Unless a certain storage period is explicitly stated elsewhere in this privacy policy, we only process data until such time that they are no longer required for the purpose they were initially collected for. Furthermore, we may store customer data to assert, exercise or defend legal claims or to comply with statutory retention periods, and delete data once they are no longer required for such purposes. 
+
+
+</h2></div> <div><h2>  10. Obligation to Provide Data and Automated Decision Making (Including Profiling)
+
+There are no contractual or legal obligations for you to provide us with your personal data. However, we may not be able to offer our services without such data.
+
+You are not subject to automated decision-making, including profiling, with legal effects pursuant to Art. 22 para. 1 and para 4 GDPR.
+
+
+</h2></div> <div><h2>  11. Rights of People Affected
+<strong> a) Right to Information </strong>
+
+You have the right to request confirmation as to whether your personal data are processed, and if so, which specific data are processed and for what purpose(s) (Art. 15 GDPR).
+
+<strong> b) Rectification </strong>
+
+You have the right to demand that inaccurate personal data be rectified without undue delay. Furthermore, in consideration of the processing purpose(s), you have the right to demand that incomplete personal data be completed (Art. 16 GDPR).
+
+<strong> c) Right to Erasure </strong>
+
+Once your user relationship has been terminated and the legal retention periods pursuant to tax and commercial law have expired, all personal data will be erased, unless you have expressly consented to the further use of such data with regard to your customer account. 
+
+You may demand the erasure of your data at any time pursuant to Art. 17 GDPR if the statutory retention periods are not affected thereby and if the data are no longer required for performing contracts. 
+
+<strong> d) Right to Restriction of Processing </strong>
+
+You have the right to demand that the processing of your personal data be restricted if one of the criteria pursuant to Art. 18 GDPR is met. 
+
+<strong> e) Right of Data Portability </strong>
+
+You have the right to receive the personal data you have provided in a structured, commonly used, and machine-readable format, and you have the right to transmit such data to another responsible party without hindrance from us, provided the requirements pursuant to Art. 20 GDPR are met.
+
+<strong> f) Right to Object </strong>
+
+Pursuant to Art. 21 GDPR, you have the right to object to the processing of your personal data pursuant to Art. 6 para 1 lit. e) or lit. f) GDPR at any time on grounds relating to your particular situation. 
+
+<strong> g) Revocation </strong>
+
+You may informally revoke your consent to the use of your data at any time with future effect (Art. 7 para. 3 GDPR). As the case may be, you may no longer use our services / may no longer use our services to the full extent. 
+
+<strong> h) Right to Lodge a Complaint </strong>
+You have the right to lodge a complaint with a supervisory authority – without prejudice to any other administrative or judicial remedy – and may in particular do so in the country where you habitually reside or the place of the alleged infringement if you are of the opinion that our processing of your personal data constitutes a violation of data privacy laws (Art. 77 GDPR).
+
+
+
+
+
+
+
+</h2></div> <div><span>  
+                 Shop & service 
+            
+</span><span>  
+                        Free shipping*
+                        </span><span>  
+                Connect with us
+            
+</span><ul>  <li>TRAKTOR</li><li>NATIVE INSTRUMENTS</li><li>NI NEWS</li></ul><span>  
+                Newsletter subscription
+            
+</span><label>  
+											DJ topics
+										
+
+</label><label>  
+											Producer topics
+										
+
+</label><span>  
+                Company
+            
+</span></div> <div><ul>  <li>
+                ©
+                2023
+                Native Instruments GmbH
+            </li><li>
+<a href="/en/company/legal-information/" target="_blank"> 
+                    Legal Information
+                 </a>
+                |
+                <a href="/en/company/legal-information/privacy-policy/" target="_blank"> 
+                    Privacy Policy
+                 </a>
+</li></ul><span>  
+                    |
+                    <a href="#" target="_blank"> 
+                        Manage Cookies
+                     </a>
+
+                |
+                <a href="/en/company/ni-locations/" target="_blank"> 
+                    Contact
+                 </a>
+</span></div> <div><ul>  <li>
+<a href="/en/company/legal-information/privacy-policy/" target="_blank"> English </a> |
+                    
+                        <a href="/de/company/legal-information/privacy-policy/" target="_blank"> Deutsch </a> |
+                    
+                        <a href="/jp/company/legal-information/privacy-policy/" target="_blank"> 日本語 </a> |
+                    
+                        <a href="/fr/company/legal-information/privacy-policy/" target="_blank"> Français </a> |
+                    
+                        <a href="/es/company/legal-information/privacy-policy/" target="_blank"> Español </a> |
+                    
+                        <a href="/zh/company/legal-information/privacy-policy/" target="_blank"> 简体中文 </a>
+
+
+</li></ul></div> <div><div>  
+		Loading...
+	
+</div></div> <div><div>  
+		Loading...
+	
+</div></div> <div><h4>  Modal title
+
+</h4><div>  
+				...
+			
+</div></div>

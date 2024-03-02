@@ -1,0 +1,100 @@
+<div><ul>  <li>  </li></ul><span>  
+
+</span><span>   Expand/CollapseMenu 
+</span><ul>  <li> TLC 
+
+</li></ul><span>   Home 
+</span><span>   Home 
+</span><ul>  <li>
+
+</li></ul><span>   Discussions 
+</span><span>   Discussions 
+</span><ul>  <li>
+
+</li></ul><span>   Documentation 
+</span><span>   Documentation 
+</span><ul>  <li>
+
+</li></ul><span>  Knowledge Base
+</span><span>   Knowledge Base 
+</span><ul>  <li>
+
+</li><li>
+
+</li></ul><span>   Education 
+</span><span>   Education 
+</span><ul>  <li>
+
+</li><li>
+
+</li></ul></div> <div><span>   Blog 
+</span><span>   Blog 
+</span><ul>  <li>
+
+</li></ul><span>  Support Desk
+</span><span>   Support Desk 
+</span><ul>  <li>
+
+
+
+</li></ul></div> <div><h1>  Contact Us</h1><span>  
+
+</span><span>  
+				Show  only 
+			</span><span>   | </span><span>  
+			Search instead for 
+</span><ul>  <li>:
+</li><li>:
+</li><li>Privacy on Tealium Learning Center
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+
+</li></ul><p>  This article describes how to manage your privacy within the Tealium Learning Center. The information here is an extension to the main Tealium privacy policy described here: <a href="https://tealium.com/privacy/" target="_blank"> Privacy at Tealium </a>.</p></div> <div><p>  In this article:</p></div> <div><h2>  How to Change Your Tracking Preferences</h2><p>  You can change your consent preferences for the TLC at any time by clicking here:</p></div> <div><h2>  How to Retrieve Your Community Account Information</h2><p>  You have the right to know what information about you is stored in the community. To retrieve your information from the community, go to: <a href="https://community.tealiumiq.com/t5/user/myprofilepage/tab/personal-profile" target="_blank"> My Settings </a><strong>  > Personal > Personal Information </strong> then scroll to the bottom to find these options:</p><ul>  <li><strong> My community content </strong>Download all community posts and engagement associated to your account.</li><li><strong> My personal information </strong>Download all personal information associated to your account.</li></ul></div> <div><h2>  How to Close Your Community Account</h2><p>  You can close your account by going to: <a href="https://community.tealiumiq.com/t5/user/myprofilepage/tab/personal-profile" target="_blank"> My Settings </a><strong>  > Personal > Close Account </strong></p><p>  Closing your account will remove your user name and avatar from the community site, but all of your posts and replies will be preserved. </p></div> <div><h3>  Will closing my account also remove my posts, replies, kudos, etc.?</h3><p>  No. Your contributions (posts, comments) and engagement (kudos, accepted solutions) will be retained, but they will be disassociated from your user account and replaced with a "Anonymous" user</p><p>   This user will have a generic username and avatar to distinguish it from other users. </p></div> <div><h3>  Can I recover my community account if I change my mind later on?</h3><p>  No, the closed account cannot be recovered. If you want to rejoin the community, you must register as a new user.</p></div> <div><h3>  If I register again, can I use the same username?</h3><p>  If available, you can register with the same username in the community. However, it will be treated as a new account with no association to the previously closed one. </p><span>  
+	
+			0
+		
+</span><span>  
+	Kudos
+
+</span><ul>  <li>
+
+</li><li> Products 
+</li><li> Company 
+</li></ul><p>  Copyright All Rights Reserved © 2008-2023</p><span>  Public</span></div>

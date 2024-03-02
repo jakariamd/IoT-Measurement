@@ -1,0 +1,73 @@
+<div><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Zoom One</li></ul><p>  Everything you need to work together, all in one place.</p><p>  Connect virtually from anywhere with Zoom Meetings
+</p><p>  Collaborate together with Zoom Team Chat
+</p><p>  Call the world with Zoom Phone
+</p><p>  Create and brainstorm with Zoom Whiteboard
+</p><p>  Rich conversation analytics to improve sales
+</p><p>  Send and receive messages and calendar invitations
+</p><p>  Bring fluid interactions to hybrid teams with Zoom Huddles
+</p></div> <div><p>  Remove the hassle of traditional scheduling with Zoom Scheduler
+
+</p><ul>  <li>Zoom Spaces</li></ul><p>  Innovative video solutions for every meeting space.</p><p>  Bring meeting spaces online with Zoom Rooms
+</p><p>  Conference Room Connector links existing rooms to Zoom
+</p><p>  Innovative solutions for every space
+
+</p><ul>  <li>Zoom Events</li></ul><p>  Solutions to host impactful virtual and hybrid experiences.</p><p>  Host hybrid and virtual events with Zoom Events
+</p><p>  Elevate your brand with single-session events powered by Zoom Sessions
+</p></div> <div><p>  Broadcast at scale with Zoom Webinars
+</p><p>  Host and attend classes, group events, and more OnZoom
+
+</p><ul>  <li>Zoom Contact Center</li></ul><p>  An omnichannel cloud solution optimized for video.</p><p>  Engage customers with Zoom Contact Center
+</p><p>  Deliver intelligent support with conversational AI
+</p><p>  Optimize contact center agent performance and engagement
+
+
+</p><ul>  <li>
+
+</li><li>Industries</li></ul><p>  Zoom solutions elevate collaboration across vertical use cases.</p></div> <p><p>  Enabling exciting new ways to teach, learn, and connect globally
+</p></p> <div><p>  Transforming client engagement and employee experiences
+</p><p>  Improving collaboration between agencies, ministries, and constituents 
+</p><p>  Connecting care, collaboration, and medical innovation
+</p><p>  Real-time communication, anywhere in the world
+</p><p>  Bridging the in-store and online experiences
+
+</p><ul>  <li>Services</li></ul><p>  Expert support and services for all your design, strategy, implementation, event, and hardware needs.</p><p>  Expert consulting, technical delivery, dedicated support, and online event management
+</p></div> <div><p>  Hardware purchase and subscription options
+</p><p>  Protect certain data at rest with your own encryption keys
+
+</p><ul>  <li>Developer Platform</li></ul><p>  An open platform that allows developers to build Zoom apps and integrations.</p><p>  Explore thousands of apps that work with or within Zoom
+</p><p>  Documentation for building with Zoom's technology using SDKs, APIs, and webhooks
+</p><p>  Resources that help developers evaluate & build with our solutions
+</p><p>  Post your questions and get help from our developer community
+
+</p></div> <div><ul>  <li>Partners</li></ul><p>  Zoom Partners bring Zoom’s communications platform to market through alliance, sales, and service partnerships.</p><p>  Explore Zoom’s technology ecosystem
+</p><p>  Find a trusted Partner
+</p><p>  Learn about Zoom’s Partner Programs
+</p><p>  Access marketing & sales resources
+</p><p>  Log in to the Partner Portal and click 'Learn’ 
+
+
+</p><ul>  <li>
+
+</li><li>Explore</li></ul><p>  Discover new ways to use Zoom solutions to power your modern workforce.</p><ul>  <li>Learn</li></ul></div> <p><p>  Access expert-led tutorials on Zoom products and features.</p></p> <div><ul>  <li>Connect</li></ul><p>  Network with other Zoom users, and share your own product and industry insights.</p><ul>  <li>Support</li></ul><p>  Get documentation on deploying, managing, and using the Zoom platform.</p><span>  Download Zoom Client</span><p>  Keep your Zoom client up to date to access the latest features.<a href="https://zoom.us/download#client_4meeting" target="_blank"> Download Center </a></p><span>  Zoom Virtual Backgrounds</span><p>  Download hi-res images and animations to elevate your next Zoom meeting.<a href="https://explore.zoom.us/en/virtual-backgrounds/" target="_blank"> Browse backgrounds </a>
+</p></div> <div><ul>  <li>
+
+</li><li>
+
+</li></ul></div> <div><h1>  Compliance</h1><p>  Welcome to Zoom Compliance.</p><p>  Zoom complies with applicable laws and regulations in the jurisdictions in which it operates.</p><p>  The information provided here is for Zoom users who have questions about our terms, policies, and compliance. Visit the legal & compliance resources section for more information.</p></div> <div><h2>  Certifications and Attestations</h2></div> <div><h4>  ISO 27001</h4><p>  Globally recognized security standard for implementing an ISMS</p><span>  Learn more</span></div> <div><h4>  SOC 2 Type 2</h4><p>  SOC 2 Type 2 report covering Security, Availability, and Privacy</p><span>  Learn more</span></div> <div><h4>  SOC 2 Type 1</h4><p>  SOC 2 Type 1 report covering Security, Availability, and Privacy</p><span>  Learn more</span></div> <div><h4>  SOC 2 + HITRUST</h4><p>  SOC 2 Type 2 report that includes controls relevant to HITRUST</p><span>  Learn more</span></div> <div><h4>  CSA STAR Level 2</h4><p>  Registry of security and compliance controls for cloud service offerings</p><span>  Learn more</span></div> <div><h4>  FedRAMP Moderate</h4><p>  US Government security standard for cloud products and service</p><span>  Learn more</span></div> <div><h4>  DoD IL4</h4><p>  Cloud computing security requirements for the US Department of Defense</p><span>  Learn more</span></div> <div><h4>  StateRAMP</h4><p>  State and local government
+cybersecurity standard for service providers</p><span>  Learn more</span></div> <div><h4>  CJIS</h4><p>  Compliance Assessment Report</p><span>  Learn more</span></div> <div><h4>  Common Criteria</h4><p>  Certification of security functionality of the Zoom client</p><span>  Learn more</span></div> <div><h4>  UK Cyber Essentials Plus</h4><p>  UK Government information security assurance scheme</p><span>  Learn more</span></div> <div><h4>  iRAP</h4><p>  Security controls assessment for Australian Government customers</p><span>  Learn more</span></div> <div><h4>  ACN</h4><p>  Italian supervisory body that certifies qualified trust service providers</p><span>  Learn more</span></div> <div><h4>  ENS</h4><p>  Security standards for all government agencies and public organizations in Spain</p><span>  Learn more</span></div> <div><h4>  BSI C5</h4><p>  Security of cloud services that leverages internationally recognized security standards</p><span>  Learn more</span></div> <div><h2>  Assessments and Standards</h2></div> <div><h4>  SIG</h4><p>  Standardized security risk assessment questionnaire</p><span>  Learn more</span></div> <div><h4>  CAIQ</h4><p>  Standardized cybersecurity controls questionnaire for cloud computing</p><span>  Learn more</span></div> <div><h4>  TruSight</h4><p>  Independent third party assessment for financial institutions</p><span>  Learn more</span></div> <div><h4>  CyberGRX</h4><p>  Third party validated security assessment</p><span>  Learn more</span></div> <div><h4>  FISC</h4><p>  Security guidelines for Japanese banking and financial institutions</p><span>  Learn more</span></div> <div><h4>  Whistic Validated Assessment</h4><p>  Independent assessment of widely used security controls and Standards in line with the Whistic Control Framework</p><span>  Learn more</span></div> <div><h2>  Additional Resources</h2><span>  Language</span><ul>  <li>English</li></ul><span>  Currency</span><ul>  <li>US Dollars $</li></ul><span>  Zoom on Blog</span><span>  Zoom on LinkedIn</span><span>  Zoom on Twitter</span><span>  Zoom on Youtube</span><span>  Zoom on Facebook</span><span>  Zoom on Instagram</span><span>  Zoom on TikTok</span></div> <div><h3>  Cookie Preference Center</h3></div> <div><h3>   Manage Consent Preferences</h3></div> <div><h4>  Targeting Cookies</h4><label>  Targeting Cookies</label><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to track your usage of our website and, depending on their policies, may combine that information with other information to show you relevant advertisements on our site and other sites. If you do not allow these cookies, you will not see personalized advertising on Zoom’s website or products.</p></div> <div><h4>  Functional Cookies</h4><label>  Functional Cookies</label><p>  These cookies enable the website to provide enhanced functionality and customization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div> <div><h4>  Performance Cookies</h4><label>  Performance Cookies</label><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are strictly necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. </p></div> <div><h3>  Performance Cookies</h3><label>  Vendor Search</label><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><ul>  <li>View Cookies</li></ul><p>  Zoom uses cookies and similar technologies as described in our <a href="https://explore.zoom.us/en/cookie-policy/" target="_blank"> cookie statement </a>.  You can manage your cookie settings or exercise your rights related to cookies through our Cookies Settings. </p></div>

@@ -1,0 +1,39 @@
+<div><span>  Main Menu</span><ul>  <li>Use Cases
+</li><li>Tourism
+</li><li>Attractions
+</li><li>Theme Parks
+</li><li>Retail
+</li><li>Gaming
+</li><li>Airports
+</li><li>Sports
+
+</li><li>Resources
+</li><li>Lodging
+</li><li>Daily Travel Index
+
+</li><li>Products
+</li><li>About Us
+</li><li>About Arrivalist
+</li><li>Blog
+</li><li>News
+
+</li><li>Careers
+</li><li>Contact Us
+</li><li>Contact Us
+
+
+</li><li>Login
+</li><li>Request A Demo
+</li></ul><p>  Arrivalist collects information that helps us understand and show the movement of devices (mobiles, pads, laptops) which allow us to see movements of the population at large. We anonymize (scrub) any personal data collected before it goes into our system and do not sell this data but only share the insights of these broad population movements with our clients.</p></div> <p><p>  Please see our <a href="https://www.arrivalist.com/privacy/" target="_blank"> Privacy Policy </a> for more information.</p></p> <p><p>  If you would like to opt-out please use the links below.</p></p> <p><p>  Stop the sale of my privacy data: <a href="https://www.arrivalist.com/consumer-privacy-control/#" target="_blank"> Europe </a> | <a href="https://www.arrivalist.com/consumer-privacy-control/#" target="_blank"> US </a></p></p> <p><p>  To delete your personal information, please contact us at:</p></p> <div><h4>  <strong> Contact Information </strong></h4><p>  <strong> Phone: </strong> (833) 278-5781<strong> Website: </strong> https://www.arrivalist.com<strong> Email: </strong> <a href="mailto:Privacy@arrivalist.com" target="_blank"> privacy@arrivalist.com </a></p><p>  <strong> Postal Address: </strong>
+Arrivalist Co.
+Attn: Privacy Compliance
+1460 Broadway, 6<sup> th </sup> Floor
+New York, NY 10036</p></div> <div><h3>  Say Hello</h3><p>  1460 Broadway 6th Flr.
+New York, NY 10036</p><p>  535 Mission St, 14th floor
+San Francisco, CA 94105</p><ul>  <li>Facebook
+</li><li>Linkedin
+</li><li>Twitter
+</li><li>Careers
+</li><li>Contact Us
+</li><li>Privacy & GDPR
+</li></ul><p>  Copyright 2023 Arrivalist</p><p>  By continuing to browse, you agree to the storing of first- and third-party cookies on your device to remember registration details, collect statistics to enhance usability, analyze site usage, customize content delivered to you, and assist in our marketing efforts. <a href="/consumer-privacy-control" target="_blank"> Privacy Settings </a> | <a href="/privacy" target="_blank"> Privacy Policy </a>.</p></div>

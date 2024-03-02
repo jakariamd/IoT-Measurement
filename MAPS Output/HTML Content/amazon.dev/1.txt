@@ -1,0 +1,28 @@
+<div><h3>  We value your privacy</h3></div> <div><h3>  Saving...</h3></div> <div><h2>  Privacy Settings</h2><label>  On
+</label><span>  Off
+
+</span></div> <div><h3>  Strictly Necessary Cookies</h3><td>  
+These cookies are necessary for the web application to function and cannot be switched off. 
+These cookies make it possible for you to stay logged in to your account. 
+These cookies do not store any personal identifiable information. 
+You must accept these cookies.
+</td><label>  On
+</label><span>  Off
+
+</span></div> <div><h3>  Functional Cookies</h3><td>  
+These cookies enable the web application to provide enhanced functionality and personalization. 
+They may include cookies from third parties whose services we have added to the application. 
+
+<b> Disabling these cookies will disable our in application help and guidance user assistant tool 
+Maestro entirely and you won’t be able to receive any benefits of the Maestro assistant. </b>
+</td><label>  On
+</label><span>  Off
+
+</span></div> <div><h3>  Performance and Analytics Cookies</h3><td>  
+These cookies store anonymized data about your usage patterns and feature interaction. 
+We use this data to improve our applications and give users a better experience. 
+These may include cookies from a third party whose services we have added to the application.
+Learn more about your how we handle your data by reading our 
+<a href="https://www.e2open.com/privacy-policy/" target="_blank"> Privacy Policy </a>
+</td><span>  
+                    Copyright © </span></div>

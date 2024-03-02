@@ -1,0 +1,69 @@
+<p><p>   Mweb uses cookies to offer you a better experience and by using our site, you agree to their use.</p></p> <p><p>   Find out more about cookies and how we manage them in our <a href="https://www.mweb.co.za/legal-notices/policies/privacy-policy" target="_blank"> Privacy Policy </a></p></p> <div><label>  Internet Security</label><label>  Entertainment</label><label>  Hosting and Domains</label><label>  Home Office</label><label>  More</label><span>  Back to Legal Policies</span><p>  Privacy Policy</p><p>  
+            This Privacy Policy (the “Privacy Policy”) describes how MWEB, a division of Internet Solutions (Pty) Ltd, collects,
+            uses, and discloses information from and about you when you visit our website and/or use our products and services.
+        </p><p>  
+            MWEB is committed to safeguarding and preserving your rights to your Personal Information. We will always treat your
+            Personal Information as strictly confidential.
+        </p></div> <p><p>  
+            “Personal Information” includes, but is not limited to, your name, email address, contact number, physical address,
+            location, online identifier, biometric information and personal views and opinions.
+        </p></p> <div><p>  Collection of Personal Information</p><p>  
+            MWEB will collect your information where we have a legitimate business interest; in order to perform our contractual
+            duties; to comply with our legal duties; or where you have provided your consent.
+        </p><p>  
+            When you request information about a particular product or service, sign up as a user of our services, or otherwise
+            contact us, we may collect information as your name, telephone number, email address, and location.
+        </p></div> <p><p>  
+            MWEB automatically collects information from you when you visit our website by using cookies and similar technologies.
+        </p></p> <div><p>  Cookies and Similar Technologies</p><p>  
+            We use cookies and similar technologies (such as google analytics, pixel tags and web beacons) in order to enhance
+            your interactive experience on our websites and generally improve the service which we offer you as well as to
+            enable us to advertise our products and services to you, that you have shown interest in.
+        </p><p>  
+            Cookies are small files of data that we store on your device when you access our website, this allows us to collect
+            information such as your internet protocol address, your browser type, location, and device information.
+        </p></div> <p><p>  
+            You have the ability to accept or decline cookies, and this can be done via your browser settings.
+        </p></p> <div><p>  Use of Personal Information</p><p>  We will use the Personal Information that we collect from and about you for one or more of the following purposes: </p><p>  
+•	When you have requested information about our products and/or services, to respond to your request; 
+•	To provide you with products and/or services that you have contracted for; 
+•	To market our products and services to you; 
+•	To improve our products and/or services;
+•	To improve our website functionality;
+•	To inform you of any changes to our products and/or services;
+•	For market research purposes;
+•	To provide you with technical and administrative support;
+•	As otherwise required by law; and
+•	For reasons not described in the Privacy Policy where the reason for processing is consistent with the purpose for which we originally collected your information; and/or where we have a legitimate business interest, and where such use is lawful.
+</p></div> <div><p>  Disclosure of Personal Information</p><p>  MWEB may disclose your information in the following circumstances:</p><p>  
+            •	The NTT Group of Companies: we may share your data within the NTT Group to enable us to provide our services to you, 
+                 fulfil our contractual obligations with you, and to provide you with adequate support;
+            •	Where you have consented to the sharing of your information for marketing and promotional purposes;
+            •	Suppliers and Service Providers: MWEB uses third party suppliers and service providers who provide us with technical,                                   
+                 professional and support services, including but not limited to, payment providers; marketing services; debt collection 
+                 services, identity verification services; courier services; hosting and maintenance services;
+            •	Legal and Regulatory: to satisfy any applicable law, regulation, legal process, or governmental request, this includes, to 
+                 the Independent Communications Authority of South Africa for the purpose of compiling, verifying or auditing any 
+                 reports, accounts or other information required under MWEB's license or in terms of the Electronic Communications Act, 
+                 2005 and the regulations made pursuant to that Act; and/or when directed by a court order; 
+            •	Fraud Prevention and Detection: where we suspect fraudulent activity on your account or as a result of utilizing our 
+                 products and/or services.
+            •	International Transfer: data is hosted in MWEB’s local server in South Africa, with back-ups in the European Union.
+            •	Sale or Transfer of Business Assets: we may share your Personal Information in a business transfer in the event that there 
+            is an acquisition or merger. 
+</p></div> <div><p>  Data Retention and Security Measures</p><p>  We shall retain your Personal Information for the duration of our relationship with you. In some circumstances,
+            we may retain your Personal Information on your systems for a longer period of time, the reason for this is
+            to allow us to:</p><p>  
+            •	Comply with record retention requirements as prescribed by law; 
+            •	Audit our business;
+            •	Understand your consumer journey; and 
+            •	Respond to complaints regarding our services.
+</p></div> <p><p>  MWEB is committed to protecting the security of your Personal Information. We employ what we believe is an
+            adequate level of technical and organizational measures to ensure that your Personal Information is kept
+            secure and is protected against unauthorized or unlawful processing, accidental loss, destruction or damage,
+            alteration, disclosure or access.</p></p> <div><p>  Data Subject Rights</p><p>  You may contact us to change, update or access your Personal Information; and to unsubscribe from any
+            promotional communication. </p><p>  General</p><p>  We are not responsible for the privacy practices of or the content on sites linking out of the MWEB network. 
+            You agree to exclude MWEB from any liability arising from your access to sites other than those on the MWEB 
+            network. MWEB reserves the right to make changes to the Privacy Policy, at any time and without notice. Any 
+            change binds you as soon as you access the Website or use our services. We therefore strongly recommend 
+            checking this page on a regular basis.</p></div> <div><p>  Products</p><p>  Other</p><p>  Support</p><p>  Customers</p><p>  Contact Us</p><p>  Sales: <a href="tel:0877005000" target="_blank"> 087 700 5000 </a></p><p>  Technical: <a href="tel:0877000777" target="_blank"> 087 700 0777 </a></p><p>  Billing: <a href="tel:0877002121" target="_blank"> 087 700 2121 </a></p><p>  </p></div>

@@ -1,0 +1,68 @@
+<p><p>  Apache HTTP Server Version 2.4</p></p> <div><h1>  Access Control</h1><p>  Available Languages: <a href="../../en/howto/access.html" target="_blank">  en  </a> |
+<a href="../../fr/howto/access.html" target="_blank">  fr  </a></p><p>  Access control refers to any means of controlling access to any
+    resource. This is separate from <a href="auth.html" target="_blank"> authentication and authorization </a>.</p><p>  Access control can be done by several different modules. The most
+    important of these are <a href="../mod/mod_authz_core.html" target="_blank"> mod_authz_core </a> and
+    <a href="../mod/mod_authz_host.html" target="_blank"> mod_authz_host </a>. Also discussed in this document
+    is access control using <a href="../mod/mod_rewrite.html" target="_blank"> mod_rewrite </a>.</p></div> <p><p>  
+    If you wish to restrict access to portions of your site based on the
+    host address of your visitors, this is most easily done using
+    <a href="../mod/mod_authz_host.html" target="_blank"> mod_authz_host </a>.
+    </p></p> <p><p>  The <a href="../mod/mod_authz_core.html#require" target="_blank"> Require </a>
+    provides a variety of different ways to allow or deny access to
+    resources. In conjunction with the <a href="../mod/mod_authz_core.html#requireall" target="_blank"> RequireAll </a>, <a href="../mod/mod_authz_core.html#requireany" target="_blank"> RequireAny </a>, and <a href="../mod/mod_authz_core.html#requirenone" target="_blank"> RequireNone </a> directives, these
+    requirements may be combined in arbitrarily complex ways, to enforce
+    whatever your access policy happens to be.</p></p> <p><p>  
+    The <a href="../mod/mod_access_compat.html#allow" target="_blank"> Allow </a>,
+    <a href="../mod/mod_access_compat.html#deny" target="_blank"> Deny </a>, and
+    <a href="../mod/mod_access_compat.html#order" target="_blank"> Order </a> directives,
+    provided by <a href="../mod/mod_access_compat.html" target="_blank"> mod_access_compat </a>, are deprecated and
+    will go away in a future version. You should avoid using them, and
+    avoid outdated tutorials recommending their use.
+    </p></p> <div><p>  The usage of these directives is:</p><span>  Require</span><span>   host address
+</span><span>  Require</span><span>   ip ip</span><span>  address</span><p>  In the first form,  is a fully qualified
+    domain name (or a partial domain name); you may provide multiple
+    addresses or domain names, if desired.</p><p>  In the second form,  is an IP address, a
+    partial IP address, a network/netmask pair, or a network/nnn CIDR
+    specification. Either IPv4 or IPv6 addresses may be used.</p><p>  See <a href="../mod/mod_authz_host.html#requiredirectives" target="_blank"> the
+    mod_authz_host documentation </a> for further examples of this
+    syntax.</p></div> <p><p>  You can insert  to negate a particular requirement.
+    Note, that since a  is a negation of a value, it cannot 
+    be used by itself to allow or deny a request, as <em> not true </em>
+    does not constitute <em> false </em>. Thus, to deny a visit using a negation,
+    the block must have one element that evaluates as true or false.
+    For example, if you have someone spamming your message
+    board, and you want to keep them out, you could do the
+    following:</p></p> <div><span>  RequireAll</span><span>  
+    </span><span>  Require</span><span>   all granted
+    </span><span>  Require</span><span>   not ip </span><span>  10.252</span><span>  46.165</span><span>  </</span><span>  RequireAll</span><p>  Visitors coming from that address ()
+    will not be able to see the content covered by this directive. If, 
+    instead, you have a machine name, rather than an IP address, you 
+    can use that.</p><span>  Require</span><span>   not host </span><span>  host</span><span>  example</span></div> <div><span>  com</span><p>  And, if you'd like to block access from an entire domain,
+    you can specify just part of an address or domain name:</p><span>  Require</span><span>   not ip </span><span>  192.168</span><span>  205</span><span>  Require</span><span>   not host phishers</span><span>  example</span><span>  com moreidiots</span><span>  example
+</span><span>  Require</span><span>   not host gov</span><p>  Use of the <a href="../mod/mod_authz_core.html#requireall" target="_blank"> RequireAll </a>, <a href="../mod/mod_authz_core.html#requireany" target="_blank"> RequireAny </a>, and <a href="../mod/mod_authz_core.html#requirenone" target="_blank"> RequireNone </a> directives may be
+    used to enforce more complex sets of requirements.</p></div> <p><p>  Using the <a href="../mod/core.html#if" target="_blank"> <If> </a>,
+    you can allow or deny access based on arbitrary environment
+    variables or request header values. For example, to deny access
+    based on user-agent (the browser type) you might do the
+    following:</p></p> <div><span>  If</span><span>  "%{HTTP_USER_AGENT} == 'BadBot'"</span><span>  
+    </span><span>  Require</span><span>  All</span><span>  Denied</span><span>  </</span><span>  If</span></div> <div><h3>  Warning:</h3><p>  Access control by  is an unreliable technique,
+    since the  header can be set to anything at all,
+    at the whim of the end user.</p><p>  See <a href="../expr.html" target="_blank"> the expressions document </a> for a
+    further discussion of what expression syntaxes and variables are
+    available to you.</p><p>  The  <a href="../mod/mod_rewrite.html#rewriterule" target="_blank"> RewriteRule </a> flag causes a 403 Forbidden
+    response to be sent. Using this, you can deny access to a resource based
+    on arbitrary criteria.</p></div> <p><p>  For example, if you wish to block access to a resource between 8pm
+    and 6am, you can do this using <a href="../mod/mod_rewrite.html" target="_blank"> mod_rewrite </a>.</p></p> <div><span>  RewriteEngine</span><span>  On</span><span>  RewriteCond</span><span>  %{</span><span>  TIME_HOUR</span><span>  >=</span><span>  20</span><span>  OR</span><span>  RewriteCond</span><span>  %{</span><span>  TIME_HOUR</span><span>  07</span><span>  RewriteRule</span><span>  ^/</span><span>  fridge </span><p>  This will return a 403 Forbidden response for any request after 8pm
+    or before 7am. This technique can be used for any criteria that you wish
+    to check. You can also redirect, or otherwise rewrite these requests, if
+    that approach is preferred.</p></div> <p><p>  The <a href="../mod/core.html#if" target="_blank"> <If> </a> directive,
+    added in 2.4, replaces many things that <a href="../mod/mod_rewrite.html" target="_blank"> mod_rewrite </a> has
+    traditionally been used to do, and you should probably look there first
+    before resorting to mod_rewrite.</p></p> <p><p>  The <a href="../expr.html" target="_blank"> expression engine </a> gives you a
+    great deal of power to do a variety of things based on arbitrary
+    server variables, and you should consult that document for more
+    detail.</p></p> <p><p>  Also, you should read the <a href="../mod/mod_authz_core.html" target="_blank"> mod_authz_core </a>
+    documentation for examples of combining multiple access requirements
+    and specifying how they interact.</p></p> <p><p>  See also the <a href="auth.html" target="_blank"> Authentication and Authorization </a>
+    howto.</p></p> <p><p>  Available Languages: <a href="../../en/howto/access.html" target="_blank">  en  </a> |
+<a href="../../fr/howto/access.html" target="_blank">  fr  </a></p></p> <p><p>  Copyright 2013 The Apache Software Foundation.Licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank"> Apache License, Version 2.0 </a>.</p></p>

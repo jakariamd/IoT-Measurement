@@ -1,0 +1,47 @@
+<div><span>  Welcome to {{domainText}}</span><span>  
+              close
+        </span><span>  
+                                                        More travel
+                                                    
+</span><span>  
+
+</span><span>  
+
+
+</span><span>  
+                                                        Shop Travel
+                                                    
+</span><span>  
+
+
+</span></div> <div><h3>  Shop Travel</h3><span>  
+
+
+</span><span>  
+
+
+</span><span>  
+
+
+</span><span>  
+
+
+</span><span>  
+
+
+</span><span>  
+
+</span><span>  
+
+
+</span><span>   Sign in
+</span><span>  Sign in
+</span><span>  Sign up, it’s free
+</span><p>  Display settings</p></div> <div><h3>  localePreferences.picker.oneKey.headingText</h3></div> <div><h3>  localePreferences.picker.oneKey.non.headingText</h3><span>  Change language</span><span>  Change currency</span><p>  Global site</p><span>  Change region</span><span>  Done
+</span></div> <div><h2>  Language</h2><span>  Save
+</span></div> <div><h2>  Currency</h2><span>  Save
+</span></div> <div><h2>  Region</h2><p>  You can only access your trip information and Expedia Rewards points from the Expedia site you booked on.</p><span>  Save
+</span></div> <div><h5>  Page not found</h5><p>  
+                            We apologize, but we cannot find the page you’re looking for.
+                            Please start your search from <a href="/" target="_blank"> Hotels.com’s homepage </a>.
+                        </p></div>

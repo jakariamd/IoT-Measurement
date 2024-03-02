@@ -1,0 +1,172 @@
+<div><h4>  Privacy and Cookie Policy Generator<a href="https://www.iubenda.com/en/privacy-and-cookie-policy-generator" target="_blank"> Explore </a></h4><p>  Create your privacy and cookie policy in minutes. Customizable from 1700+ clauses, available in 11 languages and automatically updated if the law changes, our generator allows you to create a legal document in minutes and seamlessly integrate it with your website or app.<a href="https://www.iubenda.com/en/privacy-and-cookie-policy-generator" target="_blank"> Explore </a></p></div> <div><h4>  Privacy Controls and Cookie Solution<a href="https://www.iubenda.com/en/cookie-solution" target="_blank"> Explore </a></h4><p>  Manage consent preferences for the ePrivacy, GDPR, CPRA (CCPA amendment) and LGPD. Integrated with the IAB TCF and CCPA Compliance Framework. Our solution allows you to display a fully customizable cookie banner/consent banner, collect cookie consent, implement prior blocking (including auto-blocking), set advertising preferences, and more.<a href="https://www.iubenda.com/en/cookie-solution" target="_blank"> Explore </a></p></div> <div><h4>  Terms and Conditions Generator<a href="https://www.iubenda.com/en/terms-and-conditions-generator" target="_blank"> Explore </a></h4><p>  Create your terms and conditions in minutes.Customizable from hundreds of combinations, available in 11 languages, powerful and precise — our solution is capable of handling even the most complex, individual scenarios. Optimized for e-commerce, marketplace, SaaS, apps and more.<a href="https://www.iubenda.com/en/terms-and-conditions-generator" target="_blank"> Explore </a></p></div> <div><h4>  Consent Database<a href="https://www.iubenda.com/en/consent-solution" target="_blank"> Explore </a></h4><p>  Collect GDPR & LGPD consent, document opt-ins and <a href="/en/help/19133#right-to-opt-out" target="_blank"> CPRA (CCPA amendment) opt-outs </a> via your web forms. Our solution smoothly integrates with your consent collection forms, syncs with your legal documents and includes a user-friendly dashboard for reviewing consent records of your activities.<a href="https://www.iubenda.com/en/consent-solution" target="_blank"> Explore </a></p></div> <div><h4>  Register of Data Processing Activities<a href="https://www.iubenda.com/en/internal-privacy-management" target="_blank"> Explore </a></h4><p>  Document all the data processing activity within your organization. To comply with privacy laws, and particularly the GDPR, companies need to record how they store and use the data they collect from their users. Our solution allows you to easily document all the data processing activities within your organization.<a href="https://www.iubenda.com/en/internal-privacy-management" target="_blank"> Explore </a></p></div> <ul><ul>  <li>iubenda for...
+</li></ul></ul> <div><h3>  Use cases</h3><p>  Some of the ways you can use iubenda</p></div> <div><h2>  Documentation</h2><span>  Documentation</span><ul>  <li>
+      Getting Started
+      </li><li>
+<strong> Compliance for: </strong>
+</li><li>
+      Legal Requirements
+      </li><li>
+      Main Legislations
+      </li><li>
+<strong> GDPR </strong>
+</li><li>
+<strong> Cookie Law / ePrivacy </strong>
+</li><li>
+<strong> US State Laws </strong>
+</li><li>
+<strong> CalOPPA and COPPA </strong>
+</li><li>
+<strong> LGPD </strong>
+</li><li>
+<strong> Other Legislations </strong>
+</li><li>
+      Common Scenarios
+      </li><li>
+<strong> Blogs and Websites </strong>
+</li></ul></div> <div><ul>  <li>
+<strong> E-commerce </strong>
+</li><li>
+<strong> Emails and Newsletters </strong>
+</li><li>
+<strong> Apps </strong>
+</li><li>
+<strong> Facebook Pages and Apps </strong>
+</li><li>
+<strong> Children </strong>
+</li><li>
+<strong> Multi-lingual Websites and Apps </strong>
+</li><li>
+<strong> Ads and Affiliate Programs </strong>
+</li><li>
+<strong> Analytics and Other Google Services </strong>
+</li><li>
+      Privacy and Cookie Policy Generator
+      </li><li>
+      Creating Your Policy
+      </li><li>
+<strong> Generating </strong>
+</li></ul></div> <div><ul>  <li>
+<strong> Adding Services </strong>
+</li><li>
+<strong> Adding Owner Details </strong>
+</li><li>
+<strong> Languages </strong>
+</li><li>
+      Editing/Updating Your Policy
+      </li><li>
+<strong> iubenda Branding </strong>
+</li><li>
+<strong> Advanced Settings </strong>
+</li><li>
+      Embedding Your Policy
+      </li><li>
+<strong> General </strong>
+</li><li>
+<strong> Apps </strong>
+</li><li>
+<strong> Popular Platforms </strong>
+</li><li>
+<strong> Advanced </strong>
+</li><li>
+      Troubleshooting and FAQs
+      </li></ul></div> <div><ul>  <li>
+<strong> Changelog </strong>
+</li><li>
+      Privacy Controls and Cookie Solution
+      </li><li>
+      Introduction
+      </li><li>
+      Cookie Banner Setup and Customization
+      </li><li>
+<strong> Advertising Tracking Preferences </strong>
+</li><li>
+<strong> Languages </strong>
+</li><li>
+      For US
+      </li><li>
+      Installation and Prior Blocking Implementation
+      </li><li>
+<strong> Plugins and integrations </strong>
+</li><li>
+<strong> Prior Blocking Implementation </strong>
+</li></ul></div> <div><ul>  <li>
+<strong> Advanced </strong>
+</li><li>
+<strong> Stats </strong>
+</li><li>
+      Troubleshooting and FAQs
+      </li><li>
+<strong> Channels and Changelog </strong>
+</li><li>
+      Terms and Conditions Generator
+      </li><li>
+      Creating Your Document
+      </li><li>
+      Editing/Updating Your Document
+      </li><li>
+<strong> Advanced options </strong>
+</li><li>
+      Embedding Your Document
+      </li><li>
+<strong> General </strong>
+</li><li>
+<strong> Popular Platforms </strong>
+</li><li>
+<strong> Advanced </strong>
+</li></ul></div> <div><ul>  <li>
+      Troubleshooting and FAQs
+      </li><li>
+<strong> Changelog </strong>
+</li><li>
+      Consent Database
+      </li><li>
+      Getting Started
+      </li><li>
+      Implementation
+      </li><li>
+<strong> Popular Platforms </strong>
+</li><li>
+<strong> WordPress </strong>
+</li><li>
+<strong> Advanced </strong>
+</li><li>
+      Troubleshooting and FAQs
+      </li><li>
+      Register of Data Processing Activities
+      </li><li>
+      Resources
+      </li><li>
+      Videos
+      </li><li>
+<strong> Privacy and Cookie Policy Generator </strong>
+</li></ul></div> <ul><ul>  <li>
+<strong> Privacy Controls and Cookie Solution </strong>
+</li><li>
+<strong> Terms and Conditions Generator </strong>
+</li><li>
+<strong> Consent Database </strong>
+</li><li>
+<strong> Register of Data Processing Activities </strong>
+</li><li>
+      Templates
+      </li><li>
+<strong> GDPR </strong>
+</li><li>
+<strong> CPRA & CCPA </strong>
+</li><li>
+      Cheat Sheets, Checklists and Tests
+      </li><li>
+      Account and Billing
+      </li><li>
+      Plans and Licenses
+      </li><li>
+      Payment
+      </li></ul></ul> <div><ul>  <li>
+      Invoices
+      </li><li>
+      Partners and Affiliates
+      </li><li>
+      About iubenda
+      </li></ul></div> <div><h1>  How to Create a Privacy Policy</h1><p>  Want to create a privacy policy? Generating and setting up your privacy policy with iubenda is incredibly easy. </p><p>  In this post, we’ll show you how. If you need any additional help, please feel free to message us via the chat window (you can find it by clicking on the green help button on the right and then clicking on the live chat button at the top). We’re happy to answer any of your questions anytime.</p><p>  Before we start, if you haven’t already, you’ll need to <a href="https://www.iubenda.com/en/signup?ref=header" target="_blank"> sign-up here </a>.</p></div> <p><p>  <strong> Once you’re signed up </strong> it’s time to get started. The process is simple and pretty straightforward. Simply:</p></p> <div><ul>  <li>Customize your privacy policy</li><li>Add the privacy policy to your site</li><li>Update and refine your policy when needed</li></ul><p>  💡 If you already have a similar site/policy, you don’t have to start from scratch: you can take advantage of the <a href="https://www.iubenda.com/en/help/2739#duplicate" target="_blank"> site duplication feature </a>.</p></div> <div><h2>  1. Create and customize your privacy policy</h2><p>  Your privacy policy needs to be adapted to your site’s or app’s data collection practices. You do that by adding a service.</p><p>  Services generally fall into two categories:</p><ul>  <li>Services related to your own data collection activities (eg. contact forms)</li><li>Services related to third-party data collection activities (eg. Google Analytics)</li></ul><p>  We’ve added a <a href="https://www.iubenda.com/en/help/19004" target="_blank"> Site Scanner </a> within the services window of the generator which allows you to quickly inspect your site in real-time and identify which services you need to add to your policy. Do note that although our scanner is powerful, it can only scan for <strong> technologies that are directly integrated on your pages </strong>. You will, therefore, still need to add manually the clauses that relate to data processing practices like newsletter sending.</p></div> <p><p>  When figuring out which basic services to add to your policy, it may help to ask yourself the following questions:</p></p> <div><h3>  What user data do I collect myself and how do I collect it?</h3><p>  Eg. newsletter forms, contact forms, comment systems.</p></div> <div><h3>  Which third-party services do I use on my site/app?</h3><p>  Most likely these services also process user data in some way and <a href="https://www.iubenda.com/en/help/5463" target="_blank"> therefore must be included </a> in your policy. Some common ones are:</p><ul>  <li><strong> Social widgets </strong> (e.g Facebook like/share button, Twitter tweet button, Pinterest “pin it” button);</li><li><strong> External account access services </strong>: services that let you access the user’s account on another platform (e.g. Facebook account access, Twitter account access);</li><li><strong> Payment processing services </strong> (e.g. Stripe, PayPal);</li><li><strong> Tracking and analytics </strong> (e.g Google Analytics, Piwik, WordPress Stats). Please note: if using tracking, you’ll likely need to include a <a href="https://www.iubenda.com/en/help/275" target="_blank"> cookie notice </a> and implement a <a href="https://www.iubenda.com/en/help/1177" target="_blank"> cookie solution </a> on your site);</li></ul></div> <ul><ul>  <li><strong> Email & newsletter management </strong> services (e.g Constant Contact, MailChimp, Mad Mimi, AWeber):</li><li><strong> Ad services </strong> (e.g Google Adsense, Google Ads, AdButler).</li></ul></ul> <div><h3>  For which purposes do I collect these data?</h3><p>  In most cases, the purpose of the data collection is standard and automatically included within the services added, however, there are some instances where you’re required to add additional disclosures. Some common ones are:</p><ul>  <li>Selling goods and services online</li><li>Direct Email Marketing (DEM) purposes ( monetizing your newsletter or promoting third-party products and services)</li></ul><p>  You can also easily add <strong> custom services </strong> by <a href="https://www.iubenda.com/en/help/386" target="_blank"> simply filling out the built-in form </a>.</p></div> <p><p>  You can read more about what you’re legally required to disclose and obtain consent for in our <a href="https://www.iubenda.com/en/help/5463" target="_blank"> Getting Started Guide </a>.</p></p> <div><h5>  🇺🇸 Have you or your customers based in the US?</h5></div> <div><h2>  2. Add the privacy policy to your site</h2><p>  When the privacy policy is ready it needs to be added to the site. This is done by using the embedding code we provide.</p><p>  You can make the privacy policy available on your site/<a href="https://www.iubenda.com/en/help/11552-privacy-policy-for-android-apps" target="_blank"> app </a> in the following ways:</p><ul>  <li>as <a href="https://www.iubenda.com/en/help/216" target="_blank"> a button with a modal window </a> (included in the standard free version);</li><li>as <a href="https://www.iubenda.com/en/help/228" target="_blank"> a direct link </a> (e.g. for App Stores);</li><li>or as <a href="https://www.iubenda.com/en/help/78" target="_blank"> a direct site embed </a> (that shows your privacy policy as a part of your website).</li></ul></div> <div><p>  The video below shows how you can easily add the privacy policy to your website:</p><p>  Additional links you might find useful here are:</p></div> <div><h2>  3. Update and refine your policy when needed</h2><p>  We constantly monitor the major legal regulations and automatically update your policy to keep it valid and up-to-date, however, should you need to manually update your personal information, contact details, custom clauses or add additional services, you can simply log back into your <a href="https://www.iubenda.com/en/dashboard" target="_blank"> iubenda dashboard </a> and make changes anytime.</p></div> <div><h2>  Create a privacy policy for your website/app</h2></div> <div><h3>  See also</h3></div> <div><h4>  Still have questions?</h4></div> <div><h4>  Product and services</h4></div> <div><h5>  Compliance for websites and apps</h5></div> <div><h4>  Privacy and Cookie Policy Generator</h4></div> <div><h4>  Privacy Controls and Cookie Solution</h4></div> <div><h4>  Terms and Conditions Generator</h4></div> <div><h4>  Consent Database</h4></div> <div><h4>  Register of Data Processing Activities</h4></div> <div><h4>  Company</h4></div> <div><h4>  Legal</h4></div> <div><h4>  Help</h4><label>  Country</label><address>  
+<strong> iubenda s.r.l </strong>Via San Raffaele, 1 - 20121 Milan (Italia)EU VAT No: IT07347120961UK VAT No: GB370904694Milan Chamber of CommerceSC: 12,603.50 Eur (fully paid up)
+          </address><p>  We and selected third parties collect personal information as specified in the <a href="javascript:void(0)" target="_blank"> privacy policy </a> and use cookies or similar technologies for technical purposes and, with your consent, for other purposes as specified in the <a href="https://www.iubenda.com/privacy-policy/252372/cookie-policy?an=no&s_ck=false&newmarkup=yes" target="_blank"> cookie policy </a>. Denying consent may make related features unavailable.</p></div> <p><p>  Use the “Accept” button to consent. Use the “Reject” button or close this notice to continue without accepting.</p></p> <div><span>  Click for sound</span><span>  Click for sound</span><span>   Help </span><span>  suggested results</span></div>

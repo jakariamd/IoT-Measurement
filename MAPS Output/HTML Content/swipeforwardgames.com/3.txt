@@ -1,0 +1,186 @@
+<div><h1>  Thank you for playing Tiny Castle!
+</h1><div>  Want to talk about the game and participate in contests? Explore the Tiny Castle Community on Facebook:
+</div><div>  Follow us on Twitter too: <a href="http://twitter.com/TinyCastleGame" target="_blank"> @TinyCastleGame </a>
+
+</div></div> <div><h1>  How to Play
+</h1><div>  <b> What's new in 1.0.2? </b>
+</div><ul>  <li>Performance enhancements to Banishing. The battles are now faster.</li><li>You can now earn XP rewards for Banishing Minions!</li><li>All instant finishes now have confirmation screens.</li><li>Fixed the Minion-related push notification issue.</li><li>Fixed the Cannot Add Monster Habitat issue.</li><li>Minions now spawn more frequently.
+</li></ul><p>  
+
+</p><div>  <b> Common Questions </b>
+</div><div>  <b> Basic </b></div></div> <div><div>  <b> Creatures and Summoning </b>
+</div><div>  <b> Buildings Information </b>
+</div><div>  <b> Minions and Banishing </b>
+</div><div>  <b> Device Issues </b>
+</div><div>  <b> Currency and Billing </b>
+</div><div>  <b> Homes/Decorations/Expansions </b>
+</div><div>  <b> Social </b>
+</div><div>  <b> Misc. </b></div></div> <div><h2>  Common Questions
+</h2><div>  <b> I already Banished [x[ Minion. Will you add another to my Kingdom? / How can I complete the Ferocious Five quest? </b>
+</div><div>  We are unable to add Minions to your game. Minions do respawn though, so it's only a matter of time before more show up in your kingdom. Good luck and happy adventuring!We are unable to add Minions to your game. Minions do respawn though, so it's only a matter of time before more show up in your kingdom. Good luck and happy adventuring!
+
+</div></div> <div><div>  <b> Why can't I finish the Perfect Hit quest? </b>
+</div><div>  You are not progressing in the quest because you need to hit a Minion with a Perfect hit. You'll know when you get a Perfect hit when the word "Perfect!" appears on the screen after tapping the orbs during a battle. You will only progress through the goal if you get perfect hits, not "good" or "great". For tips on how to get a Perfect hit, we suggest reaching out to fellow players on either our <a href="http://facebook.com/TinyCastleGame/" target="_blank"> Facebook page </a>.
+
+</div></div> <div><div>  <b> How do I store an Egg? </b>
+</div><div>  Although an “Egg” tab is available in the inventory, it is not possible to store Eggs yet in Tiny Castle. We are hoping to roll out this feature by the end of February.
+
+</div><div>  <b> How do I sell a Home? </b>
+</div><div>  How do I sell a Home?
+
+</div><div>  <b> How do I get to the third island? </b>
+</div><div>  The third island isn’t available yet.  We know you're really excited to clear out the Evil Queen's fog and explore unknown lands, but there are a few more features we'd like to introduce to Tiny Castle before opening up the third island.
+
+</div></div> <div><div>  <b> I've cleared all my islands and now I can't spend any dust. What can I do? </b>
+</div></div> <div><div>  Sorry for the inconvenience! There isn't a way around this at the moment, but our designers are working on more ways to make the game more fun for higher level players.
+
+</div></div> <div><div>  <b> How do I summon a Sylph or other rare Creatures? </b>
+</div><div>  We are unable to share our secrets regarding summoning combinations. Please know that each summoning combination has a chance of getting one creature or another. If you're not getting a creature the first time you breed it, you can try breeding that combo a couple more times, or even try switching it up with other monsters or hybrids. For more tips and hints from our players, please join the discussion on the <a href="http://facebook.com/tinycastlegame/" target="_blank"> Tiny Castle Facebook Fan Page </a>.
+
+</div></div> <div><div>  <b> Why can't I upgrade my Castle when I have all the resources? </b>
+</div><div>  If you are between the levels 17-19, please note, the next Castle upgrade will unlock at level 20. Sorry for the inconvenience!
+
+</div></div> <div><h2>  Basics
+</h2><div>  <b> How do I grow a Creature? </b>
+</div><div>  In order for your Creature to grow up, you need to feed them and purchase a Dream Tower. Once they’ve been fed up to a certain level, you can tuck them into the Dream Tower to sleep and grow up.  
+</div><div>  Once in the Dream Tower, you can wait the allotted amount of time or you can speed up the  process with Jewels. Once your Creature is ready and grown tap on the Creature to wake it up and free the Dream Tower for another Creature.
+
+</div></div> <div><div>  <b> How do I feed a Creature? </b>
+</div><div>  To feed your Creatures, you need a farm. You can purchase a farm from your Market under the "Buildings" category. Once your farm is finished constructing, tap on it to see all the crops you can grow. You can grow various types of crops for different amounts of food and prices. Once you have enough food, tap on your Creature's tab in their home and start feeding them. 
+</div><div>  <b> How do I explore the Fog? </b>
+</div><div>  To explore the Fog, tap on the Fog you would like to remove, then tap Explore. Clearing Fog costs Magic Dust, so don't forget to make a wish to produce more Magic Dust from your Magic Well. 
+</div></div> <div><div>  <b> How do I move items around? </b>
+</div><div>  To move any of your Creatures, buildings, or decorations tap on the "Move" button in the bottom right corner. Tap on the item you wish to move and you'll see a green grid appear around that item. Move it to where you'd like to place it and make sure the grid is still highlighted green, rather than red. If it's red, it means the item will not fit in that space. Once you're happy with its placement, tap on the green "Accept" checkmark.
+
+</div></div> <div><div>  <b> How do I move a Creature to a different Home? </b>
+</div><div>  To move a Creature from one Home to another, you'll have to first make sure there's an open spot for that Creature to move to. Once you are certain another Home has room, tap on your Creature's info tab. Below its image is the option to either "move" or "sell" the Creature. Tap on "move" and then tap on the Home where you wish to move it to. 
+	
+
+</div><div>  <b> How do I sell a Creature? </b>
+</div><div>  To sell a Creature, tap on the Home your Creature is in and then tap on the Creature you want to sell. Once their info page shows up, tap on "sell" (located below the image of your Creature). Confirm you want to sell the Creature and you're done!
+	
+</div></div> <div><div>  <b> What is XP and how do I get it? </b>
+</div><div>  XP (“Experience”) is important because it determines when you level up in the game. As you level up, you unlock new items and content in the game. XP can be gained by completing quests, clearing items, selling eggs, placing decorations, and feeding and growing Creatures.
+
+</div><div>  <b> My XP bar stopped. What happened? </b>
+</div><div>  If your XP bar stopped moving, don't worry! You've reached the highest level. You're still earning XP! As you start leveling up (especially to the higher levels currently available in the game), the amount of XP it takes to get to the next level increases. Due to the length of the bar and the amount of added amount of XP needed for the next level, the movement of your progress is not as visible as it had been in past levels. Also, please note that some actions within the game earn much more XP than others. You might see a jump in your bar if you complete a task that rewards a large amount of XP. 
+	
+
+</div></div> <div><div>  <b> What is the maximum level? What happens now? </b>
+</div><div>  The max XP level in Tiny Castle is currently level 25. Congrats on reaching this level! We are working on adding more levels. Currently, we're saving all XP you're earning and will apply it to your total when we add more levels.  
+	
+
+</div><div>  <b> How do I reset the game? </b>
+</div><div>  There isn't currently an option to reset Tiny Castle. 
+
+</div><div>  <b> How does storage work? </b>
+</div><div>  The Tiny Castle can only hold a certain amount of currency. You can tap your castle to see how much. At level 7, you'll be able to start building extra storage buildings to hold more magic dust, food and coins outside the castle. Each building will only hold one of the currencies. Coin Banks cost magic dust, while both Dust Vaults and Food Pantries cost coins.  The player can watch as their storage buildings fill up with beautiful food, dust and coins!
+
+</div></div> <div><h2>  Creatures and Summoning
+</h2><div>  <b> How do you summon Creatures? </b>
+</div><div>  Summoning is a magical process that allows two creatures to mix their magic into a new hybrid egg. To Summon, you'll need an Enchanted Tree and at least two teen or adult Creatures. Once you have an Enchanted Tree built, tap on it to begin. A menu will appear that allows you to choose two Creatures. Each creature will have icons that show what type of magic they have. Depending on the creatures you choose, you will get different hybrids. Once you confirm the creatures you want to use, you can either wait the allotted amount of time or choose to instantly finish summoning using Jewels.
+
+</div></div> <div><div>  <b> How do I instantly finish summoning?  </b>
+</div><div>  You can instantly finish summoning at any time by using Jewels. While your Creatures are summoning, tap on the Enchanted Tree and then on the "Finish" button. You can confirm the amount of jewels to finish summoning right away.
+
+</div><div>  <b> How do I sell an egg? </b>
+</div><div>  You can sell your egg once it's done incubating by tapping it and selecting the option to “Sell Egg.” Confirm your decision and you’ll earn XP and coins. 
+
+</div></div> <div><div>  <b> How do I stop summoning or incubating? </b>
+</div><div>  You can't stop summoning or incubating an egg that is currently in progress. Once it is finished, you can sell an egg to earn XP and coins.
+
+</div><div>  <b> How do I rename my Creatures? </b>
+</div><div>  
+
+There currently isn't a feature in Tiny Castle that allows you to change the name of your Creatures. If you would like to see this feature, we would love to hear your opinions and suggestions <a href="http://facebook.com/TinyCastleGame" target="_blank"> on our Facebook page </a>.
+
+
+</div></div> <div><h2>  Buildings Information
+</h2><div>  <b> What does the hoe over my farm mean? </b>
+</div><div>  The hoe icon means your farm is ready to plant more food. Tap on the hoe to bring up your farm menu. Once you start planting more food, the hoe will go away until you collect your food.
+	
+
+</div><div>  <b> What does the bucket over my Magic Well mean? </b>
+</div><div>  The bucket icon means your Magic Well is ready for you to make a wish. Tap on the bucket to make a wish to produce more magic dust. Once you start producing more magic dust, the bucket will go away until you collect your wish.
+	
+
+</div></div> <div><h2>  Minions and Banishing
+</h2><div>  <b> What are Minions? </b>
+</div><div>  Minions are sent by the Evil Queen to try and scare you away from your kingdom.  Each minion is associated with a different type of magic, and will only appear in certain areas. There are five varieties of each Minion: Stinky, Junior, Ugly, Scary, and Master. Stinky is the weakest, and Master is the most powerful.
+
+</div><div>  <b> How do I get rid of a Minion? </b>
+</div><div>  There are two ways to get rid of a Minion: Bribe and Banish. Tap on a minion to see both options. To Bribe a minion, tap "Bribe". Bribing a minion costs food. It will make the Minion go away, but you won't get any magic dust. To Banish a minion, tap "Banish". Successfully banishing a Minion will give you a lot of magic dust, but if your creatures aren't strong enough, you might lose the battle.
+
+</div></div> <div><div>  <b> What's wrong with my buildings near the Minion? </b>
+</div><div>  Minions affect how much coins, dust, and food you can collect from creatures, the magic well, and farms. When a minion is near one of your buildings, you will only be able to collect 90% of the resources from a building - the minion will steal the other 10%! If your building has a red arrow on its icon, it's being affected by a minion.
+
+</div><div>  <b> How do I banish a minion? </b>
+</div><div>  To banish a minion, tap the minion and then tap "Banish". You will have to select a creature to banish the minion. At the bottom of the screen, you can see your creature's chances of winning the battle. Once you confirm your selection, the battle begins. When it's your creature's turn, you'll see four orbs circling the minion. Tap when all of the orbs are together in the center for the most powerful attack.
+</div></div> <div><div>  Attacks deplete a minion's courage. When the minion's courage is gone, you win the battle! Minions will run away and leave behind Magic Dust.
+</div></div> <div><div>  <b> What's Courage and Power? </b>
+</div><div>  Courage is how long your creature can stay in battle. Courage is represented by a red heart. Attacks lower a creature's courage.
+</div><div>  Power is how strong your creature's attacks are. Power is represented by a small sword. Power determines how much courage you take away from a minion whenever you attack. Increasing your creature's level usually increases their power and courage.
+
+</div></div> <div><h2>  Device Issues
+</h2><div>  <b> I just got a new device and my game is gone. How do I get it back? </b>
+</div><div>  
+You will need your old and new IMEI information. To locate this information, visit <a href="http://www.technipages.com/android-find-imei-number.html" target="_blank"> find my IMEI </a>. If you cannot find your IMEI through the link, please contact your phone or device provider and they may be able to help. Once you have this information, please send this to TinyCo Support using the link at the bottom of this page. Please make it clear which is your old IMEI and which is your new one.
+
+</div></div> <div><div>  <b> I'm experiencing a bug. What do I do? </b>
+</div></div> <div><div>  If you’re having any issues with the game, please try uninstalling and reinstalling the app. Don't worry, doing this will not erase your game! The information is stored on our servers and associated to your device. If reinstalling does not help, please contact our support site and we’ll be happy to investigate further. 
+
+</div></div> <div><h2>  Currency and Billing
+
+</h2><div>  <b> How do I set a PIN to prevent accidental purchases in the future? </b>
+</div><div>  Please check the manual of your device to learn how to set up a PIN to help prevent accidental purchases.
+
+</div><div>  <b> How do I disable all in-app purchases? </b>
+</div><div>  Please check the manual of your device to learn how to set up a PIN to help prevent accidental purchases.
+
+</div><div>  <b> I bought some in-game currency and I still haven’t received it! What do I do? </b>
+</div></div> <div><div>  We’re sorry to hear that you haven't received your currency yet. We are very grateful that you chose to make a purchase, and will make absolutely sure that you receive what you bought. Please send us your receipt from the Google Play Store in addition to your IMEI.
+</div></div> <div><div>  If you just recently bought in-game currency, please try restarting your device, then running the app again and leaving it open for a minute. Sometimes it can take a little while for the system to credit and give you your currency. If you still haven’t received your currency in an hour or so, please let us know.
+</div></div> <div><div>  If it has been some time since you made the purchase and you've tried restarting, and you still haven't received your currency, please contact us with either your phone's UDID/IMEI number, or your TinyID. We'll take a close look and find out where it went.
+
+</div></div> <div><div>  <b> How do I earn more coins for free? </b>
+</div><div>  You can earn coins for free by collecting from your Homes and Creatures, selling Creatures, and completing quests.
+
+</div><div>  <b> How do I earn more Magic Dust for free? </b>
+</div><div>  You can earn Magic Dust for free by making a wish to produce more Magic Dust from your Magic Well. You can also obtain Magic Dust through completing quests.
+
+</div><div>  <b> How do I earn more jewels? </b>
+</div><div>  Aside from buying more through an in-app purchase, the best way to earn more jewels is to complete quests that list jewels as a reward. We also hold contests on the <a href="http://facebook.com/TinyCastleGame" target="_blank"> Tiny Castle fan page </a>, so be sure to join us for your chance to win!
+
+</div></div> <div><h2>  Homes/Decorations
+</h2><div>  <b> I need more room; how do I expand? </b>
+</div><div>  Additional expansions are not available yet on Tiny Castle. If you would like to see this feature, we would love to hear your opinions and suggestions <a href="http://facebook.com/TinyCastleGame" target="_blank"> on our Facebook page </a>.
+
+
+</div><div>  <b> Can I store my Creatures, Homes, or decorations? </b>
+</div><div>  Tiny Castle does not have an inventory system at this time, but we're often adding new features to the game. <a href="http://facebook.com/TinyCastlegame" target="_blank"> Like us on Facebook </a> to stay up-to-date on news and announcements.
+
+</div></div> <div><div>  <b> I’m trying to buy more Homes but I’m not allowed to. Why? </b>
+</div></div> <div><div>  Depending on your level, each player is allowed a certain amount of total Homes. Please go to your market and see if you're at the maximum amount of your Homes. At the top of the page, you will see a number of how many Homes already own out of how many Homes you're currently allowed. 
+
+</div></div> <div><div>  <b> I am trying to move or place an item but it won't let me. Why? </b>
+</div></div> <div><div>  When placing items, be sure that nothing is blocking the item. The item will be highlighted green when available to place. If it’s red, something may be in the way. Things like rocks, bushes, trees and decorations generally do this, as items cannot be placed above them.
+
+
+
+</div></div> <div><h2>  Social
+</h2><div>  <b> How do I take a photo of my Tiny Castle game? </b>
+</div><div>  Please consult the manual of your device to learn how to take a screen shot.
+	
+
+</div><div>  <b> Where is Tiny Social? How do I visit others? </b>
+</div><div>  Tiny Social is not yet available in Tiny Castle. Please feel free to take a screenshot and share your game with us on the <a href="http://facebook.com/TinyCastleGame" target="_blank"> Facebook Fan Page </a> though! 
+	
+
+</div><div>  <b> How do I get a TinyID? </b>
+</div></div> <div><div>  TinyIDs are a feature currently not yet available in Tiny Castle. You can create one in another TinyCo game, such as Tiny Zoo or Tiny Village. Please temporarily download either game, tap on "Tiny Social" and then on the "Profile" tab. You can create a TinyID here.
+
+</div></div> <div><h2>  Still have questions? Contact us!
+</h2></div> <div><h2>  <b> Still have questions? Contact us! </b>
+</h2><p>  If you have any gameplay-related questions and suggestions, reach out to fellow fans on our official </p><span>  Facebook Fan Page. If you are experiencing a bug, have a billing issue, or require assistance with a transfer, please </span><span>  send us an email. <b> Please note, we do not provide support for basic game play questions, so be sure to read this FAQ to find the answers to your questions. </b>
+</span><p>  
+</p></div>

@@ -1,0 +1,405 @@
+<p><p>  Hangzhou Hikvision Digital Technology
+Co., Ltd</p></p> <div><p>  TERMS OF SERVICE</p><p>  Updated</p><span>   date: 18 Feb, 2022</span><p>  Hangzhou Hikvision Digital
+Technology Co., Ltd and its affiliates (“HIKVISION”, “we”, “our”, “us”) provide
+following</p><span>   services for use in
+conjunction with various HIKVISION products (“Products”): (1) HIKVISION user
+website and user</span><span>   accounts that may be
+accessed at </span><span>  www.hik-connect.com, and
+all associated sites connected with </span><span>  www.hik-connect.com,</span><span>   excluding any third parties’ sites (the
+“Website”); (2) online services accessible through the Website (“Web Apps”);
+(3)</span></div> <div><span>   software applications that can be
+downloaded to a mobile device (“Mobile Apps”) including</span><span>   not</span><span>   limited</span><span>   to</span><span>   Hik-Connect</span><span>   and HiLookVision; and (4) any services
+available on the Website, Web Apps and Mobile Apps (“Available Services”). The</span><span>   term</span><span>   “HIKVISION</span><span>   Services”</span><span>   means</span><span>   the</span><span>   Website,</span><span>  
+Web</span><span>   Apps,</span><span>   Mobile</span></div> <span><span>  
+Apps,</span></span> <div><span>   and</span><span>   Available</span><span>   Services.</span><p>  These
+Terms</p><span>   of</span><span>   Service</span><span>   (“Terms”)
+govern</span><span>   your</span><span>   access</span><span>   to</span><span>   and</span><span>   use</span><span>   of</span><span>   HIKVISION</span><span>   Services,</span><span>  
+including</span><span>   through</span><span>   Products. </span><span>  Your
+purchase of any HIKVISION Service may further be governed by the corresponding
+separate terms. The</span></div> <div><p>  Privac</p><span>  y Policy </span><span>  is
+incorporated by reference into these Terms and you are agreeing to accept and
+abide by them by using</span><span>   HIKVISION
+Services. <b> PLEASE READ THESE TERMS
+CAREFULLY </b>. If you do not agree with these Terms, do not</span><span>   register or use any HIKVISION Services.</span><p>  You will need to register an
+account via Website or Mobile Apps to access HIKVISION Services. For the
+purposes of</p><span>   seeking to provide you
+with a better experience, to improve HIKVISION Services or otherwise where you
+have consented,</span></div> <span><span>   with such account
+without new registration, you may access to other services provided by
+HIKVISION over Internet and/or</span></span> <span><span>   mobile
+applications. Any service-specific terms of service may apply to some services
+provided by HIKVISION, you are</span></span> <div><span>   advised</span><span>   to read these</span><span>   Terms</span><span>   and any</span><span>   specific terms of</span><span>   service for your</span><span>   interest
+before using the</span><span>   services.</span></div> <div><h1>  1.</h1><span>    </span><span>  No</span><span>   Life-Safety or
+Critical Uses of</span><span>   HIKVISION</span><span>   Services</span><p>  You acknowledge and agree
+that HIKVISION Services and Products are not certified for emergency response.
+HIKVISION</p><span>   makes</span><span>   no</span><span>   warranty</span><span>   or</span><span>   representation</span><span>   that use</span><span>  
+of</span><span>   HIKVISION</span><span>   Services</span><span>  
+or Products</span><span>   with</span></div> <div><span>   any</span><span>   third-party’s</span><span>   products</span><span>  
+or</span><span>   services</span><span>   will affect or increase any level of
+safety or security. HIKVISION Services and Products are not a third-party
+monitored</span><span>   emergency notification
+system -- HIKVISION will not dispatch emergency authorities to the monitored
+place in the event of</span><span>   an</span><span>   emergency.</span><span>   All life</span><span>   threatening
+and</span><span>   emergency events</span></div> <div><span>   should be</span><span>   directed</span><span>   to appropriate</span><span>   response services.</span></div> <div><h1>  2.</h1><span>    </span><span>  Electronic</span><span>   Contracting</span><span>   and</span><span>   Messaging</span><p>  By using HIKVISION Services,
+registering Products, creating an online account for HIKVISION Services
+(“Account”), or</p><span>   engaging in any
+transactions via HIKVISION Services, you agree to accept and be bound by these
+Terms and our Privacy</span><span>   Policy. You
+agree that when you use your login credentials or click on any “I Agree” button
+when using HIKVISION</span></div> <span><span>   Services, you
+affirmatively consent to conduct business electronically with HIKVISION, and
+such credentials and processes</span></span> <span><span>   have
+the same force and effect with your written signature. You agree and consent to
+HIKVISION sending you disclosures,</span></span> <span><span>   messages,
+notices, and other communications, including direct marketing text messages, to
+your designated mobile phone</span></span> <span><span>   and
+email account.</span></span> <div><h1>  3.</h1><span>    </span><span>  These</span><span>   Terms</span><span>   May</span><span>   Change</span><p>  HIKVISION reserves the right
+to make changes to these Terms provided certain provisions of these Terms prove
+to be</p><span>   incomplete or outdated and
+further provided that these changes are reasonable for you, taking into account
+your interests. If</span><span>   we make any
+changes to these Terms, we will notify you by the email address specified in
+your Account or by means of</span></div> <span><span>   notice on
+the Website of any such changes which will become effective immediately upon
+the release. Continued use of</span></span> <div><span>   HIKVISION
+Services following this notice will indicate your acknowledgment and agreement
+to be bound by the revised</span><span>   Terms.</span></div> <div><h1>  4.</h1><span>    </span><span>  Relationship</span><span>   to</span><span>   Product</span><span>  
+Warranty</span><p>  These Terms govern your use
+of HIKVISION Services. Your purchase of any Product is governed by the limited
+warranty</p><span>   provided with that Product.</span></div> <div><h1>  5.</h1><span>    </span><span>  Eligibility</span><p>  You are prohibited from
+registering a Product for use with HIKVISION Services or from using HIKVISION
+Services unless</p><span>   you</span><span>   are</span><span>   18</span><span>   years</span><span>   of</span><span>   age</span><span>   or</span><span>   older,</span><span>  
+if</span><span>   individual,</span><span>   or,</span><span>   have</span><span>   obtained</span><span>  
+the</span><span>   authorization,</span><span>   if</span></div> <span><span>   company.</span></span> <div><span>   You</span><span>   may</span><span>   not</span><span>   use</span><span>   HIKVISION</span><span>  
+Services where prohibited by applicable law. We also do not knowingly
+collect any information from children under the age</span><span>   of 18, or equivalent minimum age in the relevant jurisdiction.
+If you are not 18 years of age or older, you must have your</span><span>   parent</span><span>   or</span><span>   legal</span><span>   guardian</span><span>   register</span><span>  
+a</span></div> <div><span>   Product</span><span>   or</span><span>   create</span><span>   an</span><span>   Account</span><span>   to</span><span>   use</span><span>   HIKVISION Services.</span><span>   Please</span><span>   contact</span><span>   us</span><span>   at</span><p>  support@hikvision.com
+if you believe your child has provided us with personal information
+in connection with HIKVISION</p><span>   Services.</span></div> <div><h1>  6.</h1><span>    </span><span>  Creating</span><span>   an</span><span>   Account</span><p>  To use your Product via
+HIKVISION Services, you are required to create an Account. You represent and
+warrant that: (i) all</p><span>   required
+registration information you submit is truthful, accurate and complete; (ii)
+you will maintain the accuracy, security,</span><span>   and
+confidentiality of such information; and (iii) your use of HIKVISION Services
+does not violate any applicable law or</span></div> <span><span>   regulation.
+You have no right to transfer your Account to any other individuals in any
+manner. HIKVISION is not liable for</span></span> <span><span>   any
+loss or damages arising from your failure to maintain the confidentiality of
+your Account. You agree to notify us</span></span> <span><span>   immediately
+of any unauthorized access to or use of your Account or any breach of security.
+You may be held liable for</span></span> <div><span>   losses
+incurred by us or any other HIKVISION users due to someone else using your
+Account as a result of your failing to</span><span>   keep
+your Account information secure and confidential.</span><p>  By registering any HIKVISION
+Product in your Account, you will be deemed to have the “Ownership” of the
+Product. The</p><span>   Product</span><span>   can</span><span>   only</span><span>   be</span><span>   registered</span><span>   in</span><span>   one</span><span>   account,</span><span>  
+thus</span></div> <div><span>   you</span><span>   acknowledge</span><span>   that</span><span>   if</span><span>   you</span><span>   transfer</span><span>   your</span><span>   Products</span><span>   to</span><span>   others,</span><span>   you</span><span>   will</span><span>   not be able to connect the Products to
+your account.</span></div> <div><h1>  7.</h1><span>    </span><span>  System</span><span>   and</span><span>   Equipment</span><span>   Requirements</span><p>  Use of certain Products or
+discrete functionality may require Internet access and registration to
+HIKVISION Services. You</p><span>   must have the
+necessary hardware, software, and Internet access needed to register and use
+the Product with HIKVISION</span><span>   Services.
+HIKVISION Services will not be accessible without: (i) a working network that
+is positioned to communicate</span></div> <div><span>   reliably
+with our Products; (ii) a PC device or a mobile device with Android OS or Apple
+iOS to pair Products; (iii) an</span><span>   Account;
+(iv) always-on broadband Internet access; and (v) other system elements that
+may be specified by HIKVISION</span><span>   Services
+in connection with the specific Product. </span></div> <div><h1>  8.</h1><span>    </span><span>  Changes to</span><span>   HIKVISION
+Services</span><p>  HIKVISION may change,
+upgrade, discontinue, or temporarily suspend any feature or component of
+HIKVISION Services</p><span>   at any time
+without notice. HIKVISION cannot guarantee and makes no warranties that any
+software updates can be</span><span>   implemented
+on any Product or that changes to HIKVISION Services will operate as intended.
+You acknowledge that you</span><span>   may be
+required to install software updates to use HIKVISION Services</span></div> <div><span>   with</span><span>   your</span><span>   Product,</span><span>  
+and</span><span>   you</span><span>   agree</span><span>   to</span><span>   promptly</span><span>  
+install</span><span>   such</span><span>   updates</span><span>  
+we</span><span>   provide.</span><span>   You</span><span>   are</span><span>   solely</span><span>  
+liable</span><span>   for</span><span>   any</span><span>   losses</span><span>   arising</span><span>  
+from</span><span>   a</span><span>   failure</span><span>   to</span></div> <div><span>   timely</span><span>  
+implement</span><span>   such</span><span>   updates.</span></div> <div><h1>  9.</h1><span>    </span><span>  Term</span><span>   and</span><span>   Termination</span><p>  These Terms will remain in full
+force and effect as long as you continue to access or use HIKVISION Services.
+If you</p><span>   transfer a Product to a new
+owner, your right to use HIKVISION Services with respect to that Product
+automatically</span><span>   terminates, and the new
+owner will have no right to use the Product or HIKVISION Services under your
+Account. You may</span><span>   cancel your Account
+at any time by calling</span></div> <div><span>   <u> Customer
+Support </u></span><span>   at </span><span>  support@hikvision.com.</span></div> <div><h1>  10.</h1><span>   
+</span><span>  License</span><p>  Subject to your compliance
+with these Terms, HIKVISION grants you a revocable, limited, non-exclusive,
+non-transferable,</p><span>   non-sub-licensable
+license to install and use (a) our mobile applications (“Mobile Apps”), and (b)
+any embedded firmware in</span><span>   the Product
+and updates (“Other Software”), in each case solely in connection with your
+personal, non-commercial</span><span>   use</span><span>   of</span><span>   the
+Product and HIKVISION Services. You may only use the Mobile Apps on devices
+that you own, lease, or otherwise</span></div> <span><span>   control.
+No other licenses or rights are granted to you by implication or otherwise
+under any intellectual property rights</span></span> <div><span>   owned
+or controlled by</span><span>   HIKVISION</span><span>   or its licensors.</span></div> <div><h1>  11.</h1></div> <div><h1>  License Restrictions</h1><p>  Unless as expressly
+permitted in these Terms, you agree not to, and you will not permit others to,
+(i) license, sublicense,</p><span>   assign,
+convey or transfer, the rights and licenses granted hereunder; (ii) publish,
+display, disclose, sell, rent, lease, store,</span><span>  
+loan, distribute, transmit, publicly display or perform, co-brand,
+frame, host, outsource, or otherwise commercially exploit</span><span>   HIKVISION Services, including the Mobile
+Apps and Other Software (collectively, the “Software”), (iii) copy or reproduce</span></div> <span><span>   HIKVISION Services or Software or any part
+thereof, in any form; (iv) remove or alter any trademark, logo, copyright or</span></span> <span><span>   other proprietary notices, legends,
+symbols or labels in the Software or HIKVISION Services; (v) use the Software
+and</span></span> <div><span>   HIKVISION Services</span><span>   in</span><span>   any</span><span>   fashion</span><span>  
+that</span><span>   may</span><span>   infringe</span><span>  
+any</span><span>   patent,</span><span>   copyright,</span><span>   trademark,</span><span>   trade</span><span>   secret,</span><span>  
+or</span><span>   any</span><span>   other</span><span>   intellectual
+property or proprietary right of HIKVISION, its third-party providers, or any
+other third party; (vi) modify,</span><span>   translate,
+adapt, disassemble, reverse engineer decompile, reverse compile, or create
+compilations or derivative works of, the</span></div> <span><span>   Software,
+HIKVISION Services,</span></span> <div><span>   or</span><span>   any</span><span>   part</span><span>   thereof</span><span>  
+(except</span><span>   to</span><span>   the</span><span>   extent</span><span>   applicable</span><span>   laws</span><span>   specifically</span><span>   prohibit</span><span>  
+such</span><span>   restriction), or (vii)
+use the Software or the Service</span><span>   for</span><span>   any</span><span>   service</span><span>   bureau,</span><span>  
+time-sharing,</span><span>   resale</span><span>   or</span></div> <div><span>   similar</span><span>   purposes.</span><span>  
+HIKVISION</span><span>   reserves all</span><span>   rights and</span><span>   licenses in</span><span>   and to
+the</span><span>   Software not</span><span>   expressly granted</span><span>   to you under</span><span>   these
+Terms.</span></div> <div><h1>  12.</h1><span>   
+</span><span>  Processing of Your Personal Data</span></div> <div><h1>  To the extent (i) you are a corporate
+customer; and (ii) personal data from the European Economic Area (“EEA”), and/or
+the United Kingdom (“UK”) are processed by HIKVISION in the course of its
+provision of Services to you and/or where such processing is otherwise subject
+to the requirements of the General Data Protection Regulation, the </h1></div> <div><h1>  Data Protection Addendum</h1><span>   (“DPA”) shall govern the processing of such
+personal data by you and HIKVISION and the DPA shall be deemed incorporated into
+these Terms. </span></div> <div><h1>  13.</h1><span>   
+</span><span>  Open</span><span>   Source</span><p>  Certain items of software
+included with the Products are subject to “open source” or “free software”
+licenses (“Open Source</p><span>   Software”).
+Some of the Open Source Software is owned by third parties. Each item of Open
+Source Software is licensed</span><span>   under the
+terms of the end user license that accompanies such Open Source Software.
+Nothing in these Terms limits your</span><span>   rights
+under, or grants you rights that supersede, the terms and conditions of any
+applicable end user license for the Open</span></div> <span><span>   Source
+Software. If required by any license for particular Open Source Software,
+HIKVISION makes such Open Source</span></span> <span><span>   Software,
+and HIKVISION modifications to that Open Source Software, available by written
+request to HIKVISION at the</span></span> <div><span>   email or
+mailing address listed below:</span><p>  support@hikvision.com</p><p>  By</p><span>   downloading/requesting</span><span>   the</span><span>   source</span><span>   code</span><span>   to</span><span>   any</span><span>   of</span><span>   the</span><span>   Open</span><span>   Source</span><span>  
+Software</span><span>   ("Source</span><span>   Code"),</span><span>   you</span><span>   agree</span><span>   to</span><span>   the</span><span>   following:</span><p>  HIKVISION PROVIDES THE
+SOURCE CODE TO YOU ON AN "AS IS" BASIS WITHOUT REPRESENTATIONS OR</p></div> <div><span>   WARRANTIES</span><span>   OF</span><span>   ANY</span><span>   KIND.</span><span>   YOU</span><span>   EXPRESSLY</span><span>   AGREE</span><span>   THAT</span><span>   YOUR</span><span>   USE</span><span>   OF</span><span>   THE</span><span>   SOURCE</span><span>  
+CODE</span><span>   IS</span><span>   AT</span><span>   YOUR</span><span>   SOLE RISK. TO THE FULL EXTENT PERMISSIBLE
+BY APPLICABLE LAW, HIKVISION AND ITS AFFILIATES</span><span>   DISCLAIM</span><span>   ALL</span><span>   WARRANTIES,</span></div> <div><span>   EXPRESS</span><span>   OR</span><span>   IMPLIED,</span><span>  
+INCLUDING,</span><span>   BUT</span><span>   NOT</span><span>   LIMITED</span><span>   TO,</span><span>   IMPLIED</span><span>   WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE. HIKVISION AND ITS</span><span>   AFFILIATES
+WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THE</span><span>   SOURCE</span><span>   CODE,</span><span>   INCLUDING,</span><span>   BUT</span><span>   NOT</span></div> <div><span>   LIMITED</span><span>  
+TO</span><span>   DIRECT,</span><span>   INDIRECT,</span><span>  
+INCIDENTAL,</span><span>   PUNITIVE,</span><span>   AND</span><span>   CONSEQUENTIAL
+DAMAGES.</span></div> <div><h1>  14.</h1><span>   
+</span><span>  Access to</span><span>   HIKVISION Services</span><p>  You may only access and use HIKVISION Services</p><span>   solely</span><span>   for</span><span>   the</span><span>   purpose</span><span>   of</span><span>   (a)</span><span>   operating,</span><span>   managing,</span><span>   monitoring,</span><span>   and</span><span>   maintaining
+the Products, (b) managing your Account and preferences, and maintain your
+registration data.</span><p>  When</p><span>   using HIKVISION Services, you shall not:</span></div> <p><p>  disrupt,</p></p> <div><span>   interfere</span><span>   with,</span><span>  
+violate</span><span>   the</span><span>   security</span><span>  
+of,</span><span>   or</span><span>   attempt</span><span>   to</span><span>   gain</span><span>   unauthorized</span><span>   access</span><span>  
+to,</span><span>   HIKVISION</span><span>   Services</span><span>  
+or</span><span>   any</span><span>   computer network;</span><p>  circumvent</p><span>   any</span><span>   technological</span><span>   measure</span><span>   implemented</span></div> <div><span>   by</span><span>   HIKVISION</span><span>   or</span><span>   any</span><span>   providers</span><span>  
+or</span><span>   any</span><span>   other</span><span>   third</span><span>   party</span><span>   (including</span><span>   another</span><span>  
+user of</span><span>   HIKVISION Services)
+to protect</span><span>   HIKVISION Services;</span><p>  upload, transmit, distribute, or run any computer virus, worm,
+Trojan horse, or any computer code that could damage or</p><span>   alter a computer, portable device, computer network, communication
+network, data, HIKVISION Services, or any other</span></div> <span><span>   system, device or property;</span></span> <div><p>  run</p><span>   Maillist,</span><span>  
+Listserv,</span><span>   or</span><span>   any</span><span>   form</span><span>   of</span><span>   auto-responder</span><span>   or</span><span>   “spam”</span><span>   on</span><span>   HIKVISION</span><span>   Services;</span><p>  attempt,</p><span>   in any</span><span>  
+manner, to</span><span>   obtain the</span><span>   password, account,</span><span>   credentials, or</span><span>   other
+security</span><span>   information from any</span><span>   other user;</span></div> <div><span>   or</span><p>  jeopardize</p><span>   the</span><span>   security</span><span>   of</span><span>   your</span><span>   Account</span><span>   or</span><span>   anyone</span><span>   else’s</span><span>   account</span><span>   (for</span><span>   example,</span><span>   by</span><span>   allowing</span><span>   another</span><span>   individual</span><span>   to</span><span>   login</span><span>   into</span><span>   HIKVISION
+Services as you).</span></div> <div><h1>  15.</h1><span>   
+</span><span>  Limitations of</span><span>   HIKVISION Services</span><p>  HIKVISION Services are intended
+to be accessed and used for non-time-critical information and control of
+Products. While</p><span>   we strive for
+HIKVISION Services to be highly reliable and available, it is not intended to
+be reliable or available 100% of</span><span>   the
+time. HIKVISION Services is subject to sporadic interruptions and failures for
+a variety of reasons beyond our control,</span></div> <span><span>   including
+Wi-Fi intermittency, service provider uptime, mobile notifications and
+carriers, among others. You acknowledge</span></span> <div><span>   these
+limitations and agree that HIKVISION is not responsible for any damages
+allegedly caused by the failure or delay of</span><span>   HIKVISION
+Services to reflect current status of the Product, notifications, or timing of
+your video content.</span><p>  HIKVISION Services may be
+suspended temporarily without notice for security reasons, system failure,
+maintenance and</p><span>   repair, updates,
+adjustments, or other circumstances. You acknowledge and agree that you will
+not be entitled to any refund</span></div> <span><span>   or
+rebate for any such suspension. HIKVISION does not offer any specific uptime guarantee
+for HIKVISION Services.</span></span> <div><span>   HIKVISION</span><span>   is not liable for any losses arising from
+a suspension of</span><span>   HIKVISION Services.</span><p>  All information concerning
+HIKVISION Services and use of the Product with HIKVISION Services is provided
+“as is” and</p><span>   “as available”. HIKVISION
+does not guarantee that this information is correct or up to date. Accessing
+the information</span><span>   through</span><span>   HIKVISION Services is not a substitute
+for direct access to the information in or on the Product itself.</span></div> <div><p>  Although</p><span>   HIKVISION</span><span>  
+cares</span><span>   about</span><span>   the</span><span>   security,</span><span>   integrity,</span><span>  
+and</span><span>   availability</span><span>   of</span><span>   your</span><span>   video</span><span>   content</span><span>   and</span><span>   personal</span><span>   information,</span><span>   we cannot guarantee the security of your personal information.
+You acknowledge that you provide your video content and</span><span>   your personal information at your own risk.</span></div> <div><h1>  16.</h1><span>   
+</span><span>  Limitations of</span><span>   HIKVISION Services Due to Reliance on
+Third Parties</span><p>  HIKVISION Services</p><span>   relies</span><span>   on</span><span>   certain</span><span>  
+third-party</span><span>   products</span><span>   and</span><span>   services.</span><span>   For</span><span>   example,</span><span>   some</span><span>   aspects</span><span>   of</span><span>   HIKVISION</span><span>   Services–</span><span>  
+such</span><span>   as</span></div> <div><span>   data</span><span>   storage,</span><span>   synchronization,</span><span>   and</span><span>   communication</span><span>   –</span><span>   are</span><span>   enabled</span><span>  
+by</span><span>   Amazon</span><span>   Web</span><span>   HIKVISION</span><span>   Services</span><span>  
+or</span><span>   other providers. As
+another example, we rely on mobile operating system vendors and mobile carriers
+to enable mobile</span><span>   device notifications
+through HIKVISION Services. These third-party’s products and services are
+beyond our control, and</span></div> <div><span>   their</span><span>   operation</span><span>  
+may</span><span>   not</span><span>   operate</span><span>   in</span><span>   a</span><span>   reliable</span><span>   manner</span><span>   or</span><span>   be</span><span>   available</span><span>   100</span><span>   %</span><span>   of</span><span>   the</span><span>   time.</span><span>   HIKVISION</span><span>   is</span><span>   not</span><span>   responsible</span><span>   for</span><span>   any</span><span>   damages and losses due to</span></div> <div><span>   the operation of these third-party’s</span><span>   products</span><span>  
+and services.</span><p>  You</p><span>   further</span><span>   acknowledge</span><span>   that</span><span>   you</span><span>   are</span><span>   responsible</span><span>   for</span><span>   all</span><span>   fees</span><span>   charged</span><span>   by</span><span>   your</span><span>   ISP</span><span>   and</span><span>   carrier</span><span>  
+in</span><span>   connection</span><span>   with</span><span>   your</span></div> <div><span>   access</span><span>  
+to and use of HIKVISION Services and access to your Products. You also
+acknowledge that you are responsible for</span><span>   compliance</span><span>   with all applicable</span><span>   agreements, terms of use/service,</span><span>   and other policies of</span><span>   your ISP and</span><span>   carrier.</span><p>  You acknowledge and agree
+that the availability of Mobile Apps is dependent on the third-party Web
+services from which</p><span>   you download the
+Mobile Apps – for example, the Android app market from Google or the App Store
+from Apple (each an</span></div> <span><span>   “App Store”). You
+acknowledge that these Terms are between you and HIKVISION and not with an App
+Store. Each App</span></span> <div><span>   Store may have its
+own terms and conditions to which you must agree before downloading Mobile Apps
+from that App</span><span>   Store. You agree to
+comply with, and your license to use the Mobile Apps, is conditioned upon your
+compliance and</span><span>   agreement with such
+App Store terms and conditions. To the extent such other terms and conditions
+from such App Store are</span><span>   less
+restrictive than, or otherwise conflict with, the terms and conditions of these
+Terms, the more restrictive or conflicting</span></div> <div><span>   terms</span><span>   and conditions in these</span><span>   Terms apply.</span></div> <div><h1>  17.</h1><span>   
+</span><span>  Release Regarding Third Parties</span><p>  HIKVISION</p><span>   is</span><span>   not</span><span>   responsible</span><span>   for</span><span>   third</span><span>   parties</span><span>  
+or</span><span>   their</span><span>   products</span><span>  
+and</span><span>   services,</span><span>   including,</span><span>   without</span><span>   limitation,</span><span>   any</span><span>   third-party’s</span><span>   products</span><span>  
+and services that enable</span></div> <span><span>   HIKVISION
+Services, equipment, ISPs, carriers, the App Stores and among others.</span></span> <p><p>  HIKVISION
+HEREBY DISCLAIMS AND YOU HEREBY DISCHARGE, WAIVE AND RELEASE HIKVISION</p></p> <span><span>   AND ITS LICENSORS AND SUPPLIERS FROM ANY
+PAST, PRESENT, AND FUTURE CLAIMS, LIABILITIES,</span></span> <span><span>  
+AND DAMAGES, KNOWN OR UNKNOWN, ARISING OUT OF OR RELATING TO YOUR
+INTERACTIONS</span></span> <div><span>   WITH</span><span>   SUCH THIRD</span><span>   PARTIES AND</span><span>   THEIR
+PRODUCTS AND</span><span>   SERVICES.</span></div> <div><h1>  18.</h1><span>   
+</span><span>  Indemnity</span><p>  You</p><span>   agree</span><span>   to</span><span>   defend,</span><span>  
+indemnify,</span><span>   and</span><span>   hold</span><span>   HIKVISION,</span><span>   its</span><span>   affiliates,</span><span>   directors,</span><span>   officers,</span><span>   employees,</span><span>   shareholders,</span><span>   contractors, agents, licensors, and suppliers harmless from any
+damages, liabilities, claims, demands, losses, or expenses,</span></div> <span><span>   including attorneys’ fees, made by any
+third party due to or arising out of or in connection with (i) your use of
+HIKVISION</span></span> <span><span>   Services and Product; (ii)
+your violation of these Terms; (iii) your violation of any law or the rights of
+any third party.</span></span> <div><span>   HIKVISION</span><span>   will use reasonable efforts to notify</span><span>   you of any such claim, action</span><span>   or proceeding upon becoming aware of</span><span>   it.</span><p>  19.</p><span>    </span><span>  WARRANTY</span><span>   DISCLAIMERS</span><p>  TO</p><span>   THE</span><span>   MAXIMUM</span><span>   EXTENT</span><span>   PERMITTED</span><span>   BY</span><span>   APPLICABLE</span><span>   LAW,</span><span>   HIKVISION</span><span>   SERVICES</span><span>  
+(I.E.</span></div> <div><span>   THE</span><span>   WEBSITE, THE MOBILE APPS AND SOFTWARE) ARE
+PROVIDED FOR YOUR CONVENIENCE, “AS IS”,</span><span>   AND
+“AS AVAILABLE” WITH ALL FAULTS AND ERRORS, AND HIKVISION AND OUR SUPPLIERS AND</span><span>   LICENSORS EXPRESSLY DISCLAIM ANY
+WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER</span><span>  
+EXPRESS,</span><span>   IMPLIED,</span><span>   OR</span><span>   STATUTORY,</span><span>   INCLUDING,</span><span>   WITHOUT</span><span>   LIMITATION,</span><span>   MERCHANTABILITY,</span></div> <div><span>   FITNESS</span><span>   FOR</span><span>   A</span><span>   PARTICULAR</span><span>   PURPOSE,</span><span>  
+ACCURACY,</span><span>   TITLE,</span><span>   QUIET</span><span>   ENJOYMENT,</span><span>   NON-</span><span>   INFRINGEMENT
+OF THIRD-PARTY RIGHTS, AVAILABILITY, DATA SECURITY, AND ANY WARRANTIES</span><span>   ARISING OUT OF COURSE OF DEALING OR USAGE
+OF TRADE.</span><p>  HIKVISION
+DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY</p><span>   PRODUCT, SOFTWARE OR SERVICE PROVIDED BY A
+THIRD PARTY THROUGH OR IN CONNECTION</span></div> <div><span>   WITH</span><span>   HIKVISION</span><span>  
+SERVICES</span><span>   (INCLUDING,</span><span>   BUT</span><span>   NOT</span><span>   LIMITED</span><span>  
+TO,</span><span>   CLOUD</span><span>   SERVICES)</span><span>  
+OR</span><span>   ANY</span><span>   HYPERLINKED</span><span>   WEBSITE
+OR SERVICE.</span><p>  HIKVISION</p><span>   MAKES</span><span>   NO</span><span>   REPRESENTATIONS</span><span>   CONCERNING</span><span>   ANY</span><span>   CONTENT</span><span>  
+CONTAINED</span></div> <div><span>   IN</span><span>   OR</span><span>   ACCESSED</span><span>   THROUGH</span><span>  
+HIKVISION</span><span>   SERVICES,</span><span>   AND</span><span>   HIKVISION</span><span>   WILL</span><span>   NOT</span><span>   BE</span><span>   RESPONSIBLE</span><span>   OR</span><span>   LIABLE
+FOR THE ACCURACY, COPYRIGHT COMPLIANCE, LEGALITY OR DECENCY OF MATERIAL</span><span>   CONTAINED</span><span>  
+IN</span><span>   OR</span><span>   ACCESSED</span><span>   THROUGH</span><span>   HIKVISION</span></div> <span><span>  
+SERVICES.</span></span> <div><span>   HIKVISION</span><span>   MAKES</span><span>   NO</span><span>   REPRESENTATIONS</span><span>   OR</span><span>   WARRANTIES</span><span>   REGARDING</span><span>  
+SUGGESTIONS</span><span>   OR</span><span>   RECOMMENDATIONS</span><span>   OF</span><span>   SERVICES</span><span>   OR PRODUCTS</span><span>   OFFERED OR</span><span>   PURCHASED
+THROUGH</span><span>   HIKVISION SERVICES.</span><p>  YOU
+ACKNOWLEDGE THAT THE USE OF HIKVISION SERVICES SHALL BE CONNECTED WITH THE</p><span>   INTERNET, AND USE SHALL BE WHOLLY AT YOUR
+OWN RISK. HIKVISION DOES NOT REPRESENT OR</span></div> <div><span>   GUARANTEE</span><span>   THAT</span><span>   HIKVISION</span><span>   SERVICES</span><span>  
+WILL</span><span>   BE</span><span>   FREE</span><span>   FROM</span><span>   LOSS,</span><span>   CORRUPTION,</span><span>   CYBER</span><span>   ATTACK,</span><span>   VIRUSES, INTERFERENCE, HACKING, MALWARE,
+OR OTHER SECURITY INTRUSION, AND HIKVISION</span><span>   DISCLAIMS</span><span>   ANY LIABILITY RELATING THERETO.</span><p>  SURVEILLANCE,</p><span>   DATA</span><span>   PROTECTION,</span></div> <div><span>   AND</span><span>   PRIVACY</span><span>   LAWS</span><span>   VARY</span><span>   BY</span><span>   JURISDICTION</span><span>   AND</span><span>   MAY</span><span>   IMPOSE</span><span>  
+CERTAIN</span><span>   RESPONSIBILITIES</span><span>   ON</span><span>   YOUR</span><span>   USE</span><span>   OF
+HIKVISION SERVICES.</span><span>   YOU</span><span>   ACKNOWLEDGE</span><span>   AND</span><span>   AGREE</span><span>   THAT</span><span>   YOU</span><span>   (AND</span><span>   NOT</span></div> <div><span>   HIKVISION)</span><span>   WILL</span><span>   BE</span><span>   RESPONSIBLE</span><span>   FOR</span><span>   ENSURING</span><span>   THAT</span><span>   YOU</span><span>   COMPLY</span><span>  
+WITH APPLICABLE LAWS WHERE YOU LIVE AND THAT HIKVISION SHALL NOT BE
+LIABLE IN THE</span><span>   EVENT</span><span>   THAT</span><span>   HIKVISION</span><span>   SERVICES</span><span>  
+IS</span><span>   USED</span><span>   FOR</span><span>   ILLEGAL</span><span>   PURPOSES,</span><span>  
+INCLUDING,</span></div> <div><span>   WITHOUT</span><span>   LIMITATION:</span><span>   NON-CIVIL</span><span>   USE;</span><span>   RECORDING</span><span>   OR</span><span>   SHARING</span><span>   VIDEO</span><span>   OR</span><span>   AUDIO</span><span>   CONTENT</span><span>   THAT</span><span>   IS</span><span>   NOT</span><span>   IN</span><span>   CONFORMANCE</span><span>   WITH</span><span>   APPLICABLE</span><span>   LAW;</span><span>   FAILURE</span><span>   TO</span><span>   COMPLY</span><span>   WITH</span><span>   NOTICE</span></div> <div><span>   AND</span><span>   CONSENT</span><span>   LAWS;</span><span>  
+INFRINGEMENT OF THIRD-PARTY RIGHTS; USE IN CONNECTION WITH MEDICAL
+TREATMENT, OR</span><span>   OTHER SITUATIONS WHERE
+HIKVISION SERVICES FAILURE COULD LEAD TO DEATH OR PERSONAL</span><span>   INJURY.</span><p>  20.</p><span>   
+</span><span>  LIMITATIONS</span><span>   ON</span><span>   LIABILITY</span><p>  TO
+THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL HIKVISION, ITS</p><span>   DIRECTORS,</span><span>   OFFICERS,</span></div> <span><span>   EMPLOYEES,</span></span> <span><span>   SHAREHOLDERS,</span></span> <span><span>   AFFILIATES,</span></span> <span><span>   CONTRACTORS,</span></span> <span><span>   AGENTS,</span></span> <span><span>  
+LICENSORS,</span></span> <div><span>   OR</span><span>   SUPPLIERS,</span><span>   BE</span><span>   LIABLE</span><span>   FOR</span><span>   ANY</span><span>   INDIRECT,</span><span>  
+CONSEQUENTIAL,</span><span>   EXEMPLARY,</span><span>   SPECIAL, OR INCIDENTAL DAMAGES, INCLUDING
+ANY DAMAGES FOR LOSS OF BUSINESS PROFITS,</span><span>   BUSINESS</span><span>   INTERRUPTION,</span><span>   LOST</span><span>   DATA</span><span>   OR</span><span>   CONTENT,</span><span>   DOCUMENTATION,</span><span>   OR</span><span>   PROFITS,</span></div> <div><span>   SERVICE</span><span>  
+INTERRUPTION,</span><span>   COMPUTER</span><span>   DAMAGE,</span><span>  
+COST</span><span>   OF</span><span>   SUBSTITUTE</span><span>   SERVICES,</span><span>   INABILITY</span><span>  
+TO</span><span>   USE</span><p>  HIKVISION
+SERVICES, PRIVACY LEAKAGE, OR ANY OTHER LIABILITIES OR LOSSES CAUSED BY</p><span>   HIKVISION SERVICES OR BY FAILURES OF
+HIKVISION SERVICES, WHETHER BASED ON WARRANTY,</span><span>  
+CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT HIKVISION
+KNEW OR</span></div> <div><span>   SHOULD</span><span>   HAVE KNOWN</span><span>   OF THE
+POSSIBILITY</span><span>   OF SUCH DAMAGES.</span><p>  TO
+THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL HIKVISION’S</p><span>   TOTAL CUMULATIVE LIABILITY ARISING FROM OR
+RELATED TO HIKVISION SERVICES, WHETHER</span><span>   BASED
+ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, EXCEED THE FEES</span><span>   ACTUALLY PAID BY YOU TO HIKVISION OR
+HIKVISION’S AUTHORIZED RESELLER FOR HIKVISION</span><span>  
+SERVICES IN THE PRIOR 6 MONTHS (IF ANY) IMMEDIATELY PRECEDING THE DATE
+OF THE MOST</span></div> <div><span>   RECENT</span><span>   CLAIM.</span><span>   THIS</span><span>   LIMITATION</span><span>   IS</span><span>   CUMULATIVE</span><span>   AND</span><span>   WILL</span><span>   NOT</span><span>   BE</span><span>   INCREASED</span><span>  
+BY</span><span>   THE</span><span>   EXISTENCE OF MORE THAN ONE INCIDENT OR CLAIM. HIKVISION
+DISCLAIMS ALL LIABILITY OF</span><span>   ANY KIND
+OF HIKVISION’S LICENSORS AND SUPPLIERS.</span><p>  THE</p><span>   EXCLUSIONS</span><span>   AND</span><span>   LIMITATIONS</span></div> <div><span>   OF</span><span>   DAMAGES</span><span>   SET</span><span>   FORTH</span><span>   ABOVE</span><span>   ARE</span><span>   FUNDAMENTAL</span><span>   ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN HIKVISION AND YOU.</span></div> <div><h1>  21.</h1><span>   
+</span><span>  Dispute Resolution</span><p>  You agree that these Terms
+and any claim, dispute, action, cause of action, issue or request for relief
+between you and</p><span>   HIKVISION arising out
+of or relating to these Terms or HIKVISION Services (collectively, “Disputes”)
+will be governed by</span><span>   and construed
+in accordance with the laws of the People’s Republic of China, without giving
+effect to any conflict of laws</span><span>   principles
+that may provide the application of the law of another jurisdiction.</span></div> <p><p>  If a Dispute arises between
+you and HIKVISION, our goal is to learn about and address your concerns. You
+agree that you</p></p> <div><span>   will</span><span>   notify</span><span>   HIKVISION</span><span>   about</span><span>   any</span><span>   Dispute</span><span>  
+you</span><span>   have</span><span>   with</span><span>   HIKVISION</span><span>   regarding</span><span>  
+these</span><span>   Terms</span><span>   or</span><span>   our</span><span>   Products</span><span>  
+or</span><span>   HIKVISION Services by
+contacting HIKVISION at </span><span>  support@hikvision.com.
+We’ll try to resolve the Dispute informally by</span></div> <span><span>   contacting you through email. If a Dispute
+is not resolved within 90 (ninety) days after submission, you or HIKVISION may</span></span> <span><span>   bring a formal proceeding.</span></span> <div><h1>  22.</h1><span>   
+</span><span>  Binding Arbitration</span><p>  You and HIKVISION agree to
+submit to binding arbitration all disputes and claims arising out of or
+relating, in any way, to</p><span>   these Terms
+or any of HIKVISION Services, on an individual and purely bilateral, non-class/non-representative
+bases.</span><span>   Arbitration on an individual
+basis is the exclusive remedy for any claims which might otherwise be brought
+on a class,</span><span>   collective or
+representative basis between you and HIKVISION. These Terms will be governed by
+the laws of the People’s</span></div> <div><span>   Republic</span><span>   of</span><span>   China</span><span>   and</span><span>   shall</span><span>   be</span><span>   submitted</span><span>   exclusively</span><span>   to</span><span>   the</span><span>   China</span><span>   International</span><span>   Economic</span><span>  
+and</span><span>   Trade</span><span>   Arbitration</span><span>   Commission (“CIETAC”) in Beijing in accordance with CIETAC
+rules. Unless otherwise precluded by law, you and</span><span>   HIKVISION shall each separately pay your or its own attorneys’
+fees and costs. You agree that if any provision of this</span></div> <span><span>   arbitration agreement is held by an arbitrator or a court of
+competent jurisdiction to be invalid, unenforceable, or void, that</span></span> <span><span>   provision shall be struck from the
+agreement to arbitrate, and the remainder of the arbitration agreement shall
+remain in full</span></span> <span><span>   force and effect
+consistent with applicable law. However, the entire agreement to arbitrate
+shall be void if the provisions</span></span> <span><span>   above
+waiving or precluding class arbitration proceedings are found to be invalid,
+unenforceable, or void for any reason.</span></span> <div><h1>  23.</h1><span>   
+</span><span>  Limitation on Claims</span><p>  Regardless of any statute or
+law to the contrary, any dispute arising out of or related to your use of
+HIKVISION Services</p><span>   must</span><span>   be</span><span>   filed</span><span>   within</span><span>   one</span><span>   (1)</span><span>   year</span><span>   after</span><span>   the</span><span>   occurrence</span><span>  
+of</span><span>   the</span><span>   event</span><span>   or</span><span>   facts</span><span>   giving</span></div> <div><span>   rise</span><span>   to</span><span>   a</span><span>   dispute,</span><span>   or</span><span>   you</span><span>   waive</span><span>   the</span><span>   right</span><span>   to
+pursue</span><span>   any</span><span>   dispute</span><span>   based</span><span>   upon</span><span>   such</span><span>   event</span><span>   or</span><span>   facts</span><span>   forever.</span></div> <div><h1>  24.</h1><span>   
+</span><span>  Entire</span><span>   Agreement;</span><span>   Waiver;</span><span>   Severability</span><p>  These Terms constitute the
+entire and exclusive understanding between you and HIKVISION with respect to
+the use of</p><span>   HIKVISION Services, and
+these terms supersede and replace any and all prior oral or written
+understandings or agreements</span><span>   between
+HIKVISION and you regarding HIKVISION Services. HIKVISION’s failure to enforce
+any right or provision in</span></div> <span><span>   these Terms
+will not constitute a waiver of such right or provision or of any other rights
+or provisions in these Terms. If a</span></span> <span><span>   court
+or tribunal should find that one or more rights or provisions set forth in these
+Terms are invalid, you agree that the</span></span> <div><span>   remainder
+of the Terms will remain in full force and effect and that the invalid
+provision will be enforceable to the fullest</span><span>  
+extent</span><span>   permitted by law.</span></div> <div><h1>  25.</h1><span>   
+</span><span>  Assignment</span><p>  You</p><span>   may</span><span>   not</span><span>   assign</span><span>   or</span><span>   transfer</span><span>  
+these</span><span>   Terms</span><span>   and</span><span>   any</span><span>   associates</span><span>   rights</span><span>   or</span><span>   obligations,</span><span>   by</span><span>   operation</span><span>   of</span><span>   law,</span><span>   without</span><span>  
+HIKVISION’s prior written consent. Any attempt by you to assign or
+transfer these Terms, without such consent, will be</span></div> <span><span>   null.</span></span> <div><span>   HIKVISION</span><span>   may freely assign or</span><span>   transfer these Terms without restriction.</span></div> <div><h1>  26.</h1><span>   
+</span><span>  Contact Us</span><p>  Should</p><span>   you have any
+questions, please contact us immediately via email at</span><p>  su</p><p>  port@hikvision.com.</p></div>

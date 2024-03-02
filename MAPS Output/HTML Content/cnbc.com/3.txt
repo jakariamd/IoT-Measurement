@@ -1,0 +1,287 @@
+<div><h1>  Adobe Experience Cloud privacy</h1><p>  Last updated: December 5, 2022</p><p>  The <a href="https://www.adobe.com/experience-cloud.html" target="_blank"> Adobe Experience Cloud solutions </a>enable our business customers to personalize and improve the performance of their websites, apps, and social media pages. These companies use Adobe Experience Cloud solutions to collect and analyze information, such as clicks made by visitors on their websites, apps, and social media pages. The solutions also allow the companies to provide you with more relevant messages within their emails, text messages, and other online and offline marketing campaigns. In general, companies use Adobe Experience Cloud solutions when they want to better understand and improve their online resources and marketing.</p></div> <div><h5>  What types of solutions are part of the Adobe Experience Cloud?</h5><p>  The Adobe Experience Cloud solutions fall into four general categories:</p><p>  <u> Measurement solutions </u>, which help companies measure and understand how you use their websites, apps, social media pages, as well as how you interact with their online marketing campaigns.</p><p>  <u> Personalization solutions </u>, which help companies test new content and make their websites, apps, social media pages, and emails more relevant to you.
+</p></div> <p><p>  <u> Content management solutions </u>, which help companies store, update, and deliver images and other content on their websites, within their apps, and in online marketing materials.
+</p></p> <p><p>  <u> Advertising solutions </u>, which help companies improve their online advertising on websites, apps, search engines, and social media. These solutions also help companies send emails, text messages, and other online and offline marketing campaigns.
+</p></p> <p><p>  In each of these four categories, companies may utilize machine learning technologies available in the solutions to automate the processing of certain data elements in their use of the solutions.
+</p></p> <div><h5>  What information is collected when a company uses Adobe Experience Cloud?</h5><p>  When a company uses Adobe Experience Cloud solutions, that company chooses how to use the solutions, including what information to collect and send to its Adobe Experience Cloud account. Examples of the types of information that may be collected include the following, depending on the particular Adobe Experience Cloud solution and the jurisdiction of the company:</p><ul>  <li>Where you go and what you do on that company's websites, apps, or social media pages</li><li>Your web browsing activity, including the URLs of the company’s web pages you visit</li><li>The URL of the page that displayed the link that you clicked on, which brought you to that company's website</li><li>The web search you performed that led you to that company's website</li><li>Information about your web browser and device, such as device type, browser type, advertising identifier, operating system, connection speed, and display settings</li></ul></div> <ul><ul>  <li>Your IP address (or partial IP address, depending on how the company has configured the solution), which may be used to approximate your general location</li><li>Location information from your mobile device or web browser</li><li>Social media profile information</li><li>Information you may provide on that company's website, app, or when interacting with that company’s social media pages, such as information you provide on registration forms</li><li>Ad campaign success rates, such as whether you clicked on a company's ad and whether viewing or clicking on the ad led to your purchase of that company's product or service</li></ul></ul> <div><ul>  <li>Items you've purchased or placed in your shopping cart on that company's website or app
+</li></ul></div> <div><h5>  How do companies use Adobe Experience Cloud to collect information?</h5><p>  <u> Cookies and Similar Technologies </u>. Adobe Experience Cloud solutions use <a href="https://www.adobe.com/privacy/cookies.html" target="_blank"> cookies and similar technologies </a>, such as web beacons (also known as tags or pixels), to enable companies to collect information in connection with their websites. If you look at your cookie settings in your browser, you may notice cookies from Adobe-owned domains, such as omtrdc.net and demdex.net. Most Internet browsers classify these as "third-party cookies” because they are not set by the website you are visiting. Companies using the Adobe Experience Cloud sometimes choose to use their own cookies (often called "first-party cookies”).</p></div> <p><p>  <u> Mobile </u>. A company may also use Adobe Experience Cloud technologies within its mobile apps. These technologies allow the company to send information to its Adobe Experience Cloud account -- for example, how you use the company’s mobile apps as well as other information your mobile device may make available to apps, such as location information. For more information, please review the privacy policy of the company as well as privacy information provided by your mobile device manufacturer.
+</p></p> <p><p>  <u> Social Media </u>. When you use a company’s social media pages, the social media site you visit (on which the page is located) may allow the company to send certain information about you to its Adobe Experience Cloud account. Most social media sites allow you to configure your settings regarding how your information is used. For more information, please refer to the privacy policies of the social media sites you use.
+</p></p> <p><p>  <u> Adobe Experience Platform Launch </u>. Adobe Experience Platform does not collect data about tag firing as part of these tag management product offerings. The Tag Manager itself does not have usage tracking about the on-page firing. With no tags deployed, Adobe Launch will set no cookies nor make any network calls. When used by a business customer of Adobe’s services, Adobe Experience Platform Launch will deliver the library containing the customer specified tags for other Adobe Experience Cloud Solutions to either (i) a customer’s own hosting provider (the recommended path) or (ii) to a 3rd party Content Delivery Network (CDN). In either scenario, the hosted server(s) to which the tags are delivered are not owned or managed by Adobe nor does Adobe own the server logs for requests made to those servers.</p></p> <p><p>  Adobe Experience Cloud solutions help our business customers manage their content; and personalize and improve the performance of their websites, apps, and marketing messages. For example, these customers may use Adobe Experience Cloud solutions to collect and analyze information about how individuals use their websites. A company that uses Adobe Experience Cloud may also use third party services to perform related services, such as <a href="https://policies.google.com/technologies/partner-sites?hl=en-US" target="_blank"> Google </a>. For more information, please review the company’s privacy disclosure.
+</p></p> <div><h5>  How do companies use health-related segments in the Adobe Advertising Cloud?</h5><p>  As part of the Adobe Advertising Cloud solution, Adobe makes available certain health-related segments supplied by third-party data providers to the companies using the Adobe Advertising Cloud. Companies may choose to use these segments to target ads when they are using our solution, to the extent that use is permitted under applicable law and industry guidelines. These data segments generally fall into the following categories: (1) occupation in a health related field, (2) health related topics and conditions (but not specific conditions), (3) interest in health insurance, (4) diet, fitness, weight-loss and healthy lifestyles, (5) consumer goods and services for personal healthcare, vision care, grooming and beauty, (6) over the counter medicines, remedies and dietary supplements, and (7) health related charities. </p></div> <div><h5>  What privacy choices do you have about a company's use of Adobe's Experience Cloud solutions?</h5><p>  For more information about how a company uses Adobe’s Experience Cloud solutions, please refer to that company's privacy policy. Adobe requires its business customers to provide privacy policies describing:</p><ul>  <li>Their privacy practices in connection with Adobe Experience Cloud</li><li>How you can set your preferences for the collection or use of information obtained by the company in connection with Adobe Experience Cloud</li></ul></div> <p><p>  <u> Cookies and Similar Technologies </u>. Adobe's Experience Cloud uses <a href="https://www.adobe.com/privacy/cookies.html" target="_blank"> cookies and similar technologies </a> to enable companies to collect information. Most browsers automatically accept cookies, but you can usually configure your browser to block all cookies, or to block only those set by companies other than the one whose website you are visiting. If you configure your browser to block cookies, you may prevent a company from collecting information using Adobe Experience Cloud solutions on its websites. Please see <a href="https://www.adobe.com/privacy/opt-out.html" target="_blank"> Your Privacy Choices </a> to learn more about your choices for opting out of companies’ use of Adobe Experience Cloud solutions.
+</p></p> <p><p>  <u> Mobile </u>. Most mobile devices allow you to limit the use of mobile advertising identifiers for interest-based advertising. For more information, please review the instructions provided by your mobile device manufacturer. Please see <a href="https://www.adobe.com/privacy/opt-out.html" target="_blank"> Your Privacy Choices </a> to learn more about your choices for opting out of companies’ use of Adobe Experience Cloud solutions.
+</p></p> <p><p>  <u> Email and Text Messages </u>. To learn more about how to opt out from commercial email or text messages sent by a company using Adobe Experience Cloud, please follow the opt out process specified within the message itself, or review the company’s privacy policy. To opt out from receiving mobile push notifications, please review the information provided by your mobile device manufacturer.
+</p></p> <div><p>  <u> Interest-Based Advertising </u></p><span>  . Adobe is a member of the following interest-based advertising self-regulatory groups:
+</span><p>  Adobe complies with the member requirements of these groups, including the NAI Code of Conduct and other applicable NAI guidance. Please visit these groups' sites for more information about interest-based advertising, including how to opt out of companies' use of Adobe Experience Cloud advertising solutions.
+</p><p>  Please also see <a href="https://www.adobe.com/privacy/opt-out.html" target="_blank"> Your Privacy Choices </a> to learn more about your choices for opting out of companies’ use of Adobe Experience Cloud advertising solutions.
+</p></div> <p><p>  If you opt out, you will no longer receive interest-based ads using Adobe Experience Cloud advertising solutions that are based on your previous activity on websites. You may still receive ads from companies that use our advertising solutions, but they will no longer be based on your previous web browsing or likely interests. When you opt out, Adobe will place at least one opt out cookie on your browser. If you delete your cookies, change browsers, or change devices, you will need to repeat this opt-out process. Also, please note that this opt-out process will work only if your browser is set to accept third-party cookies.</p></p> <p><p>  <u> IAB Transparency and Consent Framework. </u>  Adobe participates as a Vendor in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies in providing the Adobe Advertising Cloud and Adobe Audience Manager solutions to business customers. Adobe’s identification numbers within the framework are:  Adobe Advertising Cloud:  GVL ID 264 and Adobe Audience Manager: GVL ID 565.</p></p> <div><h5>  How long is information collected on behalf of companies using Adobe Experience Cloud advertising solutions retained?</h5><p>  As described above, the Adobe Experience Cloud advertising solutions use cookies and similar technologies, and mobile technologies, to help companies collect information about how you use their websites and apps so they can provide you with more relevant ads. These ads are often called “interest-based ads.” Adobe generally retains this information within the Adobe Experience Cloud advertising services for a maximum of 25 months from the time it was collected. The companies that use the Adobe Experience Cloud advertising services may use Adobe’s technologies to collect data, or, as explained below, add additional information to the information they collect using the Adobe Experience Cloud. In these situations, Adobe retains data in accordance with the company’s instructions. </p></div> <div><h5>  What information can a company upload to Adobe Experience Cloud?</h5><p>  Some of the Adobe Experience Cloud solutions are designed to enable a company to upload information into its Adobe Experience Cloud account. Therefore, companies sometimes upload information that they have collected from their own websites, apps, social media pages, or from other sources, such as third party data providers.  </p></div> <div><h5>  Does Adobe share any of the information its business customers collect using Adobe Experience Cloud?</h5><p>  Adobe does not share its business customers’ information except when asked to do so by the business customer. Please review the privacy policy of the company using Adobe Experience Cloud for more information about that company's privacy practices.</p><p>  Note that companies often allow Adobe to aggregate their data in a way that does not identify individuals for the purpose of publishing reports, such as the <a href="http://www.cmo.com/adobe-digital-index.html" target="_blank"> Adobe Digital Index </a>.</p></div> <div><ul>  <li>Shop for
+
+
+</li><li>Creative Cloud
+
+
+
+</li><li>Photoshop
+
+
+
+</li><li>Adobe Express
+
+
+
+</li><li>Photography
+
+
+
+</li><li>Premiere Pro
+
+
+
+</li><li>Adobe Stock
+
+
+
+</li><li>Elements Family
+
+
+
+</li><li>Document Cloud
+
+
+
+</li><li>Acrobat
+
+
+
+</li><li>Acrobat Sign
+
+
+
+</li><li>Special offers
+
+
+
+</li><li>View plans and pricing
+
+
+
+</li><li>View all products
+
+
+
+
+
+</li><li>For business
+
+
+</li><li>Creative Cloud for teams
+
+
+
+</li><li>Creative Cloud for enterprise
+
+
+
+</li><li>Document Cloud for business
+
+
+
+
+
+</li></ul></div> <div><ul>  <li>For education
+
+
+</li><li>Discounts for students and teachers
+
+
+
+</li><li>Schools and universities
+
+
+
+</li><li>Digital Learning Solutions
+
+
+
+
+
+</li><li>For mobile
+
+
+</li><li>Apps for iOS
+
+
+
+</li><li>Apps for Android
+
+
+
+
+
+
+</li><li>Experience Cloud
+
+
+</li><li>What is Experience Cloud?
+
+
+
+</li><li>Analytics
+
+
+
+</li><li>Experience Manager
+
+
+
+</li><li>Commerce
+
+
+
+</li><li>Marketo Engage
+
+
+
+</li><li>Workfront
+
+
+
+</li><li>Terms of Use
+
+
+
+
+
+</li><li>Support
+
+
+</li><li>Download and install
+
+
+
+</li><li>Help Center
+
+
+
+</li></ul></div> <div><ul>  <li>Adobe Support Community
+
+
+
+</li><li>Enterprise Support
+
+
+
+</li><li>Genuine software
+
+
+
+
+
+</li><li>Resources
+
+
+</li><li>Adobe Blog
+
+
+
+</li><li>Adobe Developer
+
+
+
+
+
+</li><li>Adobe Account
+
+
+</li><li>Log in to your account
+
+
+
+
+
+
+</li><li>Adobe
+
+
+</li><li>About
+
+
+
+</li><li>Careers
+
+
+
+</li><li>Newsroom
+
+
+
+</li><li>Corporate responsibility
+
+
+
+</li><li>Investor Relations
+
+
+
+</li><li>Supply chain
+
+
+
+</li><li>Trust Center
+
+
+
+</li><li>Events
+
+
+
+</li><li>Diversity and inclusion
+
+
+
+</li><li>Integrity
+
+
+
+
+
+
+</li></ul></div> <div><ul>  <li>Featured products   
+</li><li>Adobe Acrobat Reader
+
+
+
+</li><li>Adobe Express
+
+
+
+</li><li>Photoshop
+
+
+
+</li><li>Illustrator
+
+
+
+
+</li><li>Privacy
+
+
+
+</li><li>Terms of Use
+
+
+
+</li><li>Cookie preferences
+
+
+
+</li><li>Do not sell or share my personal information
+
+
+
+</li><li>AdChoices
+
+
+
+
+
+</li></ul><p>  Language Navigation</p><p>  Language Navigation</p><p>  Choose your region</p><p>  Selecting a region changes the language and/or content on Adobe.com.</p><ul>  <li>Americas</li><li>Europe, Middle East and Africa</li><li>Asia Pacific</li></ul></div> <div><p>  Chat with us</p></div>

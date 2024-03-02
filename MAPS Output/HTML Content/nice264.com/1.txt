@@ -1,0 +1,87 @@
+<div><div>  
+		We use our own cookies, as well as third parties to improve the quality of our service.
+		
+		By continuing your navigation or closing this message, you accepting the use of cookies on our site.
+		
+		For more information please read our cookies and <a href="/index.php?r=site/privacyPolicy" target="_blank"> privacy policies </a>.
+		</div></div> <div><div>  
+
+
+</div></div> <div><h3>  Terms of Service : Nice Analytics
+</h3><div>  
+
+       
+These Terms of Service apply to the Nice Analytics Service provided by NicePeopleAtWork SL, (its affiliates and/or subsidiaries) and the company, organization or individual named on the applicable Service Order Form ("Customer").
+
+</div></div> <div><h2>  1. Definitions.
+
+When used in this agreement, the following definitions apply.
+
+"Data" means all data, regardless of format or owner, provided or identified to NicePeopleAtWork to be sent or received using NicePeopleAtWork’s Services, and/or Data hosted, stored or cached by NicePeopleAtWork at the direction of Customer or its agents, customers or end users.
+
+"Nice Analytics" means the Nice Analytics software platform, including Free, Basic and Premium versions, hosted by NicePeopleAtWork and offered in the form of Software as a Service, enabling Customer to upload, process, manage and distribute Customer's Data.
+
+"Service Order From" (SOF) means a NicePeopleAtWork contract by which Services is provided to the Customer.
+
+"Services" means the particular services to be provided to Customer by NicePeopleAtWork as specified on a Service Order Form.
+
+"Traffic" means all data sent or received by or on behalf of Customer using NicePeopleAtWork Service(s).
+
+</h2></div> <div><h2>  2. Delivery of Services.
+
+Subject to the terms, conditions and limitations in this agreement, NicePeopleAtWork will provide, and Customer will purchase, the Services set forth on applicable SOFs.
+
+</h2></div> <div><h2>  3. Term.
+
+These Terms of Service (TOS) apply until the expiration of all SOFs executed hereunder. The Initial Term of each SOF will be specified on that document. Upon expiration of the Initial Term, SOF s automatically renew for additional terms of equal length to the Initial Term (each a "Renewal Term") unless either party notifies the other in writing no less than 30 days prior to the end of the Initial Term, or Renewal Term, as applicable, that it will not renew the Service.
+
+</h2></div> <div><h2>  4. Payment.
+
+NicePeopleAtWork will invoice Customer the fees set forth on the SOF. Payment is due within the terms specified in the SOF, or otherwise 20 days of the date of invoice. NicePeopleAtWork may terminate or suspend Service should payment become past due, and Customer does not bring its account current within 5 days of its receipt of a written notice from NicePeopleAtWork. NicePeopleAtWork may assess interest at the lower of 5% per month on any past due balances. The parties agree that no endorsement or statement to the contrary on any check or payment, or on any letter accompanying any check or payment, or elsewhere will be construed as an accord or satisfaction. Should NicePeopleAtWork bring an action to recover any past due balance, it shall be entitled to recover reasonable costs and attorneys’ fees, in addition to all other legal and equitable remedies.
+
+</h2></div> <div><h2>  5. Taxes.
+
+The prices included on any SOF do not include taxes. Customer is responsible for payment of all taxes, levies, and similar governmental charges, however designated, that may be imposed by any jurisdiction, except for taxes based solely on NicePeopleAtWork’s net income. If special withholding taxes are required to be withheld on payments to NicePeopleAtWork, Customer shall promptly deliver to NicePeopleAtWork an official receipt along with an English translation (if applicable) of any taxes withheld or other documents necessary to enable NicePeopleAtWork to claim a foreign tax credit.
+
+</h2></div> <div><h2>  6. NicePeopleAtWork Disclaimer of Warranties.
+
+DISCLAIMER OF IMPLIED AND EXPRESS WARRANTIES. Except as expressly provided herein or in any written Service Level Agreement (SLA) applicable to the Service, the Services are provided "AS IS" and Customer’s use of the Services is at Customer’s sole risk. NicePeopleAtWork DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. NicePeopleAtWork DOES NOT WARRANT THAT THE SERVICES WILL BE ERROR FREE OR UNINTERRUPTED. From time to time, NicePeopleAtWork may offer access to trials of Nice Analytics Basic or Nice Analytics Premium or to demo features within it. Unless otherwise indicated expressly by the offer or by written notice by NicePeopleAtWork, such trial will be effective for a period of 30 days after such trial is commenced by Customer or until Customer agrees on a SOF (whichever occurs first). Data processed by Nice Analytics by Customer during a trial and any setups made to the Nice Analytics Basic and Premium versions accounts may be deleted unless Customer agrees on a SOF prior conclusion of the trial period. NicePeopleAtWork may terminate the trial at any time in its sole discretion. THE SERVICE IS PROVIDED "AS-IS" AND WITHOUT ANY REPRESENTATION OR WARRANTY DURING TRIALS OR OVER DEMO FEATURES.
+
+</h2></div> <div><h2>  7. Ownership and Licenses.
+
+Except for the limited rights expressly granted herein, neither party transfers to the other party any technology, software or other intellectual property rights, and all right, title and interest in and to such technology, software, or other intellectual property rights remains the sole property of the respective owner. To the extent necessary to provide the Service, NicePeopleAtWork is hereby granted a limited, nonexclusive, personal, royalty-free, fully paid-up license, during the Term, to use the Customer equipment, software, technology and/or intellectual property solely for the purposes of delivering the Services to Customer.
+
+</h2></div> <div><h2>  8. Marketing.
+
+Neither party may use the other party’s name, logo, trade name, trademarks and icons (collectively, the "Brands") without prior written agreement. Notwithstanding the foregoing, each party may use the other party’s name, trade name, trademarks and logos to refer publicly to the other, orally and in writing, as a customer/vendor of the other solely in connection with the Services provided hereunder and only for so long as this agreement remains in effect.
+
+</h2></div> <div><h2>  9. Confidentiality.
+
+Confidential Information of a party includes prices, business plans, customer data, financial data and any other information, in any form or medium, that the party designates as confidential or which a reasonable party would understand to be confidential under the circumstances. Confidential Information does not include information that: (i) is known to the receiving party prior to its receipt from the disclosing party by means that are not in violation hereof; (ii) becomes known (independently of disclosure by the disclosing party) to the receiving party from a source other than one having an obligation of confidentiality to the disclosing party; (iii) becomes known and generally available to the public or otherwise ceases to be confidential, except through a breach of this agreement by the receiving party; (iv) is independently developed by the receiving party without use of or reference to the Confidential Information of the disclosing party, or (v) is required to be disclosed by subpoena, law, regulation, or court order. Each party agrees that it will not use in any way, for its own account or the account of any third party, except as expressly permitted by, or to the limited extent required to achieve the purposes of, this agreement, nor disclose to any third party (except as required by law or to such party’s attorneys, accountants and other advisors as reasonably necessary), any Confidential Information of the other party. Each party will take reasonable precautions to protect the confidentiality of the Confidential Information of the other party that are at least as stringent as it takes to protect its own Confidential Information.
+
+</h2></div> <div><h2>  10. Customer Representations, Warranties, Covenants and Indemnification.
+
+Customer will comply with NicePeopleAtWork’s Acceptable Use Policy, located at http://nicepeopleatwork.com/NiceAnalytics/AUP. Customer is solely responsible for its Data. Customer covenants, represents and warrants that it owns all right, title and interest in the Data or possesses the necessary rights to permit the Data to be stored. Customer warrants that its use of the Services will not violate any applicable law, rule or regulation, breach an agreement with, or infringe the copyright or other intellectual property rights of, a third party. Customer will be solely responsible for the security and maintenance of its Data. Customer will cooperate with NicePeopleAtWork in provision of the Services including, but not limited to, providing NicePeopleAtWork reasonable access to Customer premises or equipment and not blocking or impairing NicePeopleAtWork from sending ICMP traffic or other Traffic monitoring requests to Customer equipment or NicePeopleAtWork supplied equipment. When Customer chooses to send or receive Data using the Services, Customer is solely responsible for modifying its Data identifiers consistent with instructions provided by NicePeopleAtWork in order to enable NicePeopleAtWork to deliver Customer’s chosen Data. If Customer breaches the foregoing covenants, representations or warranties, then NicePeopleAtWork, in addition to any other remedies available at law or in equity, may, in its sole discretion, suspend any of the Services. Customer agrees to indemnify and defend NicePeopleAtWork against any and all claims (including third-party discovery actions), liabilities, costs, damages, reasonable costs and expenses, including reasonable attorneys’ fees, relating to or arising from breach by Customer of the above representations, warranties and covenants.
+
+</h2></div> <div><h2>  11. Limitation of Liability.
+
+In no event is either party liable or responsible to the other for any special, incidental, punitive, indirect, exemplary, or consequential damages, including, but not limited to, lost revenue, lost profits, replacement goods, loss of technology, rights or services, loss of data, Data or business information, or interruption or loss of use of service or equipment, even if advised of the possibility of such damages, whether arising under contract, tort (including negligence), strict liability or otherwise, provided that nothing herein constitutes a waiver of any unpaid or past due amounts owed by Customer for purchase commitments and/or Services rendered. Without limiting the foregoing, NicePeopleAtWork’s liability to Customer for any breach of this agreement shall be limited to the direct damages arising from such breach and shall not exceed an amount equal to payments made by Customer to NicePeopleAtWork during one (1) month prior to the claim, or if the breach is claimed before the sixth (6th) month of the SOF, an amount equal to 1 time the monthly payment by Customer for the month prior to the breach.
+
+</h2></div> <div><h2>  12. Force Majeure.
+
+Neither party will be liable for any failure or delay due to any cause beyond its reasonable control, including but not limited to acts of war, acts of God, terrorism, earthquake, flood, riot, sabotage, labor shortage or dispute, utility outage, governmental act or failure of the Internet (not resulting from the actions or omissions of NicePeopleAtWork or Customer), provided that the delayed party: (a) gives prompt notice of such cause, and (b) uses its commercially reasonable efforts to promptly correct such failure or delay.
+
+</h2></div> <div><h2>  13. Termination.
+
+Either party may terminate this agreement due to the material breach of the other party upon 30 days written notice and failure of the other party to cure the breach within that time. Upon termination by NicePeopleAtWork for cause, or termination by Customer in breach/violation of these terms, all payment obligations of Customer will immediately become due and payable. Notices provided hereunder are not effective until actually received by the receiving party at the address listed on the SOF. Without limiting the foregoing, submission by Customer of a service ticket (or "trouble ticket") does not constitute Customer "notice" for purposes of this Agreement.
+
+</h2></div> <div><h2>  14. General Provisions.
+
+The laws of Spain applicable to contracts will govern the construction and operation of this agreement without regard to any conflict of laws provisions. Any action brought in connection with this agreement against NicePeopleAtWork will be brought in a court sitting in Barcelona, Spain. NicePeopleAtWork and Customer are independent contractors and this agreement does not establish any relationship of partnership, joint venture, or agency between NicePeopleAtWork and Customer. These TOS, along with the applicable SOF, SLA (if applicable) and other attachments specifically referencing these TOS constitute the complete agreement between the parties with respect to the subject matter hereof, and supersedes and replaces any and all prior or contemporaneous discussions, negotiations, understandings and agreements, written and oral, regarding such subject matter. Should there be any conflict between the TOS and the provisions of any SOF, the SOF shall prevail. These TOS may be changed by NicePeopleAtWork in its sole discretion and the changes will become effective upon posting, provided that amended TOS shall only apply to SOFs that are executed after the effective date of the changes. The provisions intended to survive (including but not limited to the provisions regarding Intellectual Property, Limitation of Liability and Confidentiality) will survive any expiration or termination of this agreement. 
+
+
+
+
+
+</h2></div> <p><p>  (c) 2014 NicePeopleAtWork, All rights reserved.
+</p></p>

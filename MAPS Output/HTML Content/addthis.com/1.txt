@@ -1,0 +1,186 @@
+<div><div>  
+
+
+
+
+</div><span>  Oracle
+
+</span><span>  Close
+</span><span>  Search
+</span><span>  
+
+</span><span>  
+
+
+</span><span>  Ask "Analyst Reports"
+
+</span><div>  
+
+</div><div>  View Accounts
+</div><span>  Back
+</span><span>  Oracle Account
+</span><span>  Cloud Account
+<a href="/cloud/sign-in.html" target="_blank"> Sign in to  </a></span><span>  Contact Sales
+
+
+
+</span><div>  
+
+</div><div>  No results found
+</div><p>  Your search did not match any results.
+</p><p>  We suggest you try the following to help find what you’re looking for:
+</p></div> <ul><ul>  <li>Check the spelling of your keyword search.</li><li>Use synonyms for the keyword you typed, for example, try “application” instead of “software.”</li><li>Try one of the popular searches shown below.</li><li>Start a new search.
+</li></ul></ul> <div><div>  Trending Questions
+
+
+
+
+</div><ul>  <li>How are customers using Oracle Cloud apps and infrastructure?</li><li>Analyst Reports</li><li>College recruiting</li><li>Working at Oracle</li><li>Can I take advantage of the cloud in my own data center?</li><li>HCM</li><li>Oracle business transformation</li><li>Try Oracle Cloud for free</li><li>How can I create an agile supply chain?</li><li>Blockchain applications</li><li>Oracle vs AWS</li><li>Financials
+
+<a href="#close" target="_blank"> Close </a></li></ul></div> <div><div>  
+
+</div><div>  Products
+</div><div>  Infrastructure
+
+</div><div>  Applications
+
+</div><div>  Industries
+</div><div>  Resources
+</div><div>  Support
+</div><div>  Events
+</div><ul>  <li>Oracle Cloud Events
+<a href="/cx/events/" target="_blank"> Cloud CX </a>
+</li></ul><p>  Join visionaries, experts, and customers as they share insights on the latest CX solutions in this series of 1–2 hour events.
+<a href="/events/virtual-summits/cloud-erp/?source=:ow:evp:cpo:::OcomT1EventIndex&intcmp=:ow:evp:cpo:::OcomT1EventIndex" target="_blank"> Cloud ERP </a>
+</p></div> <p><p>  Listen to industry experts and customers as they share ERP, EPM, and SCM best practices in this series of 1–2 hour events.
+<a href="/events/virtual-summits/cloud-hcm/?source=:ow:evp:cpo:::OcomT1EventIndex&intcmp=:ow:evp:cpo:::OcomT1EventIndex" target="_blank"> Cloud HCM </a>
+</p></p> <p><p>  Experience HR technology solutions best practices and customer successes in this series of 1–2 hour events.
+<a href="/cloud/events/" target="_blank"> Cloud Platform </a>
+</p></p> <p><p>  Explore modern technology solutions through best practices and customer examples in these 1–2 hour events.
+
+
+</p></p> <p><p>  Learn about new products and some of the customers who are using them in these 60-minutes or less announcement events.
+</p></p> <p><p>  Accelerate your application development and join technical sessions, hands-on labs, demos, panels, and live Q&A with experts.
+</p></p> <p><p>  Hear candid conversations with customer executives who rely on Oracle Cloud to help transform their business.
+
+
+</p></p> <p><p>  Not finding what you’re looking for? Search for all Oracle events.
+
+
+</p></p> <div><div>  
+
+
+
+
+</div><div>  Developer
+</div><p>  Find tools, documentation, downloads, reference architectures and sample code to develop on Oracle Cloud Infrastructure.
+</p><div>  Try Oracle Free Tier
+</div><p>  Oracle Cloud Free Tier lets anyone build, test, and deploy applications on Oracle Cloud—for free.
+</p><div>  Partners
+</div><p>  Learn how our partners' differentiated services, combined with Oracle’s technology stack, are critical to our customers’ ongoing success.
+</p><p>  Discover, test, buy, and deploy partner business applications built on, and integrated with, Oracle Cloud.
+</p></div> <p><p>  Search our digital catalog of partners who are ready to assist customers in realizing greater value through expertise-based services.
+
+
+</p></p> <p><p>  See why startups and established ISVs trust Oracle Cloud to meet their customers’ demands.
+</p></p> <p><p>  Understand the opportunities to extend and expand your service offerings with Oracle Cloud.
+</p></p> <p><p>  Learn about Oracle’s global program that helps technology and services partners innovate, collaborate, and grow based on their business needs.
+
+
+</p></p> <div><div>  Interested in partnering? Take our OPN Journey Builder
+</div><p>  Help us get to know your business better so we can guide you on your path to success with Oracle.
+</p><div>  
+<a href="/partnernetwork/journey/employee/" target="_blank"> Let’s get started </a>
+
+
+
+
+
+
+
+
+
+
+
+</div><ul>  <li><a href="/legal/privacy/" target="_blank"> Privacy Policies </a>
+
+
+
+
+
+
+
+
+
+</li></ul></div> <div><h1>  Oracle Legal
+
+</h1><div>  
+
+</div><div>  
+Legal Notices
+
+
+
+
+
+
+
+</div><ul>  <li><b> Privacy Policies </b></li><li><i> More </i> </li></ul><div>  
+
+</div><ul>  <li><a href="/legal/privacy/dyn-privacy-policy.html" target="_blank"> Dyn </a>
+
+
+
+
+
+
+
+
+
+</li></ul></div> <div><h2>  Privacy @ Oracle
+Privacy Choices
+</h2></div> <div><h4>  Preference, Opt-Out and EU/EEA Subject Access Mechanisms
+</h4><p>  Please review the Oracle <a href="/legal/privacy/" target="_blank"> privacy policies </a> for information specific to your relationship with Oracle. Below, Oracle summarizes the opt-out mechanisms found in our privacy policies. If you have a question or concern with regard to any of these mechanisms, please fill out our <a href="/legal/data-privacy-inquiry-form.html" target="_blank"> inquiry form </a>.
+</p><p>  Pursuant to the E.U. General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and other applicable laws and regulations, individuals in the EU/EEA and other jurisdictions may have data subject rights enabling them to request to access, delete, correct, remove or limit the use, or receive a copy of their personal information in Oracle’s possession or for which Oracle is otherwise responsible. View <a href="/legal/privacy/rights.html" target="_blank"> instructions </a> on how to exercise these rights.
+
+</p></div> <div><h4>  Email and Profile Information
+</h4><p>  To customize and control your preferences for receiving electronic communications from Oracle or selected Oracle partners, including opting into (or out of) Oracle communities, newsletters and general interest areas through your Oracle profile, login at <a href="https://profile.oracle.com/" target="_blank"> https://profile.oracle.com/ </a>and follow the prompts to “update my profile.”
+</p><p>  You may opt out of Oracle’s email marketing by modifying your online profile as described above or by using our general unsubscribe automated link that is included in Oracle marketing emails.
+</p></div> <p><p>  You can also find details on how to automatically unsubscribe from email communications, as well as how to submit requests to opt-out from phone and postal marketing, on our <a href="/corporate/contact/help.html" target="_blank"> Oracle.com Account Help </a> page.
+
+</p></p> <div><h4>  Cookie Preferences on Oracle Websites
+</h4><p>  Oracle enables you to opt out of cookies that are not required to enable core site functionality. Oracle uses its cookie preferences tool to process Internet advertising and tracking preferences. Once you have set your cookie preferences, Oracle will follow the specific choices you made on the cookie preferences tool. Please remember that if you delete your cookies, or use a different browser or computer, you will need to set your cookie preferences again. You may access or change your cookie preference for Oracle websites through the “Cookie Preferences” link provided in the Oracle website footers.
+
+</p></div> <div><h4>  Interest-Based Advertising Enabled by Oracle Advertising
+</h4><p>  The Oracle Advertising (Oracle Data Cloud) facilitates the collection and use of data by our customers in connection with interest-based advertising. For information on Oracle Advertising’s opt-out mechanisms and information on how to access the data collected and processed by Oracle Advertising, please visit the Oracle Advertising opt-out and access site, available at: <a href="https://datacloudoptout.oracle.com" target="_blank"> https://datacloudoptout.oracle.com </a>.
+</p></div> <p><p>  For additional opt-out mechanisms and information View more information about these Oracle Advertising services, the types of data collected and how this data is used, please visit the <a href="/legal/privacy/advertising-privacy-policy.html" target="_blank"> Oracle Advertising Privacy Policy </a>.
+
+
+
+
+
+
+</p></p> <div><h3>  Learn More
+</h3><div>  <a href="/legal/data-privacy-inquiry-form.html" target="_blank"> Privacy Inquiries </a>
+
+
+
+
+
+
+
+
+
+
+</div><div>  Resources for
+</div><div>  Why Oracle
+</div><div>  Learn
+</div><div>  News and Events
+</div><div>  Contact Us
+</div><div>  
+
+
+</div><ul>  <li>Country/Region</li><li>
+
+
+</li></ul></div>

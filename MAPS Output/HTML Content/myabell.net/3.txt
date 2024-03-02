@@ -1,0 +1,387 @@
+<div><h4>  1. General
+    1.1 WeBeHome AB, company registration no 556766-4981, Box 17049, SE-167 17 Bromma, Sweden (referred to as "WeBeHome", "we" or "our") offers applications, products and services, with the purpose of providing its customers with a digital service for connected products.
+    1.2 By signing up to or start using the Service (as defined below), you agree to these terms of use ("Terms"), which shall constitute a binding Contract between you and WeBeHome.
+    1.3 WeBeHome may, in its sole discretion, make changes to these Terms. If you do not want to continue to use our Service after any changed version of these Terms, you may terminate these Terms by contacting us at the mail address support@webehome.com. Any changes to these Terms shall apply from the date when you accept these Terms, or thirty (30) days from the date when we have informed you of the changes.
+    1.4 Communicaiton to WeBeHome can be done in English, Swedish, Danish and Norwegian. Communication from WeBeHome will be done in English or Swedish.
+    1.5 For information regarding the processing of your personal data in relation to the Service, please read WeBeHome AB’s Privacy Policy.
+
+</h4></div> <div><h4>  2. The Service
+    2.1 Our digital service consists of our mobile applications (the "Apps"), web portal (the "Portal"), application interfaces (the "APIs"), an internet cloud service (the “Cloud“) a user account (the “Account“), a service subscription (the "Subscription"), integrations to other services (the "Integrations"). Together they are referred to as the "Service". Locally installed gateways (the "Gateway"), locally installed alarm box (the "AlarmBox") and locally installed acessories (the "Accessories") can be connected to the Service. 
+    2.2 The Apps is provided to you free of charge and is available for download from AppStore and Google Play. The Portal is provided at https://webehome.com 
+    2.3. A subscription is created when registering an Account and thereafter subscriptions can be ordered from the Portal. The Subscription defines which service content that are available in the App, in the Portal and in the Cloud.
+    2.4 WeBeHome, or its licensor, shall retain all right, title and interest to the Service, including any intellectual property rights, related materials and information.
+    2.5 WeBeHome grants you a non-exclusive, non-transferrable, revocable license to use the Service during the term of these Terms. This granted right to use the Service shall not include a right for you to use any WeBeHome trademarks, service marks, trade names, logos, domain names or any other intellectual property rights for commercial use.
+    2.6 WeBeHome warrants that:
+    a) it has the right to enter into these Terms and grant the license herein; and
+    b) the intellectual property rights in and to the Service do not use or infringe any property or intellectual property rights of a third party.
+    2.7 WeBeHome does not warrant the correctness of information obtained from third parties and provided to you via the Service (including lack of such information). WeBeHome does not warrant the correctness of technical data transmitted from the Gateway, AlarmBox and accessories connected thereto or data submitted to WeBeHome which has been entered into the Apps, Portal and APIs.
+    2.8 WeBeHome will provide you with updates and revisions of the Service within reasonable time after such updates and revisions are available to WeBeHome.
+    2.9 WeBeHome may, without prior notification, make changes to the Service or the method of providing it.
+    2.10 WeBeHome is entitled to block your access to the Service if you misuse our Service or otherwise commit a breach of these Terms. In such case, we will notify you prior to blocking you from using the Service. We also reserve the right to, at any time, provide you with new user credentials, regardless the reason for such change.
+    2.11 WeBeHome will provide support of the Service to the extent stated on WeBeHome's website webehome.com based on what is included in an active Subscription for the location the support is related to.
+
+</h4></div> <div><h4>  3. Use of the Service
+    3.1 When using our Service, you undertake to: 
+    a) not copy, decompile, disassemble, modify, reverse engineer or create derivative works of any part of the software in the Service;
+    b) ensure that you have the equipment and software that WeBeHome, on a website or by another written method, has stated is required to use the Service or which otherwise is clearly required for such use; 
+    c) notify us immediately if you discover any infringements or attempted infringements of any intellectual property rights that may affect the Service; 
+    d) follow any written instructions for the use of the Service provided by WeBeHome from time to time;
+    f) ensure that all of the information in the system is correct and up to date (e.g. email address, phone number, address);
+    g) ensure that each named User has its own Account; and
+    h) ensure that the Gateway and AlarmBox is used only together with the products which it has been originally designed for. 
+    3.2 You undertake to, at all times, ensure that your user credentials (such as user name and password) are kept confidential and secure so that no unauthorised third parties may access your user credentials. If your password is lost or stolen, or if you suspect unauthorised use of your account by third parties, please notify us and change your password immediately. If you do not notify us about any unauthorised use or suspicion thereof, you are solely responsible for all use of your user credentials on the Service.
+
+    4. Contract
+    4.1 By submitting an order online or by placing an order by an email or phone call, Customer issue a legally binding contract. When submitting an order online, before payment is done, an automatic generated order confirmation is sent.
+    4.2 Online orders that are not free or charge are processed when they are fully paid by credit card. They are automatically cancelled if not paid within 24 hours from order date.
+    4.3 Online orders that are free of charge are automatically processed when the order is confirmed.
+    4.4 WeBeHome conducts continuous development. WeBeHome therefore reserves the right - at any time and without notice - to change the design and functionallity of its Service.
+    </h4></div> <div><h4>  5. Currency and VAT
+    5.1 The currencies used are SEK, DKK, NOK or EURO depending on country.
+    5.2 According to Swedish legislation, the price to for digital services supplied from Sweden to consumers shall include Swedish VAT.
+    5.3 To companies outside Sweden the VAT is excluded. Companies within EU need to supply a valid EU VAT ID.
+</h4></div> <div><h4>  6. Limitation of liability
+    In no event shall WeBeHome be liable for any special, indirect, incidental, consequential damage or loss of any kind, regardless of how it was caused and including but not limited to, loss of profit, loss of reputation or goodwill, loss of production, loss of business or business opportunities, loss of revenues or anticipated savings, or loss or corruption of data or information. If information provided through the Service is not correct and/or complete, and the customer has suffered any direct or indirect damage due to the customer relying on such information, WeBeHome is not liable for any costs related to such damage. This limitation will apply irrespective of whether such damage or loss was foreseeable or not at the time when these Terms were formed (even if advised of the possibility of such damage or loss).
+
+</h4></div> <div><h4>  7. Changes
+    WeBeHome shall be entitled to amend this Contract and update this Terms and the Privary Policy upon no less than six (6) weeks prior notice to Customer. Unless Customer notifies WeBeHome in writing of its objection to such amendment within fifteen (15) days of its receipt of notice of such amendment from WeBeHome then the amendment shall be deemed accepted by Customer.
+    If, on the other hand, Customer notifies WeBeHome in writing of its objection to such amendment within fifteen (15) days of its receipt of notice of such amendment from WeBeHome then the Contract shall be continued under the existing terms without giving effect to such amendment.
+
+
+</h4></div> <div><h4>  8. Term and termination
+    8.1 These Terms shall apply between you and WeBeHome until terminated either by you or WeBeHome.
+    8.2 If not otherwise agreed, WeBeHome has the right to terminate access to the Service with a 3 months’ notice period before termination.
+    8.3 In particular, WeBeHome may terminate these Terms at any time and with immediate effect, in the event of actual or suspected unauthorised use of the Service, or non-compliance of Clause 3 of these Terms. No refund will be made if the Service is terminated before the end of a subscription period.
+    8.4 If WeBeHome terminates these Terms pursuant to Clause 5.3, you agree to that WeBeHome shall have no liability or responsibility to you to the fullest extent permitted by applicable law.
+
+</h4></div> <div><h4>  9. Disputes and governing law
+    9.1 Any dispute controversy or claim arising out of, or in connection with, these Terms, or the breach, termination or invalidity thereof arising out of this agreement where Customer is a consumer shall be resolved by either the General Complaints Board (ARN, Allmänna reklamationsnämnden at www.arn.se) in Sweden or the European Commission Online Dispute Resolution (EU ODR, https://ec.europa.eu/odr). It is also possible to get advice from the Swedish Consumer Agency (Konsumentverket http://www.konsumentverket.se).
+    9.2 Any dispute controversy or claim arising out of, or in connection with, these Terms, or the breach, termination or invalidity thereof arising out of this agreement where Customer is a company shall be decided in public court with Stockholm District Court as the first instance.
+    9.3 These Terms shall be governed by and construed in accordance with the laws of Sweden
+
+</h4></div> <div><h4>  10. Miscellaneous
+    The legal language is English. Translations of the Terms are provided convenience only. The English language version of the Terms shall govern all contractual agreements entered.
+
+</h4></div> <div><h4>  11. Contact information
+    If you have any questions about WeBeHome, the Service or the Terms, you are always welcome to contact us at support@webehome.com
+
+
+
+
+</h4></div> <div><h1>  WeBeHome Terms & Conditions for Products
+
+<u> Updated and valid from 2020-04-03. </u>
+
+</h1></div> <div><h4>  1. General
+    1.1	WeBeHome AB, company registration no 556766-4981, Box 17049, SE-167 17 Bromma, Sweden (referred to as "WeBeHome", "we" or "our") offers sales of physical products ("Products")
+    1.2	These terms and conditions ("Terms") apply to you as a consumer and company who trades with WeBeHome, unless otherwise specifically agreed in writing between you and WeBeHome.
+    1.3	By accepting the Terms when ordering Products, you agree to the Terms, which shall constitute a binding contract between you and WeBeHome.
+    1.4 WeBeHome may, in its sole discretion, make changes to the Terms. Any changes to the Terms shall apply from the date when you accept the Terms.
+    1.5 For information regarding the processing of your personal data, see "WeBeHome Privacy Policy". For information regarding WeBeHome Services, see "WeBeHome Terms and Conditions for Services"
+    1.6 Consumers are covered by the Swedish Consumer Purchase Act and the Distance and Home Sales Act (Konsumentköplagen och Distans- och hemförsäljningslagen). WeBeHome applies the mandatory rules that result from applicable legislation.
+    1.7 If you shop as a company, these terms apply unless otherwise specified or agreed. If not stated in these Terms, the Swedish Purchasing Act (1990: 931) apply.
+    1.8 Communication to WeBeHome can be done in English, Swedish, Danish and Norwegian. Communication from WeBeHome will be done in English or Swedish.
+
+</h4></div> <div><h4>  2. Contracting Parties
+    2.1 All contractual agreements will be between WeBeHome and a consumer or a company ("Customer"). Consumer must be 18 years of age and legally competent.
+    2.2 Placing an order on webehome.com requires the Customer to register a WeBeHome account. Customer must register under their own name and complete all mandatory fields correctly. Registration is done during the online checkout and payment process.
+
+</h4></div> <div><h4>  3. Contract
+    3.1 By submitting an order online or by placing an order by an email or phone call, Customer issue a legally binding contract.  When submitting an order online, before payment is done, an automatic generated order confirmation is sent.
+    3.2 Online orders are processed when they are fully paid by credit card. Online orders are automatically cancelled if not paid within 24 hours from order date.
+    3.3 For orders on non-stocked Products (customer ordered) and for orders on custom made Products like Copenhagen Blinds, WeBeHome will send one additional e-mail confirmation including information about estimated dispatch date. Processing of the order is done when Customer confirm and accept the order and dispatch date.  After customer confirm and accept such order, the order is exempt from Cancellation Rights/Voluntary Returns.
+    3.4 WeBeHome reserves the right to refuse orders. If WeBeHome should reject an order, the Customer will be notified within 3 working days.
+    3.5 If you have ordered more than one product, you may receive the products in separate shipments
+    3.6 The stated measurements are always stated as the final measurement of the products. The dimensions are always stated in mm and as width x height (in that order).
+    3.7 WeBeHome conducts continuous product development. WeBeHome therefore reserves the right - at any time and without notice - to change the design and design of its products and to change the material selection. Ordered products will always be produced in accordance with the current WeBeHome production standards at the time of ordering. Therefore, goods ordered at different times are not necessarily made according to the same guidelines and are therefore not necessarily the identical.
+
+</h4></div> <div><h4>  4. Limited Availability of Products
+    In the case of Products no longer available at WeBeHome at the time the Customers order has been received, WeBeHome reserves the right to offer Customer to remove the Products from the order, or replace with similar Products, or cancel the order entirely.  WeBeHome shall refund Customer for products that is paid but not delivered with the same amount that was paid for the products.
+
+</h4></div> <div><h4>  5. Typographical Errors
+    WeBeHome reserves the right to amend product details and prices if they should be found incorrect or incomplete. In these cases the Customer shall be entitled to explicitly re-confirm the purchase order taking into account the new details. Otherwise, WeBeHome shall have the right to cancel the order. WeBeHome shall not be liable for any damages, direct or indirect, resulting from incorrect, incomplete or amended product details, with the exception of damages caused by intent or gross negligence.
+
+</h4></div> <div><h4>  6. Currency and VAT
+    6.1 The currencies used are SEK, DKK, NOK or EURO depending on country.
+    6.2 To consumers within EU and to companies within Sweden, the price includes Swedish VAT. To companies within EU but outside Sweden the VAT is excluded. Companies within EU need to supply a valid EU VAT ID.
+    6.3 No VAT is included on Products delivered to consumers and companies outside EU.
+
+</h4></div> <div><h4>  7. Right to Cancel and Return Policy
+<b> 7.1 Right to Cancel </b>
+    A Consumer can cancel an order without giving a reason within a time period of fourteen (14) days after receiving the products.  To cancel an order, the process defined in the section "Return and cancellation process" shall be used.
+
+<b> 7.2 Voluntary Returns </b>
+    In addition to their statutory rights, customers may return Products within 30 days of the date they received the item without giving any reasons. When return an order, the process defined in the section "Return and cancellation process" shall be used.
+    N.B.: Your right to return items voluntarily does not affect your Right to Cancel, or your statutory rights.
+
+<b> 7.3 Exempt from Cancellation Rights/Voluntary Returns </b>
+    The Right to Cancel and Voluntary Returns does not apply to
+    a)	custom sized Products
+    b)	clearly personalized Products
+    c)	Products that is non-stocked and supplied only on direct request from Customer
+    d)	services
+    e)	standard batteries
+
+<b> 7.4 Returns & Return Costs </b>
+    Customer agrees to pay the cost of return delivery.
+    The return address depends on which Products that should be returned.
+    WeBeHome will pay the cost of return delivery if the Customer returns an item wrongly sent to the Customer, or if the Customer has received faulty goods.
+    Customer shall follow the process defined in the section "Return and cancellation process" for all returns.
+
+<b> 7.5 Return and cancellation process </b>
+    If you would like to return or cancel an order, please send an email to support@webehome.com and request the "Return and cancellation form". You will first get a ticket number and within about 24 hours you will get the form e-mailed. Fill in the form and then Reply on the mail with the form attached.
+    The language in the form should be English, Swedish, Danish or Norwegian. WeBeHome responds using English or Swedish.
+    Note the section "Exempt from Cancellation Rights/Voluntary Returns".
+    WeBeHome will review the form. Upon a valid request, WeBeHome will approve the request and reply on e-mail with instructions on how to label the return shipment and where it should be sent.
+    Be aware that you are at responsible for product if it is damaged when it is shipped back to us.
+
+<b> 7.6 Refunds </b>
+    Upon an approved "Return and cancellation form", WeBeHome refund the payments received from the Customer for the Products returned within a time period of fourteen (14) days after WeBeHome have received the Products that are returned or the Customer has provided proof of return. Unless otherwise agreed, WeBeHome will issue refunds by using the same payment method the Customer has chosen when paying for the order. Delivery costs are non-refundable.
+    To get full refund the following conditions apply:
+    a)	returned Products must be unused,
+    b)	Products must be returned with all components.
+    c)	Products must be in original package.
+    d)	returned Products and packages must be in perfect original condition.
+    When the goods are received, WeBeHome will inspect the Products. If conditions are not fulfilled WeBeHome have the rights to reduce the refund with up 100% of the total refund amount.
+
+</h4></div> <div><h4>  8. Product Inspection
+    8.1 The Customer shall have the right to inspect any Products received from WeBeHome. This inspection may include carrying out a brief function test to ensure the purchased Product is in full working order. However, the Customer right to inspect the purchased Products does not include prolonged use of the Products.
+    8.2 The Customer is liable for any depreciation of Products resulting from inappropriate use during the inspection of the Products.
+    8.3 The Customer is liable for any damages to the purchased Product that occur during the inspection of the Products. However, the Customers liability shall not exceed the purchase price of the Products.
+
+</h4></div> <div><h4>  9. Warranty
+    9.1 WeBeHome ensure that all Products are of satisfactory quality, fit for purpose and as described. Properties and specification of any delivered Products shall be according to the product information provided at WeBeHome webpage https://webehome.com   WeBeHome provides a 2-year warranty on all new Products. The guarantee period commences at the delivery date.
+    In the case of the delivered Products being faulty or damaged, WeBeHome shall either provide the Customer with a replacement Product, a replacement part or guide Customer how make the Product fully working. Customer shall perform any reasonable tasks if requested by WeBeHome to get the Product fully working. If WeBeHome is unable provide a solution or instructions that gives a fully working Product, the Customer shall be entitled to ask for a reduction of the purchase price, or cancel the order. However, the right to cancel does not apply in the case of minor item faults.
+    Warranties provided by WeBeHome only apply to single Products. Warranties for aggregates of Products require a mutual agreement between WeBeHome and the Customer at the time of purchase.
+    9.2 WeBeHome shall only grant claims in cases in which damage or fault to an Product has not been the result of inappropriate handling or overuse by the Customer.
+    9.3 WeBeHome receiving a returned item in conjunction with a claim does not automatically constitute WeBeHome accepting the claim.
+    9.4 WeBeHome shall not be liable for claims in conjunction with warranties provided by Product manufacturers and other third parties at the time of purchase. Customer wishing to make a claim need to contact the manufacturer of the item directly.
+
+</h4></div> <div><h4>  10. Origin defects
+    Consumers have 3 years complaint rights for origin defects. Consumer must provide evidence that the defect existed on the Product when it was delivered from WeBeHome.
+
+</h4></div> <div><h4>  11. Delivery Conditions
+    11.1 For online orders, the delivery service and related delivery cost is select by Customer when placing the order. For other orders, the order confirmation will include information about delivery service and related delivery cost. WeBeHome have the rights to change delivery service without informing Customer. WeBeHome have not rights to change the delivery cost unless the new cost has been agreed with Customer.
+    11.2 WeBeHome target is to dispatch stocked Products after 1-2 working days after the order date.
+    11.3 For orders on non-stocked Products (customer ordered) and for orders on custom made Products like Copenhagen Blinds, an estimated dispatch date has been confirmed to customer after order. If the dispatch date is changed significantly, WeBeHome shall notify Customer and Customer have the rights to cancel the order.
+    11.4 Delivery time after dispatch from WeBeHome depends on the delivery service and destination country and other factors like for example customs handling. It is the delivery service that is responsible for handling the delivery after it has been dispatched from WeBeHome.
+    11.5 Claims related to incomplete deliveries or Products damaged during the delivery process must be directed at the respective delivery service and must be made within 24 hours after the order has been delivered. Replacement Products are subject to the Customer providing to WeBeHome proof of the claim being made.
+    11.6 Nondelivered packages that are returned due to incorrect shipment information from Customer or non-picked up packages are charged with the cost for returning the package plus a fee of €25 (incl. VAT) to cover WeBeHome's shipping and administration costs.
+
+</h4></div> <div><h4>  12. Payment Conditions
+    12.1 All prices in WeBeHome in EURO, SEK, NOR or DKK depending on country, and represent the total amount, including VAT charged at the rate that applies on the day of order.
+    12.2 WeBeHome offers payment with credit card. Customers that are companies may apply for payment via invoice. In certain conditions advance payment can be used as payment method if this is agreed between WeBeHome and Customer.
+    12.3 For payment via credit card, you confirm that the credit/debit card that is being used is yours. All credit/debit card holders are subject to validation checks and authorization by the card issuer. We are not responsible for your card issuer or bank charging you as a result of our processing of your credit/debit card payment in accordance with your order.
+    12.4 Defaulting on invoice payment shall incur a payment charge of €5 for each reminder sent to the Customer, as well as default interest charged at the rate 12 percent per annum. WeBeHome have the right to transfer these payments to a debt collection agency and to provide the debt collection agency with the Customer's name, address, product purchased, the amount owed and the Customers order history.
+
+</h4></div> <div><h4>  13. Retention of ownership
+    WeBeHome retain the ownership of Products until the purchase price for the Products has been paid in full and received by WeBeHome.
+
+</h4></div> <div><h4>  14. Liability
+    14.1 In no event shall WeBeHome be liable for any special, indirect, incidental, consequential damage or loss of any kind, regardless of how it was caused and including but not limited to, loss of profit, loss of reputation or goodwill, loss of production, loss of business or business opportunities, loss of revenues or anticipated savings, or loss or corruption of data or information. If information provided is not correct and/or complete, and the customer has suffered any direct or indirect damage due to the customer relying on such information, WeBeHome is not liable for any costs related to such damage. This limitation will apply irrespective of whether such damage or loss was foreseeable or not at the time when these Terms were formed (even if advised of the possibility of such damage or loss).
+    14.2 Nothing in these Terms & Conditions shall exclude or limit liability which may not be excluded or limited under any applicable law.
+
+</h4></div> <div><h4>  15. Changes in Customer Details
+    The Customer shall notify WeBeHome immediately of any changes in the shipping address, invoice address and contact details in relation to any orders being processed or in any other way awaiting completion. Orders will be dispatched to the Customers last known address. WeBeHome cannot be held responsible for any losses or damages incurred as a result of out-of-date Customer details.
+
+</h4></div> <div><h4>  16. Disputes and governing law
+    16.1 Any dispute controversy or claim arising out of, or in connection with, these Terms, or the breach, termination or invalidity thereof arising out of this agreement where Customer is a consumer shall be resolved by either the General Complaints Board (ARN, Allmänna reklamationsnämnden at www.arn.se) in Sweden or the European Commission Online Dispute Resolution (EU ODR, https://ec.europa.eu/odr). It is also possible to get advice from the Swedish Consumer Agency (Konsumentverket http://www.konsumentverket.se).
+    16.2 Any dispute controversy or claim arising out of, or in connection with, these Terms, or the breach, termination or invalidity thereof arising out of this agreement where Customer is a company, shall be decided in public court with Stockholm District Court as the first instance.
+    16.3 These Terms shall be governed by and construed in accordance with the laws of Sweden
+
+</h4></div> <div><h4>  17. Miscellaneous
+    The legal language is English. Translations of the Terms are provided for convenience only. The English language version of the Terms shall govern all contractual agreements entered.
+
+</h4></div> <div><h4>  18.	Contact information
+    If you have any questions about WeBeHome, the Products or the Terms, you are always welcome to contact us at support@webehome.com
+
+
+
+
+</h4></div> <div><h1>  WeBeHome Privacy Policy
+<u> Updated and valid from 2020-04-03. </u>
+
+    When using WeBeHome's Service (as defined below), you provide us with your personal data. Your privacy is important to us and we strive always to protect your personal data in the best possible way. This privacy policy (“Privacy Policy”) describes what kind of information we collect about you, how it is used, what steps we have taken to protect your personal data and how we share it. We also describe what rights you have in relation to your personal data.
+    When you register to or start using our Service, we will collect, save and otherwise process your personal data under this Privacy Policy. 
+</h1></div> <div><h4>  1.	Scope of this Privacy Policy
+    This Privacy Policy applies to the personal data we collect about you when you use our mobile application (the ”App”), our web portal (the "Portal"), an internet cloud service (the “Cloud“) a user account (the “Account“), a service subscription (the “Subscription), a locally installed gateway (the "Gateway“) and a locally installed alarm box (the "Alarm Box“) (together referred to as the "Service"). The Privacy Policy does not apply to personal data collected by any of our external partners for their use. WeBeHome is not responsible for the personal data processing that such external partners do for themselves. The Privacy Policy, however, is applied in relation to the personal data our external partners share with us and which we use ourselves, as described in detail in the sections 4.1.
+
+</h4></div> <div><h4>  2.	Who are we
+    We are WeBeHome AB, company reg. no. 556766-4981, and we are responsible for the processing of your personal data. All references in the Privacy Policy to “we”, “us” or “our” refer to WeBeHome AB.
+
+</h4></div> <div><h4>  3.	Changes
+    We may make changes to this Privacy Policy from time to time. If we make changes to the Privacy Policy, the new version is applicable when we publish this in our mobile application or otherwise communicate this with you. At the bottom of this Privacy Policy, you can see when we last updated this Privacy Policy.
+    If any change implies a reduced protection of your personal data, this change will not apply to the data we received from you before the change was made. 
+
+</h4></div> <div><h4>  4.	Collection
+<b> 4.1	What categories of personal data do we process </b>
+    We will process the personal data you have provided to us through our Service and those products you connect to the Service for the purposes set out below in section 5. The personal data we process consists of:
+    1.	Users details (name, photo, address, e-mail address, phone number and credentials)
+    2.	GPS coordinates of your installation
+    3.	Data about connected products (id, descriptions, versions, technical info, readings, location, credentials)
+    4.	Status of connected products (connected, disconnected, failed, removed)
+    5.	State of connected products (open, closed, temperature, humidity, light condition, armed, disarmed, lock, unlocked etc)
+    6.	Images from connected IP-cameras
+    7.	IP-addresses
+    8.	Transactional data (data between the different components in the Service, between the Service and connected products and between the Service and the users)
+    9.	Information of usage of our Service
+    10.	Historical data (of point 3, 4, 5, 6, 8 and 9)
+    11.	Orders, payment details and financial transactions
+    12. Support cases (contact information, case description, correspondans)
+    
+<b> 4.2	How we collect your data </b>
+    We collect your data directly from you when you register through the Service, when you update information while using our Service and when you submit support cases. Your data is also collected via the products that are connected to the Service.
+
+</h4></div> 5. Purposes of the processing and legal basis for such processing WeBeHome will process your personal data for the purposes set forth below. For each purpose WeBeHome must have a legal basis. A legal basis could e.g. be (i) your consent to the relevant processing activity, (ii) that the processing is necessary for the performance of a contract to which you are a party, or (iii) that WeBeHome or a third party has a legitimate interest to process the personal data which is not overridden by your interest of not having the personal data processed. Under each purpose listed below, the legal basis that WeBeHome relies on will be identified. In order for WeBeHome to perform its obligation to provide you with its Service under the Terms & Conditions entered into between you and WeBeHome, you are required to provide certain personal data to WeBeHome as set out below. If your consent is identified as the legal basis for a purpose listed below, we will not process your personal data for such purpose without having obtained your consent thereto. Furthermore, you have the right to withdraw your consent at any time by sending us an e-mail using the user contact information specified in section 11. You can choose to only withdraw your consent for certain specific purposes. Please note that the withdrawal of the consent does not affect the lawfulness of the processing based on such consent before its withdrawal. Your personal data will not be used in a manner that is inconsistent with the purpose for which the data was collected. We process your personal data for the following purposes: a) Administration of Account WeBeHome uses your user details for the purpose of administrating your account with us. This processing is based on WeBeHome's legitimate interest of securing our Service. b) Delivery of Service WeBeHome uses your user details, data, status and state of connected products, historical data, IP-addresses, images and transactional data in order to enable the application and other services to provide you with the status of the devices you have connected to our Service. This processing is based on the performance of contract for the services. c) Surveillance WeBeHome transactional data, data of connected products and status and state of connected products to monitor the uptime and performance of the Service. This processing is based on the performance of contract for the services. d) Product & Service development WeBeHome uses your transactional data, status and state of connected products, historical data, information of usage and IP-addresses for the purpose of evaluating the quality of the service, performance, usage, device communication and battery quality. We do this to get input to improve the Service and to provide a better user experience. This processing is based on our legitimate interest to offer new and improved functionality to our users. e) Providing support WeBeHome uses your user details, status and state of connected products, historical data, transactional data, IP-address for the purpose of providing support and locate errors in your installation. We also use the data to recreate any issues you may experience in our test lab. This to be able to provide a solution to you. The information you provide will be used by us to contact you in the event of an issue with your system. This processing is based on the performance of our contract with our users. f) Administration of newsletters WeBeHome uses your name and email for the purpose of providing updates about the products and services we provide, which we will distribute in a newsletter. This processing is based on WeBeHome´s legitimate interest to communicate news and service offers to our users. g) Customer surveys WeBeHome may use your user details for the purpose of making customer surveys. This processing is based on our legitimate interest to provide an improved service to our users. h) Business development WeBeHome may use your status of connected products, state of connected products and historical data for the purpose of business development. This processing is based on our legitimate interest to offer new services to our users. i) Marketing WeBeHome may use your name, email, user details, GPS location, status of connected products, state of connected products and historical data (status and state of products) for direct marketing of our Service to you. This processing is based on WeBeHome's legitimate interest of marketing additional and/or complementary products or services to you and informing you of new functionality of your products or services. j) Profiling Your data and information about usage may be used to profile your usage, combine and aggregate this information with other users to provide knowledge that we can use to market our services to a) new potential customers b) to our existing customers c) potential customers living close to our current customers. This processing is based on our legitimate interest to offer our services to new and existing customers. k) Financial WeBeHome uses your user details, data about connected products, order, payment details and financial transactions for the purpose of delivery and accounting. This processing is based on WeBeHome's requirement to pursue applicable legislation, such as accounting laws. <div><h4>  6.	How we share your personal data
+    Depending on which parts of the services you use we may share your data with the companies within our reseller and partner network as set out in Annex 1. The personal data will be used for the same purposes for which we originally collected it. In order to fulfil the purposes listed above, WeBeHome will also share your personal data with the following of our external partners.
+    a)	Securitas AB (alarm central and guard service)
+    b)	Loopia Group (hosting of cloud service)
+    c)	Mandrill & MailChimp (outgoing email service)
+    d)	PushWoosh (outgoing push notification service)
+    e)	TellusTalk (outgoing SMS)
+    f)	ZenDesk (support tool)
+    g)	PayEx (credit card payment service)
+    h)  TeamViewer (remote support)
+    i)  Cookie Information (cookie information)
+
+</h4></div> <div><h4>  7.	Transfer of personal data outside of the EU/EEA
+    WeBeHome stores and processes your personal data within the EU/EEA. WeBeHome will transfer your personal data to other companies outside of the EU/EEA and to the third countries listed below. If the EU Commission has not decided that a country listed below ensures an adequate level of protection for your personal data, then we will provide a description of the safeguards implemented by us or the legal basis relied on by us to ensure that the transfer of your personal data is in compliance with European data protection legislation. For information about transfer of information outside of the EU/EEA, please submit a written request to us via the contact information specified in section 11.
+    a)	GDX Security (restricted to user details and data about connected products for customers in Norway)
+    b)	Prosystems Carl restricted to user details and data about connected products for customers in New Caledonia)
+    c)	Technoimport (restricted to co user details and data about connected products for customers in Columbia)
+
+</h4></div> <div><h4>  8.	Links to other sites
+    There are links to third party sites on our web site. Please note that this privacy policy does not automatically apply to these third party sites.
+
+</h4></div> <div><h4>  9.	Retention period
+    WeBeHome will keep your personal data in accordance with the data retention time periods set by WeBeHome. You will find more detailed information on the retention time periods below. WeBeHome will save some categories of your personal data for as long as your account is registered with WeBeHome. You may unregister your account with us at any time. 
+    If you choose to unregister your account, and the account is the owner account for the service we will delete your personal data (except for personal data needed to pursue legislation, such as accounting laws and warranty, including name, email, user details, and aggregated personal data, i.e. unidentifiable data). 
+
+    The following categories of data will be processed for up to two years after collection for the purpose of delivering the service, product & service development and providing support
+    •	Status of connected products;
+    •	State of connected products;
+    •	Historical data (status and state of products);
+
+    The following categories will be not be retained. They cached while being forward between connected device and user and then dropped.
+    •	Images from ip-cameras for live view
+
+    The following categories will be processed for up to 30 days unless user selected to be stored for a longer time for individual image sequences
+    •	Stored images from ip-cameras
+
+    The following categories will be processed for up to 30 days.
+    •	Transactional data
+
+    The following categories of data will be processed as long as you are a registered user, for the purpose of administrating the account, delivery of service, product & service development, providing support
+    •	User details
+    •	GPS Location
+    •	IP addresses
+    •	Data about connected products
+    •	Information of usage
+
+    The following categories of data will be processed for marketing purpose until opting out of this processing
+    •	Email
+    •	User details
+    •	GPS Location
+    •	Status of connected products
+    •	State of connected products
+    •	Historical data (status and state of products)
+
+    If you or your connected products have not been active for two years (from the date of last usage), the information will be deleted.
+
+    The following categories of data will be processed until passed ten calendar years for the purpose of pursue applicable legislation, such as accounting laws.
+    •	Orders, payments and financial transactions used in accounting
+    •	User details used in accounting
+
+</h4></div> <div><h4>  10.	Your rights
+    If you wish to exercise your rights towards us as described below, you can do this by sending a written application signed by you together with your name, address and a copy of your identification card using the contact information specified in section 11. The exercise of these rights is free of charge. 
+    Note that WeBeHome will always make an assessment of a request to exercise a right to determine whether the request is valid. All rights listed below are not absolute and exceptions may apply.
+    Right to revoke consent
+    You have the right at any time to withdraw any consents you have provided when you registered through our mobile application, or otherwise, regarding our processing of your personal data. 
+
+    Right to access
+    You have the right to receive a copy of the personal data that we process about you. 
+
+    Right to correct data
+    You have the right to have your data corrected and/or completed if it is inaccurate and/or incomplete. 
+
+    Right to erasure
+    You have the right to request that WeBeHome erases your personal data without undue delay in the following circumstances:
+    -	The personal data is no longer necessary in relation to the purposes of the processing;
+    -	If you withdraw your consent for a processing activity and there is no other legal basis for the processing;
+    -	You make a valid objection to the processing of your personal data;
+    -	The personal data has been unlawfully processed; or
+    -	The personal data has to be erased for compliance with a legal obligation.
+
+    Right to restricted processing
+    You may request that we restrict the processing of your personal data in the following circumstances:
+    -	The accuracy of the personal data is under examination;
+    -	The processing is unlawful or is no longer needed for the purposes of the processing but you oppose the erasure of personal data and request restriction instead;
+    -	WeBeHome no longer needs the personal data but you need the personal data for the establishment, exercise or defence of legal claims; or
+    -	You have objected to the processing of your personal data and such objection is under verification.
+
+    Right to data portability
+    You are entitled to have your data transferred to another service provider (so-called data portability). The right to transfer your personal data pertains to the personal data you have provided to us and when the processing is based on consent or performance of a contract.
+
+    The right to object
+    In addition to the aforementioned rights, you may at any time, for reasons relating to your particular situation, object to any processing based on WeBeHome’s or a third party’s legitimate interest. If you object we have to demonstrate that we have compelling legitimate interests for such processing or that we need the personal data for the establishment, exercise or defence of legal claims.
+
+    Right to object to direct marketing
+    You have the right to, at any time, object to the processing of personal data for direct marketing purposes. If you do this, WeBeHome may no longer process your personal data for such purposes.
+    Complain to the Swedish Data Protection Authority
+    If you believe that we are processing your personal data incorrectly, you have the right to lodge a complaint with the supervisory authority.
+
+</h4></div> <div><h4>  11 Miscellaneous
+    The legal language is English. Translations of the privacy policy are provided convenience only.
+
+</h4></div> <div><h4>  12.	Contact information
+    If you have any questions about the processing of your personal data, you are always welcome to contact us at support@webehome.com
+
+
+
+</h4></div> <div><h4>  Annex 1
+    Elitfönster AB (limited to users and installations that have Elitfönster as their brand selection)
+    Phila Group Oy (limited to users and installations that have Tiivi or Phila as their brand selection)
+    GDX Security (limited to users and installations in Norway)
+    Alert System (limited to users and installations in Netherlands)
+    Prosystems Carl (limited to users and installations in New Caledonia)
+    Technoimport (limited to users and installations in Columbia)
+
+
+
+
+</h4></div> <div><p>  About
+</p><p>  Links
+</p><p>  Company information
+</p><ul>  <li>WeBeHome AB</li><li>+46 8 410 221 40</li><li>Box 17049, 167 67 Bromma, Sweden</li><li>Orgnr 556766-4981
+
+
+
+</li></ul><p>  
+                        WeBeHome 
+                      
+                    
+                      
+                    
+
+</p><p>  
+                        Copenhagen Blinds  
+                    
+                      
+                    
+
+</p><p>  
+
+                      
+                    
+                      
+                    WeBeHome 
+                    
+</p></div> <div><p>  
+
+                      
+                    
+                      
+                    Copenhagen Blinds
+                   
+</p><p>  COPYRIGHT © 2008-2022, WE BE HOME AB, ALL RIGHTS RESERVED
+</p></div>

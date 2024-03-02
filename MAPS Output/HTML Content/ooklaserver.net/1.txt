@@ -1,0 +1,14 @@
+<div><ul>  <li>Menu
+</li></ul></div> <div><h1>  XAMPP </h1><span>  Apache + MySQL + PHP + Perl</span></div> <div><h2>  Welcome to XAMPP for Windows 5.5.28</h2><p>  
+      You have successfully installed XAMPP on this system! Now you can start using Apache, MySQL, PHP and other components.
+      You can find more info in the <a href="/dashboard/faq.html" target="_blank"> FAQs </a> section or check the <a href="/dashboard/howto.html" target="_blank"> HOW-TO Guides </a> for getting started with PHP applications.
+    </p><p>  
+      Start the XAMPP Control Panel to check the server status.
+    </p></div> <div><h3>  Community</h3><p>  
+      XAMPP has been around for more than 10 years – there is a huge community behind it. You can get involved by joining our <a href="https://community.apachefriends.org" target="_blank"> Forums </a>, adding yourself to the <a href="https://www.apachefriends.org/community.html#mailing_list" target="_blank"> Mailing List </a>, and liking us on <a href="https://www.facebook.com/we.are.xampp" target="_blank"> Facebook </a>, following our exploits on <a href="https://twitter.com/apachefriends" target="_blank"> Twitter </a>, or adding us to your <a href="https://plus.google.com/+xampp/posts" target="_blank"> Google+ </a> circles.
+    </p></div> <div><h3>  Contribute to XAMPP translation at <a href="https://translate.apachefriends.org/" target="_blank"> translate.apachefriends.org </a>.</h3><p>  
+      Can you help translate XAMPP for other community members? We need your help to translate XAMPP into different languages. We have set up a site, <a href="https://translate.apachefriends.org/" target="_blank"> translate.apachefriends.org </a>, where users can contribute translations.
+    </p></div> <div><h3>  Install applications on XAMPP using Bitnami</h3><p>  
+    Apache Friends and Bitnami are cooperating to make dozens of open source applications available on XAMPP, for free. Bitnami-packaged applications include Wordpress, Drupal, Joomla! and dozens of others and can be deployed with one-click installers.
+    Visit the <a href="http://bitnami.com/stack/xampp?utm_source=bitnami&utm_medium=installer&utm_campaign=XAMPP%2BModule" target="_blank"> Bitnami XAMPP page </a> for details on the currently available apps.
+    </p></div> <p><p>  Copyright (c) 2015, Apache Friends</p></p>

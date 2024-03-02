@@ -1,0 +1,268 @@
+<div><h1>  Privacy Policy
+</h1><div>  
+You can see how we use your personal data 
+</div><div>  
+Here at OceanWP we take privacy seriously and will only use your personal information to administer your account. 
+
+
+
+
+
+
+
+</div></div> <div><h2>  Who we are 
+
+</h2><p>  Our website address is: <a href="https://oceanwp.org/" target="_blank"> https://oceanwp.org/ </a> 
+
+
+
+
+
+
+
+</p></div> <div><h2>  What personal data we collect and why we collect it 
+
+</h2></div> <div><h2>  1. Forms 
+
+</h2><div>  
+When you submit a support question we collect your first name, last name and your email address so that we can correspond with you.
+
+When you subscribe to our newsletter we collect your name (only when provided) and your email address so that we can correspond with you.
+
+Your personal data will not only be stored in the website’s database but also in <a href="https://www.activecampaign.com/" target="_blank"> ActiveCampaign </a>, the application we use to send our newsletters and campaign. 
+
+
+</div></div> <div><h2>  2. Google Analytics 
+
+</h2><div>  
+We use Google Analytics to track visitors on this site.
+
+Google Analytics uses cookies to collect this data.
+
+In order to be compliant with the new regulation Google included a <a href="https://www.google.com/analytics/terms/dpa/dataprocessingamendment_20130906.html" target="_blank"> data processing amendment </a>.
+
+The data we collect will be processed anonymously and “Data sharing” is disabled.
+
+We don’t use other Google services in combination with Google Analytics cookies. 
+
+
+</div></div> <div><h2>  3. ActiveCampaign 
+
+</h2><div>  
+We use ActiveCampaign for our newsletter and campaigns.
+
+ActiveCampaign is one of the best marketing automation platform and is GDPR compliant. They have a campaign builder that makes it easy to create email templates.
+
+In ActiveCampaign we only store your email address and when provide your name. With your permission, we may send you emails about our store, new products and other updates. 
+
+
+
+
+
+
+
+</div></div> <div><h2>  Comments 
+
+</h2><div>  
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. 
+
+
+</div><p>  An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment. 
+
+
+
+
+
+
+
+</p></div> <div><h2>  Cookies 
+
+</h2><div>  
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year. 
+
+
+</div><div>  
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. 
+
+
+</div></div> <div><div>  
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed. 
+
+
+
+
+
+
+
+</div></div> <div><h2>  Embedded content from other websites 
+
+</h2><div>  
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. 
+
+
+</div><div>  
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website. 
+
+
+
+
+
+
+
+</div></div> <div><h2>  Who we share your data with 
+
+</h2><div>  
+When you purchase a product on oceanwp.org, your personal data are shared with well know payment companies, PayPal and Stripe if you pay via Credit Card. 
+
+
+</div><div>  
+You can check their privacy policy,
+
+PayPal: <a href="https://www.paypal.com/us/webapps/mpp/ua/privacy-full" target="_blank"> https://www.paypal.com/us/webapps/mpp/ua/privacy-full </a>
+
+Stripe: <a href="https://stripe.com/us/privacy/" target="_blank"> https://stripe.com/us/privacy/ </a> 
+
+
+
+
+
+
+
+</div></div> <div><h2>  How long we retain your data 
+
+</h2><p>  If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. 
+
+
+</p><div>  
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information. 
+
+
+
+
+
+
+
+</div></div> <div><h2>  What rights you have over your data 
+
+</h2><p>  If you have an account on this site, have purchased products and/or services from us, have subscribed to our newsletter, or have left comments, then we have stored the data you have shared with us and for the sole purpose of providing you with the services you have requested / signed up for. </p><p>  This does not include any data we are obliged to keep for administrative, legal, or security purposes. 
+
+
+
+
+
+
+
+</p></div> <div><h2>  Where we send your data 
+
+</h2><div>  
+Visitor comments may be checked through an automated spam detection service. 
+
+
+
+
+
+
+
+</div></div> <div><h2>  Security 
+
+</h2><div>  
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. 
+
+
+</div><div>  
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards. 
+
+
+
+
+
+
+
+</div></div> <div><h2>  Changes to this privacy policy 
+
+</h2><p>  We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. 
+
+
+
+
+
+
+
+</p></div> <div><h2>  Contact information 
+
+</h2><p>  If you have questions, you can contact us at: support [at] oceanwp [dot] org 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p></div> <div><h3>  OceanWP</h3></div> <div><h3>  Help & Support</h3></div> <div><h3>  Follow Us
+</h3><ul>  <li>Opens in a new tab</li><li>Opens in a new tab</li><li>Opens in a new tab</li><li>Opens in a new tab
+ 
+</li></ul></div> <div><h3>  Company</h3></div> <div><h3>  Legal</h3></div> <div><h3>  Latest Blog Posts
+</h3><ul>  <li>August 14, 2023</li><li>February 6, 2023</li><li>January 2, 2023</li></ul><div>  
+© Copyright 2016 - 2023 | OceanWP® LLC USA 
+
+
+
+
+</div></div> <div><h4>  Download OceanWP
+</h4><p>  You are just a click away to download potentially the best WordPress theme you've ever tried! We'll add a little welcoming bonus as well, to help you get started fast.
+
+</p><p>  By adding your email, you agree to our <a href="https://oceanwp.org/terms-and-conditions/" target="_blank"> Terms & Conditions </a> and <a href="https://oceanwp.org/privacy-policy/" target="_blank"> Privacy Policy </a>. You can unsubscribe any time.
+
+</p><span>  Loading...
+
+
+</span></div> <div><h4>  Thank you for choosing OceanWP!
+</h4><p>  You will receive your download email shortly. Please don't forget to check your spam mailbox just in case and add us to your contact list (*@oceanwp.org) so that you don't miss any important news from us.
+
+
+
+
+
+
+
+
+
+</p></div> <div><h3>  Log in</h3><div>  Become a part of our community!
+</div><label>  Username
+</label><label>  Password
+</label><label>   Remember Me
+</label><div>  Not a member?
+<a href="#" target="_blank"> Sign up </a>
+
+
+</div></div> <div><h3>  Create an account</h3><div>  Welcome! Register for an account
+</div><label>  Your username
+</label><label>  Your email
+</label><label>  Password
+</label><label>  Confirm Password
+</label><div>  Already a member?
+<a href="#" target="_blank"> Sign in </a>
+
+
+</div></div> <div><h3>  Reset password</h3><div>  Recover your password
+</div><label>  Username or E-mail
+</label><div>  A password reset link will be e-mailed to you.
+</div><div>  Back to
+<a href="#" target="_blank"> Login </a>
+
+
+
+
+
+
+
+</div><p>  We use cookies to give you the best experience, as detailed in our <a href="https://oceanwp.org/privacy-policy/" target="_blank"> privacy policy </a>. By continuing to use this website, you consent to the use of cookies.
+
+</p></div>

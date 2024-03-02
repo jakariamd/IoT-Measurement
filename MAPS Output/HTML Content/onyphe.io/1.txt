@@ -1,0 +1,24 @@
+<div><h2>  Privacy Policy</h2></div> <div><h3>  Who we are</h3><p>  
+At ONYPHE, we are very much aware of the trust users place in us and our responsibility to protect the privacy of user information. As part of this responsibility, we make public what information we collect when someone uses our products and services, why we collect it and how we use it to improve user experience and security. ONYPHE ("ONYPHE", "we", "our", or "us") understands that privacy is important to our online visitors to our Web site (our "Web site"). This Privacy Policy explains how we collect, use, share (well, we don't at all) and protect your personal information that we collect in relation to the use of our Web site.
+
+
+By using our Web site, you agree to the terms of this Privacy Policy.
+</p></div> <div><h3>  What information we collect</h3><p>  
+Web and reverse proxy logs including Access time, IP Address and its Geolocation, Browser Version and Referrer may be kept to analyse site performance and Web site security monitoring along with authenticated user's Email Address and complete ONYPHE Queries. We keep logs for 12-months.
+
+
+We do analyze queries to identify emerging and interesting patterns we can use to improve our solution.
+
+
+Furthermore, we carefully monitor Free user's queries to identify any abuse attempt and we delete abuser's accounts with no prior notice. We created a Cyber Defense Search Engine, not a Cyber Offense one.
+</p></div> <div><h3>  How we use your information</h3><p>  
+To help drive innovation in cybersecurity, we may share anonymised usage information at security conferences.
+</p></div> <div><h3>  Access to your personal information</h3><p>  
+Under GDPR, the data subject has the right to access and amend any of their personal data that we hold. Therefore, you are entitled to view, amend, or delete the personal information that we hold. Email your request to dpo[at]onyphe{dot}io.
+</p></div> <div><h3>  Changes to this Privacy Notice</h3><p>  
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+
+This policy was last updated in March, 2023.
+</p><span>  ONYPHE</span><p>  ONYPHE is a Cyber Defense Search Engine dedicated to Attack Surface Discovery & Attack Surface Management. We scan the entire Internet and Dark Web for exposed assets and crawl the links just like a Web search engine. Our data is searchable with a Web form or directly from our numerous APIs.
+            </p></div> <div><p>  Quick Links</p><p>  Legal</p><p>  Contact Us</p><span>  © Copyright 2023 . ONYPHE</span><p>  This website uses cookies to add session and authorization information once you are authenticated. Without them, authentication would not work. <a href="/cookie-policy" target="_blank"> Learn more </a></p></div>

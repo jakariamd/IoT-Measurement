@@ -1,0 +1,359 @@
+<div><h1>  Privacy Policy
+</h1><p>  <strong> PANASONIC.COM PRIVACY POLICY </strong></p><p>  <strong> LAST UPDATED – April 1, 2023 </strong></p><p>  This Privacy Policy for Panasonic Corporation of North America (“<strong> Panasonic </strong>”, “<strong> we </strong>” or “<strong> us </strong>”) explains how Panasonic collects, uses, and discloses information about you when you access or use our websites, mobile application(s), and other products and services (collectively, the “Services”), contact our service team, engage with us on social media, or otherwise interact with us.</p></div> <p><p>  We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.</p></p> <div><h2>  Contents & Summary</h2></div> <div><h2>  Collection of Information</h2></div> <div><h3>  Information You Provide to Us</h3><p>  We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, fill out a form, participate in a contest or promotion, make a purchase, apply for a job, communicate with us via third party social media sites, request customer support, or otherwise communicate with us.</p><p>  The types of information we have collected includes:</p><ul>  <li>identifiers such as your name, email address, postal address, phone number, credit card information, security preferences, and any other information you choose to provide;</li><li>information that may be considered sensitive under certain laws, including your login credentials;</li><li>internet and other electronic network activity information;</li><li>precise geolocation;</li><li>commercial information such as credit card or other payment information, and information about the products you searched for other otherwise expressed an interest in; and</li></ul></div> <ul><ul>  <li>demographic information such as date of birth and gender.</li></ul></ul> <p><p>  We also collect your information if you post, display and/or publish user content on the website through the use of cookies (as explained below). Additionally, when you enter any password-protected area of our website, our website will recognize you and collect information that you submit through the use of authentication tokens tied to user accounts created on or through an integrated third-party user database.</p></p> <div><h3>  Information About Your Use of the Services</h3><p>  We collect information about your use of the Services, such as the search terms you enter, your location, financial payment information, and the identity of your devices.</p><p>  <strong> Automatically Collected Information </strong></p><p>  When you access or use our Services or transact business with us, we automatically collect information about you, including:</p><ul>  <li><strong> Transactional Information: </strong> When you make a purchase or return, we collect information about the transaction, such as product details, purchase price, and date and location of the transaction.</li><li><strong> Log and Usage Information:  </strong> We collect log information about your use of the Services, including the type of browser and operating system you use, the domain and host from which you access the internet, access times, pages viewed, web browsing history, your IP address, and the page you visited before navigating to our Services.</li></ul></div> <ul><ul>  <li><strong> Device Information: </strong> We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and tokens, unique identifier headers, mobile network information, and other information that identifies you as the user of the device or the person providing information to us.</li><li><strong> Location Information: </strong> In accordance with your device permissions, we may collect information about the precise location of your device. You have the ability to stop the collection of precise location information at any time (see <a href="privacypolicy#11" target="_blank"> Your Choices </a> below for details).</li></ul></ul> <ul><ul>  <li><strong> Audiovisual Information: </strong> At our facilities we may capture video via CCTV.  And we may record your calls or other or other communications with us.</li><li><strong> Information Collected by Cookies and Similar Tracking Technologies: </strong> We use different technologies to collect information, including cookies and plug-ins. Cookies are small data files stored on your hard drive or in device memory that help us improve and keep secure our Services and your experience. Through the use of cookies, we may automatically collect information about your online activity on our website, such as the web pages you visit, the links you click, and the searches you conduct on our site. Our website uses two types of cookies: (1) “session” cookies which are deleted from your computer when you leave the website and are used purely to help you navigate around the website; and (2) “persistent” cookies which remain on your computer so that the website can recognize you when you return. Plug-ins are pieces of software that users download to allow certain web-based software to operate. In order to use our website, you may be required to install certain plug-ins. For more information about cookies and how to disable them, see <a href="privacypolicy#11" target="_blank"> Your Choices </a> below.</li></ul></ul> <div><h3>  Information We Collect from Other Sources</h3><p>  We may obtain information from other sources and combine that with information we collect directly from you. For example, we may collect information about you from third parties, including but not limited to identity verification services, credit bureaus, mailing list providers, and publicly available sources. Additionally, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information, and friends lists, in accordance with the authorization procedures determined by such social media site.</p></div> <div><h2>  Use of Information</h2><p>  We use the information we collect to deliver the products and services you request and customize your experience with us, to administer your account, and to target advertisements based on users’ interests and to understand how users interact with ads. We may also use the information we collect to:</p><ul>  <li>Send you technical notices, updates, security alerts, and support and administrative messages and to respond to your comments, questions, and customer service requests;</li><li>Analyze the success of our Services;</li><li>Better understand the needs and interest of our customers;</li><li>Manage the website’s interactive functionality;</li><li>Communicate with you about products, services, offers, and events offered by Panasonic and others, and provide news and information we think will be of interest to you (see <a href="privacypolicy#11" target="_blank"> Your Choices </a> below for information about how to opt out of these communications at any time);</li></ul></div> <ul><ul>  <li>Monitor and analyze trends, usage, and activities in connection with our Services;</li><li>Comply with Panasonic’s legal and regulatory obligations;</li><li>Detect, investigate and prevent breaches of the Terms and Conditions, fraudulent transactions and other illegal activities, and protect the rights and property of Panasonic and others;</li><li>Personalize and improve the Services;</li><li>Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards; and</li></ul></ul> <ul><ul>  <li>Carry out any other purpose described to you at the time the information was collected.</li></ul></ul> <div><h2>  Disclosure of Information</h2><p>  We may disclose the categories of personal information described above as follows or as otherwise described in this Privacy Policy:</p><ul>  <li>With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf, regardless of whether you have chosen to limit our sharing of your information as collected on our website;</li><li>In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;</li><li>If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property, and safety of Panasonic or others;</li></ul></div> <ul><ul>  <li>In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;</li><li>Between and among Panasonic and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; and</li><li>With your consent or at your direction.</li></ul></ul> <p><p>  Panasonic requires its vendors, consultants, and service providers that have access to your information to maintain the confidentiality of your information and to comply with the safeguards provided in this privacy policy. We also provide our vendors, consultants, and service providers with our opt-out lists so that communications sent on behalf of Panasonic are not sent to opt-out participants.</p></p> <p><p>  During the past 12 months, we disclosed identifiers such as IP addresses, internet and other electronic network activity information, device information, mobile network information, pages viewed, time spent on pages or in apps, links clicked, conversion information, and data that may be deemed sensitive, such as precise geolocation information and payment information to our advertising partners, payment processors, platform partners, installers, distributors and resellers. This practice is discussed further below. Panasonic may disclose aggregated statistics about visitors to its website, along with anonymous information collected from other sources. We may also disclose aggregated or de-identified information with third parties (such as advisors, promotional sponsors, and investors), which cannot reasonably be used to identify you, for various business purposes, including conducting general business analysis and developing website content and services.</p></p> <div><h2>  Social Sharing Features</h2><p>  The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.</p></div> <div><h2>  Advertising and Analytics Services Provided by Others</h2><p>  We may allow others to provide analytics services and serve advertisements on our behalf across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by Panasonic and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit <a href="https://www.aboutads.info/choices" target="_blank"> https://www.aboutads.info/choices </a> or <a href="https://youronlinechoices.eu/" target="_blank"> https://www.youronlinechoices.eu/ </a> if you are located in the EU. To learn more about Google’s privacy practices, please review the Google Privacy Policy at <a href="https://policies.google.com/privacy" target="_blank"> https://policies.google.com/privacy </a>. You can also download the Google Analytics Opt-out Browser Add-on to prevent your data from being used by Google Analytics at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank"> https://tools.google.com/dlpage/gaoptout </a>. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” or “Opt Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.</p></div> <p><p>  Our Cookie Policy sets out details of the individual cookies we use and the purposes for which we use them. The Cookie Policy can be accessed here: <a href="https://na.panasonic.com/us/cookie-policy" target="_blank"> Cookie Policy </a>.</p></p> <div><h2>  Sales of Personal Information and Targeted Advertising</h2><p>  Panasonic allows certain companies to place tracking technologies like cookies and pixels on our sites, which allow those companies to receive information about your activity on Panasonic that is associated with your browser or device for various purposes, including targeted advertising. The companies may use that data to serve you more relevant ads on our sites or others. Under some state laws, sharing data for online advertising like this is considered to be a “sale” of information.</p></div> <p><p>  You always have full control over whether these technologies work on your devices. You can disable them entirely by clicking the “Do Not Sell My Information” link on our websites.</p></p> <div><h2>  Data Retention</h2><p>  We store the information we collect on you for as long as is necessary for the purpose(s) for which we originally collected it, or for other legitimate business purposes, including to meet our legal, regulatory, or other compliance obligations. We may retain records related to:</p><ul>  <li>Invoices and payments for 7 years;</li><li>Job applications and other related documentation for 6 or more years;</li><li>System use for 3 years; and</li><li>Customer profiles, surveys and communications for 5 years.</li></ul></div> <div><h2>  Transfer of Information to the U.S. and Other Countries</h2><p>  Panasonic is based in the United States and we process and store information in the U.S. Our websites are intended for users in the United States and its territories and possessions, but if you use the websites from any country outside the United States, the various communications will necessarily result in the transfer of information across international boundaries, and by visiting the Website, you consent to these transfers as required or permitted by applicable law. Therefore, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction. We will take steps (such as implementing contractual safeguards) to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it. For more information on the appropriate safeguards in place and to obtain a copy of such safeguards, please contact us at the details below.</p></div> <div><h2>  Additional Information for Residents of California</h2></div> <div><h3>  Collection of Personal Information</h3><p>  This section provides information, organized in accordance with the CCPA, for residents of California.</p><p>  In the past twelve months, we have collected, used, and disclosed personal information, as described below, for our business and commercial purposes:</p><ul>  <li>identifiers such as your name, email address, postal address, phone number, and IP address;</li><li>information that may deemed to be sensitive, including your login credentials and precise geolocation data;</li><li>commercial information such as credit card or other payment information, and information about the products you searched for other otherwise expressed an interest in, product details, purchase price, and date and location of the transaction;</li><li>demographic information such as date of birth and gender;</li></ul></div> <ul><ul>  <li>internet or other electronic network activity information, including, but not limited to, browsing history, search history, the type of browser and operating system you use, the domain and host from which you access the internet, access times, pages viewed, the page you visited before navigating to our Services, and information regarding your interaction with an internet website, application, or advertisement;</li><li>information about your use of the Services, such as the search terms you enter, your location, and the identity of your devices, including the hardware model, operating system and version, unique device identifiers and tokens, unique identifier headers, mobile network information, and other information that identifies you as the user of the device or the person providing information to us;</li></ul></ul> <ul><ul>  <li>Audiovisual information, such as video captured via CCTV and recordings of communications with us; and</li><li>inferences derived from the personal information noted above.</li></ul></ul> <div><h3>  Use of Personal Information</h3><p>  We use the personal information described above to deliver the products and services you request and customize your experience with us, to administer your account, and to target advertisements based on users’ interests and to understand how users interact with ads. We also use the information we collect for the following business purposes:</p><ul>  <li>Sending you technical notices, updates, security alerts, and support and administrative messages and responding to your comments, questions, and customer service requests;</li><li>Analyzing the success of our Services;</li><li>Better understanding the needs and interest of our customers;</li><li>Managing the website’s interactive functionality;</li><li>Communicating with you about products, services, offers, and events offered by Panasonic and others, and providing news and information we think will be of interest to you;</li></ul></div> <ul><ul>  <li>Monitoring and analyzing trends, usage, and activities in connection with our Services;</li><li>Complying with Panasonic’s legal and regulatory obligations;</li><li>Detecting, investigating and preventing breaches of the Terms and Conditions, fraudulent transactions and other illegal activities, and protecting the rights and property of Panasonic and others;</li><li>Personalizing and improving the Services;</li><li>Facilitating contests, sweepstakes, and promotions and processing and delivering entries and rewards; and</li></ul></ul> <ul><ul>  <li>Carrying out any other purpose described to you at the time the information was collected.</li></ul></ul> <div><h3>  Data Retention</h3><p>  We store the information we collect about you, including sensitive personal information, for as long as is necessary for the purpose(s) for which we originally collected it, or for other legitimate business purposes, including to meet our legal, regulatory, or other compliance obligations. We may retain records related to:</p><ul>  <li>Invoices and payments for 7 years;</li><li>Job applications and other related documentation for 6 or more years;</li><li>System use for 3 years; and</li><li>Customer profiles, surveys and communications for 5 years.</li></ul></div> <div><h3>  Sale of Personal Information</h3><p>  We sell or share internet and other electronic network activity information, including sensitive data, to marketing and advertising partners for targeted advertising and cross behavioral advertising purposes. We do not sell or share sensitive personal information or the personal information of consumers under 16 years of age.</p><p>  To opt out of the selling or sharing of your personal information, click the “Do Not Sell My Information” link on our websites or at <a href="https://panasonic.tap.thinksmart.com/prod/Portal/ShowWorkFlow/AnonymousEmbed/70573f26-bbca-49d0-856b-bcb76bfa18d0" target="_blank"> https://panasonic.tap.thinksmart.com/prod/Portal/ShowWorkFlow/AnonymousEmbed/70573f26-bbca-49d0-856b-bcb76bfa18d0 </a>.</p></div> <div><h2>  Your Choices</h2><p>  In some circumstances, you may have the right to object to Panasonic’s use of your information. If you wish to delete or deactivate your account, please email us at <a href="mailto:privacy@us.panasonic.com" target="_blank"> privacy@us.panasonic.com. </a> or call us at <a href="tel:+18557722891" target="_blank"> (855) 772-2891 </a>, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.</p></div> <p><p>  You must be at least 18 years of age to use our website or Services. Panasonic does not knowingly collect, sell, share, or maintain any personal information from children under the age of 16, and no part of our website is designed with the purpose of attracting such children.</p></p> <div><h3>  Location Information</h3><p>  When you first launch any of our mobile applications that collect location information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. If you do so, our mobile applications, or certain features thereof, may no longer function properly. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device.</p></div> <div><h3>  Cookies</h3><p>  The website uses “cookies” that may be sent to your computer and which contain information allowing us to recognize when you are viewing the website and to keep track of your preferences. The cookies also automatically collect information about your activity on our website, such as the web pages that you visit, the links that you click, and the searches that you conduct.</p><p>  Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.</p></div> <div><h3>  Promotional Communications</h3><p>  You may opt out of receiving promotional emails from Panasonic by following the instructions in those emails or by emailing <a href="mailto:privacy@us.panasonic.com" target="_blank"> privacy@us.panasonic.com </a>. You may also call us at <a href="tel:+18557722891" target="_blank"> (855) 772-2891 </a>. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.</p></div> <div><h3>  Mobile Push Notifications/Alerts</h3><p>  With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.</p></div> <div><h3>  Your Rights</h3><p>  Depending on where you reside, you may have the following rights with respect to your personal information, subject to applicable exceptions. In the event of a conflict between your rights, as described in this section, and any rights further described in this privacy policy, the terms of this section shall prevail.</p><ul>  <li><strong> Right to Access. </strong> You may be entitled to request that we disclose to you the specific pieces of your personal information that we have collected about you in a portable and, to the extent technically feasible, readily usable format.</li><li><strong> Right to Know. </strong> You may have the right to confirm that we have collected personal information about you and know what personal information we have collected about you, including, as applicable, the categories of personal information we have collected, the sources from which we collected that personal information, the business or commercial purposes for which we collected, sold, and shared that personal information, the categories of personal information that we sold, shared, or disclosed to third parties for business purposes and the categories of third parties to whom we sold, shared or disclosed personal information.</li></ul></div> <ul><ul>  <li><strong> Right to Deletion. </strong> You may be entitled to request that we delete the personal information that we have collected from you. We will use commercially reasonable efforts to honor your request, in compliance with applicable laws. Please note, however, that we may need or be required to keep such information, such as for our legitimate business purposes or to comply with applicable law.</li><li><strong> Right to Limit the Processing of Sensitive Personal Information. </strong> We process sensitive personal information only for those purposes expressly authorized under California law.</li></ul></ul> <ul><ul>  <li><strong> Right to Correct. </strong> You may request that we correct personal information that we hold about you.</li><li><strong> Right to Opt-Out of Sales and Sharing of Personal Information. </strong> You may be entitled to opt out of sales of your personal information to third parties and to opt out of the disclosure of your personal information to third parties for certain targeted advertising. To opt out of the selling or sharing of your personal information, click the “Do Not Sell My Information” link on our websites or at <a href="https://panasonic.tap.thinksmart.com/prod/Portal/ShowWorkFlow/AnonymousEmbed/70573f26-bbca-49d0-856b-bcb76bfa18d0" target="_blank"> https://panasonic.tap.thinksmart.com/prod/Portal/ShowWorkFlow/AnonymousEmbed/70573f26-bbca-49d0-856b-bcb76bfa18d0 </a>.</li></ul></ul> <ul><ul>  <li><strong> Right to Opt-Out of Profiling. </strong> You may be entitled to opt out of certain processing that has legal or similarly significant effects on you.</li><li><strong> Right to Non-Discrimination. </strong> You have the right not to receive discriminatory treatment if you exercise the rights conferred to you by applicable privacy law.</li></ul></ul> <p><p>  If you would like to request to exercise one of these rights, please contact us at <a href="mailto:privacy@us.panasonic.com" target="_blank"> privacy@us.panasonic.com </a>. You may also call us at <a href="tel:+18557722891" target="_blank"> (855) 772-2891 </a>.</p></p> <p><p>  To process your requests to access, know, delete, or correct the personal information, we must be able to verify your identity to a reasonable degree of certainty. To verify your identity, we will ask you to provide your contact information and additional identifiers based on your relationship with us. Before we process your request, we will match these data points with data points we currently maintain to verify your identity and your relationship with us.</p></p> <p><p>  When you use an authorized agent to submit a request, you must provide the authorized agent with written permission to do so, and, in certain circumstances, we may ask you to verify your own identity directly with us. We may deny a request from an authorized agent that does not submit proof that they have been authorized by you to act on your behalf. Authorized agents may use the channels listed above to submit requests.</p></p> <p><p>  Certain states provide a right to appeal decisions we make relating to your request to exercise your rights. Please contact us if you would like to appeal a decision.</p></p> <div><h2>  Individuals in the European Economic Area</h2><p>  If you are in the European Economic Area (“<strong> EEA </strong>”), you have certain rights and protections under the law regarding the processing of your personal data.</p><p>  <strong> Legal Basis for Processing </strong></p><p>  If you are in the EEA, when we process your personal data we rely on the following legal bases:</p><ul>  <li>We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the products or services you have requested).</li><li>We have a legitimate interest in processing your personal data. For example, we may process your personal data to send you marketing communications, to communicate with you about changes to our products and Services, to exercise our legal rights where it is necessary to do so, and to provide, secure, and improve our products and Services.</li></ul></div> <ul><ul>  <li>We have a legal or regulatory obligation to process the information.</li><li>We have your consent to do so. When consent is the legal basis for our processing, you may withdraw such consent at any time.</li></ul></ul> <p><p>  Please note that by “legitimate interest” we mean the interest of our business in conducting and managing our business to enable us to give you or others the best service, provide the information you are requesting from us, expand or enhance our business, or protect our rights. We consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us at the details below.</p></p> <div><p>  <strong> Data Subject Requests </strong></p><p>  You have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you may contact us as indicated below.</p><p>  <strong> Questions or Complaints </strong></p><p>  If you have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: <a href="https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm" target="_blank"> https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm </a>.</p></div> <div><h2>  Contact Us</h2><p>  If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:privacy@us.panasonic.com" target="_blank"> privacy@us.panasonic.com. </a>You may also call us at <a href="tel:+18557722891" target="_blank"> (855) 772-2891 </a>.</p></div> <div><h3>   Contact Sales</h3><p>  Are you looking for more information related to a Panasonic professional product or solution? We have an expert team ready to help. Please fill in the form and a Panasonic Sales representative will contact you shortly.</p><p>  * Indicates a required field</p><p>  <strong> General Information </strong></p><label>  Country</label><span>  Product Type</span><label>  Business</label><label>  Consumer (Phones, microwave, LUMIX, Blu Ray/DVD, etc.)</label><p>  <strong> Customer Information </strong></p></div> <div><label>  First Name</label><label>  Last Name</label><label>  Email Address</label><label>  Phone Number</label><label>  City</label><label>  State/Province</label><label>  Company Name</label><label>  Product/Category of Interest</label><label>  Sub-Product</label><label>  Product Model Number</label><label>  Inquiry Type</label><label>  Industry</label><label>  Sub Industry</label><label>  Comments</label><p>  By submitting this form, you confirm you’ve read and agree to our <a href="https://na.panasonic.com/us/privacy-policy" target="_blank"> Privacy Policy </a> and <a href="https://na.panasonic.com/us/terms" target="_blank"> Terms of Service </a>. If you prefer not to receive marketing emails from us, you can opt-out of all marketing communications or customize your preferences <a href="https://na.panasonic.com/us/subscription-center" target="_blank"> here </a>.</p></div> <div><label>  PNA Sign Me Up</label><p>  Thank you for your interest in Panasonic products. In order to accommodate your request, please click <a href="https://na.panasonic.com/ca" target="_blank"> here </a> to navigate to our Canadian site.</p><label>  Choose a category:</label><p>  For detailed information on <strong> Baby Monitor </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Baby Monitor support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/57400/p/7/c/71410" target="_blank"> SUPPORT </a></p></div> <p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></p> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <div><p>  For detailed information on <strong> Blu Ray or DVD </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Blu Ray or DVD support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37334" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Camcorder </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Camcorder support center:
+<a href="https://eng-ca.faq.panasonic.com/app/camcorders/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Headphones </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Headphones support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/58561/p/7/c/67411" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></div> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <div><p>  For detailed information on <strong> Home Monitoring </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Home Monitoring support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37351" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></div> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <div><p>  For detailed information on <strong> Irons </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Irons support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37353" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> LUMIX </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the LUMIX support center:
+<a href="https://eng-ca.faq.panasonic.com/app/lumix/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Massage Chairs </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Massage Chairs support center:
+<a href="https://www.panasonicmassagechairs.com/formwhichpanasonic/" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Microwave and Multi-Oven </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Microwave and Multi-Oven support center:
+<a href="https://www.panasonicmassagechairs.com/formwhichpanasonic/" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></div> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <p><p>  For detailed information on <strong> Personal Care (shaver, trimmer, hair, oral care, etc.) </strong> including:</p></p> <div><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Personal Care support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37370" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Phones and Call Blockers </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Phones and Call Blockers support center:
+<a href="https://eng-ca.faq.panasonic.com/app/telephones-and-fax/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></div> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <p><p>  For detailed information on <strong> Small Kitchen Appliance (toaster, bread maker, rice cooker) </strong> including:</p></p> <div><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Small Kitchen Appliance (toaster, bread maker, rice cooker) support center:
+<a href="https://eng-ca.faq.panasonic.com/app/telephones-and-fax/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <p><p>  For detailed information on <strong> Speakers, Gaming and Radio </strong> including:</p></p> <div><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Speakers, Gaming and Radio support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37332" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Technics </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Technics support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/58837/p/7/c/66335" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> TV </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the TV center:
+<a href="https://eng-ca.faq.panasonic.com/app/televisions/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> home Telephones </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the homeTelephones center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37353" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Vacuum </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Vacuum center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37353" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><label>  Leave this field blank</label></div> <div><h3>   Contact Support</h3><p>  Are you looking for more support assistance related to a Panasonic professional product or solution? We have an expert team ready to help. Please fill in the form and a Panasonic Sales representative will contact you shortly.</p><p>  * Indicates a required field</p><p>  <strong> General Information </strong></p><label>  Country</label><span>  Product Type</span><label>  Business</label><label>  Consumer (Phones, microwave, LUMIX, Blu Ray/DVD, etc.)</label><p>  <strong> Customer Information </strong></p></div> <div><label>  First Name</label><label>  Last Name</label><label>  Email Address</label><label>  Phone Number</label><label>  City</label><label>  State/Province</label><label>  Company Name</label><label>  Product/Category of Interest</label><label>  Sub-Product</label><label>  Product Model Number</label><label>  Inquiry Type</label><span>  Industry</span><label>  Industry</label><label>  Enter other…</label><label>  Sub Industry</label><label>  Comments</label><p>  By submitting this form, you confirm you’ve read and agree to our <a href="https://na.panasonic.com/us/privacy-policy" target="_blank"> Privacy Policy </a> and <a href="https://na.panasonic.com/us/terms" target="_blank"> Terms of Service </a>. If you prefer not to receive marketing emails from us, you can opt-out of all marketing communications or customize your preferences <a href="https://na.panasonic.com/us/subscription-center" target="_blank"> here </a>.</p></div> <div><label>  PNA Sign Me Up</label><label>  Choose a category:</label><p>  For detailed information on <strong> Baby Monitor </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Baby Monitor support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/57400/p/7/c/71410" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></div> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <div><p>  For detailed information on <strong> Blu Ray or DVD </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Blu Ray or DVD support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37334" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Camcorder </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Camcorder support center:
+<a href="https://eng-ca.faq.panasonic.com/app/camcorders/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Headphones </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Headphones support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/58561/p/7/c/67411" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></div> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <div><p>  For detailed information on <strong> Home Monitoring </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Home Monitoring support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37351" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></div> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <div><p>  For detailed information on <strong> Irons </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Irons support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37353" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> LUMIX </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the LUMIX support center:
+<a href="https://eng-ca.faq.panasonic.com/app/lumix/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Massage Chairs </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Massage Chairs support center:
+<a href="https://www.panasonicmassagechairs.com/formwhichpanasonic/" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Microwave and Multi-Oven </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Microwave and Multi-Oven support center:
+<a href="https://www.panasonicmassagechairs.com/formwhichpanasonic/" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></div> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <p><p>  For detailed information on <strong> Personal Care (shaver, trimmer, hair, oral care, etc.) </strong> including:</p></p> <div><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Personal Care support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37370" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Phones and Call Blockers </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Phones and Call Blockers support center:
+<a href="https://eng-ca.faq.panasonic.com/app/telephones-and-fax/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p></div> <p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></p> <p><p>  For detailed information on <strong> Small Kitchen Appliance (toaster, bread maker, rice cooker) </strong> including:</p></p> <div><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Small Kitchen Appliance (toaster, bread maker, rice cooker) support center:
+<a href="https://eng-ca.faq.panasonic.com/app/telephones-and-fax/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <p><p>  For detailed information on <strong> Speakers, Gaming and Radio </strong> including:</p></p> <div><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Speakers, Gaming and Radio support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37332" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Technics </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Technics support center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/58837/p/7/c/66335" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> TV </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the TV center:
+<a href="https://eng-ca.faq.panasonic.com/app/televisions/home" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> homeTelephones </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the homeTelephones center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37353" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <div><p>  For detailed information on <strong> Vacuum </strong> including:</p><p>  FAQs
+Operating Manuals
+Parts & Accessories
+Troubleshooting
+Videos
+Service & Repairs
+Warranty Information
+Firmware</p><p>  Visit the Vacuum center:
+<a href="https://eng-ca.faq.panasonic.com/app/answers/detail/a_id/37353" target="_blank"> SUPPORT </a></p><p>  To Live Chat with an agent (9am-5pm EST, Monday-Friday):
+<a href="https://shop.panasonic.com/contactus" target="_blank"> LIVE CHAT </a></p><p>  To send an email to our support team:
+<a href="https://panasonic.freshdesk.com/support/tickets/new?ticket_form=us_contact_us" target="_blank"> EMAIL </a></p></div> <p><p>  Thank you for your interest in Panasonic products. In order to accommodate your request, please click <a href="https://na.panasonic.com/ca" target="_blank"> here </a> to navigate to our Canadian site.</p></p> <div><label>  Leave this field blank</label><ul>  <li>About Us
+</li><li>News
+</li><li>Careers
+</li><li>Investor Relations
+</li><li>Social Impact
+</li><li>Contact Us
+</li><li>Do Not Sell My Data
+</li><li>Accessibility Statement
+</li></ul></div> <div><h2>  
+                  Get the Latest on Panasonic Trends
+                </h2><p>  * Indicates a required field</p><label>  Email address</label><label>  Country</label><label>  Leave this field blank</label></div> <div><h2>  Connect with us</h2><ul>  <li>Twitter
+</li><li>Facebook
+</li><li>Linkedin
+</li><li>Instagram Link
+</li><li>Youtube
+</li></ul></div> <div><h2>  Select Country/Language</h2><span>  
+United States - English
+        </span></div>

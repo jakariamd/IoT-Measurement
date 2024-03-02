@@ -1,0 +1,413 @@
+<p><p>  Hangzhou
+Hikvision Digital Technology Co., Ltd</p></p> <div><p>  PRIVACY
+POLICY</p><p>  Last
+Updated: July 1, 2021</p><p>  Hangzhou Hikvision
+Digital Technology Co., Ltd </p><span>  and its affiliates (“HIKVISION”, “we”, “our”, “us”)
+provide following services for use in conjunction with various HIKVISION products
+(“Products”): (1) HIKVISION user website and user accounts that may be accessed
+at www.hik-connect.com, and all associated sites connected with
+www.hik-connect.com, excluding any third parties’ sites (the “Website”); (2)
+online services accessible through the Website (“Web Apps”); (3) software
+applications that can be downloaded to a mobile device (“Mobile Apps”)</span></div> <p><p>  including not
+limited to Hik-Connect; and (4) any services available on the Website, Web Apps
+and Mobile Apps (“Available Services”). The term “HIKVISION Services” means the
+Website, Web Apps, Mobile Apps, and Available Services. </p></p> <p><p>  This Privacy Policy explains
+how HIKVISION handles the collection, storage, and disclosure of information,
+including personal information, regarding HIKVISION Services. It also applies
+to any information we collect from the operation and use of Products we sell
+while connected to HIKVISION Services and any other HIKVISION services that
+link to this Privacy Policy.</p></p> <p><p>  You will need to register
+an account via Website or Mobile Apps to access HIKVISION Services.</p></p> <p><p>  For the
+purposes of seeking to provide you with a better experience, to improve HIKVISION
+Services or otherwise where you have consented, with such account without new
+registration, you may access to other services provided by HIKVISION over
+Internet and/or mobile applications. </p></p> <span><span>  You may also from time to time ask us to
+migrate or export your personal information contained in one service to another
+services, where such migration option is available. Any applicable privacy
+policy may apply to specific services provided by HIKVISION, you are advised to
+read this Privacy Policy and any specific policy for your interest before using
+the services. We are committed to protecting the privacy, confidentiality and
+security of your personal information by complying with applicable laws, and we
+are equally committed to ensuring that all our employees and agents uphold
+these obligations.</span></span> <p><p>  We may modify this
+Privacy Policy at any time, provided certain provisions of this Privacy Policy prove
+to be incomplete or outdated and further provided that these changes are
+reasonable for you, taking into account your interests. If we make material
+changes to this Privacy Policy, we </p></p> <div><span>  will notify you by the email address specified
+in your account or by means of notice on the Website</span><p>   or apps </p><span>  of
+any such changes.</span><p>  By using HIKVISION
+Services and Products or other acting permitted by the applicable laws, you are
+deemed to have read, acknowledged and accepted all the provisions stated herein
+this Privacy Policy, including any changes we may make from time to time. In
+order to comply with applicable laws, including local data protection
+legislation (e. g. General Data Protection Regulation in Europe Union), we will
+specifically seek prior express consent to the particular processing (e. g.
+providing marketing materials to you) of personal information. Furthermore, we
+are committed to protecting the privacy, confidentiality and security of your
+personal information by complying with applicable laws, and we are equally
+committed to ensuring that all our employees and agents uphold these
+obligations.</p></div> <p><p>  You can determine when this Privacy Policy was last revised by
+referring to the date it was “Last Updated” above. </p></p> <p><p>  1.</p></p> <div><span>         </span><span>  Definitions</span><p>  2.</p><span>         </span><span>  The Type of
+Personal Information We Process and Why We Collect it </span><p>  3.</p><span>         </span><span>  How We Use
+Your Personal Information</span><p>  4.</p><span>         </span><span>  Cookies and
+Other Technologies</span><p>  5.</p><span>         </span><span>  Personal
+Information Processed on Your Behalf as a Processor</span><p>  6.</p><span>         </span><span>  How We
+Share Your Personal Information</span></div> <p><p>  7.</p></p> <div><span>         </span><span>  Securing
+Your Personal Information</span><p>  8.</p><span>         </span><span>  Your Rights
+and Retention of Your Personal Information</span><p>  9.</p><span>         </span><span>  Social
+Community Features and Social Networks</span><p>  10.</p><span>     </span><span>  Your
+Choices</span><p>  11.</p><span>     </span><span>  Children’s
+Privacy</span><p>  12.</p><span>     </span><span>  Global
+Operations and Data Transfers</span><p>  13.</p><span>     </span><span>  Contact Us</span></div> <p><p>  14.</p></p> <div><span>     </span><span>  Additional
+Terms</span><p>  1.</p><span>          
+</span><span>  Definitions</span><p>  Personal
+information</p><p>  shall
+have the same meaning as “personal data” and shall include any information
+relating to an identified or identifiable natural person (“data subject”); an
+identifiable person is one who can be identified, directly or indirectly, in
+particular by reference to an identification number or to one or more factors
+specific to his physical, physiological, mental, economic, cultural or social
+identity. Examples of personal information include your name, telephone number,
+email address, physical address, and payment information. </p></div> <p><p>  Personal
+information also includes information that alone cannot directly identify you,
+but with other information we have access to can identify you, such as product
+serial numbers, log data that automatically records information about your
+visit, such as your browser type, domains, page views, the URL of the page that
+referred you, the URL of the page you next visit, your IP address, and page
+navigation, unique device ID collected from Products and your mobile devices,
+data from cookies, pixel tags, and web beacons, the country and time zone of
+the connected Product, geo-location, mobile phone carrier identification, and
+device software platform and firmware information.</p></p> <div><p>  Administrator</p><span>   means anyone who
+creates and establishes organizational structure for your
+Enterprise/Organization/Team and manage the use of Solution with administrative
+privileges on behalf of the Enterprise/Organization/Team.</span><p>  Individual
+User</p><span>   means any data subject, who is the user
+of HIKVISION Services, including but not limited to employee of your
+Organization/Enterprise/Team.</span><p>  Alarm
+Services </p><span>  means services provided by Alarm Receiving
+Center to Individual Users, of which, you can, with the permission of Individual
+Users, provide remote monitoring services by Alarm Monitoring Software,
+including i) alarming abnormal events of the receiving equipment; ii) obtaining
+device parameter information and arming and disarming the device; iii) video
+preview, video playback, picture capture, PTZ operation, video download within
+specific timing, etc.</span></div> <div><p>  Alarm
+Receiving Center</p><span>   means the operation center to provide Alarm
+Services.</span><p>  2.</p><span>          
+</span><span>  The
+Types of Personal Information We Process and Why We Collect It</span><p>  In order to
+provide HIKVISION Services to you, as a controller, we collect and process your
+Personal Information. We will ask you to provide Personal Information that is
+necessary to provide those services to you, and we process the Personal
+Information which you voluntarily provide to us. If you do not provide your
+Personal Information, we may not be able to provide you with our Products or
+HIKVISION Services. We may also collect Personal Information from publicly or
+non-publicly accessible sources, for example, Google, where you use your Google
+Account to register a Hik-Connect account. </p></div> <div><p>  Here are more details on the types of Personal
+Information we collect when you use HIKVISION Services and Products:</p><p>    </p><span>  When
+you create your account to use HIKVISION Services (“Account”), we will collect
+information including your name, phone number and email address. In addition,
+when you install and activate Products, we will collect certain basic
+information via HIKVISION Services, such as your product name, the product’s verification
+code, and serial number, which are unique to the Product connected to HIKVISION
+Services and associated with your Account.</span></div> <div><span>   
+</span><p>    </p><span>  When
+you save and share content through HIKVISION Services, like video clips, live
+video streams, images, captions, and comments (“Your Content”), for other
+individuals to access, we will collect information to allow you to save and
+share Your Content, such as your email address and email address of the person
+you elect to share your content with. </span><p>    </p><span>  Through
+HIKVISION Services, you may be able to invite other people such as friends or
+family to use HIKVISION Services and download our mobile app. We collect that
+person's email address to automatically send an email invitation on your
+behalf. We collect this information to send this email, to register your friend
+or family member if your invitation is accepted, and to track the success of
+our invitation services<b> .  </b>In order to refer a friend, you must first
+obtain the consent from the person being referred to provide information on
+their behalf and inform them that they will be receiving a communication from HIKVISION.</span></div> <div><p>    </p><span>  When
+you respond to our e-mails, contact our customer service, or use other customer
+support tools, we collect your information to provide you with support, verify your
+identity with your Account profile information, and confirm your Product.</span><p>    </p><p>  hen you access HIKVISION Services,
+we will collect information to provide you with a more relevant experience, to
+prevent misuse, and to ensure that HIKVISION Services are working properly.</p><span>   We may also record adjustments you make to
+our Products through HIKVISION Services. We store this information along with
+data collected directly by your Product. If you have questions about the
+security and privacy settings of your mobile device, please refer to
+instructions from your mobile service provider or the manufacturer of your
+device to learn how to adjust your settings. </span></div> <div><p>   
+</p><span>  When you save
+and share Your Content through HIKVISION Services for other individuals to
+access, we will collect information to allow you to save and share Your
+Content. </span><p>    </p><span>  When you use Hikvision Service to preview the video, we will
+only transmit it, rather than store it. When you use Hikvision Service to receive
+pictures or videos as alerts information, we will process information from your
+Products so that we can send you alerts when something happens. However, we
+will only store this information for seven days to enable this function. When
+you store video clips in your own SD card, hard disks, etc. of your own
+devices, you may use our playback function to view the video, in which case we
+only transmit your information, rather than store it. </span></div> <div><p>   
+</p><span>  Hikvision may
+collect and process Personal Information as processor rather than controller
+when you use Hik-Connect Cloud Access & Attendance Solution, Alarm Services.
+For detailed information about privacy policy of Hik-Connect Cloud Access &
+Attendance Solution, please refer to Privacy Notice at:
+https://www.hik-connect.com/views/terms/attendancePrivacyPolicy.html. </span><p>   
+</p><span>  When you use Alarm
+Services, Alarm Receiving Center may collect and process your Personal
+Information for providing services only after your permission, you, as the data
+subject, shall agree with Alarm Receiving Center separately about related data
+protection obligation.</span></div> <div><p>   
+</p><span>  When you use Hik-Connect
+Cloud Storage Service, please refer to the link at:https://www.hik-connect.com/views/terms/termsOfHik-ConnectCloudStorageService.html.</span><p>   
+</p><span>  Other Personal
+Information you provide us with.</span><p>  3.</p><span>          
+</span><span>  How
+We Use Your Personal Information</span><p>  We process your Personal Information as a controller:
+(1) to provide Hikvision Services described in Terms of Services; (2) in
+furtherance of our legitimate interests in operating Hikvision Services and
+business; and (3) with your consent. In some cases, we may process your
+information to comply with applicable law, legal process, or regulation, e.g.
+meeting a legal obligation, a court order, official request or other binding
+decision(s), such as sharing data with law enforcement or tax authorities.;
+protect any person from death or serious bodily injury; or to carry out a task
+in the public interest. </p></div> <div><p>   (1) Examples of HIKVISION processing your
+personal information to provide you Hikvision Services include:</p><p>  a. Providing,
+processing, maintaining, improving and developing the HIKVISION Services and
+Products.</p><p>  b.
+Personalizing your experience with HIKVISION Services and Products.</p><p>  c. Providing
+support and responding to your requests and enquiries.</p><p>  d.
+Communicating with you about HIKVISION Services, your Products, or addressing
+any general queries, such as updates, customer support.</p></div> <p><p>  f. Sending you
+reminders, technical notices, updates, alerts, support and administrative
+messages, service bulletins, and requested information.</p></p> <div><p>  (2) Examples
+of Hikvision processing your information in furtherance of our legitimate
+interests in operating Hikvision Services and business include:</p><p>  a. For fraud
+prevention and detection.</p><p>  b. Increasing
+the safety of HIKVISION Services and Products ?C for example, for user
+authentication, security protection, fraud detection, filing, and backups.</p><p>  c. Analyzing
+and developing statistical information about the use of HIKVISION Services to
+better improve HIKVISION Services.</p></div> <p><p>  d. Enhancing
+other information we have about you to help us better understand you and
+determine your interests.</p></p> <p><p>  e. Protecting
+our rights or property, enforcing our Terms of Service and legal notices and
+for the establishment, exercise and defense of legal claims.</p></p> <p><p>  f. Managing
+our everyday business needs, such as auditing, administration of HIKVISION
+Services, forum management, fulfilment, analytics, fraud prevention, and
+enforcement of our corporate reporting obligations and Terms of Service.</p></p> <p><p>   (3) Examples of Hikvision processing your
+Personal Information with your consent, include:</p></p> <p><p>  a. Contacting
+to tell you about our Available Services and Products as well as other promotions,
+which we believe may interest you unless you advise us that you do not wish to
+receive marketing or market research communications from us or unless you have
+not given us your consent in line with Applicable Data Protection laws.</p></p> <p><p>  b. Collecting
+feedback or answers to our questionnaires from you to improve our Services and
+Products, and develop new features.</p></p> <p><p>  4.</p></p> <div><span>          
+</span><span>  Cookies
+and Other Technologies</span><p>  We also use cookies, web beacons, and
+other technologies</p><span>   to keep records,
+store your preferences, improve our advertising, and collect information such
+as log data and device data. This allows us to better understand how you
+use HIKVISION Services and Products, diagnose and troubleshoot any problems you’re
+having, and otherwise administer and improve HIKVISION Services and Products. For
+more information about cookies, please refer to our <b> Use of Cookies </b></span></div> <p><p>  https://www.hik-connect.com/views/terms/useofcookies.html</p></p> <p><p>  We may also engage one or more third party
+service providers to serve online advertisements on our behalf via HIKVISION
+Services. They may use a pixel tag or other similar technology to collect
+information about your visits to sites, and they may use that information to
+target advertisements for our Products and HIKVISION Services. </p></p> <p><p>  5.
+Personal Information Processed on Your Behalf as a Processor </p></p> <p><p>  Where Personal
+Information of third party individuals (“Third Party Data”) are collected and
+processed via the Products purchased by you, HIKVISION will process such
+Third-Party Data, as a processor, on your behalf. </p></p> <p><p>  In particular,
+when you use the Product’s recording or streaming features, we record and
+process video and/or audio content from the Product which will include Third
+Party Data. This includes capturing and emailing to you portions of the Third
+Party Data as part of a notification or analyzing the Third Party Data to
+identify motion or other events. We process Third Party Data from your Product
+so that we can send you alerts when something happens. In addition, if you have
+the recording features enabled, we will capture, process and retain video and
+audio recordings from your Product for the duration of your recording
+subscription period.</p></p> <p><p>  6.
+How We Share Your Information</p></p> <p><p>  We
+do not sell any Personal information to third parties.</p></p> <span><span>  
+HIKVISION may share personal information with third parties on the basis of
+non-disclosure agreements. You hereby consent that we may disclose personal
+information to these third parties:</span></span> <div><p>    </p><span>  We share your personal information with HIKVISION
+affiliates, who are required to use that information in accordance with the
+purposes described in this Privacy Policy. </span><p>    </p><span>  We use service providers, vendors, technicians and
+other third-parties to help us process, store, and protect some of your data
+and otherwise help us administer our Products and HIKVISION Services
+effectively, provide a better user experience, process your purchases, and
+increase the quality of our Products and HIKVISION Services. These
+third-parties are forbidden from using your personal information for non-HIKVISION
+purposes and are required to protect your information in accordance with this
+Privacy Policy and applicable laws.</span></div> <div><span>   
+</span><p>  We may provide
+information to third-parties if we believe in good faith that we are required
+by mandatory law to do so. For example, to comply with legal orders and
+government requests; response to a subpoena, or similar legal process,
+including to law enforcement agencies, regulators, and courts; to protect the
+interests of our customers and users of HIKVISION Service; to respond to claims
+that any content posted or displayed using HIKVISION Service violates the
+rights of third parties; in an emergency protect the health and safety of users
+of HIKVISION Service or the general public; or to enforce compliance with our
+Terms of Service.</p></div> <p><p>  If HIKVISION
+and/or all or part of our assets are ever sold or transferred, your personal
+information may be among the items sold or transferred. Under such
+circumstance, we will notify you by the email address specified in your account
+or by means of notice on website of (i) the identity and contact information of
+the purchaser or transferee, (ii) your right to revoke your consent to the
+provision of personal information, and (iii) the means by which you may revoke
+such consent.</p></p> <p><p>  We share
+information to protect our own legitimate business interests when we believe in
+good faith that we are required or permitted by law to do so. For example, we
+may share your personal information as needed to support auditing, compliance,
+and corporate governance functions; to combat fraud or criminal activity; to
+protect our rights or those of our affiliates and users; or as part of legal
+proceedings affecting HIKVISION. </p></p> <p><p>  We may
+also disclose non-personal information (for example, aggregated or anonymized
+data) publicly or with third-parties, provided those data have been rendered
+anonymous in such a way that the data subject is no longer identifiable.</p></p> <span><span>    For example, we may share non-personal information:</span></span> <div><p>          
+</p><span>  for the same reasons we might share
+Personal information;</span><p>          
+</p><span>  to better understand how our customers
+interact with HIKVISION Services and Products, in order to optimize your
+experience, improve our products, or provide better services;</span><p>          
+</p><span>  for our own research and data analytics;
+or</span><p>          
+</p><span>  to our vendors for their own analysis and
+research.</span><p>  7.
+Securing Your Personal Information</p></div> <p><p>  HIKVISION
+has implemented commercially reasonable administrative, technical, and physical
+security controls that are designed to safeguard personal information. We also
+conduct periodic reviews and assessments of the effectiveness of our security
+controls.</p></p> <p><p>  Notwithstanding
+the above, no method of transmission over the Internet, or method of electronic
+storage, is 100% secure. Therefore, HIKVISION cannot guarantee that your
+personal information is under absolute security with the existing security
+technology. However, we will handle personal data breaches as required by
+applicable data protection law which includes, where required, notifying the
+breach to the relevant data protection supervisory authority and data subjects.</p></p> <p><p>  If you
+have any questions about the security of HIKVISION Services, you can contact us
+</p></p> <div><span>  by phone at +86-571-8807-5998 or email at</span><p>  support@hikvision.com.</p><p>  8.
+Your Rights and Retention of Your Personal Information</p><p>  HIKVISION
+generally stores your personal information on HIKVISION’s servers which is
+established upon third-party servers, including Amazon Server, until you delete
+or edit it, or for as long as you remain a HIKVISION user in order to provide
+you with the most relevant offers. Please contact us using the contact details
+below if you would like more information about our retention policies. </p></div> <p><p>  Keeping
+your personal information current helps ensure that we provide you with the
+most relevant offers. You can access, update or delete your personal
+information via your Account profile by selecting “Person” button. We are ready
+to assist you in managing your subscriptions, deactivating your account, and
+removing your active profile and data. Your personal information might not be
+immediately deleted, as we are required to retain records relating to previous
+purchases through HIKVISION Services for financial reporting and compliance
+reasons pursuant to applicable laws. In addition, because of the way we
+maintain certain services, after you delete certain information, we may
+temporarily retain backup copies of such information before it is permanently
+deleted. </p></p> <p><p>  We
+will retain your personal information for the period necessary to fulfill the
+purpose outlined in this Privacy Policy unless a longer retention period is
+required or permitted by applicable law.</p></p> <p><p>  9.
+Social Community Features and Social Networks</p></p> <div><p>  Social Community Features</p><p>  HIKVISION Services may allow you to publicly post or
+share information, communicate with others, or otherwise make information
+accessible to others. Prior to doing so, please read our Terms of Service
+carefully. All the information you post, share, or communicate may be
+accessible to anyone with Internet access, and any personal information you
+include may be read, collected, and used by others. </p><p>  Links to other websites</p><p>  We may permit others to link to HIKVISION Services
+or to post a link to their website. We do not endorse these websites and are
+not responsible for other websites or their privacy
+practices.  Please read their privacy policies before submitting
+information.</p></div> <p><p>  10.
+Your Choices</p></p> <p><p>  We think that you benefit from a more
+personalized experience when we know more about you and your preferences.
+However, you can limit the information you provide to HIKVISION as well as the
+communications you receive from HIKVISION through your Account preferences.</p></p> <div><p>  Commercial E-mails</p><p>  You will only receive commercial e-mails
+from us if you have granted prior express consent or if sending those e-mails
+is otherwise permitted, in accordance with applicable laws.</p><p>  You may choose not to receive commercial
+e-mails from us by following the instructions contained in any of the
+commercial e-mails we send or by logging into your Account and adjusting your
+e-mail preferences. Please note that even if you unsubscribe from commercial
+email messages, we may still e-mail you non-commercial e-mails related to your
+Account and your transactions on HIKVISION Services. </p></div> <div><p>  Device Data</p><p>  You may manage how your mobile device and
+mobile browser share certain device data with HIKVISION by adjusting the
+privacy and security settings on your mobile device. Please refer to
+instructions provided by your mobile service provider or the manufacturer of
+your device to learn how to adjust your settings. </p><p>  11.
+Children’s Privacy</p><p>  HIKVISION does not intend that any portion of its HIKVISION
+Services will be accessed or used by children under the age of 18, </p></div> <span><span>  or
+equivalent minimum age in the relevant jurisdiction and such use is
+prohibited. HIKVISION Services are designed and intended for adults. By using HIKVISION
+Services, you represent that you are at least 18 years old, or above the equivalent
+minimum age in the relevant jurisdiction and understand that you must be at
+least 18 years old, or above the equivalent minimum age in the relevant
+jurisdiction in order to create an account and purchase the goods or services
+advertised through HIKVISION Services. If we obtain actual knowledge that an
+account is associated with a registered user who is under the age of 18 years
+old, or equivalent minimum age in the relevant jurisdiction, we will promptly
+delete information associated with that account.</span></span> <span><span>    If you are a parent or guardian of a
+child under the age of 18, or equivalent minimum age in the relevant
+jurisdiction and believe he or she has disclosed personal information to us
+please contact us by phone at +86-571-8807-5998 or email at </span></span> <p><p>  support@hikvision.com</p></p> <span><span>  . A parent or guardian of a child under the age of 18,
+or equivalent minimum age in the relevant jurisdiction may review and request
+deletion of such child’s personal information as well as prohibit the use
+thereof.</span></span> <p><p>  12. Global
+Operations and Data Transfers</p></p> <p><p>  We transfer and
+process your information globally both in our own facilities and with service
+providers, or partners, regardless of where you use our services. As HIKVISION
+operates globally, we may transfer your personal information to our affiliates
+worldwide, when processing that information for the purposes described in this
+Privacy Policy, e.g. if you request for customer services from HIKVISION, our
+colleagues in China may access certain of your information (wherever you are
+located) in order to provide the requested services to you. We shall do so in
+accordance with the applicable laws. In particular, we will ensure that all
+transfers will be in accordance with requirements under your applicable local
+data protection laws by putting in place appropriate safeguards. You hereby
+agree to transfer the data and you have the right to be informed of the
+appropriate safeguards taken by HIKVISION for this transfer of your Personal
+information. </p></p> <p><p>  Currently we
+have data centers in the U.S., Singapore, Brazil and Ireland. The laws,
+regulations, and standards of the country in which your information is stored
+or processed may be different from those of your own country. You have
+understood that the risks under applicable data protection laws are different
+and we may transfer to and store your personal information at our overseas
+facilities. However, this does not change any of our commitments to safeguard
+your personal information in accordance with this Privacy Policy.</p></p> <p><p>  13. Contact Us</p></p> <p><p>  Please contact us if you have any questions or
+comments about our privacy practices or this Privacy Policy. You can always
+reach us by phone at +86-571-8807-5998 or email at support@hikvision.com.
+Please provide: (i) your name (or account user name) and preferred method of
+contact; and (ii) the details of your request or comment along with any
+corresponding website links.</p></p> <p><p>  14. Additional Terms</p></p> <div><p>  EU/UK addendum</p><p>  If
+you are located in the the European Economic Area (“EEA”) and the UK, Please
+note,</p><p>  i) </p><span>  For purposes of EU data protection
+legislation, Hangzhou Hikvision Digital Technology Co., Ltd., located at No.
+555 Qianmo Road, Binjiang District, Hangzhou 310052, China is the data
+controller responsible for the personal information processing covered by this
+Privacy Policy, except as set out below. Hikvision Europe B.V., located at Dirk
+Storklaan 3, 2132 PX Hoofddorp, Netherlands (“HIKVISION Europe”) acts as EU
+representative for personal information processing activities covered in this
+Privacy Policy. You may contact the EU representative using the details in <i> Contact Us </i>.</span></div> <div><p>  ii)
+</p><span>  You have a right to
+object to the processing of your Personal Information where the processing is
+carried out for our legitimate interests. </span><span>  Subject to limitations in applicable data
+protection laws, you have certain rights in respect to your Personal
+Information, such as a right of access, rectification, erasure, restriction,
+objection,</span><span>    portability and the
+right not to be subject to decisions based solely on automated processing, including
+profiling. In order to exercise your rights, please contact us. You also have
+the right to withdraw your consent at all times, free of charge. The withdrawal
+of your consent shall not affect the lawfulness of processing based on consent
+before its withdrawal. However, your withdrawal may affect your continued use
+of Hikvision Services. If you have concerns about how we handle your Personal
+Information, you have the right to lodge a complaint with a data protection
+authority.</span></div> <p><p>  iii)
+Whenever Hikvision shares your Personal Information with a third party outside
+the EEA/UK, or transfers such Personal Information to a third party outside the
+EEA/UK, Hikvision will put in place contractual protections, approved by the
+European Commission, to secure your Personal Information.</p></p> <div><p>  US addendum</p><p>  California
+Consumer Privacy Act Notice</p><p>  California
+residents have additional privacy rights under the California Consumer Privacy
+Act, which are described in the California Consumer Privacy Act Notice: </p><p>  https://us.hikvision.com/en/support-resources/privacy-policy/california-consumer-privacy-act-notice</p><p>  Russia addendum</p><p>  We have deployed local servers in Russia.
+If you are located in Russia, your Personal Information will be stored in the
+local servers instead of other overseas data centers.</p></div> <div><p>  India addendum</p><p>  We have deployed local servers in India. If
+you select located country as “India” during registration account, your Personal
+</p><span>  informa</span><span>  tion
+will be stored in the local servers instead of overseas data centers. </span><span>  </span></div>

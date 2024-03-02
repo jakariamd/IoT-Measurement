@@ -1,0 +1,6 @@
+<div><h1>  Welcome to the</h1><span>  CAPITAL ONE </span><span>  SUPPLIER PORTAL</span></div> <div><h2>  Here to help you  stay connected</h2><label>  EMAIL</label><div>  Need help? <a href="https://capitalone4.my.salesforce-sites.com/Helpdesk" target="_blank"> Click here. </a></div><div>  Warning Message for System Access:</div><div>  Use of this system is restricted to authorized users and for authorized
+		purposes. Users have no expectation of privacy with respect to such
+		usage. All software, data transactions and other electronic
+		communications may be monitored without notice to the user. Unauthorized
+		use is prohibited, and violators may be subject to disciplinary actions
+		including civil and criminal prosecution.</div></div> <p><p>  © 2023 Capital One. Unauthorized use is strictly prohibited</p></p> <div><div>  </div></div>

@@ -1,0 +1,693 @@
+<div><h1>  Privacy Notice</h1><p>  Effective Date: 6/30/2023</p><p>  
+  Thank you for visiting a Starz Entertainment, LLC ("Starz", "Company", "us",
+  "we", or "our") property. This Privacy Notice explains how Starz collects,
+  uses, stores, shares, and secures your information.
+</p></div> <div><h2>  Applicability</h2><p>  This Privacy Notice applies when:</p><ul>  <li>
+    You subscribe or use the Starz subscription service or any other related
+    service ("Services").
+  </li><li>
+    You access and use our websites and any other digital property linking to
+    this Privacy Notice, including www.starz.com ("Sites").
+  </li><li>
+    You download and use our Starz mobile application or other mobile
+    applications ("Applications").
+  </li><li>
+    You interact with features or downloads that are made available through the
+    Services, Sites, or Applications ("Features").
+  </li></ul></div> <ul><ul>  <li>
+    You communicate with us in any manner, including by e-mail, telephone, or
+    in-person ("Communications").
+  </li><li>
+    When we interact with certain external third-parties, such as distributors,
+    contractors, Internet service providers, advertisers, analytics providers,
+    online and offline data providers, voice assistant platform providers, and
+    other related third-party service-providers ("Third-Parties").
+  </li></ul></ul> <div><h2>  California Residents</h2><p>  
+  If you are a California resident, this section applies to you. The following
+  definitions apply:
+</p></div> <div><h4>  Disclosures</h4><p>  
+  The following is a list of the categories of personal information Starz has
+  collected from or about you in the 12 months preceding the date this Privacy
+  Notice was last updated. This list includes a disclosure of: (1) the
+  categories of sources from which the information was collected; (2) the
+  business or commercial purpose for collecting, sell, or sharing the
+  information; and (4) the categories of Third Parties with whom we share the
+  information.
+</p></div> <div><h4>  Identifiers</h4><p>  
+  Contact information (such as your name, address, and telephone number); unique
+  identifiers (such as a device identifier, and a government-issued ID number);
+  financial information (such as a credit or debit card number); and online
+  identifiers (such as an IP address and a social media channel ID).
+</p></div> <div><h5>  Categories of sources from which the information is collected</h5><p>  
+    We collect this category of information from you directly or automatically
+    from your device(s). We also may collect this information from Third Parties
+    such as financial institutions, payment processors, and social networks.
+  </p></div> <div><h5>  Is the information "sold" or "shared"?</h5><p>  
+    Some. We make available your IP address and other persistent online
+    identifiers to our advertising partners. In some instances, this transaction
+    may constitute a "sale" or "sharing" of your personal information under
+    California law.
+  </p></div> <div><h5>  Is this sensitive personal information?</h5><p>  
+    Yes, to the extent your information collected includes your social security
+    number, driver's license, state identification card, passport number,
+    account log-in information, financial account, debit card, or credit card in
+    combination with a required access or security code, password, or
+    credentials.
+  </p></div> <div><h5>  
+    Business or commercial purpose for collecting, selling, or sharing the
+    information
+  </h5><p>  
+    We collect this category of information to identify, better understand, and
+    communicate with you; to create and administer accounts; to process orders,
+    payments, and refunds; to provide, improve, market, and personalize our
+    products and services (including this Site and the Services) and third-party
+    products and services; provide customer care; for physical security,
+    cybersecurity, incident response, and risk reduction purposes; for legal,
+    recordkeeping, and compliance purposes; and for other purposes communicated
+    to you at the time of collection.
+  </p></div> <div><h5>  
+    Is this information disclosed to Third Parties for a business purpose?
+  </h5><p>  Yes.</p></div> <div><h5>  
+    Categories of Third Parties to whom such information is disclosed for a
+    business purpose
+  </h5><p>  
+    We disclose this category of personal information to various Third Party
+    partners, providers, affiliates, and service providers.
+  </p></div> <div><h5>  How long we keep the information</h5><p>  
+    We keep this category for so long as is reasonably necessary and
+    proportionate to the original purpose for which we collected the
+    information. We base our criteria in determining appropriate retention
+    periods on regulatory and legal requirements, contractual requirements,
+    business needs, and the expectations of our consumers.
+  </p></div> <div><h4>  Legally protected demographic</h4><p>  Such as your race, ethnicity, or gender identity.</p></div> <div><h5>  Categories of sources from which the information is collected</h5><p>  
+    We collect this category of information from you directly. We may also
+    collect this information from Third Parties, such as social networks.
+  </p></div> <div><h5>  Is the information "sold" or "shared"?</h5><p>  No.</p></div> <div><h5>  Is this sensitive personal information?</h5><p>  
+    Yes, to the extent your information collected includes racial or ethnic
+    origin, sex life, or sexual orientation.
+  </p></div> <div><h5>  
+    Business or commercial purpose for collecting, selling, or sharing the
+    information
+  </h5><p>  
+    We collect this category of information to identify, better understand, and
+    communicate with you; to improve, market, and personalize our products and
+    services (including this Site and the Services) and for other purposes
+    communicated to you at the time of collection.
+  </p></div> <div><h5>  
+    Is this information disclosed to Third Parties for a business purpose?
+  </h5><p>  Yes.</p></div> <div><h5>  
+    Categories of Third Parties to whom such information is disclosed for a
+    business purpose
+  </h5><p>  
+    We disclose this category of personal information to various Third Party
+    partners, providers, affiliates, and service providers.
+  </p></div> <div><h5>  How long we keep the information</h5><p>  
+    We keep this category for so long as is reasonably necessary and
+    proportionate to the original purpose for which we collected the
+    information. We base our criteria in determining appropriate retention
+    periods on regulatory and legal requirements, contractual requirements,
+    business needs, and the expectations of our consumers.
+  </p></div> <div><h4>  Commercial Information</h4><p>  Such as records of the Products you purchased or considered purchasing.</p></div> <div><h5>  Categories of sources from which the information is collected</h5><p>  
+    We collect this category of information from you directly, from Third
+    Parties, or automatically from your device(s).
+  </p></div> <div><h5>  Is the information "sold" or "shared"?</h5><p>  No.</p></div> <div><h5>  Is this sensitive personal information?</h5><p>  No.</p></div> <div><h5>  
+    Business or commercial purpose for collecting, selling, or sharing the
+    information
+  </h5><p>  
+    We collect this category of information to identify, better understand, and
+    communicate with you; to create and administer accounts; to process orders,
+    payments, and refunds; to provide, improve, market, and personalize our
+    products and services (including this Site and the Services) cybersecurity,
+    incident response, and risk reduction purposes; provide customer care; for
+    legal, recordkeeping, and compliance purposes; and for other purposes
+    communicated to you at the time of collection.
+  </p></div> <div><h5>  
+    Is this information disclosed to Third Parties for a business purpose?
+  </h5><p>  Yes.</p></div> <div><h5>  
+    Categories of Third Parties to whom such information is disclosed for a
+    business purpose
+  </h5><p>  
+    We disclose this category of personal information to various Third Party
+    partners, providers, affiliates, and service providers.
+  </p></div> <div><h5>  How long we keep the information</h5><p>  
+    We keep this category for so long as is reasonably necessary and
+    proportionate to the original purpose for which we collected the
+    information. We base our criteria in determining appropriate retention
+    periods on regulatory and legal requirements, contractual requirements,
+    business needs, and the expectations of our consumers.
+  </p></div> <div><h4>  Geolocation Information</h4><p>  Your physical location.</p></div> <div><h5>  Categories of sources from which the information is collected</h5><p>  
+    We collect this category of information from you or your device(s) when you
+    provide it to us or interact with us online (such as through our Site and
+    Services, or our social media).
+  </p></div> <div><h5>  Is the information "sold" or "shared"?</h5><p>  No.</p></div> <div><h5>  Is this sensitive personal information?</h5><p>  Yes.</p></div> <div><h5>  
+    Business or commercial purpose for collecting, selling, or sharing the
+    information
+  </h5><p>  
+    We collect this category of information to identify, better understand, and
+    communicate with you; to administer accounts; to provide, improve, market,
+    and personalize our products and services (including this Site and
+    Services); provide customer care: cybersecurity, incident response, and risk
+    reduction purposes; for legal, recordkeeping, and compliance purposes; and
+    for other purposes communicated to you at the time of collection.
+  </p></div> <div><h5>  
+    Is this information disclosed to Third Parties for a business purpose?
+  </h5><p>  Yes.</p></div> <div><h5>  
+    Categories of Third Parties to whom such information is disclosed for a
+    business purpose
+  </h5><p>  
+    We disclose this category of information to related or affiliated companies
+    under our control; to Service Providers that provide customer experience
+    management, marketing, fraud prevention and security; and to other third
+    parties (such as law enforcement) as required by law.
+  </p></div> <div><h5>  How long we keep the information</h5><p>  
+    We keep this category for so long as is reasonably necessary and
+    proportionate to the original purpose for which we collected the
+    information. We base our criteria in determining appropriate retention
+    periods on regulatory and legal requirements, contractual requirements,
+    business needs, and the expectations of our consumers.
+  </p></div> <div><h4>  Sensory Information</h4><p>  
+  Audio, electronic, visual, thermal, olfactory, or similar information related
+  to you.
+</p></div> <div><h5>  Categories of sources from which the information is collected</h5><p>  
+    We collect this category of information from you or your device(s) when you
+    provide it to us or interact with us online (such as through our Site and
+    the Services)
+  </p></div> <div><h5>  Is the information "sold" or "shared"?</h5><p>  No.</p></div> <div><h5>  Is this sensitive personal information?</h5><p>  No.</p></div> <div><h5>  
+    Business or commercial purpose for collecting, selling, or sharing the
+    information
+  </h5><p>  
+    We collect this category of information to identify and communicate with
+    you; provide customer care; for legal, recordkeeping, and compliance
+    purposes; and for other purposes communicated to you at the time of
+    collection.
+  </p></div> <div><h5>  
+    Is this information disclosed to Third Parties for a business purpose?
+  </h5><p>  Yes.</p></div> <div><h5>  
+    Categories of Third Parties to whom such information is disclosed for a
+    business purpose
+  </h5><p>  
+    We disclose this category of information to related or affiliated companies
+    under our control; to Service Providers that provide customer experience
+    management and fraud prevention and security; and to other third parties
+    (such as law enforcement) as required by law.
+  </p></div> <div><h5>  How long we keep the information</h5><p>  
+    We keep this category for so long as is reasonably necessary and
+    proportionate to the original purpose for which we collected the
+    information. We base our criteria in determining appropriate retention
+    periods on regulatory and legal requirements, contractual requirements,
+    business needs, and the expectations of our consumers.
+  </p></div> <div><h4>  Inferences</h4><p>  Inferences drawn from any of the information identified above.</p></div> <div><h5>  Categories of sources from which the information is collected</h5><p>  
+    We draw inferences about you from the information we collect from you or
+    your device(s) when you provide it to us or interact with us online (such as
+    through our Site, as defined above, or our social media) or offline (such as
+    through a retail location or over the phone). We also draw inferences about
+    you from the information we collect from third parties such as financial
+    institutions, payment processors, and social networks.
+  </p></div> <div><h5>  Is the information "sold" or "shared"?</h5><p>  No.</p></div> <div><h5>  Is this sensitive personal information?</h5><p>  No.</p></div> <div><h5>  
+    Business or commercial purpose for collecting, selling, or sharing the
+    information
+  </h5><p>  
+    We draw these inferences to better understand, and communicate with you; to
+    provide, improve, market, and personalize our products and services
+    (including this Site, as defined above); and for other purposes communicated
+    to you at the time of collection.
+  </p></div> <div><h5>  
+    Is this information disclosed to Third Parties for a business purpose?
+  </h5><p>  Yes.</p></div> <div><h5>  
+    Categories of Third Parties to whom such information is disclosed for a
+    business purpose
+  </h5><p>  
+    We disclose this category of information to related or affiliated companies
+    under our control and to third parties (such as law enforcement) as required
+    by law.
+  </p></div> <div><h5>  How long we keep the information</h5><p>  
+    We keep this category for so long as is reasonably necessary and
+    proportionate to the original purpose for which we collected the
+    information. We base our criteria in determining appropriate retention
+    periods on regulatory and legal requirements, contractual requirements,
+    business needs, and the expectations of our consumers.
+  </p></div> <div><h4>  Rights</h4><ul>  <li>
+<strong> Right to Know: </strong> You have a right to request that we
+    disclose, up to two times per year, what personal information we've
+    collected about you. The process for exercising this right is described
+    below under "Exercising Your Right to Know, Delete, and Correction."
+  </li><li>
+<strong> Right to Correct: </strong> You have a right to request that we
+    correct personal information we've collected about you. The process for
+    exercising this right is described below under "Exercising Your Right to
+    Know, Delete, and Correction."
+  </li></ul></div> <ul><ul>  <li>
+<strong> Right to Delete: </strong> You have a right to request deletion your
+    personal information. The process for exercising this right is described
+    below under "Exercising Your Right to Know, Delete, and Correction."
+  </li><li>
+<strong> Right to Opt-Out: </strong> You have a right to opt-out of the sale
+    or sharing of your personal information. The process for exercising this
+    right is described below under Sale and Sharing of Your Information and Your
+    Right to Opt-Out.
+  </li></ul></ul> <ul><ul>  <li>
+<strong> Right to Non-Discrimination: </strong> You have a right not to be
+    discriminated against for the exercise of your rights described herein.
+  </li></ul></ul> <div><h4>  Exercising your right to know, deletion and correction</h4><p>  
+  You may exercise your Right to Know, Right to Correct, and Right to Deletion
+  by clicking here
+  <a href="https://submit-irm.trustarc.com/services/validation/ae459e19-429f-4e7e-bdd5-aae67f528d57" target="_blank"> Starz Privacy Rights Manager </a>
+  or contacting us at
+  <a href="mailto:privacy@starz.com" target="_blank"> privacy@starz.com </a>.
+  To process these requests, we must be able to verify your identity. In order
+  to do so, you must provide the information we request as part of the
+  verification process, such as your contact information and an additional
+  identifier based on your relationship with us. Before we process your request,
+  we will match these data points with data points we currently maintain to
+  verify your identity and your relationship with us. You can designate an
+  authorized agent to make a request to access, correct, or delete your
+  information on your behalf. When you use an authorized agent to submit a
+  request for access, correction, or deletion, you must provide the authorized
+  agent with written permission to do so, and, in certain circumstances, we may
+  ask you to verify your own identity directly with us. We may deny a request
+  from an authorized agent that does not submit proof that they have been
+  authorized by you to act on your behalf.
+</p></div> <div><h4>  Sale of information and the right to opt out</h4><p>  
+  We "sell" and "share" your personal information through the use of digital
+  advertising. Specifically, we make available certain of your online
+  identifiers and other persistent online identifiers with advertising and
+  marketing partners that may be considered a "sale" or "sharing" of your
+  personal information, as defined under California law. We don't sell or share
+  the personal information or sensitive personal information of any California
+  resident who is 16 years or younger.
+</p></div> <p><p>  
+  To submit a request pursuant to your right to opt out of sale under the CCPA,
+  you please visit the Do Not Sell/Share My Information link at starz.com.
+</p></p> <div><h4>  Using Sensitive Personal Information</h4><p>  
+  We do not process your sensitive personal information for the purpose of
+  deriving characteristics about you. We instead only use sensitive personal
+  information, if at all, for those permissible purposes under the CCPA.
+</p></div> <div><h4>  California's "Shine the Light" law</h4><p>  
+  If you are a California resident you have the right to request information
+  from us once per calendar year regarding the customer information we share
+  with third parties for the third parties' direct marketing purposes. To
+  request this information, please send an email to
+  <a href="mailto:privacy@starz.com" target="_blank"> privacy@starz.com </a>
+  with ‘Request for California Privacy Information' in the subject line and in
+  the body of your message. We will provide the requested information to you via
+  an email response.
+</p></div> <div><h4>  California's "Eraser Button" law</h4><p>  
+  If you are a California resident under 18 years old and a registered user of
+  the Site (as defined above), you can request that we remove content or
+  information that you have posted to our website or other online services.
+  Fulfillment of the request may not ensure complete or comprehensive removal
+  (e.g., if the content or information has been reposted by another user). To
+  request removal of content or information, please contact us at
+  <a href="mailto:privacy@starz.com" target="_blank"> privacy@starz.com </a>.
+</p></div> <div><h2>  Acknowledgment</h2><p>  Please read this Privacy Notice carefully.</p><p>  
+  BY USING OUR SERVICES, SITES, FEATURES, APPLICATIONS, AND ENGAGING IN
+  COMMUNICATIONS, YOU REPRESENT THAT YOU HAVE READ AND UNDERSTOOD THIS PRIVACY
+  NOTICE.
+</p></div> <div><h2>  What Information Do We Collect About You?</h2><p>  
+  Depending on how you interact with our Services, Sites, Features,
+  Applications, the nature of your Communications, and our interaction with
+  Third-Parties, we may collect the following pieces of your information:
+</p><ul>  <li>Name and address.</li><li>Date of birth.</li><li>
+    Contact information, such as e-mail address / physical address / telephone
+    number.
+  </li><li>
+    Registration information, including username, password, password reminder
+    and other information relating your account.
+  </li><li>Payment details (in limited circumstances).</li><li>
+    Registration information relating to any contests, features and other
+    promotions offered as part of, or in relation to, the Services, Sites,
+    Features, and Applications.
+  </li></ul></div> <ul><ul>  <li>
+    Responses generated in connection with participation in online research.
+  </li><li>
+    Reports of issues with the Services, Sites, Features, and Applications.
+  </li><li>Correspondence (including email and chat).</li><li>Screen names.</li><li>Submissions and voting and polling activities.</li><li>
+    Usage and activity information relating to the Services, Sites, Features,
+    and Applications.
+  </li><li>Search queries on our Sites and Applications.</li><li>Information about your interests.</li></ul></ul> <ul><ul>  <li>Social media accounts and usage information.</li><li>
+    Information we obtain from a third party, such as a site or platform
+    provider, about use of our applications on third-party platforms or devices.
+  </li><li>Call recordings when you call our customer care team.</li><li>
+    Technical information gathered automatically when you use the Services,
+    Sites, Features, and Applications, including:
+  </li><li>Device information.</li><li>Browser information.</li><li>Internet service provider or mobile carrier.</li></ul></ul> <ul><ul>  <li>Referring and exit pages.</li><li>Date and time stamps.</li><li>
+    Clickstream data (including page clicks and scrolls).
+  </li><li>Location (for access and use verification).</li><li>Bandwidth speed.</li><li>IP address and device ID.</li><li>
+    Information from cookies and similar technologies (see below for more
+    information).
+  </li></ul></ul> <div><h2>  How Do We Use Your Information?</h2><p>  
+  Depending on how you interact with our Services, Sites, Features,
+  Applications, the nature of your Communications, and our interactions with
+  certain Third-Parties, we may use your information to:
+</p><ul>  <li>Verify access to our Services, Sites, Features, and Applications.</li><li>Verify the status of your account.</li><li>
+    Improve the Services, Sites, Features, and Applications by providing
+    personalized content, language, help and instructions.
+  </li><li>
+    Customize our Services, Sites, Features, and Applications by location.
+  </li><li>Provide customer service assistance.</li><li>Ask you to participate in surveys.</li><li>
+    Provide you with news, newsletters, updates, targeted advertising,
+    promotions, sweepstakes and special offers.
+  </li></ul></div> <ul><ul>  <li>
+    Better understand how you use our Services, Sites, Features, and
+    Applications (including checking traffic patterns and what types of content
+    are most popular).
+  </li><li>Receive and respond to submissions or correspondence.</li><li>Use your information consistent with our Terms of Use.</li><li>Check email *opens*.</li><li>Exercise and comply with legal rights.</li></ul></ul> <p><p>  
+  Please note that we may also combine your information to help us tailor our
+  communications to you and to develop rich online content and services across
+  our Services, Sites, Features, and Applications.
+</p></p> <div><h2>  How Do We Share Your Information?</h2><ul>  <li>
+<strong> With Your Consent. </strong> We may, from time to time, disclose or
+    share your information with your consent. We may obtain your consent in
+    writing, online through "click-through" or related agreements, when you
+    accept Terms of Use on our Services, Sites, and Applications, orally, in
+    person, on the telephone, or by other means.
+  </li><li>
+<strong> With Third-Parties. </strong> We may share your information with
+    certain Third-Parties, such as distributors, contractors, vendors,
+    advertising networks, data analytics providers, online and offline data
+    collectors, operating systems and platforms, social media networks, and
+    service providers who provide us a service (e.g., credit / debit card
+    processing, billing, customer service, auditing, marketing, debugging to
+    identify and repair error and/or protecting against malicious, deceptive,
+    fraudulent, or illegal activity).
+  </li></ul></div> <ul><ul>  <li>
+<strong> With Company Affiliates. </strong> We may share your information with
+    Company affiliates to identify products and services that may be of interest
+    to you, for research and analysis, and to assist in the improvement of our
+    Services, Sites, Features, and Applications, or those of our affiliates and
+    in connection with promotions by us.
+  </li><li>
+<strong> Business Transfers / Bankruptcy. </strong> We may transfer your
+    information as part of a corporate business transaction, such as a merger or
+    acquisition, joint venture, corporate reorganization, financing, or sale of
+    company assets, or in the unlikely event of insolvency, bankruptcy, or
+    receivership, in which to any successor or to any person or entity that
+    acquires ownership or control of the Services, Sites, Features, and
+    Applications. This may occur in the event of a merger, acquisition,
+    bankruptcy or other sale of all or a portion of the Company's assets. Other
+    than to the extent ordered by a bankruptcy or other court proceeding, the
+    use and disclosure of all transferred information will be subject to this
+    Privacy Notice, unless provided otherwise.
+  </li></ul></ul> <ul><ul>  <li>
+<strong> By Law Or To Protect Rights. </strong> We may share your information
+    to satisfy any law, regulation, legal process, governmental request, or
+    where we have a good belief that access, use, preservation or disclosure of
+    such information is reasonably necessary to: (1) enforce or apply
+    agreements; (2) protect our rights or interests, property or safety or that
+    of others; (3) in connection with claims, disputes, or litigation (in court
+    or elsewhere); or (4) protect users of our Services, Sites, Features, and
+    Applications.
+  </li></ul></ul> <div><h2>  How Do We Protect and Store Your Information?</h2><p>  
+  Although no system can guarantee the complete security of your information, we
+  take all commercially reasonable steps, appropriate to the nature of
+  information at issue, to ensure your information is subject to appropriate
+  organizational, technical, and physical safeguards to protect against
+  unauthorized access or disclosure, in alignment with all applicable laws and
+  regulations.
+</p></div> <div><h2>  How Long Do We Keep Your Personal Information?</h2><p>  
+  We keep your information for as long as necessary in accordance with the
+  purposes for which it was collected, our business needs, and our legal and
+  regulatory obligations. If we dispose of your information, we will do so in a
+  way that is secure and appropriate to the nature of the information subject to
+  disposal.
+</p></div> <div><h2>  Data Transfers</h2><p>  
+  We operate globally and may transfer your personal information with Company
+  affiliates or third parties in locations around the world for the purposes
+  described in this Privacy Notice. Wherever your personal information is
+  transferred, stored or processed by us, we will take reasonable steps to
+  safeguard the privacy of your personal information. These steps may include
+  implementing standard contractual clauses where recognized by law, obtaining
+  your consent, or other lawful means of transferring personal information.
+</p></div> <div><h2>  Links to Other Sites</h2><p>  
+  We may, from time to time, offer links to other websites from our Services,
+  Sites, Features, and Applications, including to the websites of our
+  distributors, the websites and applications of social media platforms, and
+  websites that are sponsored by or co-branded with third parties. These third
+  parties may have information practices that are different than ours. We
+  recommend that you review such site's terms of use and privacy statements
+  prior to use or submitting any information to them. We cannot verify, warrant,
+  endorse or take responsibility for the availability, accuracy, completeness,
+  quality, practices, or policies of such sites or content available from such
+  sites. We do not make any representations or warranties as to the security of
+  any information (including, without limitation, credit card and other personal
+  information) you might be requested to give any third party.
+</p></div> <div><h2>  Cookies, Advertising & Tracking</h2><p>  
+  From time to time, we may collect and share your information through the use
+  of cookies and related technologies (including, flash cookies, pixels, tags,
+  software development kits, application program interfaces, and web beacons)
+  for the purpose of identifying and authenticating users, preventing fraud,
+  enhancing our Services, Sites, Features, and Applications, and to tailor
+  content to you.
+</p><ul>  <li>
+<strong> Cookies. </strong> Cookies are small information files that our
+    Services, Sites, Features and Applications may place on your computer or
+    other device. Some cookies are temporary. Others are permanent. And there
+    are different types of cookies that serve different purposes, such as
+    functionality, marketing, and advertising. Below we outline the types of
+    cookies our Services, Sites, and Features may use.
+  </li><li>
+<strong> Session Cookies. </strong> Session cookies exist only during an
+    online session. They disappear from your device when you close your browser
+    or turn off your device. We use session cookies to allow our systems to
+    uniquely identify you during a session or while you are logged into the
+    Services, Sites, Features and Applications. This allows us to process your
+    online transactions and requests and verify your identity, after you have
+    logged in, as you move through our Services, Sites, and Features.
+  </li></ul></div> <ul><ul>  <li>
+<strong> Persistent Cookies. </strong> Persistent cookies remain on your
+    device after you have closed your browser or turned off your device. We use
+    persistent cookies to track aggregate and statistical information about user
+    activity.
+  </li><li>
+<strong> Essential Cookies. </strong> Our Services, Sites, Features and
+    Applications won't work properly without essential cookies. For example, we
+    and our Third-Party service providers may use essential cookies to identify
+    and authenticate users of our Services, Sites, Features and Applications. We
+    also use essential cookies to enforce our Terms of Use, and maintain the
+    security of our Services, Sites, Features and Applications.
+  </li></ul></ul> <ul><ul>  <li>
+<strong> Performance Cookies. </strong> Performance cookies collect
+    information about how visitors use our Services, Sites, Features and
+    Applications, for example, which pages users visit most often and error
+    messages received by users from web pages. Performance cookies don't collect
+    information that identify a visitor and the information these cookies
+    collect is aggregated and anonymized.
+  </li><li>
+<strong> Advertising Cookies. </strong> Advertising cookies are used to
+    deliver advertisements relevant to visitors based on the visitor's interests
+    and to measure the effectiveness of advertising campaigns. These cookies are
+    usually placed by advertising networks with our permission. They remember
+    that you have visited the website and this information is shared with other
+    organizations such as advertisers. <a href="/us/en/privacy#Interest%20Based%20Advertising" target="_blank"> Learn More </a>
+</li></ul></ul> <ul><ul>  <li>
+<strong> Embedded Scripts / Web Beacons. </strong> An embedded script is
+    programming code used to collect information about how you interact with our
+    Services, Sites, Features and Applications. The embedded script is
+    temporarily downloaded onto your device from our, or a Third-Party web
+    server and is active only while you are connected to the Services, Sites,
+    Features and Applications. A web beacon is a small graphic image or
+    programming code that may be included in our web pages and email messages.
+  </li></ul></ul> <ul><ul>  <li>
+<strong> Third Party Ad Servers. </strong> Third party ad servers may present
+    or serve advertisements, provide us with data collection, reporting, ad
+    response measurement, and analytics, and assist with delivery of relevant
+    marketing messages and advertisements. These third parties may view, edit,
+    or set their own cookies. They may also collect information concerning your
+    online activities over time and across different websites. The information
+    they may collect includes the other sites you have visited or applications
+    that you have downloaded to your mobile device, and other information about
+    you or your device in order to help analyze and serve targeted advertising. <a href="/us/en/privacy#Interest%20Based%20Advertising" target="_blank"> Learn More </a>
+</li></ul></ul> <ul><ul>  <li>
+<strong> Preferences. </strong> You can review and change your preferences for cookies,
+    including Advertising Cookies, on our websites by clicking the Change Cookie Preferences
+    button available when you link to our Privacy Notice (<a href="https://www.starz.com/us/en/privacy" target="_blank"> https://www.starz.com/us/en/privacy </a>).
+    You can also opt out of <a href="/us/en/privacy#Interest%20Based%20Advertising" target="_blank"> interest-based advertising </a> by participating third party ad networks.
+    See <a href="/us/en/privacy#Your%20Choices" target="_blank"> Your Choices </a> for more information.
+  </li></ul></ul> <ul><ul>  <li>
+<strong> Third Party Analytics. </strong> We may use third party analytics
+    service providers to evaluate and provide us with information about the
+    Services, Sites, Features and Applications. These vendors may have their own
+    tracking technologies on your device and they may otherwise collect or have
+    access to information about you. This information may be stored and shared
+    by these vendors to process your transactions and provide access to the
+    Services, Sites, Features and Applications. We may also use this information
+    for internal review and analysis of the Services, Sites, Features and
+    Applications. Further, we use:
+  </li></ul></ul> <ul><ul>  <li>
+    Google Analytics to analyze Site traffic. You can find out more information
+    about Google Analytics cookies, including information on how to opt out of
+    Google Analytics relating to your use of our Digital Services by visiting
+    the relevant Google support page:
+    <a href="https://tools.google.com/dlpage/gaoptout?hl=enwww.google.com/policies/privacy/partners" target="_blank"> https://tools.google.com/dlpage/gaoptout?hl=enwww.google.com/policies/privacy/partners </a>.
+  </li><li>
+    ReCaptcha Enterprise to protect the Site and the Google Privacy Policy
+    <a href="https://policies.google.com/terms" target="_blank"> https://policies.google.com/privacy </a>
+    and Google Terms of Service
+    <a href="https://policies.google.com/privacy" target="_blank"> https://policies.google.com/terms </a>
+    apply.
+  </li></ul></ul> <div><h2>  Your Choices</h2><p>  
+  We provide you the ability to exercise certain controls and choices regarding
+  your information. If you are a California resident, you may have additional
+  rights. To learn more about those rights, please see California Residents
+  section below.
+</p><ul>  <li>
+<strong> Correct Your Information. </strong> We will use reasonable efforts to
+    allow you to update or correct the information we collect about you by
+    visiting the Settings tool available within the Services. To help protect
+    your privacy and security, we will take reasonable steps to verify your
+    identity before granting access or making corrections to any of your
+    information.
+  </li><li>
+<strong> Control Cookie Preferences. </strong> For more information about
+    cookies set through our Services, Sites, Features and Applications, and to
+    exercise choices regarding them, click Privacy Notice link at
+    <a href="https://www.starz.com/us/en/" target="_blank"> https://www.starz.com/us/en/ </a>.
+  </li></ul></div> <ul><ul>  <li>
+<strong> Control Your Browsers. </strong> You may be able to disable and
+    manage some cookies through your browser settings. If you use multiple
+    browsers on the same device, you will need to manage your settings for each
+    browser.
+  </li><li>
+<strong> Analytics Provider Opt-Outs. </strong> To disable analytics cookies
+    you can use the browser controls discussed above or, for some of our
+    providers (e.g. Google, Apple), you can use their individual opt-out
+    mechanisms.
+  </li></ul></ul> <ul><ul>  <li>
+<strong> Interest-Based Advertising. </strong> For more information or to opt
+    out of receiving interest-based advertising from participating third-party
+    advertisers please visit:
+  </li><li>
+    Digital Advertising Alliance:
+    <a href="https://optout.aboutads.info/?c=2&lang=EN" target="_blank"> https://optout.aboutads.info/?c=2&lang=EN </a>
+</li><li>
+    Digital Advertising Alliance App Choices Application:
+    <a href="https://www.aboutads.info/appchoices" target="_blank"> https://www.aboutads.info/appchoices </a>
+</li></ul></ul> <ul><ul>  <li>
+    Network Advertising Initiative:
+    <a href="https://optout.networkadvertising.org/?c=1" target="_blank"> https://optout.networkadvertising.org/?c=1 </a>
+</li><li>
+<strong> Connected Devices. </strong> For connected devices, such as smart TVs
+    or streaming devices, you should navigate to the device settings and select
+    the option that allows you to disable automatic content recognition or ad
+    tracking. These settings vary by device type.
+  </li><li>
+<strong> Cross-Device Tracking: </strong> To opt out of our browser-based
+    cross-device tracking for advertising purposes you must opt-out separately
+    on each device and each browser that you use. For more information about
+    cross-device matching, please visit the Network Advertising Initiative or
+    the Digital Advertising Alliance.
+  </li></ul></ul> <ul><ul>  <li>
+<strong> Email Opt Out. </strong> If at any time you wish to opt out or
+    "unsubscribe" from receiving commercial emails related to the our Services,
+    Sites, Features, and Applications, you may: (a) use the unsubscribe link at
+    the bottom of each commercial email you receive or (b) visit the Settings
+    tool available within the Services to opt out of receiving commercial emails
+    and to update your email preferences. Please remember that: (1) even if you
+    opt out of receiving commercial emails from us, we reserve the right to send
+    transactional or relationship communications to you (e.g., if we need to
+    contact you regarding your account status, technical support, product
+    information, changes to the Terms of Use for the Services, Sites, Features,
+    or Applications, and any other matter that might affect our service to you
+    and/or our records on you) and (2) certain information or services can only
+    be provided to you if information is provided. If you elect not to provide
+    such information or opt out of having your information shared, you may not
+    be able to receive certain content or information.
+  </li></ul></ul> <div><h2>  Do Not Track</h2><p>  
+  Our Services, Sites, Features, and Applications may, from time to time,
+  collect information about your online activities, over time and across
+  different sites and applications. When you use our Services, Sites, Features,
+  and Applications, third parties may also collect information about your online
+  activities, over time and across different websites, online or cloud computing
+  services, online applications, or mobile applications.
+</p><p>  
+  Some browsers support a "Do Not Track" feature, which is intended to be a
+  signal to websites that you do not wish to be tracked across different
+  websites you visit. Our Services, Sites, Features, and Applications currently
+  do not change the way they operate based upon a "Do Not Track" or similar
+  signal. You may, however, disable certain tracking as discussed in Your
+  Choices section.
+</p></div> <div><h2>  Children</h2><p>  
+  We do not knowingly collect or use any information from individuals under the
+  age of 13. If you are a parent or guardian who has discovered that your child
+  under the age of 13 has submitted his or her information without your
+  permission or consent, you can ask us to remove your child's information by
+  contacting us at
+  <a href="mailto:privacy@starz.com" target="_blank"> privacy@starz.com </a>.
+  Upon notice from you, we will make reasonable efforts to investigate and
+  remove the information. Please include in your message the same user name
+  and/or email address and password that your child submitted.
+</p></div> <div><h2>  Changes</h2><p>  
+  We may change this Privacy Notice from time to time. Notice may be by email to
+  you at the last email address you provided us, by posting notice of such
+  changes on our sites and applications, or by other means, consistent with
+  applicable law. The effective and last updated date will be stated at the top
+  of this Privacy Notice. You should regularly check this page for any changes
+  to this Privacy Notice.
+</p></div> <div><h2>  Contact Us</h2><p>  
+  If you have any questions about this Privacy Notice, please contact us at
+  <a href="mailto:privacy@starz.com" target="_blank"> privacy@starz.com </a>.
+</p></div> <div><h2>  
+  Notice For Virginia, Colorado, Utah, and Connecticut Residents
+</h2></div> <div><h4>  Definitions</h4><ul>  <li>
+<strong> Personal information. </strong> Information that is linked or
+    reasonably linkable to an identified or identifiable individual.
+  </li><li>
+<strong> Sensitive personal information. </strong> Information that includes
+    data revealing racial or ethnic origin, religious beliefs, mental or
+    physical health condition or diagnosis, sex life, sexual orientation or
+    citizenship or immigration status, the processing of genetic or biometric
+    data for the purpose of uniquely identifying an individual, personal data
+    collected from a known child, or precise geolocation data.
+  </li></ul></div> <ul><ul>  <li>
+<strong> Sell, sale, or sold. </strong> The exchange of personal data for
+    monetary or other valuable consideration.
+  </li><li>
+<strong> Targeted advertising. </strong> Displaying advertisements to a
+    consumer where the advertisement is selected based on personal data obtained
+    or inferred from that individual's activities over time and across
+    nonaffiliated Internet web sites or online applications to predict such
+    individual's interests.
+  </li></ul></ul> <div><h4>  Notice of Collection</h4><p>  
+  To learn more about the categories of personal information we collect about
+  you and how we use it, please see What Information Do We Collect About You?
+  and How Do We Use Your Information? To learn more about the categories of
+  third parties with whom we may disclose your personal information, please see
+  How Do We Share Your Information?
+</p></div> <div><h4>  Your Rights</h4><p>  
+  Please note, you can designate an authorized agent to make the below requests
+  on your behalf. When you use an authorized agent, you must provide the
+  authorized agent with written permission to do so, and, in certain
+  circumstances, we may ask you to verify your own identity directly with us. We
+  may deny a request from an authorized agent that does not submit proof that
+  they have been authorized by you to act on your behalf.
+</p><p>  
+  To exercise any of the rights below, you may submit a request at
+  <a href="https://submit-irm.trustarc.com/services/validation/ae459e19-429f-4e7e-bdd5-aae67f528d57" target="_blank"> Starz Privacy Rights Manager </a>.
+</p></div> <ul><ul>  <li>
+<strong> Right to Know and Access: </strong> You have a right to know whether
+    Starz is processing your personal information, access such personal
+    information subject to certain exceptions, and obtain a copy of the personal
+    information in a portable format.
+  </li><li>
+<strong> Right to Delete: </strong> You have a right to request that we delete
+    your personal information subject to certain exceptions.
+  </li><li>
+<strong> Right to Correct: </strong> You have a right to ask that Starz
+    correct the personal information it has about you, subject to certain
+    exceptions.
+  </li></ul></ul> <ul><ul>  <li>
+<strong> Right to Opt-Out: </strong> You have a right to opt-out of the sale
+    or use of your personal information for targeted advertising.
+  </li><li>
+<strong> Right to Non-Discrimination: </strong> You have a right not to be
+    discriminated against for the exercise of your rights described herein.
+  </li></ul></ul> <div><h2>  Notice for Nevada Residents</h2><p>  
+  If you are a Nevada resident, you have the right to submit a request directing
+  us not to make any sale of your personal information. Starz does not sell your
+  personal information. However, to request email confirmation that we do not
+  sell your personal information, please send an email to
+  <a href="mailto:privacy@starz.com" target="_blank"> privacy@starz.com </a>
+  with 'Request for Nevada Privacy Information' in the subject line and in the
+  body of your message. We will provide the requested information to you via an
+  email response.
+</p></div> <div><h3>  Browse STARZ</h3></div> <div><h3>  Get Started</h3></div> <div><h3>  Help</h3></div> <div><h3>  Company</h3></div> <div><h3>  STARZ Originals & Exclusives</h3></div> <div><h3>  Browse By</h3></div>

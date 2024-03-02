@@ -1,0 +1,31 @@
+<div><h1>  
+            University Privacy
+                      </h1><label>  Search:</label></div> <div><h2>  Search Filters:</h2><label>  Search Privacy</label><label>  Search Cornell</label><span>  Home</span><span>  Close Menu</span><ul>  <li>Home
+</li><li>About Us</li><li>Our Services
+</li><li>Key Partners
+</li><li>Organization
+</li><li>Contact Us
+
+</li><li>Privacy at Cornell</li><li>University Privacy Statement
+</li><li>Privacy Principles at Cornell
+</li><li>University Privacy Committee
+
+</li><li>Privacy Framework</li><li>Key Regulations
+</li><li>University Policies
+
+</li><li>Information Use</li><li>Information Use at Cornell
+</li><li>Use of Location Data
+
+</li><li>Report a Concern
+</li><li>More...</li><li>A-Z Topics
+</li></ul></div> <div><h1>  Welcome</h1></div> <div><h2>  Welcome</h2><p>  The University Privacy team provides guidance and resources to help navigate Cornell's regulatory obligations and <a href="/privacy-cornell/privacy-principles-cornell" target="_blank"> ethical principles </a> pertaining to the curation and <a href="/information-use-cornell" target="_blank"> use of data </a>. Our team is focused on upholding Cornell's core values, facilitating solutions, enhancing a culture of compliance and ethics, and balancing compliance with mission-driven activities. We work closely with <a href="https://it.cornell.edu" target="_blank"> Cornell Information Technology </a> to realize these goals in collaboration with units, colleges, and departments across campus.</p></div> <p><p>  University Privacy staff are dedicated to supporting Cornell's <a href="https://www.cornell.edu/about/mission.cfm" target="_blank"> mission </a> of learning, discovery, and engagement. </p></p> <div><h2>  
+            Featured
+      </h2></div> <div><h3>  
+            University Privacy Statement
+      </h3></div> <div><h3>  
+            University Privacy Committee
+      </h3></div> <div><h3>  
+            Our Services
+      </h3></div> <div><h2>  See Also:</h2></div> <div><h2>  University Privacy</h2><p>  395 Pine Tree Road, Suite 330
+East Hill Office Building
+Ithaca, NY 14850</p><p>  If you have a disability and are having trouble accessing information on this website or need materials in an alternate format, contact  <a href="mailto:web-accessibility@cornell.edu" target="_blank"> web-accessibility@cornell.edu </a> for assistance.</p><p>  At Cornell we value your privacy. To view our university's privacy practices, including information use and third parties, visit <a href="https://privacy.cornell.edu/information-use-cornell" target="_blank"> University Privacy </a>.</p></div>

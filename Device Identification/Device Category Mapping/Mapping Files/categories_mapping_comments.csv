@@ -1,0 +1,86 @@
+src_category,generic_category,src_vendor,comments
+3D Printer,Other,['octoprint'],drop octoprint
+Belkin Wemo,Computer,['raspberry-pi'],"Remove Synology? NAS/Router
+raspberry-pi? Computer"
+Belkin Wemo,Storage,['synology'],
+DLNA_DMS,Other,['amazon'],"discard amazon storage 
+change directv to Media/TV"
+DLNA_DMS,Media/TV,['directv'],
+Desktop Computer,Other,['home'],drop 'home' where it's not in 'Home Automation'
+Gaming Console,Other,['spotify'],drop spotify
+HP Printer,Computer,['raspberry-pi'],raspberry-pi? Computer
+Home Assistant,Computer,['raspberry-pi'],raspberry-pi? Computer
+HomeKit,Voice Assistant,['apple'],"apple homeKit? HomePod/Mini > voice assistant
+raspberry-pi? Computer"
+HomeKit,Computer,['raspberry-pi'],
+Homekit,Media/TV,['vizio'],"change vizio to Media/TV
+change rachio to Generic-IoT
+discard rach"
+Homekit,Generic IoT,['rachio'],
+Homekit,Generic IoT,['rach'],
+IoT Bridge,Media/TV,['sonos'],change sonos to Media/TV
+IoT Gateway,Computer,['microsoft'],Change Microsoft? App running on a PC?
+LightSwitch,Voice Assistant,['apple'],Apple Light Switch? Voice assistant
+Music Streamer,Computer,['raspberry-pi'],Computer
+Network Security Device,Other,['fing'],discard fing
+OctoPrint,Other,['octoprint'],Discard
+Octoprint,Other,['octoprint'],Discard
+Printer,Other,['amazon' 'apple'],Amazon/apple printer?
+Raspberry Pi B+,Computer,['raspberry-pi'],will be fixed
+Security Device,Other,['fing'],discard fing
+Smart Display,Media/TV,['vizio'],change vizio to Media/TV
+Smart Home Device,Generic IoT,['withings'],change withings to Generic-IoT
+Smart Home Device,Voice Assistant,['google'],google hub? voice assistant
+Smart Home Hub,Voice Assistant,['google'],google hub? voice assistant
+Smart Speaker,Voice Assistant,['google'],Smart Speaker of Amazon/Google -> voice assistant
+Smart Speaker,Voice Assistant,['amazon'],Smart Speaker of Amazon/Google -> voice assistant
+Speaker,Voice Assistant,['google'],Speaker of Google -> voice assistant
+Spotify Connect,Mobile Device ,['facebook'],Facebook smart dsplay?
+Sprinkler Controller,Generic IoT,['rach'],discard rach
+Streaming Device,Router,['netgear'],change netgear to Router
+Voice Assistant,Voice Assistant,['amazon' 'google'],Fix amazon and google
+Voice Assistant Speaker,Voice Assistant,['amazon' 'google'],Fix amazon and google
+Robot,Home Automation,['irobot'],Change irobot to Home automation
+Energy Monitor,Home Automation,['energy'],Remove energy?
+Smart Water Valve,Home Automation,['flo'],Replace flo by meon
+Temperature Sensor,Home Automation,['crosse'],Change crosse to La Crosse
+Android Device,Other,['qolsys'],discard qolsys
+Security Camera,Other,['raspberry-pi'],"discard raspberry-pi
+make all raspberry pi to computer?"
+Smart Thermostat,Other,['hp' 'wistron neweb' 'cloud'],"discard hp
+discard wistron neweb
+discard cloud"
+Media Server,Other,['dell'],discard dell
+Smart Lighting,Other,['systems' 'fans'],"discard systems
+discard fans"
+Smart Plug,Other,['netgear'],"discard netgear
+"
+Smart Home Device,Other,['microsoft' 'synology' 'rach'],"discard microsoft
+discard synology
+discard rach
+"
+Smart Home Device,Generic IoT,['rach'],
+Smartphone,Other,['nest'],discard nest
+Smart Switch,Other,['dlink'],discard dlink -> router
+IoT Gateway,Other,['raspberry-pi' 'intel'],"discard raspberry-pi
+discard intel"
+Television,Other,['irobot'],fix irobot
+Home Automation,Other,['vmware'],"discard vmware
+discard homeassistant?"
+Smart Speaker,Other,['intel'],discard intel
+Google Cast,Computer,['raspberry-pi'],raspberry-pi > computer
+Home Automation,Computer,['raspberry-pi'],raspberry-pi > computer
+Home Automation Controller,Computer,['raspberry-pi'],raspberry-pi > computer
+Home Automation Device,Computer,['raspberry-pi'],raspberry-pi > computer
+Home Automation Hub,Computer,['raspberry-pi'],raspberry-pi > computer
+Home Automation System,Computer,['raspberry-pi'],raspberry-pi > computer
+Homekit,Computer,['raspberry-pi'],raspberry-pi > computer
+IP Camera,Computer,['raspberry-pi'],raspberry-pi > computer
+IoT Bridge,Computer,['raspberry-pi'],raspberry-pi > computer
+Media Player,Computer,['raspberry-pi'],raspberry-pi > computer
+Media Server,Computer,['raspberry-pi'],raspberry-pi > computer
+Media Streaming Device,Computer,['raspberry-pi'],raspberry-pi > computer
+Raspberry Pi,Computer,['raspberry-pi'],raspberry-pi > computer
+Smart Home Hub,Computer,['raspberry-pi'],raspberry-pi > computer
+Streaming Device,Computer,['raspberry-pi'],raspberry-pi > computer
+Network Storage Device,Computer,['raspberry-pi'],raspberry-pi > computer

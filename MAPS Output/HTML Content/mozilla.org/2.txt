@@ -1,0 +1,35 @@
+<div><h2>  
+        
+          
+          Privacy
+        
+      </h2></div> <div><h1>  Firefox products are designed to protect your <strong> privacy </strong></h1><p>  You should be able to decide who sees your personal info. Not just among your friends, but with every advertiser and company on the internet — including us.</p></div> <div><h2>  That’s why everything we make and do honors our Personal Data Promise</h2></div> <div><h2>  Take Less</h2></div> <div><h3>  We make a point of knowing less about you</h3><p>  All tech companies collect data to improve their products. But it doesn’t need to include so much of your personal info. The only data we want is the data that serves you in the end. We ask ourselves: do we actually need this? What do we need it for? And when can we delete it?</p></div> <div><h2>  Keep it safe</h2></div> <div><h3>  We do the hard work to protect your personal info</h3><p>  
+        
+        
+          Data security is complicated — or at least it should be. Which is why we take the extra steps
+          to classify the data we have, maintain rules for how we store and protect each type, and never
+          stop iterating on our processes. We prioritize your privacy. We invest in it. We’re committed
+          to it. We even <a href="/en-US/about/policy/lean-data/" target="_blank"> teach other companies how to do it </a>.
+        
+      </p></div> <div><h2>  No secrets</h2></div> <div><h3>  You’ll always know where you stand with us</h3><p>  
+        
+          There’s no hidden agenda here. Our business doesn’t depend on secretly abusing your trust. Our <a href="/en-US/privacy/firefox/" target="_blank"> Privacy Notice </a> is actually readable. If you want to dig into every data-point we collect, our code is open. And so are we.
+        
+      </p></div> <div><h3>  Why trust Firefox?
+</h3><p>  
+          Because we put people first. In fact, we’re backed by a <a href="https://foundation.mozilla.org/?utm_source=mozilla.org-privacy&utm_medium=referral&utm_campaign=privacy&entrypoint=mozilla.org-privacy" target="_blank"> non-profit </a>. From day one, it’s been our mission to protect the internet and everyone on it.
+        </p></div> <div><h3>  Your privacy, by the product
+</h3><p>  Firefox products work differently — because they’re designed to protect your privacy first.</p></div> <div><h2>  Read the <a href="/en-US/privacy/firefox/" target="_blank"> Privacy Notice </a> for our products</h2></div> <div><h5>  
+            Company
+          </h5></div> <div><h5>  
+            Resources
+          </h5></div> <div><h5>  
+            Support
+          </h5></div> <div><h5>  
+            Developers
+          </h5></div> <div><h5>  Follow @Mozilla</h5><span>   (@mozilla)</span><span>   (@mozilla)</span><span>   (@mozilla)</span><span>   (@mozilla)</span><span>   (@mozilla)</span><span>   (@mozilla)</span></div> <div><h5>  Follow @Firefox</h5><span>   (@firefox)</span><span>   (@firefox)</span><span>   (@firefoxchannel)</span><label>  Language</label><p>  
+          
+          
+          Visit <a href="/en-US/" target="_blank"> Mozilla Corporation’s </a> not-for-profit parent, the <a href="https://foundation.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer" target="_blank"> Mozilla Foundation </a>.
+          Portions of this content are ©1998–2023 by individual mozilla.org contributors. Content available under a <a href="/en-US/foundation/licensing/website-content/" target="_blank"> Creative Commons license </a>.
+        </p></div>

@@ -1,0 +1,10 @@
+<div><h1>  Apple Customer Privacy Policy</h1><p>  Apple is committed to your privacy. Read our customer Privacy Policy for a clear explanation of how we collect, use, disclose, transfer, and store your information.</p><p>  To access and manage your Apple data please visit <a href="https://appleid.apple.com/choose-your-country" target="_blank"> Manage your Apple account </a>. For corrections or general enquiries, please <a href="/legal/privacy/contact/" target="_blank"> Contact Privacy </a>.</p><p>  JavaScript is required to view this content.</p></div> <div><h3>  Something went wrong.</h3><p>  The content for this page did not load correctly. Reload the page to try again.</p></div> <div><h2>  Choose a Topic</h2><p>  Privacy Policy</p><p>  Apple ID and Family Sharing Disclosure</p><p>  Privacy Governance</p><p>  Government Information Requests</p><p>  Manage Your Account</p></div> <div><h2>  Apple Footer</h2><span>  Apple</span><ul>  <li>Legal
+</li><li>Privacy Policy
+</li></ul></div> <div><h3>  Hardware and Software
+</h3><span>  Hardware and Software</span></div> <div><h3>  More Resources
+</h3><span>  More Resources</span><ul>  <li>Overview</li></ul></div> <div><h3>  Sales & Support
+</h3><span>  Sales & Support</span><ul>  <li>Overview</li></ul></div> <div><h3>  Internet Services
+</h3><span>  Internet Services</span><ul>  <li>Overview</li></ul></div> <div><h3>  Intellectual Property
+</h3><span>  Intellectual Property</span><ul>  <li>Overview</li></ul></div> <div><h3>  Education
+</h3><span>  Education</span></div> <div><h3>   Enterprise 
+</h3><span>   Enterprise </span><span>  Or call 1-800-MY-APPLE.</span></div>

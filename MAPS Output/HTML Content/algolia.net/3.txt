@@ -1,0 +1,98 @@
+<div><h1>  Introduction to the Red Hat SELinux Guide</h1><p>      Welcome to the Red Hat SELinux Guide.  This guide addresses the complex world of SELinux
+    policy, and has the goal of teaching you how to understand, use, administer,
+    and troubleshoot SELinux in a Red Hat Enterprise Linux environment.  SELinux, an implementation of
+    <i> mandatory access control </i> () in
+    the Linux kernel, adds the ability to administratively define policies on
+    all <i> subjects </i> (processes) and
+    <i> objects </i> (devices, files, and signaled processes).
+    These terms are used as an abstract when discussing actors/doers and their
+    targets on a system.  This guide commonly refers to processes, the source of
+    an operations, and objects, the target of an operation.
+  </p></div> <p><p>      This guide opens with a short explanation of SELinux, some assumptions about
+    the reader, and an explanation of document conventions.  The first part of
+    the guide provides an overview of the technical architecture and how policy
+    works, specifically the policy that comes with Red Hat Enterprise Linux called the
+    <i> targeted </i> policy.  The second part focuses on working
+    with SELinux, including maintaining and manipulating your systems, policy
+    analysis, and compiling your custom policy.  Working with some of the
+    daemons that are confined by the targeted policy is discussed throughout.
+    These daemons are collectively called the <i> targeted
+      daemons </i>.
+  </p></p> <p><p>      One powerful way of finding information in this guide is the <i> Index </i>.  The <i> Index </i>  has direct links to sections on specific
+    terminology, and also features lists of various SELinux syntaxes, as well as
+    <i> what are </i>/<i> what is </i> and
+    <i> how to </i> entries.
+  </p></p> <p><p>        This section is a very brief overview of SELinux.  More detail is given in
+      <a href="selg-part-0057.html" target="_blank"> Part I  </a><i> Understanding SELinux </i> and <a href="rhlcommon-appendix-0005.html" target="_blank"> Appendix A  </a><i> Brief Background and History of SELinux </i>.
+  </p></p> <p><p>   <i> Security-enhanced Linux </i>
+    () is an implementation of a
+    <i> mandatory access control </i> mechanism.  This mechanism
+    is in the Linux kernel, checking for allowed operations after standard Linux
+    <i> discretionary access controls </i> are checked.
+  </p></p> <p><p>      To understand the benefit of mandatory access control ()
+    over traditional discretionary access control (), you
+    need to first understand the limitations of DAC.
+  </p></p> <p><p>      Under DAC, ownership of a file object provides potentially crippling or
+    risky control over the object. A user can expose a file or directory to a
+    security or confidentiality breach with a misconfigured
+     command and an unexpected propagation of access
+    rights.  A process started by that user, such as a CGI script, can do
+    anything it wants to the files owned by the user.  A compromised Apache HTTP
+    server can perform any operation on files in the Web group. Malicious or
+    broken software can have root-level access to the entire system, either by
+    running as a root process or using  or
+    .
+  </p></p> <p><p>      Under DAC, there are really only two major categories of users,
+    administrators and non-administrators.  In order for services and programs
+    to run with any level of elevated privilege, the choices are few and course
+    grained, and typically resolve to just giving full administrator access.
+    Solutions such as s (<i> access control
+      lists </i>) can provide some additional security for allowing
+    non-administrators expanded privileges, but for the most part a root account
+    has complete discretion over the file system.
+  </p></p> <p><p>      A MAC or <i> non-discretionary access control </i> framework
+    allows you to define permissions for how all processes (called
+    <i> subjects </i>) interact with other parts of the system
+    such as files, devices, sockets, ports, and other processes (called
+    <i> objects </i> in SELinux).  This is done through an
+    administratively-defined security policy over all processes and objects.
+    These processes and objects are controlled through the kernel, and security
+    decisions are made on all available information rather than just user
+    identity.  With this model, a process can be granted just the permissions it
+    needs to be functional.  This follows the principle of <i> least
+      privilege </i>.  Under MAC, for example, users who have exposed
+    their data using  are protected by the fact that
+    their data is a kind only associated with user home directories, and
+    confined processes cannot touch those files without permission and purpose
+    written into the policy.
+  </p></p> <p><p>      SELinux is implemented in the Linux kernel using the 
+    (<i> Linux Security Modules </i>) framework.  This is only the
+    latest implementation of an ongoing project, as detailed in <a href="rhlcommon-appendix-0005.html" target="_blank"> Appendix A  </a><i> Brief Background and History of SELinux </i>.  To support fine-grained access
+    control, SELinux implements two technologies:   </p></p> <span><span>  Type Enforcement
+    () and a kind of <i> role-based access
+      control </i> (), which are discussed in
+      <a href="selg-chapter-0013.html" target="_blank"> Chapter 1  </a><i> SELinux Architectural Overview </i>.  
+  </span></span> <p><p>      Type Enforcement involves defining a <i> type </i> for every
+    subject, that is, process, and object on the system.  These types are
+    defined by the SELinux <i> policy </i> and are contained in
+    security labels on the files themselves, stored in the <i> extended
+      attributes </i> () of
+    the file.  When a type is associated with a processes, the type is called a
+    <i> domain </i>, as in, " is in the domain of
+    ."  This is a terminology difference
+    leftover from other models when domains and types were handled separately.
+  </p></p> <p><p>      All interactions between subjects and objects are disallowed by default on
+    an SELinux system.  The policy specifically allows certain operations.  To
+    know what to allow, TE uses a matrix of domains and object types derived
+    from the policy.  The matrix is derived from the policy rules.  For example,
+     gives the domain associated with  the
+    permissions to read data out of specific network configuration files such as
+    . The matrix clearly defines all the
+    interactions of processes and the targets of their operations.
+  </p></p> <p><p>      Because of this design, SELinux can implement very granular access controls.
+    For Red Hat Enterprise Linux 4 the policy has been designed to restrict only a
+    specific list of daemons.  All other processes run in an unconfined state.
+    This policy is designed to help integrate SELinux into your development and
+    production environment.  It is possible to have a much more strict policy,
+    which comes with an increase in maintenance complexity.
+  </p></p> <div><td>  Red Hat Enterprise Linux 4</td><td>  Prerequisites for This Guide</td></div>

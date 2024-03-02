@@ -1,0 +1,175 @@
+<div><label>  
+
+</label><ul>  <li>
+
+</li></ul><span>  Main menu</span></div> <div><h2>  Downloads</h2><ul>  <li>Features</li><li>
+
+</li></ul><span>  Main menu</span><ul>  <li>
+
+</li></ul><span>  Main menu</span><span>  Why Brave</span><ul>  <li>
+
+</li></ul><p>  Many users rely on private browsers to keep their Internet habits away from prying eyes. But with so many options out there, what's the best private browser for you? In this article we examine the choices.
+</p><ul>  <li>
+
+</li></ul><p>  In this article, we'll define what makes a secure browser, and look at some of the best secure browsers available today.
+</p></div> <div><ul>  <li>
+
+</li></ul><p>  In this article, we look at the fastest web browser and discuss some of the factors that affect browser speed, including the browser engine and javascript engine.
+<a href="/learn/" target="_blank"> 
+                                                    See all 
+                                                     </a></p><span>  Articles
+</span><span>  Why Brave</span><ul>  <li>
+
+</li></ul><p>  Web3 is a whole new philosophy for how the Web should be managed and how users should access it. It's based on a version of the Internet that is decentralized and uses public blockchains to function. In this article, a primer on the fundamentals of Web3.
+</p></div> <div><ul>  <li>
+
+</li></ul><p>  Web3 relies on new technologies. You may have started to hear a lot more about blockchains, nodes, cryptocurrency and wallets recently? In this article, we'll explain what these core terms have to do with DApps, the decentralized applications that are core to Web3.
+</p><ul>  <li>
+
+</li></ul><p>  Blockchains, Nodes, Cryptocurrency, Wallets… In this article, we’ll define some core Web3 terms, and scratch the surface of decentralized technologies.
+<a href="/web3/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Articles
+</span><span>  Why Brave</span><ul>  <li>
+
+</li></ul><p>  In the context of computing, privacy means that your personal data isn't seen by anyone whom you don't want to see it, and isn't used by …
+</p><ul>  <li>
+
+</li></ul><p>  Computer security is the protection of computing devices, networks, and data from external threats.
+</p><ul>  <li>
+
+</li></ul><p>  A browser (or Web browser) is an app for your computer, tablet, or smartphone that lets you look at and interact with websites. The browser …
+<a href="/glossary/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Terms
+</span><ul>  <li>Blogs</li></ul><span>  Why Brave</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><span>  Articles
+</span><span>  Why Brave</span><p>  Starting in version 1.54, Brave for desktop and Android will include more powerful features for controlling which sites can access local …
+</p><p>  Request OTR is another in Brave's suite of features that support the privacy needs of individual users, protecting far beyond the "standard" …
+</p><p>  Forgetful Browsing is similar to, but more powerful and protective than, popular browsing extensions and private browsing modes. It's …
+<a href="/privacy-updates/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Articles
+</span><span>  Why Brave</span><p>  Brave strongly opposes Google's "Web Environment Integrity" proposal, the latest in Google's efforts to prevent users from being in control …
+</p><p>  Google is proposing a feature called "First-Party Sets," which would have browsers reduce privacy barriers between sites. This is both …
+</p><p>  The UK CMA (along with other regulators and web activists) are largely evaluating Google’s Privacy Sandbox as an isolated, independent set …
+<a href="/web-standards-at-brave/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Articles
+</span><span>  Why Brave</span><p>  We design FrodoPIR — a highly configurable, stateful, single-server Private Information Retrieval (PIR) scheme that involves an offline …
+</p><p>  
+We identify class of covert channels in browsers that are not mitigated by current defenses, which we call "pool-party" attacks. Pool-party …
+</p><p>  The question at which layer network functionality is presented or abstracted remains a research challenge. Traditionally, network …
+<a href="/research/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Papers
+</span><ul>  <li>
+
+</li></ul><span>  Main menu</span><span>  Get help</span><p>  
+        Get help with the Brave browser.
+    
+</p><p>  
+        Find quick help with anything related to Brave or its products and features.
+    
+</p><p>  
+        Find answers for common Brave Rewards issues, including earnings and payout questions.
+    
+<a href="https://support.brave.com/hc/en-us" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Help articles
+</span><span>  Get help</span><p>  
+        Get help with Brave features, and connect with other Brave users.
+    
+</p><p>  
+        Request new features or changes to existing ones, and get community up-votes.
+    
+
+</p><span>  Get help</span><p>  
+        See what’s new in the latest version of the Brave app for Android.
+    
+</p><p>  
+        See the latest desktop changes for macOS and Windows.
+    
+</p><p>  
+        See what’s new in the latest version of the Brave app for iOS.
+    
+<a href="/latest/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Release notes
+</span><ul>  <li>
+
+</li></ul><span>  Main menu</span><span>  Private advertising</span><p>  
+        Build consideration for products or services through content-adjacent ads in Brave News, a private news reader in every Brave Browser. …
+    
+</p><p>  
+        Brave Search is the fastest-growing search engine since Bing, with over 6.5 billion annualized searches. Redefine your search marketing …
+    
+</p><p>  
+        New tab takeovers are like a digital billboard: Big. Eye catching. And effective. They reach large audiences in a short time, and drive real …
+    
+</p></div> <p><p>  
+        Notification ads feature a title and short CTA; clicks drive users to the advertiser's desired landing page. Ads are served over content at …
+    
+<a href="/brave-ads/ad-formats/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></p> <div><span>  Ad formats
+</span><span>  Private advertising</span><ul>  <li>
+
+</li></ul><p>  Achieved 23.8 million ad views, 8% blended CTR, 57% 10+ second landing visits, and over 1000 Tweets
+</p><ul>  <li>
+
+</li></ul><p>  Engaging the New ‘Ad Chooser’: A co-authored whitepaper from Brave Software and dentsu international
+</p><ul>  <li>
+
+</li></ul><p>  Realized 230% increase in new customer registrations and achieved a CTR of 13.8%
+<a href="/brave-ads/casestudies/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Case studies
+</span><span>  Private advertising</span><ul>  <li>
+
+</li></ul><p>  Danny Wright (Chief Brand Officer) and Eddie Satterly (Chief Technology Officer) …
+</p><ul>  <li>
+
+</li></ul><p>  Robert Lund, Co-Founder and Chief Creative Officer at Studio TBD, discusses …
+</p><ul>  <li>
+
+</li></ul><p>  Will Haire, Co-Founder of BellaVix, shares the tactics they’re currently …
+<a href="/brave-ads/podcast/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Episodes
+</span><span>  Private advertising</span><p>  A gallery of high impact New tab takeovers from top brands using Brave.
+<a href="/brave-ads/resources/" target="_blank"> 
+                                                    See all 
+                                                     </a></p><span>  Resources
+</span></div> <div><h1>  
+            Localhost Resource Permission
+        </h1><p>  By the Brave Privacy Team</p><p>  Last updated </p><p>  
+
+
+
+
+</p><span>  See all articles</span><p>  <em> This is the 27th post in an  </em><a href="/privacy-updates/" target="_blank"> ongoing, series </a><em>  describing new privacy features in Brave browsers. This post describes work done by Sr. Research and Privacy Engineer Shivan Sahib. This post was written by Peter Snyder. </em></p><p>  Starting in version 1.54, Brave for desktop and Android will include more powerful features for controlling which sites can access local network resources, and for how long. Most popular browsers allow websites to access local network resources without protection or restriction, which puts users’ privacy and security at risk. <a href="https://www.schneier.com/blog/archives/2020/05/websites_conduc.html" target="_blank"> Many popular websites query your local network </a>, often as a fingerprinting technique; others do so to observe and possibly exploit information from other software running on your machine.</p></div> <p><p>  Brave is the first popular browser to extend the Web’s permission API to control when sites can access localhost resources. Brave’s implementation allows advanced users to give any site access to localhost resources, while also avoiding the annoyance of prompts that a localhost request is likely malicious. Brave’s implementation also takes advantage of <a href="/privacy-updates/8-grab-bag-2/#improved-web-permission-lifetimes" target="_blank"> existing improvements Brave has made to Web permissions </a>.</p></p> <div><h2>  What are localhost resources, and why might sites want to access them?</h2><p>  “Localhost resources” is a broad term that refers to resources (images, web pages, etc.) that websites can access, but which don’t come from the “Web.” Instead, these resources are hosted (often unknowingly) by other software on your computer.</p><p>  Surprising though it may be, most browsers allow websites to access these local resources just as easily as they can access other resources on the Web. Browsers allow websites to access localhost resources for a range of reasons, but the <em> main </em> two reasons are historical legacy (i.e. it’s always been done this way) and backwards compatibility. Browsers used to be less concerned about user privacy, and so didn’t enforce distinctions between first-party resources (those hosted by the site you’re visiting), third-party resources (those hosted on other public websites), and localhost resources.</p></div> <p><p>  Thanks to this historical “accident,” a small but important amount of software has been built expecting to be freely accessible by websites, often in ways invisible to users. And many of these uses are benign. Examples include some wallets for cryptocurrencies, <a href="https://palant.info/2023/01/02/south-koreas-online-security-dead-end/" target="_blank"> security software provided by banks </a> or security companies, and hardware devices that use certain Web interfaces for configuration.</p></p> <p><p>  In some situations, browsers also allow public websites to access localhost resources to help developers test their software.</p></p> <p><p>  Unfortunately, a wide range of malicious, user-harming software on the Web <a href="https://blog.nem.ec/2020/05/24/ebay-port-scanning/" target="_blank"> uses access to localhost resources for malicious reasons </a>. For example, fingerprinting scripts try to detect unique patterns in the other software you have running on your device to re-identify you, and other scripts try to identify insecure and vulnerable software on the machine and try to exploit it.</p></p> <div><h2>  How does this change affect how websites can access localhost resources in Brave?</h2><p>  Brave is the only popular browser to ship multiple protections against sites maliciously accessing localhost resources. Brave currently uses filter list rules to:</p><ul>  <li>Block scripts known to maliciously scan localhost resources</li><li>Block requests from public sites to localhost resources </li></ul><p>  This is in contrast to other browsers, which generally ship no protections against sites accessing localhost resources (see the next section for some caveats).</p></div> <p><p>  Brave will soon start rolling out a new approach for protecting users against sites abusing local network resources. This new system will have the following parts:</p></p> <ul><ul>  <li>Requests to localhost resources, from a localhost context are allowed automatically; Brave does not block a locally hosted page from accessing other locally hosted resources. </li><li>Brave will continue to use filter list rules to block scripts and sites known to abuse localhost resources.</li><li>Brave will include a new permission called the “localhost” permission. Only sites with this permission will be able to make sub-resource requests to localhost resources. By default, no sites have this permission and, importantly, most sites have no way to prompt users for this permission. However, advanced users can use the existing site settings interface to grant sites this permission. </li></ul></ul> <ul><ul>  <li>Brave will also include a list of trusted sites, or sites known to access localhost resources for user-benefiting reasons. The first time a site on this list initiates a sub-request to a localhost resource, it will trigger a permission prompt of the previously mentioned localhost permission. This list <a href="https://github.com/brave/adblock-lists/blob/master/brave-lists/localhost-permission-allow-list.txt" target="_blank"> is publicly available </a>, and will be maintained by Brave.</li></ul></ul> <p><p>  Brave has chosen to implement the localhost permission in this multistep way for several reasons. Most importantly, we expect that abuse of localhost resources is far more common than user-benefiting cases, and we want to avoid presenting users with permission dialogs for requests we expect will only cause harm.</p></p> <p><p>  Additionally, we’re purposely inserting a permission prompt into a situation where sites won’t expect it (or even realize third-party scripts are trying to access localhost resources), and so we want to further limit the permission prompt to situations where we expect it’s beneficial to users and sites alike.</p></p> <div><h2>  How do other browsers handle connections to localhost resources?</h2><p>  As mentioned, most other browsers do not significantly prevent websites from accessing localhost resources. The desktop versions of Firefox and Chrome allow both secure and insecure public sites to access localhost resources, and seem to intend to allow public secure sites to access localhost resources indefinitely.</p><p>  As a side-effect of security restrictions, <a href="https://bugs.webkit.org/show_bug.cgi?id=171934" target="_blank"> Safari currently blocks requests </a> to localhost resources (as do other WebKit browsers) from secure public websites. But to the best of our understanding, Safari does not explicitly intend to block these requests from public websites.</p></div> <p><p>  As far as we can tell, Brave is the only browser that will block requests to localhost resources from both secure and <em> insecure </em> public sites, while still maintaining a compatibility path for sites that users trust (in the form of the discussed localhost permission).</p></p> <div><h2>  What’s next for localhost resource handling in Brave?</h2><p>  We’re excited to share this work with Brave users, and expect it to make the Brave browser even more powerful without harming user privacy. However, there’s more work to be done to improve how browsers handle localhost resources.</p><p>  First, we’re exploring ways to better explain to users what localhost resources are, while they’re using Brave. Once we’re confident we’ve found a way of explaining what the permission controls that non-advanced users can understand, we plan on making the permission available to all sites, and not only those on our list.</p></div> <p><p>  Second, we’re pushing these protections deeper in the network stack, so that Brave can protect users against additional, less common methods of sites making localhost requests (including DNS records that refer to localhost). We also hope to have more to share soon.</p></p> <p><p>  Third, we’re interested in unifying and expanding how we can apply permissions (or permissions-like controls) to network requests in general. Brave already applies <a href="/privacy-updates/24-google-sign-in-permission/" target="_blank"> permissions protections to Google login requests that require third-party cookies </a>, and we’re interested in seeing what other similar uses make sense. The main difficulty here is applying an asynchronous permission model to requests that are often made with synchronous expectations. Again, we’re exploring several options, both within Brave and with external researchers, and hope to have more to share soon.</p></p> <ul><ul>  <li>Brave’s localhost protections do not apply to aliases the user may have installed for localhost, such as in . See the final section of this blog post for more details. <a href="#fnref:1" target="_blank"> ↩︎ </a>
+</li><li>On Desktop, users can grant sites the localhost permission at . Android users can do the same by visiting . <a href="#fnref:2" target="_blank"> ↩︎ </a>
+</li></ul></ul> <div><h2>  Related articles</h2><p>  Request OTR is another in Brave's suite of features that support the privacy needs of individual users, protecting far beyond the "standard" threats browsers typically watch out for.</p><p>  Forgetful Browsing is similar to, but more powerful and protective than, popular browsing extensions and private browsing modes. It's another example of Brave offering the most powerful privacy features of any popular browser.</p><p>  Starting in version 1.51, Brave will increase user privacy by extending the brower's permission system to cover legacy Google Sign-In…</p></div> <div><h2>  Ready to Brave the new internet?</h2><p>  Brave is built by a team of privacy focused, performance oriented pioneers of the web. Help us fix browsing together.</p></div> <div><h4>  Resources</h4></div> <div><h4>  Privacy policy</h4></div> <div><h4>  Browser</h4></div> <div><h4>  Company</h4></div> <div><h4>  Social media</h4></div> <div><h4>  Products</h4></div> <div><h4>  Contact</h4></div> <div><h5>  Support</h5></div> <div><h5>  Advertising</h5><span>  Please only use this email address if you are interested in purchasing advertising with Brave. For support, please visit community.brave.com.</span></div> <div><h5>  Business</h5></div> <div><h5>  Press</h5></div> <div><h4>  Developer docs</h4></div> <div><h4>  Creators</h4></div> <div><h4>  Offices</h4></div> <div><h5>  Brave San Francisco</h5><p>  580 Howard St. Unit 402, San Francisco, CA 94105</p><label>  Choose a language</label><small>  © 2015 - 2023 Brave Software, Inc. | All rights reserved</small></div> <div><h2>  Almost there…</h2></div> <div><h5>  You’re just 60 seconds away from the best privacy online</h5><p>  
+                If your download didn’t start automatically,
+                </p><ul>  <li>Download Brave
+</li></ul><p>  Click “Save” in the window that pops up, and wait for the download to complete.
+</p><p>  Wait for the download to complete (you may need to click “Save” in a window that pops up).
+</p><ul>  <li>Run the installer
+</li></ul><p>  Click the downloaded file at the bottom left of your screen, and follow the instructions to install Brave.
+</p></div> <p><p>  Click the downloaded file at the top right of your screen, and follow the instructions to install Brave.
+</p></p> <p><p>  Click the downloaded file, and follow the instructions to install Brave.
+</p></p> <div><ul>  <li>Import settings
+</li></ul><p>  During setup, import bookmarks, extensions, & passwords from your old browser.
+</p></div> <div><h3>  Get better privacy. Everywhere!</h3><p>  Download Brave mobile for privacy on the go.</p></div> <div><h3>  Get better privacy. Everywhere!</h3><p>  Download Brave mobile for privacy on the go.</p><span>  
+
+</span><span>  Click this file to install Brave
+
+</span><span>  
+
+</span><span>  Click this file to install Brave</span><span>  12345</span></div>

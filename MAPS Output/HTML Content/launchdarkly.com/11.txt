@@ -1,0 +1,59 @@
+<div><h2>  Privacy for Showcasing Work</h2></div> <div><h3>  Use Private Pens as Drafts</h3><p>  
+Pens are public by default on CodePen, and all public Pens are indexed
+for public search, findable on your profile, and <a href="https://blog.codepen.io/legal/licensing/" target="_blank"> open source licensed. </a>
+</p><p>  
+Private Pens are none of those things. No one can see them unless you
+decide to share them. They aren’t shown in search, either through
+CodePen search or outside search engines. They can’t be seen on
+your profile. No license is applied to them.
+</p></div> <p><p>  
+One way to use Private Pens is to keep all your Pens private while you
+are working on them, then toggle them over to Public when you are ready.
+</p></p> <div><ul>  <li>Any Pen can be Private</li><li>Any Project can be Private</li><li>Any Collection can be Private</li></ul></div> <div><h3>  No Annoying Passwords</h3><p>  
+Nobody can guess a URL like the URLs to your private work on CodePen.
+They are totally unfindable until you share that URL.
+That’s pretty handy because anybody who you share that URL with
+can see it. They don’t have to be logged in, have a password, or
+even have an account.
+</p></div> <div><h2>  Private Collections</h2></div> <div><h3>  Send Private Collections to Clients</h3><p>  
+ One popular reason to make Private Pens on CodePen is for in-progress
+concepts for client work. You can make Private Collections on CodePen,
+and you can put Private Pens in Private Collections. We’ve had
+lots of people tell us this is perfect for working with clients. You
+send them a link to the Private Collection and they can see everything
+related to a project in one place.
+</p></div> <div><h3>  How Private is Private?</h3><p>  This is how private content works on CodePen:</p><ul>  <li>
+Private content gets an unguessable URL. Seriously. The
+URL’s are so long and so obscure that even a computer
+can’t guess them.
+</li><li>
+Private content is not findable through public CodePen search.
+While logged in, you can still search <em> your own </em> content to
+find your own private content, however.
+</li><li>
+We tell third-party search engines not to index private content.
+We use every method they share for telling search engines like
+Google and Yahoo to not index private content. They
+shouldn’t be able to find links to your private content
+anyway, but this is just in case you share it and these search
+engines find those shared links.
+</li></ul></div> <ul><ul>  <li>
+Private content is not findable on CodePen except by you on your
+your own profile while logged in. Nobody else can browse around
+CodePen and find anything private that you’d made. Not on
+your profile or anywhere else.
+</li></ul></ul> <div><p>  What privacy <em> isn’t </em> on CodePen:</p><ul>  <li>There are no passwords involved.</li><li>There is no user authentication involved.</li></ul><p>  
+This isn’t enterprise-level mega-encrypted super-security.
+It’s very secret URL’s for your content that are
+unfindable until you choose to share them. Simple and effective!
+</p></div> <div><h2>  Privacy for Teams</h2></div> <div><h3>  Team Members Can Work Together Privately</h3><p>  
+People who are on the same <a href="/features/teams" target="_blank"> Team </a> can work
+on private content together. As long as you are logged in and in the
+Team Context, you can see all the Team’s private content right on
+the Team Profile.
+</p><p>  
+For example, Rachel could start a Private Pen. Tim could update it. Alex
+could add a title and explanation. Marie could add it to a Private
+Collection. In the Team Context, everybody has access to all the Team
+content, private or otherwise.
+</p></div> <div><h1>  Choose a Plan</h1><p>  What do you get for being PRO? A lot!</p></div> <div><h3>  Free</h3></div> <div><h3>  Annual Starter</h3></div> <div><h3>  Annual Developer</h3></div> <div><h3>  Annual Super</h3><td>  /month</td><p>  Forever</p><td>  /month</td><p>  Billed at $96/year.</p><span>  saving <strong> $48 </strong></span><td>  12</td><span>  /month</span><p>  Billed at $144/year.</p><span>  saving <strong> $84 </strong></span><td>  26</td><span>  /month</span><p>  Billed at $312/year.</p><span>  saving <strong> $156 </strong></span><ul>  <li>Unlimited public Pens and Collections</li><li>Unlimited templates</li><li>Everything in Free</li><li>Asset hosting<strong> 2 GB </strong> total storage<strong> 5 MB </strong> per file</li><li><strong> 10 </strong> Projects<strong> 50 </strong> files/Project deployed</li><li><strong> 2 person </strong> Collab Mode<strong> 10 person </strong> Professor Mode</li></ul></div> <div><small>  (Pens only)</small><ul>  <li>Unlimited <strong> Private </strong> Pens, Collections, and Projects.</li><li>Unlimited embed themes with custom CSS</li><li>No ads</li><li>No-Login Pen Debug View</li><li>Live View</li><li>Everything in Starter</li><li>Asset hosting<strong> 10 GB </strong> total storage<strong> 10 MB </strong> per file</li><li><strong> 25 </strong> Projects<strong> 150 </strong> files/Project deployed</li><li><strong> 6 person </strong> Collab Mode<strong> 35 person </strong> Professor Mode</li></ul></div> <div><small>  (Pens only)</small><ul>  <li>Use your own domain for Projects</li><li>Everything in Developer</li><li>Asset hosting<strong> 20 GB </strong> total storage<strong> 15 MB </strong> per file</li><li><strong> 50 </strong> Projects<strong> 300 </strong> files/Project<strong> 20 </strong> deployed</li><li><strong> 10 person </strong> Collab Mode<strong> 100 person </strong> Professor Mode</li></ul><small>  (Pens only)</small></div> <div><h4>  CodePen</h4></div> <div><h4>  For</h4></div> <div><h4>  Social</h4></div> <div><h4>  Community</h4></div> <div><h1>  CodePen Home</h1><span>  CodePen Home</span><p>  ©2023 CodePen</p><p>  <em> Demo or it didn't happen. </em></p><p>  We're all for progressive enhancement, but CodePen is a bit unique in that it's all about writing and showing front end code, including JavaScript. It's required to use most of the features of CodePen.</p><p>  Need to know how to enable it? <a href="http://enable-javascript.com/" target="_blank"> Go here. </a></p><label>  Close this, use anyway.</label></div>

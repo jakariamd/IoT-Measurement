@@ -1,0 +1,56 @@
+<span><span>  powered by: <a href="https://cookieinformation.com/" target="_blank"> Cookie Information </a></span></span> <div><label>  
+
+</label><span>  Strictly necessary
+
+</span><span>  Data Processor:</span><span>  Microsoft, ASP.NET</span><span>  Purpose:</span><span>  Supports the integration of a third-party platform on the website.</span><span>  Data Processor Privacy Policy:</span><span>  Expiry:</span><span>  Session</span><span>  Name:</span><span>  ASP.NET_SessionId</span><span>  Provider:</span><span>  www.webehome.com</span><span>  Data Processor:</span><span>  Cookie Information</span><span>  Purpose:</span></div> <span><span>  Supports the website's technical functions.</span></span> <div><span>  Data Processor Privacy Policy:</span><span>  Expiry:</span><span>  a year</span><span>  Name:</span><span>  CookieInformationConsent</span><span>  Provider:</span><span>  webehome.com</span><label>  
+
+</label><span>  Functional
+
+</span><span>  Data Processor:</span><span>  WeBeHome</span><span>  Purpose:</span><span>  Keep information about last country and WeBeHome partner</span><span>  Data Processor Privacy Policy:</span><span>  Expiry:</span><span>  15 days</span><span>  Name:</span><span>  myabellTUID</span></div> <div><span>  Provider:</span><span>  www.webehome.com</span><span>  Data Processor:</span><span>  WeBeHome</span><span>  Purpose:</span><span>  Keep information about last country and WeBeHome partner</span><span>  Data Processor Privacy Policy:</span><span>  Expiry:</span><span>  15 days</span><span>  Name:</span><span>  myabellTUID</span><span>  Provider:</span><span>  webehome.com</span><label>  
+
+</label><span>  Statistical
+
+</span></div> <div><h3>  No cookies in this category</h3><label>  
+
+</label><span>  Marketing
+
+</span></div> <div><h3>  No cookies in this category</h3><label>  
+
+</label><span>  Unclassified
+
+</span></div> <div><h3>  No cookies in this category</h3><span>  powered by: <a href="https://cookieinformation.com/" target="_blank"> Cookie Information </a></span><span>  Your consent applies to the following domains:</span><span>  beta01.webehome.com, webehome.com</span><span>  Cookie declaration last updated on 07.08.2023</span></div> <div><h2>  What is a cookie?</h2><p>  A cookie is a small datafile that is saved on your computer, tablet or mobile phone. A cookie is not a program that can contain harmful programs or viruses.</p></div> <div><h2>  How/why the homepage uses cookies</h2><p>  Cookies are necessary for the homepage to function. Cookies help us get an overview of your visit to the homepage so that we can continually optimise and adjust the homepage to your requirements and interests. For example, cookies remember what you might have added to a shopping cart, if you have previously visited the page, if you are logged in and what languages and currency you want displayed on the homepage. We also use cookies to target our ads to you on other homepages. On a very general level, cookies are used as part of our services in order to show content that is as relevant as possible to you.</p></div> <div><h2>  How long are cookies saved?</h2><p>  How long cookies are saved on your device can vary. The time when they are scheduled to expire is calculated from the last date you visited the homepage. When cookies expire, they are automatically deleted. You can view a complete list of cookies below.</p></div> <div><h2>  This is how you can reject or delete your cookies</h2><p>  You can always reject cookies on your computer, tablet or phone by changing your browser settings. Where these settings can be found depends on the type of browser you are using. If you do change the settings, please be aware that there will be some functions and services that you cannot use because they rely on the homepage being able to remember the choices you have made.
+
+You can choose to not receive cookies from Google Analytics <a href="https://tools.google.com/dlpage/gaoptout" target="_blank"> here </a>.
+</p></div> <div><h2>  Deleting cookies</h2><p>  You can delete cookies that you have previously accepted. If you are using a PC with a recent version of a browser, you can delete your cookies by using these shortcut keys: CTRL + SHIFT + Delete.</p><p>  If the shortcut keys do not work and/or you are using an Apple computer, you must find out what browser you are using and then click on the relevant link:</p><p>  Remember: If you are using several different browsers, you must delete the cookies in all of them.</p></div> <div><h2>  Do you have any questions?</h2><p>  Should you have any questions or comments in connection with this information and/or our processing of personal data, you are welcome to get in touch with us. The cookie declaration itself is updated every month via <a href="https://cookieinformation.com" target="_blank"> Cookie Information </a>. If you have any questions regarding the Cookie Information, you can send an email to info@cookieinformation.com.</p><span>  Toggle navigation</span><span>  United States of America</span></div> <div><ul>  <li>United States of America</li></ul></div> <div><h2>  What is a cookie?</h2><p>  A cookie is a small datafile that is saved on your computer, tablet or mobile phone. A cookie is not a program that can contain harmful programs or viruses.</p></div> <div><h2>  How/why the homepage uses cookies</h2><p>  Cookies are necessary for the homepage to function. Cookies help us get an overview of your visit to the homepage so that we can continually optimise and adjust the homepage to your requirements and interests. For example, cookies remember what you might have added to a shopping cart, if you have previously visited the page, if you are logged in and what languages and currency you want displayed on the homepage. We also use cookies to target our ads to you on other homepages. On a very general level, cookies are used as part of our services in order to show content that is as relevant as possible to you.</p></div> <div><h2>  How long are cookies saved?</h2><p>  How long cookies are saved on your device can vary. The time when they are scheduled to expire is calculated from the last date you visited the homepage. When cookies expire, they are automatically deleted. You can view a complete list of cookies below.</p></div> <div><h2>  This is how you can reject or delete your cookies</h2><p>  You can always reject cookies on your computer, tablet or phone by changing your browser settings. Where these settings can be found depends on the type of browser you are using. If you do change the settings, please be aware that there will be some functions and services that you cannot use because they rely on the homepage being able to remember the choices you have made.
+
+You can choose to not receive cookies from Google Analytics <a href="https://tools.google.com/dlpage/gaoptout" target="_blank"> here </a>.
+</p></div> <div><h2>  Deleting cookies</h2><p>  You can delete cookies that you have previously accepted. If you are using a PC with a recent version of a browser, you can delete your cookies by using these shortcut keys: CTRL + SHIFT + Delete.</p><p>  If the shortcut keys do not work and/or you are using an Apple computer, you must find out what browser you are using and then click on the relevant link:</p><p>  Remember: If you are using several different browsers, you must delete the cookies in all of them.</p></div> <div><h2>  Do you have any questions?</h2><p>  Should you have any questions or comments in connection with this information and/or our processing of personal data, you are welcome to get in touch with us. The cookie declaration itself is updated every month via <a href="https://cookieinformation.com" target="_blank"> Cookie Information </a>. If you have any questions regarding the Cookie Information, you can send an email to info@cookieinformation.com.</p><p>  Cookie declaration last updated on 07.08.2023</p></div> <div><h3>  Strictly necessary </h3><td>  ASP.NET_SessionId</td><td>  www.webehome.com</td><td>  Supports the integration of a third-party platform on the website.</td><td>  Session</td><td>  Microsoft, ASP.NET</td><td>  CookieInformationConsent</td><td>  webehome.com</td><td>  Supports the website's technical functions.</td><td>  a year</td><td>  Cookie Information</td></div> <div><h3>  Functional </h3><td>  myabellTUID</td><td>  www.webehome.com</td><td>  Keep information about last country and WeBeHome partner</td><td>  15 days</td><td>  WeBeHome</td><td>  myabellTUID</td><td>  webehome.com</td><td>  Keep information about last country and WeBeHome partner</td><td>  15 days</td><td>  WeBeHome</td></div> <div><h3>  Statistical </h3></div> <div><h3>  Marketing </h3></div> <div><h3>  Unclassified </h3><p>  Your consent applies to the following domains: beta01.webehome.com, webehome.com</p><span>  Privacy Settings</span><span>  Strictly necessary</span><span>  Functional</span><label>  
+
+</label><span>  Statistical</span><label>  
+
+</label><span>  Marketing</span><label>  
+
+</label><span>  Unclassified</span><p>  About</p><p>  Links</p><p>  Company information</p><ul>  <li>WeBeHome AB</li><li>+46 8 410 221 40</li><li>Box 17049, 167 67 Bromma, Sweden</li><li>Orgnr 556766-4981</li></ul></div> <div><p>  
+                        WeBeHome 
+                      
+                    
+                      
+                    
+</p><p>  
+                        Copenhagen Blinds  
+                    
+                      
+                    
+</p><p>  
+
+                      
+                    
+                      
+                    WeBeHome 
+                    </p><p>  
+
+                      
+                    
+                      
+                    Copenhagen Blinds
+                   </p></div> <p><p>  COPYRIGHT © 2008-2022, WE BE HOME AB, ALL RIGHTS RESERVED</p></p>

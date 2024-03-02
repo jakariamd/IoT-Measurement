@@ -1,0 +1,317 @@
+<div><h1>  Privacy Policy</h1></div> <div><h2>  Introduction</h2><ul>  <li>This is Basis Global Technologies, Inc.’s (“<strong> Basis Technologies </strong>” or “we”) privacy policy, and applies to our
+                        websites, services that we provide to you through our website or technology platform, and ads we
+                        display to you on other websites. It is effective as of December 31, 2019 (“<u> Effective
+                          Date </u>“).
+                      </li><li>This policy is incorporated into, and subject to, Basis Technologies' Terms of Service.</li></ul></div> <ul><ul>  <li>By using Basis Technologies' site, or any product or service offered, you acknowledge that you have read,
+                        and agree to, this policy.</li></ul></ul> <div><h2>  What is in this document?</h2><p>  This document provides information about our website and our digital
+                      advertising technology platforms (“<strong> Basis </strong>”, “<strong> Basis DSP </strong>”, “<strong> Basis Platform </strong>”)
+                      which enables our clients to buy digital advertising, and then describes our policies about data
+                      collection and use. It also provides information on the type of data we collect and utilize when
+                      serving ads to individuals.</p></div> <div><h3>  CONSUMER OPT-OUT CHOICES</h3><p>  Basis Technologies supports empowering you to make informed decisions about the
+                      type of advertisements that are delivered to you online, and, as such, we are providing you the
+                      opportunity to opt out of the tailored ads delivered to you by Basis Technologies based on your interests,
+                      previous visits to other sites, and information stored in your web browser or mobile device.</p><p>  If you select this option, you will still see just as many ads, but
+                      they will no longer be personalized based on the information Basis Technologies has collected, (i.e. the ads
+                      will likely be less relevant to you and your interests) and any information we have collected thus
+                      far will be dissociated from your device, thereby preventing its use. If our systems detect that
+                      your computer or mobile device is located in the European Economic Area and you opt-out, we will
+                      treat that opt-out as a request for the Basis DSP to cease processing your personal data.</p></div> <div><p>  Feel free to opt out here if you so desire:</p></div> <div><h3>  Basis DSP</h3><ul>  <li>For desktop and mobile web:
+                        </li><li>The opt-out requires a cookie to be stored by your browser, in
+                            order to signal your
+                            opt-out status to us during future ad calls. By opting-out, you consent to Basis Technologies' opt-out
+                            cookie being stored by your browser.</li><li>Your cookie ID may have been synchronized with Basis Technologies' data and
+                            exchange partners. By choosing the "Basis Technologies opt-out" option below, a new sync will be
+                            triggered to notify those partners to overwrite the previously synced ID with
+                            the string "cookie-optout". This
+                            dissociates any previously collected
+                            data from Basis' cookie ID, and prevents Basis from
+                            further recognizing your browser when we interact with
+                            those partners. It does not opt you out of other tracking by those partners not involving Basis. For additional options to
+                            opt out of tracking by Basis, other companies or device types, visit <a href="https://thenai.org/opt-out/" target="_blank"> The Network Advertising Initiative (NAI) </a>.</li></ul></div> <ul><ul>  <li>
+                            For the Basis Technologies Opt-Out <a href="javascript: void(0)" target="_blank"> Click Here </a>.
+                          
+</li><li>For mobile app:
+                        </li><li>Find your phone’s Android Advertising Identifier (for Android
+                            devices) or Apple Identifier for Advertising (for iOS devices).
+                            </li><li>On Android 6, open the Settings app and select “Google”. Select “Ads”. Choose “Opt out
+                                of Ads Personalization”, and make a note of your advertising ID. In earlier versions of
+                                Android, this is found in a separate Google Settings app instead.</li></ul></ul> <ul><ul>  <li>On iOS, open the Settings App and select “Privacy”. Select “Advertising”, and enable
+                                “Limit Ad Tracking”. On iOS 10 and above, this will set your Identifier for Advertising
+                                to “0”, and no further action is needed, as this prevents its use. On iOS 9 and below,
+                                for additional confidence, you may wish to download an app such as <a href="https://itunes.apple.com/us/app/my-tune-device/id1100377074?ls=1&mt=8" target="_blank"> My
+                                  TUNE Device </a> to determine your Identifier for Advertising and enter it in the box
+                                below.
+</li></ul></ul> <ul><ul>  <li>Enter it here:
+                            
+
+</li><li>For cross-device linking:
+                        You can opt out via our third-party partner, Tapad. 
+						  Tapad’s privacy policy can be found here: <a href="https://www.tapad.com/global-privacy-notice" target="_blank"> https://www.tapad.com/global-privacy-notice </a>.
+					  </li><li>For audience-matched advertising:
+                        You can opt out via our third-party partner, LiveRamp. 
+						  LiveRamp’s privacy policy can be found here: <a href="https://liveramp.com/privacy/" target="_blank"> https://liveramp.com/privacy/ </a>.
+					  </li></ul></ul> <p><p>  It should also be noted that Basis Technologies is committed to industry
+                      self-regulation, and as such, Basis Technologies is a member of the Network Advertising Initiative (“<strong> NAI </strong>”) 
+                      and adheres to the NAI's 2020 Code of Conduct. Basis Technologies is also a member in good standing with the Interactive Advertising Bureau, (“<strong> IAB </strong>”) 
+                      and is a participant in the Digital Advertising Alliance (“<strong> DAA </strong>”) 
+                      following the Self-Regulatory Principles for Online Advertising, including its “AdChoices” program.</p></p> <p><p>  You may also visit the self-regulatory program opt-out pages:
+<a href="https://optout.aboutads.info/" target="_blank"> Digital Advertising Alliance (DAA) </a> or
+<a href="https://thenai.org/opt-out/" target="_blank"> Network Advertising Initiative (NAI) </a>
+</p></p> <p><p>  for the USA, <a href="http://www.youradchoices.com" target="_blank"> http://www.youradchoices.com </a>
+                    for the EU, <a href="http://www.youronlinechoices.com/" target="_blank"> http://www.youronlinechoices.com </a></p></p> <div><h3>  Basis DSP PRIVACY PRACTICES</h3></div> <div><h2>  What is Basis DSP?</h2><p>  Basis DSP provides tools for advertisers, or media buyers, to purchase
+                      digital ad space on website and mobile sites and applications. To accomplish these goals, the
+                      Basis DSP collects pseudonymous information from these websites, mobile sites and mobile
+                      applications and supplements that information with data from third parties. Advertisers and media
+                      buyers use Basis DSP to engage in a variety of advertising techniques, including interest-based
+                      advertising, real-time (programmatic) advertising, contextual, and location-based advertising.
+                      Basis DSP also provides buyers other tools, like the ability to measure how effective their ads
+                      were, designed to make the buying of ad space seamless. </p></div> <div><h2>  What information does Basis DSP collect?</h2><p>  Basis DSP is designed to use certain types of data. It includes data
+                      generated through Basis DSP as well as data clients receive from other sources and then use on
+                      Basis DSP, or that they buy through Basis DSP. This may include pseudonymous information about
+                      Internet users’ browsers and devices, such as:</p><ul>  <li>the type of browser and its settings,</li><li>information about the device’s operating system,</li><li>cookie information,</li><li>information about other identifiers assigned to the device,</li><li>the IP address from which the device accesses a client’s website or mobile application</li><li>information about whether an Internet user has visited a Basis Technologies client’s website, based on web
+                        beacons placed on the site by our customer</li><li>information about the websites (i.e., the URLs) and mobile applications upon which we serve
+                        advertisements</li></ul></div> <ul><ul>  <li>information about the geographic location of the device when it accesses a website or mobile
+                        application</li><li>inferences or information about users’ interests that are created, acquired, bought, sold, or
+                        used by our clients</li></ul></ul> <p><p>  Audience segments, which may include or be based on the above information and are provided to Basis Technologies by third parties, are also available for use in the Basis DSP. These include standard interest segments that are based on health related information or interests and political information.
+					A list of health and political related segments are available here:
+					</p></p> <div><h2>  How does Basis DSP use the information that it collects?</h2><p>  We use the information we collect to serve targeted ads to individuals.
+                    </p><p>  More specifically, the platform enables our users to use this
+                      information to:</p><ul>  <li>Determine what ad to show an individual, and to serve that ad (including behaviorally targeted
+                        ads) to that individual</li><li>Customize ads to particular types of audiences;</li><li>Customize ads to the type of web page an individual is viewing;</li><li>Perform analysis of how effective the ads served are;</li><li>Learn more about their own customers;</li><li>Limit the number of times an individual sees an ad;</li><li>Detect fraud; and</li><li>Troubleshoot platform or campaign issues.</li></ul></div> <p><p>  In order to use this information as described above, we may need to
+                      transfer that information to third party partners, and such transfer may be considered a sale of
+                      data in California.</p></p> <div><h2>  How long is the information stored and kept?</h2><p>  For data collected via browsers and stored in cookies, Basis DSP
+                      stores this data for up to 60 days. For data collected via mobile
+                      application advertising and stored via mobile advertising IDs Basis DSP stores this data for up to
+                      180 days. Our systems typically reset the retention period each time we encounter the same user.
+                    </p></div> <div><h2>  How does Basis DSP collect this information?</h2><p>  Basis DSP uses cookies, beacons, mobile SDKs, tags and other technology to collect data
+                      associated with particular devices or web browsers. Customers then use this data within Basis DSP
+                      to enhance and refine digital ad campaigns.</p><p>  We may collect advertising identifiers assigned by Google, as part of our processing activities 
+					   which we use to serve ads. Please see Google’s Privacy Policy to learn more about how Google uses your 
+					   personal data received from its partner sites and your ability to control the information Google 
+                      collects on these sites.</p></div> <div><h2>  Does Basis DSP use web beacons (aka clear GIFs or web bugs)?</h2><p>  Yes. “Web beacons” are small images (generally a single transparent
+                      pixel) with a unique identifier, served to you as part of a web page or other document. Web
+                      beacons may be used in parts of our services for purposes such as site traffic reporting, unique
+                      visitor counts, advertising auditing and reporting, and personalization. For more information on
+                      web beacons, see <a href="http://www.allaboutcookies.org/faqs/beacons.html" target="_blank"> http://www.allaboutcookies.org/faqs/beacons.html </a>
+</p></div> <div><h2>  How does Basis Technologies use the information provided by Basis DSP advertisers?</h2><p>  We use any information provided by Basis DSP or Basis Platform
+                      advertising customers for the following service-related purposes:</p><ul>  <li>To provide, operate, manage, maintain and enhance the platform. We internally perform
+                        statistical and other analysis on information we collect (including usage data, device data,
+                        referral data, and information from page tags) to analyze and measure user behavior and trends,
+                        to understand how people use our services, and to monitor, troubleshoot and improve our
+                        services.</li><li>To assist the enforcement of our Terms of Service.</li></ul></div> <ul><ul>  <li>To prevent potentially illegal activities.</li><li>To screen for undesirable or abusive activity.</li><li>To contact you about your service or account. We occasionally send you communications of a
+                        transactional nature (e.g. service-related announcements, billing-related matters, changes to
+                        our services or policies, welcome emails when you first register, etc.). You can’t opt out of
+                        these communications, since they are necessary in order for us to effectively provide our
+                        services to you.</li></ul></ul> <ul><ul>  <li>To contact you for marketing purposes.</li><li>To respond to legal requests and prevent harm. If we receive a subpoena or other legal
+                        request, we may need to inspect the data we hold to determine how to respond.</li><li>To create new services, features or content. We may use any information you provide us (e.g.
+                        via email or through our ticketing system) to create and provide new services, features or
+                        content.</li></ul></ul> <div><h2>  Will Basis Technologies share the information collected via the Basis DSP or Basis Platform?</h2><ul>  <li>We share aggregate information collected from the Basis DSP for marketing purposes. For
+                        example, we may issue a press release announcing that users who have visited travel sites have a
+                        higher click-thru rate on finance related web pages.</li><li>Billing and Contact information – We work with trusted agents and service providers to assist
+                        us in billing and account maintenance for our clients. These companies are required by contract
+                        to only use the information as directed by Basis Technologies and are prohibited from selling it. For
+                        example, if you fund your platform account with a credit card, we use a credit card processing
+                        company to bill you for the services and share your address and billing details with them in
+                        order to do so. These service providers do not retain, share, store or use that information for
+                        any other purpose. </li></ul></div> <ul><ul>  <li>To interact with ad delivery partners - As noted above, in certain instances, we may share
+                        information and “cookie sync” with our suppliers, which include data companies and ad exchanges.
+                      </li><li>To provide the services – Basis Technologies may provide customer platform data to partners and service
+                        providers for the purpose of operating, managing, maintaining, or enhancing Basis Technologies' services,
+                        including for the safety and security of the platform and the online industry, or as required by
+                        law. Basis Technologies does not share the information collected on the platform with other third parties,
+                        unless legally required.</li></ul></ul> <div><h2>  As a Basis DSP user or Basis Platform customer, what communications can I expect from
+                      Basis Technologies?</h2><ul>  <li>Special Offers and Updates – We will occasionally send you information on products, services,
+                        special deals, and promotions (if you opt-in on our registration page). If you no longer wish to
+                        receive this type of communication, you can opt-out through the link in the email communication.
+                      </li><li>Surveys or Contests – From time to time, we may provide you the opportunity to participate in
+                        contests or surveys on our site. If you participate, we may request certain personally
+                        identifiable information from you. Participation in these surveys or contests is completely
+                        voluntary, and you therefore have a choice whether or not to disclose this information. We use
+                        this information to notify contest winners and award prizes, and to process and analyze survey
+                        results. We use a third party service provider to conduct these surveys or contests; that
+                        company is prohibited from using our users’ personally identifiable information for any other
+                        purpose.</li></ul></div> <ul><ul>  <li>Service-related Announcements – We will send you strictly service-related announcements on
+                        rare occasions when it is necessary to do so. For instance, if our service is undergoing
+                        temporary maintenance, we might send you an email. Generally, you may not opt-out of these
+                        communications, which are not promotional in nature. If you do not wish to receive them, you
+                        have the option to deactivate your account.</li></ul></ul> <ul><ul>  <li>Customer Service – Based upon the personally identifiable information you provide us, we will
+                        send you a welcoming email to verify your username and password. We will also communicate with
+                        you in response to your inquiries, to
+                        provide the services you request, and to manage your account. We will communicate with you
+                        through our ticketing system, via email, and by phone.</li></ul></ul> <p><p>  If you no longer wish to receive our promotional communications, you
+                      may unsubscribe by following the instructions included in each communication.</p></p> <p><p>  Through our partners, we use web beacons in our HTML-based emails to
+                      let us know which emails recipients have opened. This allows us to gauge the effectiveness of
+                      certain communications and the effectiveness of our marketing campaigns.</p></p> <p><p>  <u> Supplementation of Information </u>: In order to provide certain
+                      services to you, we may supplement the personal information you submit to us with information from
+                      third party sources, for example, in connection with credit decisions and verification of any
+                      information provided.</p></p> <div><h3>  BASIS TECHNOLOGIES' BUSINESS OPERATIONS</h3></div> <div><h2>  What information does Basis Technologies collect pursuant to running its business, and how is it
+                      used?</h2><p>  In addition to running our website, which is discussed below, we
+                      collect certain information as part of running our business. We maintain contact records of
+                      business partners, service providers and customers. We provide some of them to login to our
+                      systems to view reports and as such will process their email addresses and passwords to enable the
+                      login. We also obtain billing and payment information from them so we can collect payment for our
+                      services. We only use this information for the purpose it is collected and don’t sell this
+                      information.</p></div> <div><h3>  BASIS.NET WEBSITE VISITORS</h3></div> <div><h2>  What information does the Basis website collect, and how is it used?</h2><p>  We collect usage data about you whenever you interact with our website.
+                      This may include which of our pages you visit, what you click on, when you performed those
+                      actions, and so on. Additionally, like most websites today, our web servers keep log files that
+                      record data each time a device accesses those servers. The log files contain data about the nature
+                      of each access, including originating IP addresses. We collect data from the device and
+                      application you use to access our services, such as your IP address and browser type. We may also
+                      infer your geographic location based on your IP address. If you arrive at our website from an
+                      external source (such as a link on another website or in an email), we record information about
+                      the source that referred you to us. We use third party tracking services that employ cookies and
+                      page tags (also known as <a href="http://en.wikipedia.org/wiki/Web_bug" target="_blank"> web beacons </a>) to
+                      collect pseudonymous data about visitors to our websites and their collection of data may
+                      constitute a sale under California law. This data includes usage and user statistics, but not
+                      personally identifiable information.</p></div> <div><h2>  Does Basis.net use cookies?</h2><p>  Yes. “Cookies” are pieces of information (actually, alphanumeric
+                      identifiers) generated by web servers, and stored on your web browser for future access. Cookies
+                      cannot view or retrieve data from other cookies, nor can they capture files or data stored on your
+                      computer. We do not link the information that we store in cookies to any information that may be
+                      used to ascertain your real world identity. We use both session ID cookies and persistent cookies.
+                      We use session cookies to make it easier for you to navigate our site. A session ID cookie expires
+                      when you close your browser. A persistent cookie remains on your hard drive for an extended period
+                      of time. You can remove persistent
+                      cookies by following directions provided in your web browser’s “help” file. We set a
+                      persistent cookie to store your passwords, so you don’t have to enter it more than once.
+                      Persistent cookies also enable us to track and target the interests of our users to enhance the
+                      experience on our site. If you reject cookies, you may still use our site, but your ability to use
+                      some areas of our site will be limited. For more information on cookies, see: <a href="http://www.allaboutcookies.org/faqs/cookie-file.html" target="_blank"> http://www.allaboutcookies.org/faqs/cookie-file.html </a>
+</p></div> <div><h3>  GENERAL PRIVACY INFORMATION</h3></div> <div><h2>  How do I access my information?</h2><p>  You have the right to access, update, and correct inaccuracies in
+                      certain information in our custody and control, subject to certain exceptions prescribed by law.
+                      You may request access, updating and corrections of inaccuracies in the personal information we
+                      have in our custody or control by emailing us at <a href="mailto:privacy@basis.net" target="_blank"> privacy@basis.net </a>. We may request certain personal
+                      information for the purposes of verifying your identity when requesting access to or correction of
+                      your personal information records. If your personally identifiable information changes, or if you
+                      no longer desire our Service, you may correct, update, delete or deactivate it by emailing us
+                      at <a href="mailto:privacy@basis.net" target="_blank"> privacy@basis.net </a>. EU and California data subjects may
+                      be entitled to
+                      additional rights as described below.</p></div> <div><h2>  Is my information secure?</h2><p>  Yes, the portions of our website (and our other services) that handle
+                      sensitive confidential information are secure. We are committed to maintaining the security of
+                      your information and have measures in place to protect against the loss, misuse, and alteration of
+                      the information under our control. We employ industry-standard techniques to protect our systems
+                      from intrusion by unauthorized individuals. Our data center utilizes state-of-the-art physical
+                      security measures to prevent unauthorized access to the facility. In addition, all information is
+                      stored in a secure location behind firewalls and other sophisticated security systems with limited
+                      (need-to-know) administrative access. All provider employees who have access to, or are associated
+                      with, the processing of personal information are contractually obligated to respect the
+                      confidentiality of your information and abide by the privacy standards we have established. Please
+                      be aware that no security measures are perfect or impenetrable. Therefore, while we strive to use
+                      commercially acceptable means to protect your personal information, we cannot guarantee its
+                      absolute security.</p></div> <div><h2>  Onward Transfer – Will my information be transferred?</h2><p>  Basis Technologies may transfer data processed by our Platform to our advertisers,
+                      their ad agencies or their data management platforms and such transfers may constitute a sale of
+                      data under California law. As described above, Basis Technologies may share information with trusted
+                      third-party agents such as billing and payment processing vendors and hosting providers for the
+                      Basis website and DSP. These third-party contractors are prohibited from using the information
+                      for purposes other than performing services for Basis. Other third-party service providers used
+                      by Basis Technologies include: a) cloud computer, data storage and file storage providers, b) email marketing
+                      providers, c) website and b2b sales analytics providers, d) customer relationship management,
+                      contact database vendors, data hygiene vendors, survey vendors and project management software
+                      providers, e) customer billing systems partners, f) login authentication providers to ensure that
+                      the logins to our systems are working efficiently, g) social media platforms for advertising and
+                      marketing purposes, h) outsourced computer programmers helping ensure our systems are operating
+                      properly, i) auditing, debugging and security vendors. These agents work on our behalf and use
+                      data only as directed by us, provided that such third party agents provide at least the same level
+                      of privacy protection as we do.</p></div> <p><p>  The above notwithstanding, we may disclose any of the information we
+                      collect when we believe that we have a legal obligation to do so or to protect the safety,
+                      property or rights of Basis Technologies or of any third party. For example, we may disclose any of the above
+                      in order to (i) protect our rights and/or comply with a judicial proceeding, court order, or legal
+                      process served, (ii) for law enforcement or national security purposes including sharing data of
+                      EU and Swiss individuals in response to lawful requests from public authorities to meet national
+                      security and law enforcement requirements, or (iii) protect or defend our proprietary rights.</p></p> <p><p>  Basis Technologies is responsible for the processing of personal information it
+                      receives under the Privacy Shield and subsequently transfers to a third-party acting as an agent
+                      on its behalf. Basis Technologies shall remain liable under the Privacy Shield principles if its agent process
+                      such personal information in a manner inconsistent with the Privacy Shield principles, unless the
+                      organization proves that it is not responsible for the event giving rise to the damage.</p></p> <p><p>  We will also provide an EU or Swiss individual with opt-out or opt-in
+                      choice before we share their personal data with third parties other than our agents, or before we
+                      use it for a purpose other than which it was originally collected or subsequently authorized. If
+                      you’re located in the EU or Switzerland and seek to limit the use and disclosure of your
+                      information, please submit a written request to <a href="mailto:privacy@basis.net" target="_blank"> privacy@basis.net </a>.</p></p> <p><p>  In the event that Basis Technologies (or its parent or subsidiary companies) goes
+                      through a business transition, such as a merger, acquisition by another company, or sale of all or
+                      a portion of its assets, your personally identifiable information will likely be among the assets
+                      transferred. You will be notified via prominent notice on our site for 30 days of any such change
+                      in ownership or control of your personal information.</p></p> <div><h2>  Does the Basis Technologies privacy policy apply to other sites?</h2><p>  This site contains links to other sites that are not owned or
+                      controlled by Basis Technologies. We are not responsible for the privacy practices of such other sites. We
+                      encourage you to be aware when you leave our site, and to read the privacy statements of each and
+                      every site that collects personally identifiable information. This privacy statement applies only
+                      to information collected by Basis Technologies.</p></div> <div><h2>  What if Basis Technologies changes this privacy policy?</h2><p>  We reserve the right to modify this privacy statement at any time, so
+                      please review it frequently. If we decide to change our privacy policy, we will post the updated
+                      version, together with an updated Effective Date, on this page. We encourage you to check this
+                      page periodically for any changes.</p></div> <div><h3>  CALIFORNIA DATA SUBJECTS</h3><p>  Effective January 1, 2020, the California Consumer Privacy Act (CCPA)
+                      provides additional privacy protections for California data subjects and users, including: a) the
+                      right to see what personal information we have about you, your computer or device (the right to
+                      know), b) the right to delete the personal information we have about you, your computer or device
+                      (the right to delete) and c) the right to opt-out of the sale of personal information about you,
+                      your computer or device to certain third parties (the right to opt-out from sales of your personal
+                      information). We do not discriminate against you if you exercise any of the above rights.
+                      Moreover, we may not be able to honor a right if doing so would violate applicable law.</p></div> <p><p>  If you are a Customer or partner of Basis Technologies and have questions about
+                      your ability to see the data
+                      used to login to our systems, we ask that you direct your question to the person that owns the
+                      business relationship.</p></p> <p><p>  If you would like to exercise your Right to Know or Right to Delete,
+                      you may do so by clicking the following link and <a href="https://privacyportal.onetrust.com/webform/dd772392-90f5-4d54-b9cc-1499fb3afc4d/337c7144-3d74-4f4d-99ea-744eb0c92199" target="_blank"> completing
+                        the associated form </a>, or by calling
+                      844-784-5263. As a California data subject, if you
+                      make a subject access request as set out in this policy, you are entitled to see and delete the
+                      personal information that we have about you. We will confirm your request within 10 days and make
+                      a good faith attempt to fulfill your request within 45 days.</p></p> <p><p>  We may take reasonable steps to verify your request. We will fulfill
+                      requests we are able to
+                      verify so long as we are not prohibited from doing so by applicable law and/or the information is
+                      not essential for us for billing, fraud prevention or security purposes. We will share our
+                      reason(s) for denying your request in the event that we are unable to fulfill your request.
+                      You may make an access or deletion request via an authorized agent by having such agent follow the
+                      process below. Please note that we will request any authorized agent demonstrate that they have
+                      been authorized by you to make a request on your behalf. And we will attempt to verify your
+                      request. We require any authorized agents to provide us with contact details such as an email
+                      address and phone number so that we may ensure a timely response.</p></p> <p><p>  The CCPA defines personal information broadly and as such, it includes
+                      pseudonymous identifiers
+                      such as cookie IDs and mobile advertising IDs. Under the CCPA, your request to see the personal
+                      information that we have about you may include: (1) specific pieces of personal information that
+                      we may have about you; (2) categories of personal information we have collected about you; (3)
+                      categories of sources from which the personal information is collected; (4) categories of personal
+                      information that we sold or disclosed for a business purpose about you; (5) categories of third
+                      parties to whom the personal information was sold or disclosed for a business purpose under the
+                      CCPA; and (6) the business or commercial purpose for collecting or selling personal information.
+                    </p></p> <div><h2>  Do Not Sell My Personal Information (California Residents)</h2><p>  
+                      If you are a California resident, you are also entitled to opt-out of sales of your personal
+                      information by Basis Technologies to third parties. To exercise those rights, please click <a href="#optout" target="_blank"> here </a> to access “Consumer Opt-Out Choices” and follow the instructions
+                      provided there.
+                    </p></div> <div><h3>  EUROPEAN UNION DATA SUBJECTS</h3><p>  The General Data Privacy Regulation (“GDPR”) affords additional rights
+                      to EU data subjects. Those rights include the right to complain to EU Supervisory Authorities and
+                      the right to access, correct, port to another party and delete certain personal data processed by
+                      Basis Technologies.</p><p>  With respect to EU data subjects, personal data includes pseudonymous
+                      information such as an IP address, a mobile advertising ID or a cookie ID. Where Basis Technologies is a
+                      controller of data (e.g., via our Basis DSP), the legal basis will be both legitimate interest and
+                      consent depending on the type of information subject to processing and the information we receive
+                      from upstream partners. Where we rely upon legitimate interest, we have assessed the processing is
+                      not high risk and will not violate fundamental human rights of EU data subjects.</p></div> <p><p>  Where Basis Technologies receives from an EU data subject a request to cease
+                      processing of data via one of the choice mechanisms listed above, Basis Technologies will stop all data
+                      processing with respect to the opted out browser or device unless such processing is required by
+                      law.</p></p> <p><p>  If you’re an EU data subject and believe Basis Technologies is processing your
+                      pseudonymous information (e.g., Basis cookie ID or mobile advertising ID) or your contact
+                      information (e.g., email address, telephone number) and you wish to exercise your right to access,
+                      delete, port or remove such information, please send an email to <a href="mailto:privacy@basis.net" target="_blank"> privacy@basis.net </a> and we will respond to your request
+                      within 30 days.</p></p> <p><p>  Basis Technologies' Data Protection Officer is Dr. Christoph
+                      Bauer, CEO at ePrivacy GmbH and he may be contacted at <a href="mailto:privacy@basis.net" target="_blank"> privacy@basis.net </a>.</p></p> <div><h2>  Privacy Shield</h2><p>  Basis Technologies complies with the EU-US Privacy Shield Framework and the
+                      Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the
+                      collection, use, and retention of personal information from European Union member countries and
+                      Switzerland transferred to the United States pursuant to Privacy Shield.  Basis Technologies has certified
+                      that it adheres to the Privacy Shield Principles with respect to such data. If there is any
+                      conflict between the policies in this privacy policy and data subject rights under the Privacy
+                      Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy
+                      Shield program, and to view our certification page, please visit <a href="https://www.privacyshield.gov/" target="_blank"> https://www.privacyshield.gov/ </a></p></div> <p><p>  With respect to personal data received or transferred pursuant to the
+                      Privacy Shield Frameworks, Basis Technologies is subject to the regulatory enforcement powers of the U.S.
+                      Federal Trade Commission.</p></p> <p><p>  In compliance with the Privacy Shield Principles, Basis Technologies commits to
+                      resolve complaints about your privacy and our collection or use of your personal information
+                      transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals
+                      with Privacy Shield inquiries or complaints should contact <a href="mailto:privacy@basis.net" target="_blank"> privacy@basis.net </a>.</p></p> <p><p>  Alternatively, you may contact us at the address below:</p></p> <p><p>  <strong> Basis Global Technologies, Inc. </strong>
+<strong>  11 E Madison St., 6th Floor </strong>
+<strong>  Chicago, IL </strong>
+<strong>  60602 </strong>
+<strong>  United States </strong></p></p> <p><p>  We have further committed to refer unresolved privacy complaints under
+                      the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY
+                      SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely
+                      acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please
+                      visit <a href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers" target="_blank"> www.bbb.org/EU-privacy-shield/for-eu-consumers </a>
+                      for more information and to file a complaint. This service is provided free of charge to you.</p></p> <p><p>  If your Privacy Shield complaint cannot be resolved through the above
+                      channels, under certain conditions, you may invoke binding arbitration for some residual claims
+                      not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at: <a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction" target="_blank"> https://www.privacyshield.gov/article?id=ANNEX-I-introduction </a>
+</p></p>

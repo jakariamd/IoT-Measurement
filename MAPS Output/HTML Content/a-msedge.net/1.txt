@@ -1,0 +1,19 @@
+<div><h3>  <font> Microsoft Internet Symbol Server </font></h3></div> <div><h4>  <font> The data you requested cannot be retrieved. </font></h4><p>  
+<font> 
+                You have reached this page because either you or an application that you are running has tried to retrieve debugging data from Microsoft. The requested data is either not available or needs to be retrieved by using the latest Microsoft Symbol Server technology.
+             </font>
+</p><p>  
+<font> 
+                The data at this site is not accessed from a web browser. Instead, it is accessed by the symbol server technology that ships as part of the Debugging Tools for Windows and Visual Studio. For more information,
+                see  </font><a href="https://go.microsoft.com/fwlink/p/?linkid=10114" target="_blank"> Symbols for Windows debugging (WinDbg, KD, CDB, NTSD) </a><font>  and  </font><a href="https://go.microsoft.com/fwlink/p/?linkid=842497" target="_blank"> Specify symbol
+                (.pdb) and source files in the Visual Studio debugger. </a>
+</p></div> <p><p>  
+<font> 
+                Microsoft makes certain symbols, binary code and other executables available via the Microsoft Symbol Server for use in debugging and testing of the user's software in connection with Microsoft software, and not for any unauthorized use. Please refer to the  </font><a href="https://docs.microsoft.com/legal/windows-sdk/microsoft-symbol-server-license-terms" target="_blank"> Microsoft License Terms - Microsoft Symbol Server </a><font> .
+             </font>
+</p></p> <p><p>  
+<font> 
+                Last Updated: Wednesday, Jul 27, 2022 </font><font> 
+                © 2022 Microsoft Corporation. All rights reserved.
+                 </font><a href="https://docs.microsoft.com/legal/windows-sdk/microsoft-symbol-server-license-terms" target="_blank"> License Terms </a><a href="https://go.microsoft.com/fwlink/?linkid=521839" target="_blank"> Privacy Statement. </a>
+</p></p>

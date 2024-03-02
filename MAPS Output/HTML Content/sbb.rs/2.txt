@@ -1,0 +1,393 @@
+<div><h2>  Upotreba kolačića (eng. Cookies)</h2><label>  Neophodni</label><label>  Podešavanja</label><label>  Statistika</label><label>  Marketing</label><label>  Neophodni </label><span>  10</span><span>  rc::a</span><span>  This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.</span><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: HTML</span><span>  rc::c</span><span>  This cookie is used to distinguish between humans and bots. </span></div> <div><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTML</span><span>  __cflb</span><span>  Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience.  </span><span>  <b> Ističe </b>: 1 dan</span><span>  <b> Tip </b>: HTTP</span><span>  __cfruid</span><span>  This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. </span></div> <div><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTTP</span><span>  CookieConsent</span><span>  Stores the user's cookie consent state for the current domain</span><span>  <b> Ističe </b>: 1 godina</span><span>  <b> Tip </b>: HTTP</span><span>  .AspNetCore.Antiforgery.#</span><span>  Helps prevent Cross-Site Request Forgery (CSRF) attacks.</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTTP</span><span>  .AspNetCore.Session</span><span>  Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires.</span></div> <div><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTTP</span><span>  CONSENT [x3]</span><span>  Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.  </span><span>  <b> Ističe </b>: 2 godine</span><span>  <b> Tip </b>: HTTP</span><label>  Podešavanja </label><span>  tidio_state_# [x2]</span><span>  Remembers whether the user has minimized or closed chat-box or pop-up messages on the website.  </span></div> <div><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: HTML</span><label>  Statistika </label><span>  12</span><span>  cx_id [x2]</span><span>  Prikupljanje i obrada podataka za istraživanje tržišta, oglašavanje i poboljšanje korisničkog iskustva na webu. Pročitajte više: https://adria.contentexchange.me/page/opsti-uslovi</span><span>  <b> Ističe </b>: 400 dana</span><span>  <b> Tip </b>: HTTP</span><span>  _ga</span><span>  Registers a unique ID that is used to generate statistical data on how the visitor uses the website.</span></div> <div><span>  <b> Ističe </b>: 2 godine</span><span>  <b> Tip </b>: HTTP</span><span>  _ga_#</span><span>  Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. </span><span>  <b> Ističe </b>: 2 godine</span><span>  <b> Tip </b>: HTTP</span><span>  td</span><span>  Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. </span><span>  <b> Ističe </b>: Session</span></div> <div><span>  <b> Tip </b>: Pixel</span><span>  c.gif</span><span>  Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: Pixel</span><span>  _clck</span><span>  Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.</span><span>  <b> Ističe </b>: 1 godina</span></div> <div><span>  <b> Tip </b>: HTTP</span><span>  _clsk</span><span>  Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. </span><span>  <b> Ističe </b>: 1 dan</span><span>  <b> Tip </b>: HTTP</span><span>  _cltk</span><span>  Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. </span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTML</span><span>  CLID</span><span>  Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.</span></div> <div><span>  <b> Ističe </b>: 1 godina</span><span>  <b> Tip </b>: HTTP</span><span>  cookiesession1 [x2]</span><span>  Sets a ID for the visitor. This serves to count the number of specific visitors on the website.</span><span>  <b> Ističe </b>: 1 godina</span><span>  <b> Tip </b>: HTTP</span><label>  Marketing </label><span>  49</span><span>  _fbc</span><span>  This cookie is used by Facebook to target advertisement based on user behavior and preferences across multiple websites. The cookie contains an encrypted ID which allows Facebook to identify the user across websites.  </span></div> <div><span>  <b> Ističe </b>: 3 meseci</span><span>  <b> Tip </b>: HTTP</span><span>  _fbp</span><span>  Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.</span><span>  <b> Ističe </b>: 3 meseci</span><span>  <b> Tip </b>: HTTP</span><span>  Used to check if the user's browser supports cookies.</span><span>  <b> Ističe </b>: 1 mesec</span><span>  <b> Tip </b>: HTTP</span><span>  uid</span><span>  Registers a unique user ID that recognises the user's browser when visiting websites that use the same ad network. The purpose is to optimise display of ads based on the user's movements and various ad providers' bids for displaying user ads.</span></div> <div><span>  <b> Ističe </b>: 2 meseci</span><span>  <b> Tip </b>: HTTP</span><span>  IDE</span><span>  Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.</span><span>  <b> Ističe </b>: 1 godina</span><span>  <b> Tip </b>: HTTP</span><span>  pagead/landing</span><span>  Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. </span></div> <div><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: Pixel</span><span>  test_cookie</span><span>  Used to check if the user's browser supports cookies.</span><span>  <b> Ističe </b>: 1 dan</span><span>  <b> Tip </b>: HTTP</span><span>  ads/ga-audiences</span><span>  Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: Pixel</span><span>  pagead/1p-user-list/879568161/</span></div> <div><span>  На чекању</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: Pixel</span><span>  _gcl_au</span><span>  Used by Google AdSense for experimenting with advertisement efficiency across websites using their services.  </span><span>  <b> Ističe </b>: 3 meseci</span><span>  <b> Tip </b>: HTTP</span><span>  MR [x2]</span><span>  Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. </span><span>  <b> Ističe </b>: 7 dana</span></div> <div><span>  <b> Tip </b>: HTTP</span><span>  MUID [x2]</span><span>  Used widely by Microsoft as a unique user ID. The cookie enables user tracking by synchronising the ID across many Microsoft domains.</span><span>  <b> Ističe </b>: 1 godina</span><span>  <b> Tip </b>: HTTP</span><span>  SRM_B</span><span>  Tracks the user’s interaction with the website’s search-bar-function. This data can be used to present the user with relevant products or services.     </span><span>  <b> Ističe </b>: 1 godina</span></div> <div><span>  <b> Tip </b>: HTTP</span><span>  ANONCHK</span><span>  Registers data on visitors from multiple visits and on multiple websites. This information is used to measure the efficiency of advertisement on websites.  </span><span>  <b> Ističe </b>: 1 dan</span><span>  <b> Tip </b>: HTTP</span><span>  SM</span><span>  Registers a unique ID that identifies the user's device during return visits across websites that use the same ad network. The ID is used to allow targeted ads.</span><span>  <b> Ističe </b>: Session</span></div> <div><span>  <b> Tip </b>: HTTP</span><span>  LAST_RESULT_ENTRY_KEY [x2]</span><span>  Used to track user’s interaction with embedded content.</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTTP</span><span>  nextId [x2]</span><span>  Used to track user’s interaction with embedded content.</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTTP</span><span>  requests [x2]</span><span>  Used to track user’s interaction with embedded content.</span><span>  <b> Ističe </b>: Session</span></div> <div><span>  <b> Tip </b>: HTTP</span><span>  yt.innertube::nextId [x2]</span><span>  Registers a unique ID to keep statistics of what videos from YouTube the user has seen.</span><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: HTML</span><span>  ytidb::LAST_RESULT_ENTRY_KEY [x2]</span><span>  Stores the user's video player preferences using embedded YouTube video</span><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: HTML</span><span>  YtIdbMeta#databases [x2]</span><span>  Used to track user’s interaction with embedded content.</span></div> <div><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: IDB</span><span>  yt-remote-cast-available [x2]</span><span>  Stores the user's video player preferences using embedded YouTube video</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTML</span><span>  yt-remote-cast-installed [x2]</span><span>  Stores the user's video player preferences using embedded YouTube video</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTML</span><span>  yt-remote-connected-devices [x2]</span></div> <div><span>  Stores the user's video player preferences using embedded YouTube video</span><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: HTML</span><span>  yt-remote-device-id [x2]</span><span>  Stores the user's video player preferences using embedded YouTube video</span><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: HTML</span><span>  yt-remote-fast-check-period [x2]</span><span>  Stores the user's video player preferences using embedded YouTube video</span><span>  <b> Ističe </b>: Session</span></div> <div><span>  <b> Tip </b>: HTML</span><span>  yt-remote-session-app [x2]</span><span>  Stores the user's video player preferences using embedded YouTube video</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTML</span><span>  yt-remote-session-name [x2]</span><span>  Stores the user's video player preferences using embedded YouTube video</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTML</span><span>  LogsDatabaseV2:V#||LogsRequestsStore</span><span>  На чекању</span></div> <div><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: IDB</span><span>  remote_sid</span><span>  Necessary for the implementation and functionality of YouTube video-content on the website.  </span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTTP</span><span>  ServiceWorkerLogsDatabase#SWHealthLog</span><span>  Necessary for the implementation and functionality of YouTube video-content on the website.  </span><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: IDB</span></div> <div><span>  TESTCOOKIESENABLED</span><span>  Used to track user’s interaction with embedded content.</span><span>  <b> Ističe </b>: 1 dan</span><span>  <b> Tip </b>: HTTP</span><span>  VISITOR_INFO1_LIVE</span><span>  Tries to estimate the users' bandwidth on pages with integrated YouTube videos.</span><span>  <b> Ističe </b>: 180 dana</span><span>  <b> Tip </b>: HTTP</span><span>  YSC</span><span>  Registers a unique ID to keep statistics of what videos from YouTube the user has seen.</span><span>  <b> Ističe </b>: Session</span></div> <div><span>  <b> Tip </b>: HTTP</span><span>  12</span><span>  (неименован)</span><span>  На чекању</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTTP</span><span>  cx_last_match</span><span>  На чекању</span><span>  <b> Ističe </b>: 2 godine</span><span>  <b> Tip </b>: HTTP</span><span>  cx_test</span><span>  На чекању</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTTP</span><span>  _bex_data</span><span>  На чекању</span><span>  <b> Ističe </b>: Persistent</span></div> <div><span>  <b> Tip </b>: HTML</span><span>  utm_cookie</span><span>  На чекању</span><span>  <b> Ističe </b>: Session</span><span>  <b> Tip </b>: HTTP</span><span>  cecxh_u_key</span><span>  На чекању</span><span>  <b> Ističe </b>: 2 meseci</span><span>  <b> Tip </b>: HTTP</span><span>  cexh_red</span><span>  На чекању</span><span>  <b> Ističe </b>: 2 meseci</span><span>  <b> Tip </b>: HTTP</span><span>  contentexchange</span><span>  На чекању</span><span>  <b> Ističe </b>: 3 meseci</span><span>  <b> Tip </b>: HTTP</span></div> <div><span>  CultureInfo</span><span>  На чекању</span><span>  <b> Ističe </b>: 7 dana</span><span>  <b> Tip </b>: HTTP</span><span>  hrnet.ci</span><span>  На чекању</span><span>  <b> Ističe </b>: 7 dana</span><span>  <b> Tip </b>: HTTP</span><span>  tidio_state_bntae8hmhgtix8xqjzere3eskm1vaozo_cache [x2]</span><span>  На чекању</span><span>  <b> Ističe </b>: Persistent</span><span>  <b> Tip </b>: HTML</span><span>  [#BULK_CONSENT_DOMAINS_COUNT#]</span><span>  Spisak domena na koje se odnosi vaš pristanak:</span></div> <div><h2>  [#IABV2_TITLE#]</h2><p>  Kolačići su male tekstualne datoteke koje mogu koristiti veb sajtovi da učine korisničko iskustvo efikasnijim.      Koristimo kolačiće za personalizaciju sadržaja i oglasa, pružanje funkcija društvenih medija i analiziranje saobraćaja. </p><p>  Takođe delimo informacije o tome kako koristite sajt sa partnerima za društvene medije, oglašavanje i analitiku koji mogu da ih kombinuju sa drugim informacijama koje ste im dali ili koje su prikupili na osnovu korišćenja usluga. </p></div> <p><p>  U skladu sa Politikom o kolačićima u bilo kom trenutku možete da promenite ili opozovete svoju saglasnost kroz vaš veb pretraživač. </p></p> <p><p>  Saznajte više o nama, ko smo, kako možete da kontaktirate sa nama, odnosno kako obrađujemo lične podatke u okviru naše Politike privatnosti. </p></p> <p><p>  Kolačiće čuvamo na vašem uređaju ako su strogo neophodni za rad ovog sajta. Za sve ostale tipove kolačića nam je potrebna vaša saglasnost.</p></p> <div><label>  Ne prodaji i ne deli moje lične podatke</label><span>  Cookiebot by Usercentrics</span><ul>  <li>Prodajna mesta
+</li><li>Korisnički centar 19900
+</li><li>
+
+</li><li>
+
+</li></ul><span>  
+
+</span><span>  
+
+</span><span>  
+
+</span><span>  
+
+</span><ul>  <li>
+                                                    O nama                                                
+</li></ul><span>  
+
+</span><ul>  <li>
+
+</li></ul><span>  
+
+</span><span>  
+
+</span><span>  
+
+</span><span>  
+
+</span><span>  
+
+</span></div> <div><span>  
+
+</span><span>  
+
+</span></div> <div><h1>  Privacy policy</h1><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><p>  Povežite se sa nama</p><p>  ©2023 SBB, United Group</p><p>   Member of </p></div> <div><h4>  Adresa korišćenja odabrane usluge</h4><label>  Naziv kompanije/preduzetnika*</label><label>  PIB*</label><label>  Matični broj*</label><label>  Opština*</label><ul>  <li>
+            ADA
+        </li><li>
+            ALEKSANDROVAC
+        </li><li>
+            ALEKSINAC
+        </li><li>
+            ALIBUNAR
+        </li><li>
+            APATIN
+        </li><li>
+            ARANĐELOVAC
+        </li><li>
+            ARILJE
+        </li><li>
+            BABUŠNICA
+        </li><li>
+            BAČ
+        </li><li>
+            BAČKA PALANKA
+        </li><li>
+            BAČKA TOPOLA
+        </li><li>
+            BAČKI PETROVAC
+        </li><li>
+            BAJINA BAŠTA
+        </li></ul></div> <div><ul>  <li>
+            BATOČINA
+        </li><li>
+            BEČEJ
+        </li><li>
+            BELA CRKVA
+        </li><li>
+            BELA PALANKA
+        </li><li>
+            BEOČIN
+        </li><li>
+            BEOGRAD
+        </li><li>
+            BLACE
+        </li><li>
+            BOGATIĆ
+        </li><li>
+            BOJNIK
+        </li><li>
+            BOLJEVAC
+        </li><li>
+            BOR
+        </li><li>
+            BOSILEGRAD
+        </li><li>
+            BRUS
+        </li><li>
+            BUJANOVAC
+        </li></ul></div> <div><ul>  <li>
+            ČAČAK
+        </li><li>
+            ČAJETINA
+        </li><li>
+            ĆIĆEVAC
+        </li><li>
+            ČOKA
+        </li><li>
+            CRNA TRAVA
+        </li><li>
+            ĆUPRIJA
+        </li><li>
+            DEČANI
+        </li><li>
+            DESPOTOVAC
+        </li><li>
+            DIMITROVGRAD
+        </li><li>
+            DOLJEVAC
+        </li><li>
+            GADŽIN HAN
+        </li><li>
+            GNJILANE
+        </li><li>
+            GOLUBAC
+        </li></ul></div> <div><ul>  <li>
+            GORA
+        </li><li>
+            GORNJI MILANOVAC
+        </li><li>
+            INĐIJA
+        </li><li>
+            IRIG
+        </li><li>
+            ISTOK
+        </li><li>
+            IVANJICA
+        </li><li>
+            JAGODINA
+        </li><li>
+            KANJIŽA
+        </li><li>
+            KIKINDA
+        </li><li>
+            KLADOVO
+        </li><li>
+            KLINA
+        </li><li>
+            KNIĆ
+        </li><li>
+            KNJAŽEVAC
+        </li><li>
+            KOCELJEVA
+        </li></ul></div> <div><ul>  <li>
+            KOSJERIĆ
+        </li><li>
+            KOSOVO POLJE
+        </li><li>
+            KOSOVSKA KAMENICA
+        </li><li>
+            KOSOVSKA MITROVICA
+        </li><li>
+            KOVAČICA
+        </li><li>
+            KOVIN
+        </li><li>
+            KRAGUJEVAC
+        </li><li>
+            KRALJEVO
+        </li><li>
+            KRUPANJ
+        </li><li>
+            KRUŠEVAC
+        </li><li>
+            KUČEVO
+        </li><li>
+            KULA
+        </li><li>
+            KURŠUMLIJA
+        </li></ul></div> <div><ul>  <li>
+            LAJKOVAC
+        </li><li>
+            LAPOVO
+        </li><li>
+            LEBANE
+        </li><li>
+            LEPOSAVIĆ
+        </li><li>
+            LESKOVAC
+        </li><li>
+            LIPLJAN
+        </li><li>
+            LJIG
+        </li><li>
+            LJUBOVIJA
+        </li><li>
+            LOZNICA
+        </li><li>
+            LUČANI
+        </li><li>
+            MAJDANPEK
+        </li><li>
+            MALI IĐOŠ
+        </li><li>
+            MALI ZVORNIK
+        </li></ul></div> <div><ul>  <li>
+            MALO CRNIĆE
+        </li><li>
+            MEDVEĐA
+        </li><li>
+            MEROŠINA
+        </li><li>
+            MIONICA
+        </li><li>
+            NEGOTIN
+        </li><li>
+            NIŠ
+        </li><li>
+            NOVA CRNJA
+        </li><li>
+            NOVA VAROŠ
+        </li><li>
+            NOVI BEČEJ
+        </li><li>
+            NOVI KNEŽEVAC
+        </li><li>
+            NOVI PAZAR
+        </li><li>
+            NOVI SAD
+        </li><li>
+            NOVO BRDO
+        </li></ul></div> <div><ul>  <li>
+            OBILIĆ
+        </li><li>
+            ODŽACI
+        </li><li>
+            OPOVO
+        </li><li>
+            ORAHOVAC
+        </li><li>
+            OSEČINA
+        </li><li>
+            PANČEVO
+        </li><li>
+            PARAĆIN
+        </li><li>
+            PEĆ
+        </li><li>
+            PEĆINCI
+        </li><li>
+            PETROVAC NA MLAVI
+        </li><li>
+            PIROT
+        </li><li>
+            PLANDIŠTE
+        </li><li>
+            POŽAREVAC
+        </li><li>
+            POŽEGA
+        </li></ul></div> <div><ul>  <li>
+            PREŠEVO
+        </li><li>
+            PRIBOJ
+        </li><li>
+            PRIJEPOLJE
+        </li><li>
+            PRIŠTINA
+        </li><li>
+            PRIZREN
+        </li><li>
+            PROKUPLJE
+        </li><li>
+            RAČA
+        </li><li>
+            RAŠKA
+        </li><li>
+            RAŽANJ
+        </li><li>
+            REKOVAC
+        </li><li>
+            RUMA
+        </li><li>
+            ŠABAC
+        </li><li>
+            SEČANJ
+        </li><li>
+            SENTA
+        </li></ul></div> <div><ul>  <li>
+            ŠID
+        </li><li>
+            SJENICA
+        </li><li>
+            SMEDEREVO
+        </li><li>
+            SMEDEREVSKA PALANKA
+        </li><li>
+            SOKOBANJA
+        </li><li>
+            SOMBOR
+        </li><li>
+            SRBICA
+        </li><li>
+            SRBOBRAN
+        </li><li>
+            SREMSKA MITROVICA
+        </li><li>
+            SREMSKI KARLOVCI
+        </li><li>
+            STARA PAZOVA
+        </li><li>
+            ŠTRPCE
+        </li><li>
+            SUBOTICA
+        </li></ul></div> <div><ul>  <li>
+            SURDULICA
+        </li><li>
+            SVILAJNAC
+        </li><li>
+            SVRLJIG
+        </li><li>
+            TEMERIN
+        </li><li>
+            TITEL
+        </li><li>
+            TOPOLA
+        </li><li>
+            TRGOVIŠTE
+        </li><li>
+            TRSTENIK
+        </li><li>
+            TUTIN
+        </li><li>
+            UB
+        </li><li>
+            UROŠEVAC
+        </li><li>
+            UŽICE
+        </li><li>
+            VALJEVO
+        </li><li>
+            VARVARIN
+        </li></ul></div> <div><ul>  <li>
+            VELIKA PLANA
+        </li><li>
+            VELIKO GRADIŠTE
+        </li><li>
+            VITINA
+        </li><li>
+            VLADIČIN HAN
+        </li><li>
+            VLADIMIRCI
+        </li><li>
+            VLASOTINCE
+        </li><li>
+            VRANJE
+        </li><li>
+            VRBAS
+        </li><li>
+            VRNJAČKA BANJA
+        </li><li>
+            VRŠAC
+        </li><li>
+            VUČITRN
+        </li><li>
+            ŽABALJ
+        </li><li>
+            ŽABARI
+        </li></ul></div> <div><ul>  <li>
+            ŽAGUBICA
+        </li><li>
+            ZAJEČAR
+        </li><li>
+            ŽITIŠTE
+        </li><li>
+            ŽITORAĐA
+        </li><li>
+            ZRENJANIN
+        </li><li>
+            ZUBIN POTOK
+        </li><li>
+            ZVEČAN
+        </li></ul><label>  Naselje*</label><label>  Naziv ulice*</label><label>  Kućni broj*</label></div> <div><h4>  Kontakt podaci</h4><label>  Ime</label><label>  Prezime</label><label>  Kontakt telefon</label><label>  E-mail*</label><label>  Napomena
+                    </label><span>  Pošaljite</span><p>  Poštovani, 
+                    Hvala što ste nas kontaktirali. 
+                    Vaša poruka je uspešno poslata. Odgovorićemo vam u najkraćem roku. 
+                    Srdačan pozdrav</p></div> <div><h4>  Broj ispod logotipa kanala predstavlja poziciju kanala.</h4></div> <div><h4>  
+                                                    Start paket
+                                                    </h4></div> <div><h4>  Broj ispod logotipa kanala predstavlja poziciju kanala.</h4></div> <div><h4>  
+                                                    Start paket
+                                                    </h4></div> <div><h4>  Broj ispod logotipa kanala predstavlja poziciju kanala.</h4></div> <div><h4>  
+                                                    Start paket
+                                                    </h4></div> <div><h1>  GIGA gradovi</h1></div> <div><h3>  Beograd</h3></div> <div><h3>  Novi Sad</h3></div> <div><h3>  Subotica</h3></div> <div><h3>  Gornji Milanovac</h3></div> <div><h3>  Pančevo</h3></div> <div><h3>  Kragujevac</h3></div> <div><h3>  Niš</h3></div> <div><h3>  Paraćin</h3></div> <div><h3>  Sombor</h3></div> <div><h3>  Leskovac</h3></div> <div><h3>  Valjevo</h3></div> <div><h3>  Užice</h3></div> <div><h3>  Zrenjanin</h3></div> <div><h3>  Vršac</h3></div> <div><h3>  Kruševac</h3></div> <div><h3>  Kraljevo</h3></div> <div><h3>  Pirot</h3></div> <div><h3>  Požarevac</h3></div> <div><h3>  Kostolac</h3></div> <div><h3>  Vrnjačka Banja</h3></div> <div><h3>  Trstenik</h3></div> <div><h3>  Novi Pazar</h3></div> <div><h3>  Sremska Mitrovica</h3></div> <div><h3>  Vrbas</h3></div> <div><h3>  Kikinda</h3></div> <div><h3>  Bor</h3></div> <div><h3>  Čačak</h3></div> <div><h3>  Šabac</h3></div> <div><h3>  Knjaževac</h3></div> <div><h3>  Majdanpek</h3></div> <div><h3>  Ivanjica</h3></div> <div><h3>  Arilje</h3></div> <div><h3>  Kula</h3></div>

@@ -1,0 +1,32 @@
+<div><ul>  <li>Menu Toggle</li></ul><span>  Brand Optimization</span><span>  Brand Reach</span><span>  Brand Outcomes</span><ul>  <li>Menu Toggle</li><li>Menu Toggle</li><li>Menu Toggle</li></ul><span>  Main Menu</span></div> <div><h2>  A Firm Foundation: Future Proof Tracking for a Privacy- Safe World</h2><p>  Digital ad measurement as we know it isn’t built to last. The truth is, relying on one-to-one identifiers has always been a house built on a foundation of sand, but that foundation has now been completely eroded by the tide of privacy protection. This deterioration began years ago as major browsers started blocking third-party cookies, and continues today as mobile device makers end the ability to collect app IDs. </p></div> <p><p>  In a last-ditch effort to prop up the use of one-to-one identifiers, many have turned to using hashed emails. But the writing is already on the wall for this approach, too. For starters, the coverage is extremely low — only about 10% of web traffic is logged in, often on publishers without the technology to share hashed emails, leaving 90% of traffic completely unidentifiable. The death knell, though, sounded when Apple </p></p> <div><span>  announced </span><span>  it would no longer allow hashed email sharing by iOS mobile app publishers, when users have objected to tracking, will violate its privacy policy beginning early next year. </span><p>  An honest look at the landscape leaves little room for debate: The question facing us now is not how to prop up the existing edifice, but on what firm foundation we should build for the future. Upwave has charted a new course that integrates rigorous statistical methodologies from medical trials with privacy-safe, household-level tracking to deliver reliable lift measurement and targeting verification without the limitations of one-to-one identifiers</p></div> <span><span>  . </span></span> <div><ul>  <li>Menu Toggle</li></ul><span>  Brand Optimization</span><span>  Brand Reach</span><span>  Brand Outcomes</span><ul>  <li>Menu Toggle</li><li>Menu Toggle</li><li>Menu Toggle</li></ul></div> <div><h2>  Platform</h2><ul>  <li>Platform
+</li><li>Allocate with Brand Optimization
+</li><li>Validate with Brand Reach
+</li><li>Measure with Brand Outcomes
+</li><li>Track with Brand Effects
+</li><li>Campaign and Portfolio Views
+</li></ul></div> <div><h2>  Insights</h2><ul>  <li>Digital Network
+</li><li>Partner Ecosystem
+</li><li>Whitepapers
+</li><li>Blog
+</li><li> Analytics Engine
+</li><li>Knowledge Base
+</li><li>Blog
+</li><li>Events
+</li></ul></div> <div><h2>  Company</h2><ul>  <li>About
+</li><li>Careers
+</li><li>Press
+</li></ul><p>  1160 Battery Street East, Suites 100 San Francisco, CA 94111</p><ul>  <li>Privacy Policy
+</li><li>
+ </li></ul><span>  Terms & Conditions
+</span><ul>  <li>
+ </li></ul><span>  Publisher Policy
+</span><ul>  <li>
+ </li></ul><span>  Transparency In Coverage
+</span><ul>  <li>
+ </li></ul><span>  CPRA Notice
+</span><p>  © 2021 Upwave. All Rights Reserved.</p><span>  Twitter
+</span><span>  Facebook
+</span><span>  Linkedin
+</span></div> <div><span>  Phone-alt
+</span><span>  Envelope
+</span><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label></div> <div><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label></div> <div><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label></div> <div><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><span>  </span></div>

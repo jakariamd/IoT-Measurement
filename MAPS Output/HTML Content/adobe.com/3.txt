@@ -1,0 +1,281 @@
+<div><h1>  Adobe Privacy Choices</h1><p>  Last updated: December 5, 2022</p><p>  To provide you with more relevant experiences and marketing messages based on your likely interests, we collect information about you and how you engage with us and our business customers. Here is how you can control your information:</p><span>  For Adobe End Users</span><span>  For End Users of business using Adobe Experience Cloud</span></div> <div><h2>  <i> For Adobe End Users </i></h2></div> <div><h1>  Your data. Your choices.</h1></div> <div><h2>  Direct Marketing Communications from Adobe</h2><ul>  <li>Tell us your Adobe marketing preferences by updating your Adobe ID <a href="https://accounts.adobe.com/communication" target="_blank"> profile </a>. You can also tell us to stop sending you marketing emails by clicking the unsubscribe link included at the bottom of Adobe's marketing emails. </li><li>Tell us your Behance marketing preferences by updating your account settings (under the “Notifications” tab) at <a href="https://www.behance.net/" target="_blank"> Behance.net </a>. You can also tell Behance to stop sending you marketing emails by clicking the unsubscribe link included at the bottom of Behance's marketing emails.
+</li></ul></div> <p><p>  Please note that even when you exercise these choices, you may still receive communications from Adobe in the form of “transactional” emails relating to normal business operations.  For example, we may email you to inform you that your subscription is expiring or that someone has sent you a document using an Adobe app. 
+</p></p> <div><h2>  Your use of Adobe applications and services</h2><p>  We may collect information about how you use Adobe desktop products, mobile apps and services.
+</p></div> <div><h3>  Desktop Applications</h3></div> <div><h4>  Usage information associated with your Adobe account</h4><p>  Some of our desktop apps collect usage information that is associated with your Adobe account to provide you with a more personalized experience and improve our products and services.</p></div> <div><h4>  Usage information associated with your device</h4><p>  Some of our desktop apps collect usage information that is associated with your device to improve our products and services.</p></div> <div><h3>  Services</h3></div> <div><h4>  Adobe web-based services</h4><p>  Some Adobe web-based services use cookies and similar technologies to collect usage information to provide you with a more personalized experience, improve our products and services, and in some cases, to tailor ads to your likely interests. To change your collection settings, click on the Cookies link at the bottom of the service’s website. Please note that you may have to repeat this process for each Adobe web-based service that collects usage data.</p></div> <div><h4>  Experience Cloud service usage data</h4><p>  You have the option to share information with Adobe about how you use our Experience Cloud services. You can change your preference at any time <a href="http://amcglobal.sc.omtrdc.net/optout.html" target="_blank"> here </a>.</p></div> <div><h3>  Mobile Applications</h3></div> <div><h4>  Data Collection</h4><p>  Some of our mobile apps collect usage information that is associated with your Adobe account or device to provide you with a more personalized experience and improve our products and services. To change your collection settings, go to the app’s settings panel that refers to mobile app usage data collection. Please note that you will have to repeat this process for each Adobe mobile app that collects usage data.
+</p></div> <div><h2>  Machine learning analysis on your content
+</h2><p>  Adobe analyzes your content using techniques such as machine learning in order to improve our products and services. This analysis may occur as the content is uploaded, sent, received, or stored using Adobe servers. <a href="http://www.adobe.com/go/machine_learning" target="_blank"> Learn more </a> about how this works, including how to opt out in your account preferences.  </p></div> <div><h2>  Adobe website preferences </h2><p>  Adobe <a href="https://www.adobe.com/privacy/cookies.html" target="_blank"> uses cookies </a> and similar technologies to analyze your use of Adobe websites so that we can improve them and tailor websites, communications, and ads to your likely interests. </p><p>  Choose your preferences for cookies and similar technologies:
+</p><span>  Cookie settings</span><p>  If you opt out of advertising cookies, you may still see Adobe ads on other companies' websites, but they will not be based on your use of Adobe’s apps and websites.
+</p></div> <p><p>  <i> Note about cookie-based preferences: </i>Many of the privacy preferences described on this page work by placing a <a href="https://www.adobe.com/privacy/cookies.html" target="_blank"> cookie </a> on your browser. Therefore, your browser must be configured to accept cookies for your preference to take effect. If you delete or clear your cookies, or if you change web browsers, you will need to set your preferences again.</p></p> <div><h2>  Interest-based ads</h2><p>  Adobe complies with the DAA’s Self-Regulatory Principles for Online Behavioral Advertising and related DAA guidance. For more information about interest-based ads and to opt out for all companies who are members of those groups, please see: </p></div> <div><h2>  <i> For End Users of business using Adobe Experience Cloud </i></h2></div> <div><h2>  Adobe Experience Cloud Advertising Services </h2><p>  The <a href="https://www.adobe.com/experience-cloud.html" target="_blank"> Adobe Experience Cloud </a> Advertising Services (Audience Manager and Ad Cloud) enable our business customers to personalize and improve the performance of their digital properties and marketing messages. These companies use Adobe Experience Cloud Advertising Services to collect and analyze information, such as clicks made by visitors on their websites.  These services also allow these companies to provide you more relevant advertising within their websites, apps, emails, text messages, direct mail offers and push notifications.</p></div> <div><p>  Opt out of Adobe Experience Cloud Advertising Services
+</p><span>  Opt-out</span><p>  <b> Important note:  </b>You will see a confirmation message that you have been opted out when clicking the button above. Future visits to this page will not display your opted out choice even if you have not cleared out your cookies, but you are still opted out.</p></div> <div><h2>  Interest-based Advertising Settings</h2><p>  You can also visit the sites below to opt out of interest-based ads for all companies who are members of those groups:</p><p>  To opt out of advertising solutions that tailor ads shown within mobile apps based on your likely interests, please either:</p><ul>  <li>Set the preference on your mobile device to limit ad tracking, or</li><li>Download the Digital Advertising Alliance’s <a href="http://www.aboutads.info/appchoices" target="_blank"> AppChoices app </a> and configure it to opt out of Adobe Experience Cloud advertising solutions</li></ul></div> <p><p>  Please also review the privacy policies on the websites and mobile apps that you use because they may offer additional privacy choices.</p></p> <div><ul>  <li>Shop for
+
+
+</li><li>Creative Cloud
+
+
+
+</li><li>Photoshop
+
+
+
+</li><li>Adobe Express
+
+
+
+</li><li>Photography
+
+
+
+</li><li>Premiere Pro
+
+
+
+</li><li>Adobe Stock
+
+
+
+</li><li>Elements Family
+
+
+
+</li><li>Document Cloud
+
+
+
+</li><li>Acrobat
+
+
+
+</li><li>Acrobat Sign
+
+
+
+</li><li>Special offers
+
+
+
+</li><li>View plans and pricing
+
+
+
+</li><li>View all products
+
+
+
+
+
+</li><li>For business
+
+
+</li><li>Creative Cloud for teams
+
+
+
+</li><li>Creative Cloud for enterprise
+
+
+
+</li><li>Document Cloud for business
+
+
+
+
+
+</li></ul></div> <div><ul>  <li>For education
+
+
+</li><li>Discounts for students and teachers
+
+
+
+</li><li>Schools and universities
+
+
+
+</li><li>Digital Learning Solutions
+
+
+
+
+
+</li><li>For mobile
+
+
+</li><li>Apps for iOS
+
+
+
+</li><li>Apps for Android
+
+
+
+
+
+
+</li><li>Experience Cloud
+
+
+</li><li>What is Experience Cloud?
+
+
+
+</li><li>Analytics
+
+
+
+</li><li>Experience Manager
+
+
+
+</li><li>Commerce
+
+
+
+</li><li>Marketo Engage
+
+
+
+</li><li>Workfront
+
+
+
+</li><li>Terms of Use
+
+
+
+
+
+</li><li>Support
+
+
+</li><li>Download and install
+
+
+
+</li><li>Help Center
+
+
+
+</li></ul></div> <div><ul>  <li>Adobe Support Community
+
+
+
+</li><li>Enterprise Support
+
+
+
+</li><li>Genuine software
+
+
+
+
+
+</li><li>Resources
+
+
+</li><li>Adobe Blog
+
+
+
+</li><li>Adobe Developer
+
+
+
+
+
+</li><li>Adobe Account
+
+
+</li><li>Log in to your account
+
+
+
+
+
+
+</li><li>Adobe
+
+
+</li><li>About
+
+
+
+</li><li>Careers
+
+
+
+</li><li>Newsroom
+
+
+
+</li><li>Corporate responsibility
+
+
+
+</li><li>Investor Relations
+
+
+
+</li><li>Supply chain
+
+
+
+</li><li>Trust Center
+
+
+
+</li><li>Events
+
+
+
+</li><li>Diversity and inclusion
+
+
+
+</li><li>Integrity
+
+
+
+
+
+
+</li></ul></div> <div><ul>  <li>Featured products   
+</li><li>Adobe Acrobat Reader
+
+
+
+</li><li>Adobe Express
+
+
+
+</li><li>Photoshop
+
+
+
+</li><li>Illustrator
+
+
+
+
+</li><li>Privacy
+
+
+
+</li><li>Terms of Use
+
+
+
+</li><li>Cookie preferences
+
+
+
+</li><li>Do not sell or share my personal information
+
+
+
+</li><li>AdChoices
+
+
+
+
+
+</li></ul><p>  Language Navigation</p><p>  Language Navigation</p><p>  Choose your region</p><p>  Selecting a region changes the language and/or content on Adobe.com.</p><ul>  <li>Americas</li><li>Europe, Middle East and Africa</li><li>Asia Pacific</li></ul></div> <div><p>  Locale Modalv2</p><p>  We have detected you are visiting a different region on adobe.com</p><p>  Chat with us</p></div>

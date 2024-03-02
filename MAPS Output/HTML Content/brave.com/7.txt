@@ -1,0 +1,173 @@
+<div><label>  
+
+</label><ul>  <li>
+
+</li></ul><span>  Main menu</span></div> <div><h2>  Downloads</h2><ul>  <li>Features</li><li>
+
+</li></ul><span>  Main menu</span><ul>  <li>
+
+</li></ul><span>  Main menu</span><span>  Why Brave</span><ul>  <li>
+
+</li></ul><p>  Many users rely on private browsers to keep their Internet habits away from prying eyes. But with so many options out there, what's the best private browser for you? In this article we examine the choices.
+</p><ul>  <li>
+
+</li></ul><p>  In this article, we'll define what makes a secure browser, and look at some of the best secure browsers available today.
+</p></div> <div><ul>  <li>
+
+</li></ul><p>  In this article, we look at the fastest web browser and discuss some of the factors that affect browser speed, including the browser engine and javascript engine.
+<a href="/learn/" target="_blank"> 
+                                                    See all 
+                                                     </a></p><span>  Articles
+</span><span>  Why Brave</span><ul>  <li>
+
+</li></ul><p>  Web3 is a whole new philosophy for how the Web should be managed and how users should access it. It's based on a version of the Internet that is decentralized and uses public blockchains to function. In this article, a primer on the fundamentals of Web3.
+</p></div> <div><ul>  <li>
+
+</li></ul><p>  Web3 relies on new technologies. You may have started to hear a lot more about blockchains, nodes, cryptocurrency and wallets recently? In this article, we'll explain what these core terms have to do with DApps, the decentralized applications that are core to Web3.
+</p><ul>  <li>
+
+</li></ul><p>  Blockchains, Nodes, Cryptocurrency, Wallets… In this article, we’ll define some core Web3 terms, and scratch the surface of decentralized technologies.
+<a href="/web3/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Articles
+</span><span>  Why Brave</span><ul>  <li>
+
+</li></ul><p>  In the context of computing, privacy means that your personal data isn't seen by anyone whom you don't want to see it, and isn't used by …
+</p><ul>  <li>
+
+</li></ul><p>  Computer security is the protection of computing devices, networks, and data from external threats.
+</p><ul>  <li>
+
+</li></ul><p>  A browser (or Web browser) is an app for your computer, tablet, or smartphone that lets you look at and interact with websites. The browser …
+<a href="/glossary/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Terms
+</span><ul>  <li>Blogs</li></ul><span>  Why Brave</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><span>  Articles
+</span><span>  Why Brave</span><p>  Starting in version 1.54, Brave for desktop and Android will include more powerful features for controlling which sites can access local …
+</p><p>  Request OTR is another in Brave's suite of features that support the privacy needs of individual users, protecting far beyond the "standard" …
+</p><p>  Forgetful Browsing is similar to, but more powerful and protective than, popular browsing extensions and private browsing modes. It's …
+<a href="/privacy-updates/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Articles
+</span><span>  Why Brave</span><p>  Brave strongly opposes Google's "Web Environment Integrity" proposal, the latest in Google's efforts to prevent users from being in control …
+</p><p>  Google is proposing a feature called "First-Party Sets," which would have browsers reduce privacy barriers between sites. This is both …
+</p><p>  The UK CMA (along with other regulators and web activists) are largely evaluating Google’s Privacy Sandbox as an isolated, independent set …
+<a href="/web-standards-at-brave/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Articles
+</span><span>  Why Brave</span><p>  We design FrodoPIR — a highly configurable, stateful, single-server Private Information Retrieval (PIR) scheme that involves an offline …
+</p><p>  
+We identify class of covert channels in browsers that are not mitigated by current defenses, which we call "pool-party" attacks. Pool-party …
+</p><p>  The question at which layer network functionality is presented or abstracted remains a research challenge. Traditionally, network …
+<a href="/research/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Papers
+</span><ul>  <li>
+
+</li></ul><span>  Main menu</span><span>  Get help</span><p>  
+        Get help with the Brave browser.
+    
+</p><p>  
+        Find quick help with anything related to Brave or its products and features.
+    
+</p><p>  
+        Find answers for common Brave Rewards issues, including earnings and payout questions.
+    
+<a href="https://support.brave.com/hc/en-us" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Help articles
+</span><span>  Get help</span><p>  
+        Get help with Brave features, and connect with other Brave users.
+    
+</p><p>  
+        Request new features or changes to existing ones, and get community up-votes.
+    
+
+</p><span>  Get help</span><p>  
+        See what’s new in the latest version of the Brave app for Android.
+    
+</p><p>  
+        See the latest desktop changes for macOS and Windows.
+    
+</p><p>  
+        See what’s new in the latest version of the Brave app for iOS.
+    
+<a href="/latest/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Release notes
+</span><ul>  <li>
+
+</li></ul><span>  Main menu</span><span>  Private advertising</span><p>  
+        Build consideration for products or services through content-adjacent ads in Brave News, a private news reader in every Brave Browser. …
+    
+</p><p>  
+        Brave Search is the fastest-growing search engine since Bing, with over 6.5 billion annualized searches. Redefine your search marketing …
+    
+</p><p>  
+        New tab takeovers are like a digital billboard: Big. Eye catching. And effective. They reach large audiences in a short time, and drive real …
+    
+</p></div> <p><p>  
+        Notification ads feature a title and short CTA; clicks drive users to the advertiser's desired landing page. Ads are served over content at …
+    
+<a href="/brave-ads/ad-formats/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></p> <div><span>  Ad formats
+</span><span>  Private advertising</span><ul>  <li>
+
+</li></ul><p>  Achieved 23.8 million ad views, 8% blended CTR, 57% 10+ second landing visits, and over 1000 Tweets
+</p><ul>  <li>
+
+</li></ul><p>  Engaging the New ‘Ad Chooser’: A co-authored whitepaper from Brave Software and dentsu international
+</p><ul>  <li>
+
+</li></ul><p>  Realized 230% increase in new customer registrations and achieved a CTR of 13.8%
+<a href="/brave-ads/casestudies/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Case studies
+</span><span>  Private advertising</span><ul>  <li>
+
+</li></ul><p>  Danny Wright (Chief Brand Officer) and Eddie Satterly (Chief Technology Officer) …
+</p><ul>  <li>
+
+</li></ul><p>  Robert Lund, Co-Founder and Chief Creative Officer at Studio TBD, discusses …
+</p><ul>  <li>
+
+</li></ul><p>  Will Haire, Co-Founder of BellaVix, shares the tactics they’re currently …
+<a href="/brave-ads/podcast/" target="_blank"> 
+                                                    See all 
+                                                     </a></p></div> <div><span>  Episodes
+</span><span>  Private advertising</span><p>  A gallery of high impact New tab takeovers from top brands using Brave.
+<a href="/brave-ads/resources/" target="_blank"> 
+                                                    See all 
+                                                     </a></p><span>  Resources
+</span><span>  Back to episodes</span><p>  Season 7 </p><span>  | Episode 5</span></div> <div><h2>  Live from Consensus! Gamifying your Identity and Next Gen Privacy Implications</h2><p>  Danny Wright (Chief Brand Officer) and Eddie Satterly (Chief Technology Officer) of OneOf discuss ways they’re decentralizing identity in an effort to empower consumers and ultimately build loyalty. They also discussed some of the boldest companies and campaigns that have caught their attention lately.</p><span>  Listen on your favourite podcast player</span></div> <div><h3>  Show Notes</h3><p>  In this episode of The Brave Marketer Podcast, we discuss:</p><ul>  <li>Data protection and working with vendors who value privacy respecting features</li><li>Ways that NFTs can build advocacy, utility and loyalty</li><li>The role that family plays in career growth and importance of soliciting feedback</li></ul></div> <div><h3>  Guest List</h3><p>  The amazing cast and crew:</p><ul>  <li>
+                Danny Wright / Eddie Satterly - </li></ul><span>  Chief Brand Officer / Chief Technology Officer
+
+</span><p>  Danny Wright, Chief Brand Officer, and Eddie Satterly, Chief Technology Officer of OneOf - a platform building consumer-friendly Web3 software.
+</p><p>  Danny Wright combines a wealth of experience creating strategic partnerships for some of the industry’s most well known stars including, Aerosmith, Mariah Carey, Lauryn Hill, Dido, Maxwell, Run DMC, The Fugees, and Erykah Badu. As a sales and business development executive Mr. Wright has worked with Fortune 100 brands such as P&G, Dell, Samsung, Intel, AT&T, Verizon and media companies like MTV, VH1, NBC/Telemundo, Bravo and the BBC. Formerly, as the Chief Brand Officer at Adweek, Mr. Wright was charged with developing the global strategy for all Adweek awards, events and the relaunch of Brandweek. Currently, as Chief Brand Officer of one of, Mr. Wright leads the company’s efforts to deliver a custom marketing SAAS platform using cutting edge Web 3 technology to amplify loyalty, commerce, data and engagement for consumer brands.
+</p></div> <div><h3>  Subscribe and stream on all the platforms below</h3><span>  Spotify Podcasts</span><span>  Apple Podcasts</span><span>  Google Podcasts</span></div> <div><h3>  About the Show</h3><p>  
+            Brave is at the forefront of a new online privacy frontier and has unique insight into the future of marketing and advertising in a cookieless world. If you're an agency, brand marketer or entrepreneur challenged by the changes in ethical advertising, consumer privacy and buyer expectations, this podcast will provide a backstage view of how influential marketers at top brands and agencies are responding to what's next.
+          </p></div> <div><h4>  Resources</h4></div> <div><h4>  Privacy policy</h4></div> <div><h4>  Browser</h4></div> <div><h4>  Company</h4></div> <div><h4>  Social media</h4></div> <div><h4>  Products</h4></div> <div><h4>  Contact</h4></div> <div><h5>  Support</h5></div> <div><h5>  Advertising</h5><span>  Please only use this email address if you are interested in purchasing advertising with Brave. For support, please visit community.brave.com.</span></div> <div><h5>  Business</h5></div> <div><h5>  Press</h5></div> <div><h4>  Developer docs</h4></div> <div><h4>  Creators</h4></div> <div><h4>  Offices</h4></div> <div><h5>  Brave San Francisco</h5><p>  580 Howard St. Unit 402, San Francisco, CA 94105</p><label>  Choose a language</label><small>  © 2015 - 2023 Brave Software, Inc. | All rights reserved</small></div> <div><h2>  Almost there…</h2></div> <div><h5>  You’re just 60 seconds away from the best privacy online</h5><p>  
+                If your download didn’t start automatically,
+                </p><ul>  <li>Download Brave
+</li></ul><p>  Click “Save” in the window that pops up, and wait for the download to complete.
+</p><p>  Wait for the download to complete (you may need to click “Save” in a window that pops up).
+</p><ul>  <li>Run the installer
+</li></ul><p>  Click the downloaded file at the bottom left of your screen, and follow the instructions to install Brave.
+</p></div> <p><p>  Click the downloaded file at the top right of your screen, and follow the instructions to install Brave.
+</p></p> <p><p>  Click the downloaded file, and follow the instructions to install Brave.
+</p></p> <div><ul>  <li>Import settings
+</li></ul><p>  During setup, import bookmarks, extensions, & passwords from your old browser.
+</p></div> <div><h3>  Get better privacy. Everywhere!</h3><p>  Download Brave mobile for privacy on the go.</p></div> <div><h3>  Get better privacy. Everywhere!</h3><p>  Download Brave mobile for privacy on the go.</p><span>  
+
+</span><span>  Click this file to install Brave
+
+</span><span>  
+
+</span><span>  Click this file to install Brave</span><span>  12345</span></div>

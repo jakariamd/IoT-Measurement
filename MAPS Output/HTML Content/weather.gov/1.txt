@@ -1,0 +1,48 @@
+<div><h1>  Privacy Policy</h1><p>  
+	This policy covers user privacy, system security, and National Weather Service information collection practices. This Privacy Policy Statement applies only to National Weather Service web sites. Some organizations within NOAA may have other information collection practices. You are encouraged to check Privacy Policies when going to another web site.</p><p>  
+	These World Wide Web pages are provided as a public service by NOAA's National Weather Service ().</p><p>  
+	Information presented on these pages is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested.</p></div> <div><h2>  
+Site Management Data</h2><p>  
+	For each HTTP (which is what your Web browser generates when you request a page or part of a page from a Web site) request received, we collect and store only the following information:</p><ul>  <li>
+		the date and time</li><li>
+		the originating IP address</li><li>
+		the type of browser and operating system used (if provided by the browser)</li><li>
+		the URL of the referring page (if provided by the browser)</li><li>
+		the object requested</li><li>
+		completion status of the request</li><li>
+		pages visited</li></ul></div> <p><p>  
+	We use the information that we collect to measure the number of visitors to the different areas of our sites, and to help us make our sites more useful to visitors. This includes analyzing these logs periodically to determine the traffic through our servers, the number of pages served, and the level of demand for pages and topics of interest. The logs may be preserved indefinitely and used at any time and in any way necessary to prevent security breaches and to ensure the integrity of the data on our servers.</p></p> <div><h2>  
+The use of "cookies"</h2><p>  
+	To better serve our visitors, we use technology to track new and returning visitors actions while on the website. These small files are commonly referred to as "cookies." Our cookies don't not contain any personally-identifiable information. Our customized Weather.gov tool gives visitors the option of customizing and storing a location to be remembered on subsequent visits to Weather.gov.</p><p>  
+	Cookies are small files that Web servers place on a user's hard drive. They can serve several functions:</p></div> <div><ul>  <li>
+		they allow the Web site to identify you as a previous visitor each time you access a site;</li><li>
+		they track what information you view at a site (important to the Department of Commerce to ensure visitors find what they are looking for);</li><li>
+		in the more advanced cases they track your movements through many Web sites but not the whole Web;</li><li>
+		businesses use them for customer convenience to allow them to produce a list of items to buy and pay for them all at one time and to garner information about what individuals are buying at their sites;</li></ul></div> <ul><ul>  <li>
+		advertisers use them to determine the effectiveness of their marketing and offer insights into consumer preferences and tastes by collecting data from many Web sites; and</li><li>
+		they can be used to help a Web site tailor screens for each customer's preference.</li></ul></ul> <p><p>  
+	We will retain data the technology makes available only as long as required by law, or specific program need as specified by the National Archives and Records Administration’s General Records Schedule 20, which pertains to Electronic Records or other approved records schedule as applicable.</p></p> <div><h2>  
+Consent to Voluntary Information Collection and Sharing</h2><p>  
+	All the information users submit to NWS is done on a voluntary basis. When a user clicks the "Submit" button on any of the Web forms found on NWS's sites they are indicating voluntarily consent to the conditions outlined in this policy. We do not collect personally identifiable information (e.g., name, address, phone number, e-mail address) unless you provide it. In all cases, the information collected is used to respond to user inquiries or to provide services requested by our users. Any information provided through one of our Web forms is removed from Web servers within seconds, increasing the protection for this information.</p></div> <div><h2>  
+How e-mail is handled</h2><p>  
+	We use information you send us by e-mail only for the purpose for which it is submitted (e.g., to answer a question, to send information). In addition, if you do choose to provide information, it is only used to respond to your request (e.g., addressing a package to send you pamphlets or booklets) or to provide a service you are requesting (e.g., email notifications). Information we receive by e-mail is disclosed to the public only pursuant to the laws and policies governing the dissemination of information. However, information submitted to NWS becomes an agency record and therefore might be subject to a Freedom of Information Act request.</p></div> <div><h2>  
+How information is used:</h2><p>  
+	The information NWS collects is used for a variety of purposes (e.g., E-spotter forms, product user survey forms). We make every effort to clearly disclose at the point of collection how information is used and allow our Web site visitor to determine whether they wish to provide the information.</p></div> <div><h2>  
+How long information is retained</h2><p>  
+	We destroy the information we collect when the purpose for which it was provided has been fulfilled unless we are required to keep it longer by statute, policy or both.</p></div> <div><h2>  
+Interaction with Children</h2><p>  
+	The NWS offers educational content to children under 13. No personally identifiable information is collected from these visitors unless voluntarily submitted as a request for information or services. The information collected is used to respond to user inquiries or to provide services requested by our users.</p></div> <div><h2>  
+Privacy Act System of Records</h2><p>  
+	The NWS does not maintain and retrieve information submitted to it based upon personal identifiers (name, email addresses, etc.). Consequently, NWS Web sites do not use or collect information for any Privacy Act System of Records.</p></div> <div><h2>  
+Information Protection</h2><p>  
+	For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the information on our Web sites. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.</p></div> <p><p>  
+	Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with<a href="https://www.archives.gov/records_management/ardor/grs20.html" target="_blank">  National Archives and Records Administration General Schedule 20 </a>.</p></p> <div><h2>  
+Conditions under which the information may be shared with other Federal agencies</h2><p>  
+	NWS may share information received from its Web sites with other Federal agencies. For example, if a breach of our IT security protections were to occur, the information collected by our servers and staff could be shared with appropriate law enforcement and homeland security officials.</p></div> <div><h2>  
+Your Rights Under the Privacy Act</h2></div> <div><h2>  
+Dispute Resolution</h2><p>  
+	If for some reason you believe this site has not adhered to these principles, please notify the National Weather Service Office of the CIO by e-mail at <a href="mailto:w-nws.webmaster@noaa.gov" target="_blank"> w-nws.webmaster@noaa.gov </a>. If our web pages are not fully in compliance with our stated policies, they will be corrected.</p><p>  
+<a href="http://www.commerce.gov" target="_blank"> US Dept of Commerce </a>
+<a href="http://www.noaa.gov" target="_blank"> National Oceanic and Atmospheric Administration </a>
+<a href="https://www.weather.gov" target="_blank"> National Weather Service </a>
+                        1325 East West HighwaySilver Spring, MD 20910<a href="https://www.weather.gov/Contact" target="_blank"> Comments? Questions? Please Contact Us. </a> </p></div> <p><p>  Thank you for visiting a National Oceanic and Atmospheric Administration (NOAA) website. The link you have selected will take you to a non-U.S. Government website for additional information.</p></p> <p><p>  NOAA is not responsible for the content of any linked website not operated by NOAA. This link is provided solely for your information and convenience, and does not imply any endorsement by NOAA or the U.S. Department of Commerce of the linked website or any information, products, or services contained therein.</p></p> <div><p>  You will be redirected to: </p></div>

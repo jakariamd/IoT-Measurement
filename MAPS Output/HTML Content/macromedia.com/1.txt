@@ -1,0 +1,49 @@
+<div><h2>  Privacy settings</h2><p>  This information applies to Adobe Flash Player on desktop and notebook computers. To change Flash Player settings on mobile devices, visit the <a href="https://settings.adobe.com/flashplayer/mobile/" target="_blank"> Settings Manager for mobile devices </a>.</p></div> <div><h4>  What are privacy settings?</h4><p>  Applications that are running in Adobe Flash  Player may want to
+            have access to the camera and/or microphone available on your computer. Privacy
+            settings let you specify whether you want applications from a particular website
+            to have such access. Note that it is the person or company that has created the
+            application you are using that is requesting such access, not Adobe (unless
+            Adobe has created the application that wants access to your camera or
+            microphone). In the dialog box shown above, [website] represents the name of the
+            person or company requesting access. </p></div> <p><p>  It is the responsibility of the person or company requesting access to make
+            it clear to you why they want access and how they plan to use the audio or
+            video. You should be aware of the privacy policy of anyone who is requesting
+            audio or video access. For example, see the <a href="http://www.adobe.com/go/privacy" target="_blank"> Adobe privacy policy </a>. Contact the website
+            requesting access for information on their privacy policy.</p></p> <p><p>  It's important to understand that even though this settings panel is part of
+            Flash Player, the audio and video will be used by an application
+            created by a third party. Adobe assumes no responsibility for third-party
+            privacy policies, actions of third-party companies in capturing audio or video
+            on your computer, or such companies' use of such data or information.</p></p> <div><h4>  What happens if I select Allow?</h4><p>  If you select Allow, the application can capture what your camera sees and
+            your microphone hears, until you close the application. </p><p>  The application may want to broadcast the video and audio to other people who
+            are viewing or hearing the application you are running — for example, during an
+            interactive meeting. The application may also be recording the video and audio
+            for later playback, so someone who can't attend the meeting can review it later.</p></div> <p><p>  It is also possible that the application wants to make the video and audio
+            available only for you to see and hear — for example, to let you know how you look
+            and sound while rehearsing a speech. In this case, the application does not
+            broadcast or record the video and audio; it simply captures what you are doing
+            while you are doing it. </p></p> <p><p>  As discussed in <a href="#117705" target="_blank"> What
+            are privacy settings? </a> above, it is the responsibility of the website
+            requesting access to make it clear to you why they want access and how they plan
+            to use the audio or video. For example, will it be recorded or is it only
+            available live? If it will be recorded, who will have access to it in the
+            future? Will it be deleted after a certain period of time? The privacy policy of
+            anyone who is requesting audio or video access should address these sorts of
+            issues.</p></p> <div><h4>  What happens if I select Deny?</h4><p>  If you select Deny, the application does not have access to your camera or
+            your microphone. The application will continue running, but may not function as
+            intended. Alternately, the application may inform you that it can't continue
+            unless you allow access, in which case you can either allow access or close the
+            application.</p></div> <div><h4>  What does Remember mean?</h4><p>  If you select Remember, your selection to allow or deny access applies to all
+            applications from this website, not just the application that is currently
+            running. That is, Flash Player won't ask you again if applications from this
+            website can have access to your camera and microphone. </p><p>  If you don't select Remember, your selection to allow or deny access applies
+            only while the application is running. That is, if you run this application
+            again, or any other application from this website, Flash Player will again ask
+            you to allow or deny access to your camera and microphone.</p></div> <div><h4>  How can I redisplay this panel to change my privacy
+            settings?</h4><p>  You may want to change your privacy settings if, for example, you selected
+            Remember and then want to change your Allow or Deny answer. To redisplay the
+            Privacy Settings panel:</p><ul>  <li>Right-click (Windows) or Control-click (Macintosh) the application image
+                while the application is running.  </li><li>From the context menu, select Settings, and then click the Privacy tab.
+                 </li></ul></div> <div><h4>  I don't see the Privacy tab, so I can't display this
+            panel.</h4><p>  If your computer or device doesn't support audio or video recording using
+            Flash Player, you don't need to allow or deny access, and this panel doesn't
+            appear.</p><span>  United States <a href="/go/gffooter_choose_region" target="_blank"> (Change) </a></span><span>  Choose your region</span><p>  Americas</p><p>  Europe, Middle East and Africa</p><p>  Asia Pacific</p><p>  Commonwealth of Independent States</p></div> <p><p>  Copyright © 2023 Adobe Systems Incorporated.  All rights reserved.</p></p>

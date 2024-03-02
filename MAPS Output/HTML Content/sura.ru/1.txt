@@ -1,0 +1,199 @@
+<div><td>  <b> Authentication Information </b>
+</td><td>  <font> Login:  </font><font> Ваш 
+                    логин, для входа: </font>
+
+</td><td>  <font> Minimum 3 characters, not case-sensitive. </font>
+<font> Минимум 3 символа, не чуствительно 
+                    к регистру. </font></td><td>  <font> Password: </font><font>  
+                    Ваш пароль: </font>
+
+</td><td>  <font> Minimum 4 characters, 
+                    letters and numbers only. Password is case-sensitive. </font>
+<font>  Мимимум 4 символа, чуствительно 
+                    к регистру! </font></td></div> <td><td>  <font> Verify password:  </font><font>  
+                    Ваш пароль, еще раз: </font>
+
+</td></td> <td><td>  <b> First, tell us where we can send your checks </b>
+</td></td> <div><td>  <font> First name: </font><font>  
+                    Ваше имя: </font>
+
+</td><td>  <font> Last name: </font><font>  
+                    Ваша фамилия: </font>
+
+</td><td>  <font> Street address:  </font><font> Адресс, 
+                    куда слать чек. </font>
+
+
+
+</td><td>  <font> City:  </font><font>  
+                    Город, куда слать чек: </font>
+
+</td><td>  <font> Zip/Postal code:  </font><font> Почтовый 
+                    индекс: </font>
+
+</td><td>  <font> State: </font>
+<font>  Штат, ничего не меняйте! </font>
+
+</td></div> <td><td>  <font> U.S. residents 
+                    only. </font>
+<font>  Только для тех, кто живеш в 
+                    США! </font></td></td> <div><td>   <font> Province: 
+                     </font><font> Провниция: </font>
+
+</td><td>  <font> This field is  </font><font> optional. </font><font>  Здесь можно ничего не вводить... </font></td><td>  <font> Country:  </font><font> Страна, 
+                    нужно выбрать из списка: </font>
+
+</td><td>  <font> U.S. residents 
+                    must also select their state. </font></td><td>  <font> E-mail address: </font><font>  
+                    Ваш e-mail: </font>
+
+</td><td>  <font> A valid and existing e-mail address 
+                    up to 200 characters long. Here you will receive confirmation 
+                    about your registration. </font></td></div> <div><td>  <font> Verify e-mail address:  </font><font> Ваш 
+                    e-mail еще раз: </font>
+
+</td><td>  <b> Now, please tell us more about yourself </b>
+</td><td>  <font> Age: </font> <font> Ваш 
+                    возраст: </font>
+
+
+</td><td>  <font> Gender: </font> <font> Ваш 
+                    пол: </font>
+
+
+</td><td>  <font> Education: </font><font>  
+                    Ваше образование: </font>
+
+
+</td><td>  <font> Annual household 
+                    income:  </font><font> Ваш годовой доход. </font>
+
+
+</td></div> <div><td>  <b> Additional Information </b>
+</td><td>  <font> Please 
+                    tell us why you use Internet: (check all that apply) </font>
+<font> Что Вас интересут в инетернете, 
+                    чем больше - тем лучше! </font> </td><td>  
+
+<font>  Chat </font>
+
+<font> Current Events and News </font>
+
+<font>  E-mail </font>
+
+<font>  Entertainment </font>
+
+<font>  Gaming </font>
+
+<font>  Health and Fitness </font>
+
+<font>  Job Search </font>
+
+<font>  Maps and Directions </font>
+
+<font>  Parenting </font>
+
+<font>  Research </font>
+
+<font>  School </font></td></div> <td><td>  
+
+<font>  Small Business </font>
+
+<font>  Special Offers and Discounts </font>
+
+<font>  Sports: News and Events </font>
+
+<font>  Stock Quotes, Financial News </font>
+
+<font>  Technology News </font>
+
+<font>  Travel </font>
+
+<font>  Weather Updates </font>
+
+<font>  Women's Issues </font>
+
+<font>  Work Related Issues </font>
+
+<font>  Other </font></td></td> <td><td>  <font> What 
+                    do you search for or buy online: (check all that apply) </font>
+<font>  Что вы ищете и покупаете через 
+                    интернет, лучше тоже отметить побольше, кроме последнего. </font>
+</td></td> <td><td>  
+
+<font> Automobiles and Accessories </font>
+
+<font>  Books and Magazines </font>
+
+<font>  Clothing and Accessories </font>
+
+<font>  Computer hardware </font>
+
+<font>  Concert and Event Tickets </font>
+
+<font>  Consumer Electronics </font>
+
+<font>  Insurance </font>
+
+<font>  Loans, Credit card applications </font>
+
+<font>  Music, Video, DVD </font></td></td> <div><td>  
+
+<font> Office supplies and equipment </font>
+
+<font>  Pet supplies </font>
+
+<font>  Software </font>
+
+<font>  Sporting goods </font>
+
+<font>  Stocks </font>
+
+<font>  Toys and Games </font>
+
+<font>  Travel accommodations:Air/Car/Hotel </font>
+
+<font>  Other </font>
+
+<font>  Never Purchased Online </font></td><td>  
+
+<font> Earn cash by subscribing to receive 
+                          email from our partners with special offers and announcements. 
+                          Please read our Privacy Policy and be assured that your e-mail address will 
+                          be kept confidential. </font><font>  Галочка означает, что 
+                          вы желаете получать дополнительные деньги за получение 
+                          писем (от них можно отписаться в любой момент). </font>
+</td></div> <div><td>  <b> Payment Information </b>
+</td><td>  <font> Preferred check size:  </font><font>  
+                    Минимальная сумма выписываемого Вам чека: </font>
+
+</td><td>  <b> Referral Information </b>
+</td><td>  <font> Referred by:  </font><font> От 
+                    кого Вы пришли: </font>
+
+</td><td>  <font>  Проследите, что 
+                    бы было написано  </font><b> setlana </b></td><td>    
+                    
+
+<font> Before you submit your registration, please take 
+                    a few minutes to read CashFiesta's Member Agreement. </font><font> 
+                    I have read and understand the Member Agreement. </font><font>  Здесь обязательно поставьте 
+                    галочку, иначе регистрация не пройдет! </font>
+
+</td></div> <div><td>  <font> Когда все 
+                    готово - жмите кнопку </font> 
+
+</td><p>    
+          </p><p>  <font> Имя, фамилию 
+        и адрес, естественно, заполняются на английском. </font><font> 
+        Ваши имя, фамилия и весь адрес должны бать настоящими, именно туда и на 
+        этого человека будет выслан чек. Не пытайтесь обмануть сами себя. После 
+        того как Вы нажали на кнопку подтверждения, и если Вы не допустили ошибок 
+        в процессе регистрации, должна загрузиться страничка с предложением войти 
+        в систему ( LOGIN ). Если по каким либо причинам она не загрузилась, значит 
+        Вы что-то не верно ввели при регистрации - проверьте все еще раз и повторите 
+        операцию. </font></p></div> <p><p>  <font> После успешного 
+        входа в систему Вам необходимо скачать сам  </font><font> CashFiesta Bar </font><font> , специальную 
+        панель для показов банеров. Нажмите на кораблик рядом с надписью  </font><font> Download </font></p></p> <p><p>  <font> Откроется 
+        новое окно, где нужно нажать на выделенное слово  </font><font> Download </font><font>  и процесс 
+        скачивания начнется в обычном режиме. </font></p></p> <div><td>  </td></div>

@@ -1,0 +1,33 @@
+<div><ul>  <li>
+        Learn
+      </li><li>
+        Support
+      </li><li>Menu</li><li>Menu</li><li>
+        Learn
+      </li><li>
+        Support
+      </li></ul></div> <div><h5>  
+      Why Hive
+    </h5></div> <div><h5>  
+      Apps
+    </h5></div> <div><h5>  
+      Works With
+    </h5></div> <div><h5>  
+                Learn
+              </h5></div> <div><h5>  
+                  Learn
+                </h5></div> <div><h5>  
+                Why Hive
+              </h5></div> <div><h5>  
+                Apps
+              </h5></div> <div><h5>  
+                Works With
+              </h5></div> <div><h5>  Support</h5><span>  Personal Info</span><span>  Address Book</span><span>  Orders & Returns</span><span>  Subscriptions & Plans</span><span>  Payment Methods</span><span>  Invoices</span><span>  Log Out</span></div> <div><h1>  Privacy Policy</h1><p>  Together we can end domestic abuse</p></div> <div><h5>  Support</h5></div> <div><h5>  About Hive</h5></div> <div><h5>  Our Policies</h5></div> <div><h5>  Get the free app</h5></div> <div><h5>  Follow us</h5><p>  
+            © 2023 Centrica Hive US, Inc. 12 Greenway Plaza, Ste 250, Houston TX 77046. All rights reserved.
+          </p><span>  US</span><ul>  <li>UK</li><li>Ireland</li></ul></div> <div><h5>  Dev Tools</h5><label>  
+            Debug UI Widgets
+          </label><label>  
+            Include 3rd party scripts
+          </label><label>  
+            Include Adobe DTM Script
+          </label></div> <div><h5>  AB tests</h5></div> <div><h5>  Environments</h5><span>  Live chat:</span><span>  Get support</span></div>

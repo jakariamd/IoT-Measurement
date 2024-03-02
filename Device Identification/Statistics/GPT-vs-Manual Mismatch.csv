@@ -1,0 +1,217 @@
+device_id,gpt_clean_vendor,gpt_clean_type,gpt_generic_category,vendor_name,man_generic_category,inspected,validate
+0,amazon,Doorbell,Surveillance,apple,Media/TV,1,FALSE
+0,amazon,VoIP Adaptor,Work Appliance,grandstream,Work Appliance,1,FALSE
+0,amc,IP Camera,Surveillance,amcrest,Surveillance,1,FALSE
+0,amc,IP Camera,Surveillance,amcrest,Surveillance,1,FALSE
+0,amc,IP Camera,Surveillance,amcrest,Surveillance,1,FALSE
+0,amc,Security Camera,Surveillance,amcrest,Surveillance,1,FALSE
+0,apple,Google Cast,Media/TV,google,Media/TV,1,FALSE
+0,aqara,Smart Home Hub,Home Automation,xiaomi,Home Automation,1,FALSE
+0,askey,InternetGatewayDevice,Router,swisscom,Router,1,FALSE
+0,asus,Computer,Computer,asustek,Computer,1,FALSE
+0,asus,Desktop Computer,Computer,asustek,Computer,1,FALSE
+0,asus,Desktop PC,Computer,asustek,Computer,1,FALSE
+0,asus,Router,Router,asustek,Router,1,FALSE
+0,asus,Streaming Device,Media/TV,asustek,Computer,1,FALSE
+0,avm,hp_printer,Work Appliance,hp,Work Appliance,1,FALSE
+0,axiscommunications,Network Camera,Surveillance,axis,Surveillance,1,FALSE
+0,axiscommunications,Security Camera,Surveillance,axis,Surveillance,1,FALSE
+0,azurewave,Media Streaming Device,Media/TV,google,Media/TV,1,FALSE
+0,azurewave,Media Streaming Device,Media/TV,google,Media/TV,1,FALSE
+0,ciscolinksys,VoIP Router,Work Appliance,cisco,Work Appliance,1,FALSE
+0,connect,ConnectSense Outlet,Home Automation,connectsense,Home Automation,1,FALSE
+0,connect,Homekit,Home Automation,connectsense,Home Automation,1,FALSE
+0,connect,Homekit,Home Automation,connectsense,Home Automation,1,FALSE
+0,connect,Homekit,Home Automation,connectsense,Home Automation,1,FALSE
+0,connect,Smart Outlet,Home Automation,connectsense,Home Automation,1,FALSE
+0,devolo,WLANAccessPointDevice,Router,ubiquiti,Router,1,FALSE
+0,devolo,WLANAccessPointDevice,Router,ubiquiti,Router,1,FALSE
+0,devolo,WLANAccessPointDevice,Router,ubiquiti,Router,1,FALSE
+0,directv,Media Server,Media/TV,arris,Media/TV,1,FALSE
+0,echostar,Set-Top Box,Media/TV,dish,Media/TV,1,FALSE
+0,echostar,TV Settop Box,Media/TV,dish,Media/TV,1,FALSE
+0,echostar,TV Settop Box,Media/TV,dish,Media/TV,1,FALSE
+0,frontiersilicon,Internet Radio,Media/TV,hama,Media/TV,1,FALSE
+0,google,Android Device,Mobile Device,lenovo,Mobile Device,1,FALSE
+0,google,Google Cast,Media/TV,amazon,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,harmankardon,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,nvidia,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,nvidia,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,nvidia,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,nvidia,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,salcomp,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,xiaomi,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,xiaomi,Media/TV,1,FALSE
+0,google,Google Cast,Media/TV,xiaomi,Media/TV,1,FALSE
+0,google,Google Cast and HomeKit,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Media Player,Media/TV,intel,Computer,1,FALSE
+0,google,Media Player,Media/TV,xiaomi,Media/TV,1,FALSE
+0,google,Media Streaming Device,Media/TV,amazon,Voice Assistant,1,FALSE
+0,google,Smart Speaker,Voice Assistant,insignia,Media/TV,1,FALSE
+0,google,Smart Speaker,Voice Assistant,insignia,Media/TV,1,FALSE
+0,google,Smart Speaker,Voice Assistant,riva,Media/TV,1,FALSE
+0,google,Smart Speaker,Voice Assistant,riva,Media/TV,1,FALSE
+0,google,Soundbar,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Television,Media/TV,vizio,Media/TV,1,FALSE
+0,google,Television,Media/TV,vizio,Media/TV,1,FALSE
+0,lightwave,Homekit,Home Automation,lightwaverf,Home Automation,1,FALSE
+0,lightwave,Homekit,Home Automation,lightwaverf,Home Automation,1,FALSE
+0,linksys,Network Attached Storage (NAS),Storage,ciscolinksys,Storage,1,FALSE
+0,linksys,Router,Router,belkin,Router,1,FALSE
+0,linksys,WiFi Router,Router,belkin,Router,1,FALSE
+0,linksys,Wireless Access Point,Router,belkin,Router,1,FALSE
+0,microsoft,Computer,Computer,asustek,Computer,1,FALSE
+0,microsoft,Computer,Computer,intel,Computer,1,FALSE
+0,microsoft,DLNA_DMS,Storage,asustek,Computer,1,FALSE
+0,microsoft,DLNA_DMS,Storage,asustek,Computer,1,FALSE
+0,microsoft,DLNA_DMS,Storage,asustek,Computer,1,FALSE
+0,microsoft,DLNA_DMS,Storage,intel,Computer,1,FALSE
+0,microsoft,DLNA_DMS,Storage,intel,Computer,1,FALSE
+0,microsoft,DLNA_DMS,Storage,intel,Computer,1,FALSE
+0,microsoft,DLNA_DMS,Storage,intel,Computer,1,FALSE
+0,microsoft,Streaming Device,Media/TV,sony,Game Console,1,FALSE
+0,naimaudio,Audio Device,Media/TV,naim,Media/TV,1,FALSE
+0,naimaudio,Audio Receiver,Media/TV,naim,Media/TV,1,FALSE
+0,naimaudio,Smart Speaker,Media/TV,naim,Media/TV,1,FALSE
+0,netatmo,Security Camera,Surveillance,netarmo,Surveillance,1,FALSE
+0,oj,Thermostat,Home Automation,ojelectronics,Home Automation,1,FALSE
+0,olufsen,Speaker,Media/TV,bang&olufsen,Media/TV,1,FALSE
+0,olufsen,Streaming Device,Media/TV,bang&olufsen,Media/TV,1,FALSE
+0,pioneer,AV Receiver,Media/TV,onkyo,Media/TV,1,FALSE
+0,pioneer,AV Receiver,Media/TV,onkyo,Media/TV,1,FALSE
+0,pioneer,AV Receiver,Media/TV,onkyo,Media/TV,1,FALSE
+0,plex,DLNA_DMS,Storage,ciscolinksys,Storage,1,FALSE
+0,plex,DLNA_DMS,Storage,intel,Computer,1,FALSE
+0,plex,DLNA_DMS,Storage,netgear,Storage,1,FALSE
+0,plex,DLNA_DMS,Storage,synology,Storage,1,FALSE
+0,plex,DLNA_DMS,Storage,synology,Storage,1,FALSE
+0,plex,DVR (Digital Video Recorder),Media/TV,hp,Computer,1,FALSE
+0,plex,Media Gateway,Media/TV,synology,Storage,1,FALSE
+0,plex,Media Server,Media/TV,apple,Computer,1,FALSE
+0,plex,Media Server,Media/TV,synology,Storage,1,FALSE
+0,plex,Media Server,Media/TV,westerndigital,Storage,1,FALSE
+0,plex,Network Attached Storage (NAS),Storage,apple,Computer,1,FALSE
+0,plex,Plex Media Server,Media/TV,netgear,Storage,1,FALSE
+0,plex,Plex Media Server,Media/TV,synology,Storage,1,FALSE
+0,rach,Homekit,Generic IoT,rachio,Generic IoT,1,FALSE
+0,rach,Sprinkler Controller,Generic IoT,rachio,Generic IoT,1,FALSE
+0,roku,Roku,Media/TV,insignia,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,sharp,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,sharp,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Roku,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,element,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,insignia,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Smart TV,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Television,Media/TV,insignia,Media/TV,1,FALSE
+0,roku,Television,Media/TV,insignia,Media/TV,1,FALSE
+0,roku,Television,Media/TV,sharp,Media/TV,1,FALSE
+0,roku,Television,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Television,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Television,Media/TV,tcl,Media/TV,1,FALSE
+0,roku,Television,Media/TV,tcl,Media/TV,1,FALSE
+0,samsung,Lightswitch,Home Automation,belkin,Home Automation,1,FALSE
+0,samsung,Printer,Work Appliance,amazon,Voice Assistant,1,FALSE
+0,samsung,Smart Home Hub,Home Automation,wink,Home Automation,1,FALSE
+0,samsung,Smartphone,Mobile Device,sansung,Mobile Device,1,FALSE
+0,sensi,Homekit,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Homekit,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Homekit,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Homekit,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Homekit,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Homekit,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Thermostat,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Thermostat,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Thermostat,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Thermostat,Home Automation,emerson,Home Automation,1,FALSE
+0,sensi,Thermostat,Home Automation,emerson,Home Automation,1,FALSE
+0,sharp,Television,Media/TV,roku,Media/TV,1,FALSE
+0,simplisafe,Doorbell Camera,Surveillance,insignia,Home Automation,1,FALSE
+0,sky,Router,Router,bskyb,Router,1,FALSE
+0,sky,Set-Top Box,Media/TV,hdtv,Media/TV,1,FALSE
+0,sky,Set-top Box,Media/TV,humax,Media/TV,1,FALSE
+0,spotify,Gaming Console,Other,sony,Game Console,1,FALSE
+0,spotify,Smart TV,Media/TV,roku,Media/TV,1,FALSE
+0,spotify,Smart TV,Media/TV,roku,Media/TV,1,FALSE
+0,spotify,Speaker,Media/TV,bose,Media/TV,1,FALSE
+0,spotify,Spotify Connect,Media/TV,amazon,Media/TV,1,FALSE
+0,spotify,Spotify Connect,Media/TV,apple,Media/TV,1,FALSE
+0,spotify,Spotify Connect,Media/TV,onkyo,Media/TV,1,FALSE
+0,spotify,Spotify Connect,Media/TV,roku,Media/TV,1,FALSE
+0,spotify,Spotify Connect,Media/TV,roku,Media/TV,1,FALSE
+0,spotify,Spotify Connect,Media/TV,roku,Media/TV,1,FALSE
+0,spotify,Spotify Connect,Media/TV,roku,Media/TV,1,FALSE
+0,spotify,Spotify Connect,Media/TV,sony,Media/TV,1,FALSE
+0,spotify,Spotify Connect,Media/TV,sony,Game Console,1,FALSE
+0,spotify,Spotify Connect,Media/TV,sony,Media/TV,1,FALSE
+0,spotify,Spotify Connect and Google Cast,Media/TV,nvidia,Media/TV,1,FALSE
+0,spotify,"Spotify Connect, Google Cast",Media/TV,sdmc,Media/TV,1,FALSE
+0,spotify,Television,Media/TV,roku,Media/TV,1,FALSE
+0,tcl,Smart TV,Media/TV,roku,Media/TV,1,FALSE
+0,tcl,Smart TV,Media/TV,roku,Media/TV,1,FALSE
+0,tplink,InternetGatewayDevice,Router,logitech,Router,1,FALSE
+0,tplink,InternetGatewayDevice,Router,logitech,Router,1,FALSE
+0,verizon,Smart TV,Media/TV,panasonic,Media/TV,1,FALSE
+0,vizio,Google Cast and Homekit,Media/TV,google,Media/TV,1,FALSE
+0,vocol,Homekit,Home Automation,vocolinc,Home Automation,1,FALSE
+0,vocol,Homekit,Home Automation,vocolinc,Home Automation,1,FALSE
+0,vocol,Homekit,Home Automation,vocolinc,Home Automation,1,FALSE
+0,vocol,Homekit,Home Automation,vocolinc,Home Appliance,1,FALSE
+0,vocol,Smart Lighting,Home Automation,vocolinc,Home Automation,1,FALSE
+0,vocol,Smart Plug,Home Automation,vocolinc,Home Automation,1,FALSE
+0,western,Network Attached Storage (NAS),Storage,westerndigital,Storage,1,FALSE
+0,wistronneweb,Digital TV Receiver,Media/TV,directv,Media/TV,1,FALSE
+0,wistronneweb,Gaming Console,Game Console,sony,Game Console,1,FALSE
+0,wyze,Security Camera,Surveillance,ismart,Surveillance,1,FALSE
+0,wyze,Security Camera,Surveillance,ismart,Surveillance,1,FALSE
+0,wyze,Security Camera,Surveillance,ismart,Surveillance,1,FALSE
+0,xiaomi,Media Streaming Device,Media/TV,beijing,Computer,1,FALSE

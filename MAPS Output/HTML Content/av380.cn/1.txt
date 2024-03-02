@@ -1,0 +1,3 @@
+<p><p>  <font> In order to protect customer privacy and improve system security, you must set a password to connect to the device. When the </font>
+</p></p> <span><span>  <font>  device password is empty, opening the real-time preview will pop up a security prompt. Click  </font><font> [Set Password] </font><font>  to set a password for the device  </font><font> (as shown below) </font>
+</span></span> <div><h1>  原文</h1><span>  提供更好的翻译建议</span><span>  </span></div>

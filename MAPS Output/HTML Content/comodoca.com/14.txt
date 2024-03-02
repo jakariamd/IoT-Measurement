@@ -1,0 +1,448 @@
+<div><h1>  SolarWinds Privacy Notice</h1></div> <div><h2>  Last updated 6 December 2022</h2><p>  SolarWinds Corporation US, SolarWinds Worldwide, LLC, SolarWinds Software Europe DAC and our affiliated companies
+                                     and subsidiaries (“<strong> SolarWinds </strong>,” “<strong> we </strong>,” “<strong> us </strong>” or
+                                     “<strong> our </strong>”) recognize the importance of privacy, security, and transparency. In this Privacy Notice,
+                                      we explain how we collect, use, and disclose Personal Data as a “controller” or a “business” and the choices
+                                     individuals have regarding their Personal Data. We also explain your rights as a data subject (or consumer) and
+                                      how to get in touch with us regarding our processing of your Personal Data.
+                                    </p></div> <p><p>  Further information about SolarWinds’ efforts and commitment to data privacy and security can be found in our
+                                    <strong> Security Statement </strong> and on the SolarWinds
+                                     <strong> website </strong>.
+                                     For a list of our affiliated companies please refer to our 
+                                    <strong> Sub-Processor List </strong>.
+</p></p> <div><h2>  Our Services</h2><p>  SolarWinds services include IT management and monitoring solutions, such as network, systems and database management, 
+                                    security solutions, applications and infrastructure monitoring (“<strong> Services </strong>”), which may be offered or purchased, directly and through distributors and resellers.
+</p></div> <div><h2>  Scope of this Privacy Notice/Overview</h2><p>  SolarWinds collects Personal Data as part of its normal business operations and in the administration of customer
+                                    relationships. “<strong> Customers </strong>” include our customers and visitors to the SolarWinds website(s), our
+                                    business partners, and individuals who register to use our products and Services, or to attend corporate events.
+                                    References to “<strong> Personal Data </strong>” in this Privacy Notice means information that identifies or
+                                    relates to an identifiable individual or is linked or reasonably linkable to an individual.</p></div> <p><p>  This Privacy Notice applies to and describes the Personal Data that we collect as a “data controller” or a
+                                    “business,” including the Personal Data that we collect about:</p></p> <ul><ul>  <li>Visitors of the SolarWinds website(s);</li><li>Business partners;</li><li>Individuals who register to use our products and Services;</li><li>Individuals who register for or attend our webinars, conferences, and other events; or</li><li>Other individuals who communicate or interact with us about our products, Services, or business.</li></ul></ul> <p><p>  This Privacy Notice does not apply to the Personal Data that we collect and process about employees, applicants
+                                    and contractors; different privacy notices apply to those data sets. Further, this Privacy Notice does not apply
+                                    to the Personal Data that we receive, process or store on behalf of our Customers (“<strong> Customer
+                                    Data </strong>”), as further explained below.
+</p></p> <div><h2>  Customer Data</h2><p>  We are a “processor” or “service provider” for Customer Data and process Customer Data on behalf of and in
+                                    accordance with the instructions of our Customers, who are the “controllers” or “businesses” for their
+                                    respective Customer Data. Customer Data is owned and controlled by our Customers. Customer Data may include
+                                    information from the end points and other systems, tools, or devices that Customers manage or monitor using our
+                                    Services, and end user data related to activities on the relevant networks and systems. It may also include
+                                    event logs, end user information (such as IP address, email address and computer name), and other Personal Data,
+                                    where relevant. Our Customers’ respective privacy policies apply to and govern the processing of Customer Data,
+                                    not this Privacy Notice. For privacy information related to Customer Data, please reach out to the Customer
+                                    directly. Our Customers’ privacy and security practices are their own and differ from those set forth in this
+                                    Privacy Notice.
+</p></div> <div><h2>  Other Notices</h2><p>  Additional disclosures or information about processing of Personal Data related to specific websites, mobile applications, products, 
+                                    services, or programs may be provided to you. These may supplement and/or clarify SolarWinds privacy practices in specific circumstances and provide you with additional 
+                                    choices as to how SolarWinds may process your Personal Data.
+</p></div> <div><h2>  Categories of Personal Data Collected</h2><p>  The Personal Data we collect, and how we use it, varies depending upon the nature of our relationship and
+                                    interactions with you. We collect the following types of Personal Data:</p><ul>  <li><strong> Identifiers: </strong> includes direct identifiers, such as name, username, account name, address, phone
+                                            number, email address, online identifiers, IP address, or other similar identifiers.</li><li><strong> Customer records: </strong> includes Personal Data, such as name, signature, contact information, and payment
+                                            information that individuals provide us in order to purchase or obtain our products and Services. We may
+                                            also collect billing address, financial accounts, credit card information, order details, subscription and
+                                            license information, and usage details. In addition, we collect user credentials and profile data (name,
+                                            contact, authorized users).</li></ul></div> <ul><ul>  <li><strong> Customer Support and Service information: </strong> when Customers contact us for support or other customer
+                                            service requests, we maintain support tickets and other records related to the requests. We may also collect
+                                            call recordings related to support and customer service-related calls.</li><li><strong> Commercial information: </strong> includes records, products, or Services purchased, obtained, or considered,
+                                            or other purchasing or use histories.</li></ul></ul> <ul><ul>  <li><strong> Usage details: </strong> we collect information about Customers’ usage of our Services, including IP address,
+                                            Customer ID, email address, domain, date time and duration of visits to our websites, page visits,
+                                            information about your computer or device including browser type, and other usage statistics, such as
+                                            browsing history, clickstream data, search history, access logs, and other usage data and information
+                                            regarding an individual’s interaction with our websites and Services, our marketing emails and online ads.
+                                        </li></ul></ul> <ul><ul>  <li><strong> Geolocation data: </strong> includes precise location information about a particular individual or device.</li><li><strong> Audio, video and electronic data: </strong> includes audio, electronic, visual, or similar information, such
+                                            as CCTV
+                                            footage (e.g., collected from visitors to our offices) and call recordings (e.g. of Customer support calls).
+                                        </li><li><strong> Professional information: </strong> includes professional and employment-related information, such as current
+                                            and former employer(s) and position(s) and business contact information.</li></ul></ul> <ul><ul>  <li><strong> Inferences: </strong> includes inferences drawn from other personal information that we collect to create a
+                                            profile reflecting an individual’s preferences, behavior, or other characteristics. For example, we may
+                                            analyze Personal Data in order to identify the offers and information that may be most relevant to
+                                            Customers, so that we can better reach them with relevant offers and ads.
+</li></ul></ul> <div><h2>  Use of Personal Data</h2><p>  Certain laws, including the GDPR and UK GDPR, require that we inform you of the purposes for using your Personal
+                                    Data and the legal bases for this processing. The following table explains why we process particular categories
+                                    of Personal Data.</p><td>  <strong> Purpose of use </strong></td><td>  <strong> Category of Personal Data used </strong></td><td>  <strong> Legal basis for use </strong></td></div> <td><td>  
+<strong> Operating websites and Services and providing related support: </strong> to provide and
+                                                        operate the Services, communicate with you about your use of the Services, provide
+                                                        troubleshooting
+                                                        and technical support, respond to your inquiries, fulfill your orders and requests, process your
+                                                        payments, communicate with you, and for similar service and support purposes.
+                                                    </td></td> <div><ul>  <li>Identifiers</li><li>Customer records
+</li></ul><td>  
+                                                        Performance of our contract with you
+                                                    </td><td>  
+<strong> Responding to requests: </strong> to respond to your inquiries and requests.
+                                                    </td><ul>  <li>Identifiers</li><li>Customer records</li><li>Customer Support and Service information</li><li>Commercial information</li><li>Usage details</li><li>Geolocation data</li><li>Audio, video and electronic data
+</li></ul></div> <div><td>  Performance of our contract with you</td><td>  <strong> Analyzing and improving our websites, the Services, and our business: </strong> to better
+                                                        understand how you access and use the Services, in order to administer, monitor, and improve our
+                                                        Services, for our internal purposes, and for other research and analytical purposes including
+                                                        machine
+                                                        learning, and artificial intelligence.</td></div> <ul><ul>  <li>Identifiers</li><li>Customer records</li><li>Customer Support and Service information</li><li>Commercial information</li><li>Usage details</li><li>Geolocation data</li><li>Audio, video and electronic data</li><li>Inferences
+</li></ul></ul> <div><td>  Our legitimate interests</td><td>  <strong> Personalizing experiences: </strong> to tailor content we may send or display on our
+                                                        websites, including to offer location customization and personalized help and instructions, and
+                                                        to
+                                                        otherwise personalize your experiences.</td><ul>  <li>Identifiers</li><li>Customer records</li><li>Customer Support and Service information</li><li>Commercial information</li><li>Usage details</li><li>Geolocation data</li><li>Audio, video and electronic data</li><li>Inferences
+</li></ul></div> <div><td>  Our legitimate interests</td><td>  <strong> Advertising and marketing to Customers: </strong> to promote our Services on third party
+                                                        websites, as well as for direct marketing purposes, including sending you newsletters, Customer
+                                                        alerts and information we think may interest you.</td><ul>  <li>Identifiers</li><li>Customer records</li><li>Customer Support and Service information</li><li>Commercial information</li><li>Usage details</li><li>Geolocation data</li><li>Audio, video and electronic data</li><li>Inferences
+</li></ul></div> <td><td>  Our legitimate interests and/or with your consent, where required</td></td> <td><td>  <strong> Protecting our legal rights and preventing misuse: </strong> to protect the Services and
+                                                        our
+                                                        business operations; to prevent, detect and investigate fraud, misuse, harassment or other types
+                                                        of
+                                                        unlawful activities; where we believe necessary to investigate, prevent or take action regarding
+                                                        illegal activities, suspected fraud, situations involving potential threats to the safety or
+                                                        legal
+                                                        rights of any person or third party, or violations of this policy and our applicable agreements
+                                                        and
+                                                        terms of use.</td></td> <div><ul>  <li>Identifiers</li><li>Customer records</li><li>Customer Support and Service information</li><li>Commercial information</li><li>Usage details</li><li>Geolocation data
+</li></ul><td>  Our legitimate interests and/or compliance with laws</td><td>  <strong> Complying with legal obligations: </strong> to comply with the law or legal proceedings.
+                                                        For
+                                                        example, we may disclose information in response to subpoenas, court orders, and other lawful
+                                                        requests by regulators and law enforcement, including responding to national security or law
+                                                        enforcement disclosure requirements.</td></div> <div><ul>  <li>Identifiers</li><li>Customer records</li><li>Commercial information</li><li>Usage details</li><li>Professional information
+</li></ul><td>  Our legitimate interests; and/or compliance with laws</td><td>  <strong> Related to our general business operations: </strong> to consider and implement mergers,
+                                                        acquisitions, reorganizations, and other business transactions, and where necessary to the
+                                                        administration of our general business, accounting, recordkeeping and legal functions.</td></div> <div><ul>  <li>Identifiers</li><li>Customer records</li><li>Customer Support and Service information</li><li>Commercial information</li><li>Usage details</li><li>Professional information
+</li></ul><td>  Our legitimate interests; and/or compliance with laws</td><p>  <strong> Legitimate Interests. </strong> In all cases where legitimate interests are relied upon as a lawful
+                                        basis, we take steps to ensure that our legitimate interests are not outweighed by any prejudice to your rights
+                                        and freedoms. This is achieved in a number of ways, including the application of principles of data minimization
+                                        and security, and by taking steps to ensure that Personal Data is collected only where it is relevant and is
+                                        reasonably necessary for the legitimate purposes for which we use it.</p></div> <p><p>  <strong> Compliance with a legal obligation. </strong> As outlined above, we may process information to
+                                        comply with a legal obligation including, for example, to access, preserve or disclose certain information if
+                                        there is a valid legal request. Please contact us if you have questions on the laws that may require us to
+                                        process information including Personal Data.</p></p> <p><p>  <strong> California Residents. </strong> If you are a California resident, please be sure to review the
+                                        section Additional Information for Individuals in Certain Jurisdictions below for important information about
+                                        our privacy practices and your rights under California privacy laws, including your right to submit a “Do not
+                                        sell my personal information” request.
+</p></p> <div><h2>  How We Collect Personal Data</h2><p>  SolarWinds collects Personal Data through its normal business operations and in the administration of Customer
+                                    relationships, which may include:</p><ul>  <li>
+<strong> Data Submitted on Websites. </strong> In order to enjoy the full functionality of the websites or to conduct
+                                        business with us, you may be prompted to provide certain Personal Data to us:
+                                        </li><li>By filling in forms (for example, a “Contact Us” form) on our websites, at a trade show, or
+                                                anywhere else we conduct business;</li><li>By downloading or accessing the SolarWinds Services;</li></ul></div> <ul><ul>  <li>By downloading documentation from our websites;</li><li>By subscribing to newsletters or other communications; or</li><li>By corresponding with us by phone, e-mail, or otherwise using our contact details. Typically,
+                                                Personal Data includes name, business affiliation, business address, telephone number, and email
+                                                address, and any other personal details provided or required to resolve inquiries or complaints.
+                                            
+</li></ul></ul> <ul><ul>  <li>
+<strong> Customer Support and Service. </strong> When Customers contact us for support or other customer service
+                                        requests, we maintain support tickets and other records related to the requests. We may also collect call
+                                        recordings related to support and customer service-related calls.
+                                    </li><li>
+<strong> Business Contact and Customer Relationship Management. </strong> We collect and maintain information about our
+                                        Customers, including from social networks, which may include company name, business contact name and title,
+                                        phone number, email, and other contact details. We may also collect billing address, financial account,
+                                        credit card information, order details, subscription and license information, and usage details. In
+                                        addition, we collect user credential and profile data (name, contact, authorized users).
+                                    </li></ul></ul> <ul><ul>  <li>
+<strong> Usage Details. </strong> We collect information about Customers’ usage of our Services, including IP address,
+                                        Customer ID, email address, and other usage statistics. We do not collect usage details about Customer end
+                                        users, except as necessary to provide and support the Services requested by Customers. When you visit our
+                                        websites, our server automatically collects certain browser or device-generated information, which may in
+                                        some cases constitute Personal Data, including but not limited to:
+                                        </li></ul></ul> <ul><ul>  <li>Your domain;</li><li>Your IP address;</li><li>The date, time, and duration of your visit;</li><li>Your browser type;</li><li>Your operating system;</li><li>Your page visits;</li><li>Information from third parties;</li><li>Other information about your computer or device; or</li><li>Internet traffic.
+</li><li><strong> Internet traffic. </strong> We also obtain Personal Data about Customers from third parties unless prohibited
+                                        by applicable law, including third parties unless prohibited by applicable law, including third parties from
+                                        whom we have purchased Personal Data, public databases, resellers, channel partners, and marketing partners.
+                                        We combine this information with Personal Data provided by you. This helps us to update, expand, and analyze
+                                        our records, identify new customers, and create more tailored advertising to provide services that may be of
+                                        interest to you.</li></ul></ul> <ul><ul>  <li><strong> Cookies. </strong> Our websites use cookies. More information about our use of cookies can be found in our
+                                        Cookie Policy here: 
+                                        <strong> https://www.solarwinds.com/cookies </strong>.
+                                    </li><li><strong> Aggregate and De-identified Data. </strong> We may de-identify and aggregate Personal Data we collect such that
+                                        the data no longer identifies or can be linked to a particular Customer or an individual data subject
+                                        (“<strong> De-Identified Data </strong>”), subject to the terms of any applicable customer agreements. We may
+                                        use this De-Identified Data to improve our Services, analyze trends, publish market research, and for other
+                                        marketing, research, or statistical purposes, and may disclose such data to third parties for these specific
+                                        purposes.
+                                    </li></ul></ul> <p><p>  <strong> Other Data. </strong> SolarWinds collects, uses and maintains certain other data related to its business
+                                    and the Services it provides to Customers, which is not Personal Data; this Privacy Notice does not restrict our
+                                    use and processing of such data.
+                                
+</p></p> <div><h2>  Disclosures of Personal Data</h2><p>  SolarWinds is a global group of companies, and we share Personal Data with our affiliated businesses as part of
+                                        our business operations and administration of the Services. We may also appoint third party service providers
+                                        (who will operate under our instructions) to assist us in providing information, products or services to you, in
+                                        conducting and managing our business, or in managing and improving our Services or the websites. SolarWinds may
+                                        share your Personal Data with these affiliates and third parties to perform Services on SolarWinds’s behalf,
+                                        subject to appropriate contractual restrictions and security measures. In general, we may disclose Personal Data
+                                        as follows:</p></div> <ul><ul>  <li>
+<strong> Customers: </strong> if you use, access or communicate with us about our Services on behalf of your company
+                                            (our Customer), we may share Personal Data about your access, and your communications or requests, with the
+                                            relevant Customer.
+                                        </li><li>
+<strong> Service providers: </strong> to third party service providers who perform functions on our behalf. Third party
+                                            service providers will only process your Personal Data in accordance with our instructions and will
+                                            implement adequate security measures to protect your Personal Data.
+                                        </li></ul></ul> <ul><ul>  <li>
+<strong> Advertising and analytics partners: </strong> to third parties we engage to provide advertising, campaign
+                                            measurement, online and mobile analytics, and related services to us (with your consent, where required by
+                                            applicable laws).
+                                        </li><li>
+<strong> In response to legal process: </strong> in order to comply with the law, judicial proceedings, a court order,
+                                            or other legal process, such as in response to a subpoena.
+                                        </li></ul></ul> <ul><ul>  <li>
+<strong> To protect our rights: </strong> where we believe it is necessary to investigate, prevent, or take action
+                                            regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any
+                                            person, violations of the SolarWinds Terms of Use or this Policy, to respond to claims asserted against us,
+                                            or as evidence in litigation in which we are involved.
+                                        </li></ul></ul> <ul><ul>  <li>
+<strong> Business transfers: </strong> as part of any merger, sale, and transfer of our assets, acquisition, or
+                                            restructuring of all or part of our business, bankruptcy, or similar event, including related to due
+                                            diligence conducted prior to such event where permitted by law.
+                                        </li></ul></ul> <p><p>  <strong> Aggregate or Anonymous Data. </strong> We also may share aggregate, anonymous, or de-identified data with
+                                        third parties for research, analytics, and other purposes, provided such information does not identify an
+                                        individual.
+</p></p> <div><h2>  International Transfers of Personal Data</h2><p>  SolarWinds and our service providers may transfer your Personal Data to, or access it in, jurisdictions that do
+                                    not include equivalent levels of data protection as your home jurisdiction. This includes the United States and
+                                    other jurisdictions where we, our affiliates, and service providers have operations. In addition, our
+                                    subprocessors are located around the world, as described in our 
+                                    <strong> subprocessor list </strong>.
+                                    We will take steps to ensure that your Personal Data receives an adequate level of protection in the
+                                    jurisdictions in which we process it, that is essentially equivalent to the level of protection afforded to your
+                                    Personal Data in your home jurisdiction, including through appropriate written data processing terms and/or data
+                                    transfer agreements.</p></div> <p><p>  <strong> Individuals in the European Economic Area (EEA) and United Kingdom (UK). </strong> If you are in the EEA
+                                    or the UK, and we process your Personal Data in a jurisdiction that the European Commission has deemed to not
+                                    provide an adequate level of data protection (a “third country”), we will implement measures to adequately
+                                    protect your personal data, including by putting in place standard contractual clauses for international
+                                    transfers of personal data, as approved by the European Commission (the form for the standard contractual
+                                    clauses can be viewed 
+                                    <strong> here </strong>). To obtain additional
+                                    details of the mechanism under which your Personal Data is transferred outside of the EEA or UK, you may request
+                                    such details by contacting <strong> privacy@SolarWinds.com </strong>.
+</p></p> <div><h2>  Children</h2><p>  The SolarWinds websites, Services and portal are not for use by children under the age of 16 years and SolarWinds
+                                    does not knowingly collect, store, share or use the Personal Data of children under 16 years. If you are under
+                                    the age of 16 years, please do not provide any Personal Data to SolarWinds, even if prompted to do so. If you
+                                    are under the age of 16 years and you have provided Personal Data, please ask your parent(s) or guardian(s) to
+                                    notify SolarWinds, and SolarWinds will delete all such Personal Data.
+</p></div> <div><h2>  Marketing</h2><p>  Where lawful to do so, and subject to your consent where required, we may communicate with Customers (and related
+                                    business contacts) about our Services. If you wish to unsubscribe from receiving marketing communications,
+                                    please visit the Email Preference Center on our website or use the Email Preference Center link in our
+                                    promotional emails to request cessation of these communications.
+</p></div> <div><h2>  Security</h2><p>  SolarWinds maintains (and requires its service providers to maintain) organizational and technical measures
+                                    designed to protect the security and confidentiality of Personal Data we process. Various measures that
+                                    SolarWinds utilizes are further described in our 
+                                    <strong> Security Statement </strong>. However, no
+                                    environment or security procedures or protocols are ever guaranteed to be 100% secure or error-free.
+                                    Accordingly, we cannot be held responsible for unauthorized or unintended access that is beyond our control. We
+                                    encourage you to take care when disclosing Personal Data online and use readily available tools and security
+                                    measures to protect yourself online.
+</p></div> <div><h2>  Retention of Personal Data</h2><p>  We generally keep Personal Data for as long as necessary to fulfill the purposes for which it was collected. In
+                                    some circumstances, however, we may retain Personal Data for other periods of time, including where we are
+                                    required to do so in accordance with legal, tax, and accounting requirements or if required to do so by a legal
+                                    process, legal authority, or other governmental entity capable of making this request. In specific
+                                    circumstances, we may also retain your Personal Data for longer periods of time, which may correspond to a
+                                    statute of limitations, so that we have an accurate record of your dealings with us in the event of any
+                                    complaints or challenges.
+</p></div> <div><h2>  Third Party Links</h2><p>  The websites may contain links to third party websites. SolarWinds does not control and is not responsible for
+                                    the privacy practices of such websites. We encourage you to review the privacy policies of these third-party
+                                    websites. SolarWinds accepts no responsibility arising from or regarding such third-party websites.
+</p></div> <div><h2>  Privacy Rights and Choices</h2><p>  In this section, we describe the rights and choices you have regarding your Personal Data. You may submit a
+                                    request to exercise your rights in respect of your Personal Data to us 
+                                    <strong> here </strong>.
+                                    We will respond to your request as is required under applicable law. In certain jurisdictions you have further
+                                    rights in respect of your Personal Data, please see the Additional Information for Individuals in Certain
+                                    Jurisdictions section of this Notice, below.</p></div> <p><p>  If you would like to submit a request relating to Customer Data, you should contact the relevant Customer
+                                    directly; if you submit a request to us related to Customer Data, we will forward your request to the relevant
+                                    Customer (where known) so that they may respond to your request.</p></p> <p><p>  <strong> Access, correction, and deletion. </strong> You may submit requests for access, correction, or deletion to
+                                    us as directed above by contacting us 
+                                    <strong> here </strong>.
+                                    We will process your request in accordance with applicable privacy laws. We may ask you for additional
+                                    information so that we can confirm your identity or process your request.</p></p> <p><p>  <strong> Direct marketing. </strong> You may always opt out of direct marketing emails. If you would like to
+                                    unsubscribe from SolarWinds marketing emails or otherwise change your email preferences, go to our Email
+                                    Preference Center on our Site or use the Email Preference Center link in our promotional emails to request
+                                    cessation of these communications. We may continue to send you transactional or service-related communications,
+                                    such as service announcements and administrative messages.</p></p> <p><p>  <strong> Complaints. </strong> If you have any concerns about our use of your Personal Data, you can make a
+                                    complaint to us at <strong> privacy@SolarWinds.com </strong>. We will take steps to try
+                                    to resolve any complaint you raise regarding our treatment of your Personal Data. You also have the right to
+                                    raise a complaint with the privacy regulator in your jurisdiction. You can file a complaint with our principal
+                                    supervisory authority, the Irish Data Protection Commission in Ireland or with your local data protection
+                                    authority where applicable. Please contact us at <strong> privacy@SolarWinds.com </strong> if you have any questions about how to raise
+                                    a complaint.</p></p> <p><p>  <strong> Additional information for certain jurisdictions. </strong> In the section Additional Information for
+                                    Certain Jurisdictions below, we provide additional information as required under California privacy laws, as
+                                    well as the GDPR, UK GDPR, and the LGPD. Users in California, the EEA and the UK should review this section for
+                                    more information regarding their rights under these respective laws.
+</p></p> <div><h2>  Changes to Our Privacy Notice</h2><p>  SolarWinds will review and update this Privacy Notice periodically to respond to changing legal, technical, and
+                                    business developments. We will note the date of its most recent revision herein. We will notify you directly
+                                    where we have made substantial updates to this Privacy Notice, and we also recommend that you review this
+                                    Privacy Notice periodically.
+</p></div> <div><h2>  Contact Information</h2><p>  If you have any questions in relation to this Privacy Notice, please contact us at <strong> privacy@SolarWinds.com </strong>.
+</p></div> <div><h2>  Additional Information for Individuals in Certain Jurisdictions</h2><ul>  <li><strong> Additional Information for EEA/UK Users. </strong> If you are a data subject located in the EEA and the
+                                    UK, you have the following rights under the GDPR/UK GDPR (as applicable) in respect of your Personal Data:</li><li>
+                                        To <strong> obtain a copy </strong> of your Personal Data together with information about how and on what
+                                        basis that Personal Data is processed;
+                                    </li></ul></div> <ul><ul>  <li>
+                                        To <strong> rectify </strong> inaccurate Personal Data (including the right to have incomplete Personal Data
+                                        completed);
+                                    </li><li>
+                                        In limited circumstances, to <strong> port your data </strong> in machine-readable format to a third party (or
+                                        to you) when we justify our processing on the basis of your consent or the performance of a contract with
+                                        you;
+                                    </li></ul></ul> <ul><ul>  <li>
+                                        To <strong> request the erasure </strong> your Personal Data in certain circumstances, such as where it is no
+                                        longer necessary in relation to the purposes for which it was collected or processed;
+                                    </li><li>
+                                        To <strong> object to the processing </strong> of your Personal Data where that processing is based on our
+                                        legitimate interests. We will no longer process Personal Data where you have so objected, unless we
+                                        demonstrate compelling legitimate grounds for the processing that override the interests, rights and
+                                        freedoms of you as data subject, or for the establishment, exercise or defense of legal claims. You also
+                                        have the right to object at any time to any processing of your Personal Data for direct marketing purposes,
+                                        including profiling for marketing purposes.
+                                    </li></ul></ul> <ul><ul>  <li>
+                                        To <strong> restrict the processing </strong> of your Personal Data, where you have objected to the processing
+                                        of your personal data, where you have contested to accuracy of your data, where it has been established that
+                                        processing is unlawful or where you require your personal data for a legal claim.
+                                    </li><li>
+                                        To <strong> withdraw your consent </strong> to our processing of your Personal Data (where that processing is
+                                        based on your consent). This will not affect the lawfulness of processing based on consent before that
+                                        consent is withdrawn; and
+                                    </li></ul></ul> <ul><ul>  <li>
+                                        To <strong> obtain or see a copy of the appropriate safeguards </strong> under which your Personal Data is
+                                        transferred to a third country or international organization.
+                                    </li></ul></ul> <p><p>  You also have the right to lodge a complaint with your local supervisory authority for data protection.</p></p> <p><p>  To exercise such rights, please contact us at <strong> privacy@SolarWinds.com </strong>
+                                    or submit a personal data request at 
+                                    <strong> Personal Data Request Inquiry </strong>. Please note that we may request proof of
+                                    identity,
+                                    and we reserve the right to charge a fee and/or refuse to act on a request where permitted by law, especially if
+                                    your request is manifestly unfounded or excessive. We will endeavor to respond to your request within all
+                                    applicable timeframes required by law.</p></p> <p><p>  If you contact us regarding Customer Data for which we are a data processor, we will attempt to refer your
+                                    request to the relevant Customer as data controller for your Personal Data. You may also reach out to that
+                                    Customer directly.</p></p> <p><p>  <strong> Additional Information for California Residents. </strong> In this section,
+                                    we provide additional information to California residents about how we handle their personal information, as
+                                    required under California privacy laws including the California Consumer Privacy Act (“<strong> CCPA </strong>”).
+                                    This section does not address or apply to our collection and processing of:</p></p> <ul><ul>  <li>
+<strong> Customer Data </strong>: as noted above, we are a “service provider” or “processor”
+                                        for such data, which means that our processing of Customer Data on behalf of a Customer is subject to our
+                                        contractual agreements with that Customer. We only process Customer Data on behalf of the relevant Customer
+                                        and in compliance with our applicable agreements with the respective Customer.
+                                    </li></ul></ul> <ul><ul>  <li>
+<strong> Data that Is Exempt from CCPA </strong>: including publicly available information lawfully made available by
+                                        state or federal government records or other personal information that is exempt under the CCPA.
+                                    </li></ul></ul> <p><p>  While our collection, use, and disclosure of personal information varies based upon our relationship and
+                                    interactions with you, in this section we describe, generally, how we have collected and disclosed personal
+                                    information about California residents in the prior 12 months (from the last updated date above).</p></p> <p><p>  <strong> Categories of personal information collected and disclosed </strong>. The table below identifies the
+                                    categories of personal information (as defined by the CCPA) we have collected about California residents within
+                                    the last 12 months, as well as how we have disclosed such information for a business purpose. For more
+                                    information about the business and commercial purposes for which we collect, use, and disclose personal
+                                    information, please see the <i> Use of Personal Data </i> and <i> Disclosures of Personal Data </i> sections above.
+                                </p></p> <div><td>  
+<strong> Identifiers </strong>
+</td><td>  
+                                                    Includes direct identifiers, such as name, alias user ID, username,
+                                                    account number; email address, phone number, address and other
+                                                    contact information; IP address and other online identifiers; other
+                                                    government identifiers; and other similar identifiers.
+                                                </td></div> <div><ul>  <li>service providers</li><li>advisors and agents</li><li>
+                                                            government entities and law enforcement (to the extent required
+                                                            by law)
+                                                        </li><li>affiliates and subsidiaries</li><li>advertising networks</li><li>data analytics providers</li><li>social networks</li><li>internet service providers</li><li>operating systems and platforms</li></ul></div> <div><ul>  <li>business customers
+</li></ul><td>  <strong> Customer Records </strong></td><td>  
+                                                    Includes personal information, such as name, account name, user ID,
+                                                    contact information, employment information, account number, and
+                                                    financial or payment information, that individuals provide us in
+                                                    order to purchase or obtain our products and services. [For example,
+                                                    this may include account registration information, or information
+                                                    collected when an individual purchases or orders our products and
+                                                    services, or enters into an agreement with us related to our
+                                                    products and services.
+                                                </td></div> <div><ul>  <li>service providers</li><li>advisors and agents</li><li>
+                                                            government entities and law enforcement (to the extent required
+                                                            by law)
+                                                        </li><li>our affiliates and subsidiaries</li><li>business partners who provide services you request
+</li></ul><td>  <strong> Commercial Information </strong></td><td>  
+                                                    Includes records of personal property, products or services
+                                                    purchased, obtained, or considered, or other purchasing or use
+                                                    histories or tendencies.
+                                                </td></div> <div><ul>  <li>service providers</li><li>advisors and agents</li><li>
+                                                            government entities and law enforcement (to the extent required
+                                                            by law)
+                                                        </li><li>affiliates and subsidiaries</li><li>advertising networks</li><li>data analytics providers</li><li>social networks</li><li>internet service providers</li><li>operating systems and platforms</li></ul></div> <div><ul>  <li>data brokers</li><li>business customers
+</li></ul><td>  <strong> Usage Details </strong></td><td>  
+                                                    Includes browsing history, clickstream data, geolocation data,
+                                                    search history, access logs and other usage data and information
+                                                    regarding an individual’s interaction with our websites, mobile
+                                                    apps, and other Services, and our marketing emails and online ads.
+                                                </td></div> <div><ul>  <li>service providers</li><li>advisors and agents</li><li>
+                                                            government entities and law enforcement (to the extent required
+                                                            by law)
+                                                        </li><li>affiliates and subsidiaries</li><li>advertising networks</li><li>data analytics providers</li><li>social networks</li><li>internet service providers</li><li>operating systems and platforms
+</li></ul></div> <td><td>  
+<strong> Audio, Video and Electronic Data </strong>
+</td></td> <td><td>  
+                                                    Includes audio, electronic, visual, thermal, olfactory, or similar
+                                                    information, such as thermal screenings and CCTV footage (e.g.,
+                                                    collected from visitors to our offices/premises), photographs and
+                                                    images (e.g., that you provide us or post to your profile) and call
+                                                    recordings (e.g., of customer support calls).
+                                                </td></td> <div><ul>  <li>service providers</li><li>advisors and agents</li><li>
+                                                            government entities and law enforcement (to the extent required
+                                                            by law)
+                                                        </li><li>affiliates and subsidiaries
+</li></ul><td>  <strong> Professional Information </strong></td><td>  
+                                                    Includes professional and employment-related information such as
+                                                    business contact information and professional memberships.
+                                                </td></div> <div><ul>  <li>service providers</li><li>advisors and agents</li><li>
+                                                            government entities and law enforcement (to the extent required
+                                                            by law)
+                                                        </li><li>affiliates and subsidiaries
+</li></ul><td>  <strong> Inferences </strong></td><td>  
+                                                    Includes inferences drawn from other personal information that we
+                                                    collect to create a profile reflecting an individual’s preferences,
+                                                    characteristics, predispositions, behavior, attitudes, intelligence,
+                                                    abilities, or aptitudes. For example, we may analyze personal
+                                                    information in order to identify the offers and information that may
+                                                    be most relevant to Customers, so that we can better reach them with
+                                                    relevant offers and ads.
+                                                </td></div> <div><ul>  <li>service providers</li><li>advisors and agents</li><li>
+                                                            government entities and law enforcement (to the extent required
+                                                            by law)
+                                                        </li><li>our affiliates and subsidiaries</li><li>analytics providers
+</li></ul><p>  <strong> Sales of personal information. </strong> The CCPA defines “sell” broadly to include disclosing or
+                                    making
+                                    available personal information to a third party in order to receive certain benefits or services from them.
+                                    While we do not “sell” personal information to third parties in exchange for monetary compensation, we may make
+                                    personal information available, which may be defined as a sale by the CCPA; this is common practice among
+                                    companies that operate online, such as when we make browsing information available to third party ad companies
+                                    (through third party tags on our Sites) in order to improve and measure our ad campaigns and reach users with
+                                    more relevant ads and content. As defined by the CCPA, we may “sell” usage details and identifiers to third
+                                    party advertising networks, social networks, and data analytics providers. To learn more, please see the
+                                    <i> Cookies </i> section of our Privacy Notice and our <i> Cookie Policy </i>.
+                                </p></div> <p><p>  <strong> Sources of personal information. </strong> As further described in the “How We Collect Personal”
+                                    section in the body of this Privacy Notice, above, we may collect personal information from the following
+                                    sources:</p></p> <div><ul>  <li>Our Customers</li><li>Business partners and affiliates</li><li>Directly from the individual</li><li>Advertising networks</li><li>Data analytics providers</li><li>Social networks</li><li>Internet service providers</li><li>Operating systems and platforms</li><li>Publicly available sources</li></ul><p>  <strong> California residents’ rights. </strong> In general, California residents have the following rights
+                                    with respect to their personal information:</p></div> <ul><ul>  <li>
+<strong> Do-not-sell (opt out): </strong> to opt out of our sale of their personal information (via cookies, web
+                                        beacons, and tags on our Sites), by using our preference manager. We do not knowingly sell personal
+                                        information about California residents younger than 16.
+                                    </li><li>
+<strong> Right of deletion: </strong> to request deletion of their personal information that we have collected about
+                                        them and to have such personal information deleted (without charge), subject to certain exceptions.
+                                    </li></ul></ul> <ul><ul>  <li>
+<strong> Right to know: </strong> with respect to the personal information we have collected about them in the prior 12
+                                        months, to require that we disclose the following to them (up to twice per year and subject to certain
+                                        exemptions):
+                                        </li><li>Categories of personal information collected;</li><li>Categories of sources of personal information;</li><li>Categories of personal information about them we have disclosed for a business purpose or sold;</li></ul></ul> <ul><ul>  <li>Categories of third parties to whom we have sold or disclosed for a business purpose their personal
+                                                information;</li><li>The business or commercial purposes for collecting or selling their personal information; and</li><li>A copy of the specific pieces of personal information we have collected about them.
+</li><li>
+<strong> Right to non-discrimination: </strong> the right not to be subject to discriminatory treatment for exercising
+                                        their rights under the CCPA.
+                                    </li></ul></ul> <p><p>  <strong> Submitting CCPA requests. </strong> California residents may submit CCPA requests:</p></p> <ul><ul>  <li>Online at the SolarWinds data subject request form;</li><li>By emailing <strong> privacy@SolarWinds.com </strong> with the subject line
+                                        “California Rights Request: California Consumer Rights”; or</li><li>California residents also may opt out of sales of their personal information (via cookies and tags on our
+                                        Sites), by using our preference manager.</li></ul></ul> <p><p>  When you submit a request to know or delete, we will need to verify your identity before processing your request,
+                                    which may require us to request additional personal information from you or require you to log into your
+                                    account, if you have one. In certain circumstances, we may decline or limit your request, particularly where we
+                                    are unable to verify your identity or locate your information in our systems, or as permitted by law. Authorized
+                                    agents may initiate a request on behalf of another individual by contacting us as set forth in the Contact
+                                    Information section above. Authorized agents will be required to provide proof of their authorization, and we
+                                    may also require that the relevant consumer directly verify their identity and the authority of the authorized
+                                    agent.</p></p> <p><p>  <strong> California’s “Shine the Light” law. </strong> California’s “Shine the Light” law (Civil Code Section
+                                    §1798.83) provides certain rights to California residents free of charge, information about the personal
+                                    information (if any) we have shared with third parties for their own direct marketing purposes; such requests
+                                    may be made once per calendar year for information about any relevant third party sharing in the prior calendar
+                                    year (e.g., requests submitted in 2021 would be applicable to relevant disclosures (if any) in 2020). If you are
+                                    a California resident and would like to make such a request, please submit your request in writing by emailing
+                                    us at <strong> privacy@SolarWinds.com </strong> using the subject line “Request for
+                                    California STL Information.” In your request, please attest to the fact that you are a California resident and
+                                    provide a current California address. We will reply to valid requests by sending a response to the email address
+                                    from which you submitted your request. Please note that not all information sharing is covered by the “Shine the
+                                    Light” requirements and only information on covered sharing and the relevant details required by the Shine the
+                                    Light law will be included in our response.</p></p> <p><p>  <strong> For more information about our privacy practices, you may contact us as set forth in the  </strong><i> Contact
+                                            Information </i><strong>  section above. </strong> We also discuss SolarWinds’ efforts and commitment to data
+                                    protection further in the 
+                                    <strong> Security Statement </strong> 
+                                    and <strong> SolarWinds GDPR Resource Center </strong>.</p></p> <p><p>  <b> We’re Geekbuilt. </b></p></p> <p><p>  Developed by network and systems engineers who know what it takes to manage today’s dynamic IT environments, SolarWinds has a deep connection to the IT community.</p></p> <p><p>  The result? IT management products that are effective, accessible, and easy to use.</p></p> <p><p>  SolarWinds uses cookies to enhance site navigation, analyze site usage and assist with our marketing efforts. By clicking "Accept All Cookies", you agree to our use of cookies on your device in accordance with our Cookie Policy. For more information on how we process your data, refer to our<a href="https://www.solarwinds.com/privacy" target="_blank"> SolarWinds Privacy Notice </a></p></p> <div><h2>  SolarWinds Privacy Preference Center</h2><ul>  <li>Your Privacy</li><li>Strictly Necessary Cookies</li><li>Functional Cookies</li><li>Performance Cookies</li><li>Targeting Cookies</li></ul></div> <div><h4>  Your Privacy</h4><p>  When you visit any SolarWinds website, we may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer. For more information on cookies, see our
+            <a href="https://www.solarwinds.com/cookies" target="_blank"> Cookie Policy </a></p></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div> <div><h4>  Functional Cookies</h4><label>  Functional Cookies</label><p>  These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.</p></div> <div><h4>  Performance Cookies</h4><label>  Performance Cookies</label><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div> <div><h4>  Targeting Cookies</h4><label>  Targeting Cookies</label><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div> <div><h3>  Back</h3><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span></div>

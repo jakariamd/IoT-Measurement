@@ -1,0 +1,10 @@
+<div><h2>  Privacy Policy</h2><p>  This HTML5 Speedtest server is configured with telemetry enabled.</p></div> <div><h4>  What data we collect</h4><p>  
+        At the end of the test, the following data is collected and stored:
+        </p><ul>  <li>Test ID</li><li>Time of testing</li><li>Test results (download and upload speed, ping and jitter)</li><li>IP address</li><li>ISP information</li><li>Approximate location (inferred from IP address, not GPS)</li><li>User agent and browser locale</li><li>Test log (contains no personal information)</li></ul></div> <div><h4>  How we use the data</h4><p>  
+        Data collected through this service is used to:
+        </p><ul>  <li>Allow sharing of test results (sharable image for forums, etc.)</li><li>To improve the service offered to you (for instance, to detect problems on our side)</li></ul></div> <div><h4>  Your consent</h4><p>  
+        By starting the test, you consent to the terms of this privacy policy.
+    </p></div> <div><h4>  Data removal</h4><p>  
+        If you want to have your information deleted, you need to provide either the ID of the test or your IP address. This is the only way to identify your data, without this information we won't be able to comply with your request.
+        Contact this email address for all deletion requests: <a href="mailto:PUT@YOUR_EMAIL.HERE" target="_blank"> TO BE FILLED BY DEVELOPER </a>.
+    </p></div>

@@ -1,0 +1,31 @@
+<div><p>  
+
+
+
+</p><p>  
+Debian WWW Pages License</p></div> <div><h1>  Debian WWW Pages License</h1><p>  Copyright © 1997-2023
+<a href="https://www.spi-inc.org/" target="_blank"> Software in the Public Interest, Inc. </a> and others
+SPI can be contacted at:
+1732 1st Ave #20327
+New York, NY 10128-5177
+United States
+</p><p>  
+Since 25 January 2012, the new material can be redistributed and/or
+modified under the terms of the <a href="legal/licenses/mit" target="_blank"> MIT (Expat) License </a> or, at your option, of the <a href="legal/licenses/gpl2" target="_blank"> GNU General Public License </a>; either version 2
+of the License, or (at your option) any later version (the latest version
+is usually available at <a href="https://www.gnu.org/licenses/gpl.html" target="_blank"> https://www.gnu.org/licenses/gpl.html </a>).
+</p></div> <p><p>  
+Work is in progress to make the older material compliant
+with the above licenses. Until then, please refer to the
+following terms of the Open Publication License.
+</p></p> <p><p>  This material may be distributed only subject to the terms and conditions set
+forth in the Open Publication License, Draft v1.0 or later (you can
+read our <a href="opl" target="_blank"> local copy </a>, the latest version
+is usually available at
+<a href="http://www.opencontent.org/openpub/" target="_blank"> http://www.opencontent.org/openpub/ </a>).
+</p></p> <p><p>  “Debian” and <a href="logos/" target="_blank"> the Debian Logo </a> are <a href="./trademark" target="_blank"> trademarks </a> of Software in the Public Interest,
+Inc.</p></p> <p><p>  Back to the <a href="./" target="_blank"> Debian Project homepage </a>.</p></p> <p><p>  See our <a href="./contact" target="_blank"> contact page </a> to get in touch. Web site source code is <a href="https://salsa.debian.org/webmaster-team/webwml" target="_blank"> available </a>.</p></p> <p><p>  
+Last Modified: Sun, Dec 13 15:58:12 UTC 2020
+ 
+Last Built: Sat, Jul 22 15:11:27 UTC 2023
+</p></p>

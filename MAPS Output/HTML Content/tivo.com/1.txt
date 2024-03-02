@@ -1,0 +1,553 @@
+<div><h1>  California Consumer Privacy Act Privacy Policy</h1></div> <div><h2>  Last updated: May 15, 2023</h2><p>  
+                            We, Xperi Inc. and its subsidiaries, issue this California Consumer Privacy Act Privacy
+                            Policy ("<strong> CCPA Privacy
+                                Policy </strong>") to provide information about how we collect, use, disclose and
+                            otherwise process
+                            California residents'
+                            personal information, and rights that California residents may have under the California
+                            Consumer Privacy Act of
+                            2018 ("<strong> CCPA </strong>"). This CCPA Privacy Policy only applies to you if you reside
+                            in California.
+                            This CCPA Privacy
+                            Policy does not reflect our processing of California residents' personal information where
+                            an exception under the
+                            CCPA applies.
+                        </p></div> <p><p>  
+<strong> 
+                                    1. Our Personal Information Handling Practices over the Preceding 12 Months
+                                 </strong>
+</p></p> <p><p>  
+                                We disclosed IP addresses and viewership data by TiVo household ID about users of our
+                                websites, products,
+                                applications, physical facilities, and related services (collectively
+                                "<strong> Services </strong>") to
+                                advertisers, analytics providers
+                                and advertising networks ("<strong> Ad Partners </strong>") to provide users of the
+                                Services with more
+                                interesting and
+                                customized information, promotions and advertising, which is considered "selling" and
+                                "sharing" under the
+                                CCPA.
+                            </p></p> <p><p>  
+                                Apart from our "selling" and "sharing" activities, the table below sets out the
+                                categories of "personal information"
+                                and "sensitive personal information" (as defined by the CCPA) about California residents
+                                that we collected, the
+                                sources of such information, and whether we disclosed such personal information and to
+                                whom if so. In the
+                                descriptions of categories of personal information below, "consumer" means "California
+                                resident".
+                            </p></p> <p><p>  
+                                Following the table are descriptions of the purposes for which we used personal
+                                information of: (i) users of our
+                                Services; (ii) representatives of our prospective, current or past customers and vendors
+                                (collectively, "<strong> business
+                                    contacts </strong>"); and (iii) our prospective, current and past employees and other
+                                personnel
+                                (collectively, "<strong> employees </strong>").
+                            </p></p> <div><td>  <strong> Category of personal
+                                            information </strong></td><td>  <strong> Did we collect? If so, from what
+                                            source? </strong></td><td>  <strong> Did we disclose? If so, to whom and
+                                            for what purpose? </strong></td><td>  
+<strong> Categories of "personal information"
+                                            as defined by the CCPA </strong>
+</td><td>  
+                                        Identifiers such as a real name, alias, postal address, unique personal
+                                        identifier, online
+                                        identifier, Internet Protocol (IP) address, Device ad ids, email
+                                        address, account name, social security number, driver's license number, passport
+                                        number, or other similar identifiers</td></div> <td><td>  
+                                            Yes, from:
+                                        
+</td></td> <ul><ul>  <li>California residents directly</li><li>California residents' use of our Services, which results in collection
+                                                of information through cookies and similar technologies</li><li>Xperi Subsidiaries</li><li>Third parties (such as service providers,
+                                                marketers and other users who, for
+                                                example, may refer California residents
+                                                to use our Services)
+                                            </li></ul></ul> <ul><ul>  <li>
+                                                Consumer data resellers
+                                            </li><li>
+                                                Events, such as conferences
+                                            </li><li>
+                                                Public records databases
+                                            </li><li>
+                                                When you apply for work with us
+                                            </li></ul></ul> <ul><ul>  <li>
+												Social media networks, in accordance with   California   residents' 												privacy preferences   on   such   services   and their   interactions   											  with   our advertisements on such social media networks
+											
+</li></ul></ul> <td><td>  
+                                            Yes, to:
+                                        
+</td></td> <ul><ul>  <li>Xperi Subsidiaries, who form part of our
+                                                business</li><li>Service providers, to receive services
+                                                from them</li><li>Other individuals or companies at a
+                                                California resident's request or consent</li><li> Third parties relating to legal requests, if
+                                                required by law or if we believe in good
+                                                faith that it is reasonably necessary
+                                            </li></ul></ul> <div><ul>  <li>
+                                                Third parties for sales or transfers of our
+                                                business or assets
+                                            
+</li></ul><td>  Any information that identifies,
+                                        relates to, describes, or is
+                                        capable of being associated
+                                        with, a particular individual,
+                                        including, but not limited to, his
+                                        or her name, signature, social
+                                        security number, physical
+                                        characteristics or description,
+                                        address, telephone number,
+                                        passport number, driver's
+                                        license or state identification
+                                        card number, insurance policy
+                                        number, education,
+                                        employment, employment
+                                        history, bank account number,
+                                        credit card number, debit card
+                                        number, or any other financial
+                                        information, medical
+                                        information, or health insurance
+                                        information, but excluding
+                                        publicly available information
+                                        that is lawfully made available
+                                        to the general public from
+                                        federal, state, or local
+                                        government records</td></div> <div><td>  Same as above</td><td>  Same as above</td><td>  Characteristics of protected
+                                        classifications under California
+                                        or federal law, including age,
+                                        race, national origin,
+                                        citizenship, marital status, sex
+                                        (including gender, gender
+                                        identity, gender expression),
+                                        military or veteran status,
+                                        nationality, ancestry or ethnicity</td></div> <td><td>  
+                                            Yes, from:
+                                        
+</td></td> <div><ul>  <li>California residents directly</li><li>Data brokers
+</li></ul><td>  Same as above</td><td>  Commercial information,
+                                        including records of personal
+                                        property, products or services purchased, obtained or
+                                        considered, watching habits or
+                                        other purchasing or consuming
+                                        histories or tendencies</td><td>  
+                                            Yes, from:
+                                        
+</td></div> <ul><ul>  <li>California residents directly</li><li>California residents' use of our Services,
+                                                which results in collection of
+                                                information through cookies and similar
+                                                technologies
+                                            </li><li>
+                                                Xperi Subsidiaries
+                                            </li><li>
+                                                Third parties (such as service providers,
+                                                marketers and other users who, for
+                                                example, may refer California residents
+                                                to use our Services)
+                                            </li></ul></ul> <ul><ul>  <li>
+                                                Consumer data resellers
+                                            </li><li>
+                                                Events, such as conferences
+                                            </li><li>
+                                                Public records databases
+                                            </li><li>
+                                                Social media networks, in accordance
+                                                with California residents' privacy
+                                                preferences on such services and their
+                                                interactions with our advertisements on
+                                                such social media networks
+                                            
+</li></ul></ul> <div><td>  Same as above</td><td>  Internet or other electronic
+                                        network activity information,
+                                        including, but not limited to,
+                                        browsing history, search
+                                        history, and information
+                                        regarding a consumer's
+                                        interaction with an internet
+                                        website application, viewership
+                                        data or advertisement</td></div> <td><td>  
+                                            Yes, from:
+                                        
+</td></td> <ul><ul>  <li>California residents directly</li><li>California residents' use of our Services,
+                                                which results in collection of
+                                                information through cookies and similar
+                                                technologies
+                                            </li><li>
+                                                Xperi Subsidiaries
+                                            </li><li>
+                                                Third parties (such as service providers,
+                                                marketers and other users who, for
+                                                example, may refer California residents
+                                                to use our Services)
+                                            </li></ul></ul> <ul><ul>  <li>
+                                                Consumer data resellers
+                                            </li><li>
+                                                Events, such as conferences
+                                            </li><li>
+                                                Public records databases
+                                            </li><li>
+                                                Social media networks, in accordance
+                                                with California residents' privacy
+                                                preferences on such services and their
+                                                interactions with our advertisements on
+                                                such social media networks
+                                            
+</li></ul></ul> <div><td>  Same as above</td><td>  Geolocation data</td><td>  
+                                            Yes, from:
+                                        
+</td><ul>  <li>California residents directly</li><li>California residents' use of our Services,
+                                                which results in collection of
+                                                information through cookies and similar
+                                                technologies
+                                            </li><li>
+                                                Xperi Subsidiaries
+                                            </li><li>
+                                                Third parties (such as service providers,
+                                                marketers and other users who, for
+                                                example, may refer California residents
+                                                to use our Services)
+                                            </li></ul></div> <ul><ul>  <li>
+                                                Consumer data resellers
+                                            </li><li>
+                                                Events, such as conferences
+                                            </li><li>
+                                                Public records databases
+                                            </li><li>
+                                                Social media networks, in accordance
+                                                with California residents' privacy
+                                                preferences on such services and their
+                                                interactions with our advertisements on
+                                                such social media networks
+                                            
+</li></ul></ul> <div><td>  Same as above</td><td>  Audio, electronic, visual,
+                                        thermal, olfactory, or similar
+                                        information
+                                    </td><td>  
+                                            Yes, from:
+                                        
+</td><ul>  <li>California residents directly</li><li>California residents' use of our Services,
+                                                which results in collection of
+                                                information through cookies and similar
+                                                technologies
+                                            </li><li>
+                                                Xperi Subsidiaries
+                                            </li><li>
+                                                Third parties (such as service providers,
+                                                marketers and other users who, for
+                                                example, may refer California residents
+                                                to use our Services)
+                                            </li></ul></div> <ul><ul>  <li>
+                                                Consumer data resellers
+                                            </li><li>
+                                                Events, such as conferences
+                                            </li><li>
+                                                Public records databases
+                                            
+</li></ul></ul> <div><td>  Same as above</td><td>  Professional or Employment Related Information
+                                    </td><td>  
+                                            Yes, from:
+                                        
+</td><ul>  <li>California residents directly</li><li>California residents' use of our Services,
+                                                which results in collection of
+                                                information through cookies and similar
+                                                technologies
+                                            </li><li>
+                                                Xperi Subsidiaries
+                                            </li><li>
+                                                Third parties (such as service providers,
+                                                marketers and other users who, for
+                                                example, may refer California residents
+                                                to use our Services)
+                                            </li></ul></div> <div><ul>  <li>
+                                                Consumer data resellers
+                                            
+</li></ul><td>  Same as above</td><td>  Education information, defined
+                                        as information that is not
+                                        publicly available personally
+                                        identifiable information as
+                                        defined in the Family
+                                        Educational Rights and Privacy
+                                        Act (20 U.S.C. Sec. 1232g; 34
+                                        C.F.R. Part 99)
+                                    </td></div> <div><td>  
+                                        Same as above as for ‘Professional or Employment
+                                        Related Information’
+                                    </td><td>  Same as above</td><td>  Inferences drawn from any
+                                        personal information to create a
+                                        profile about a consumer
+                                        reflecting the consumer's
+                                        preferences, characteristics,
+                                        psychological trends,
+                                        predispositions, behavior,
+                                        attitudes, intelligence, abilities,
+                                        and aptitudes
+                                    </td></div> <td><td>  
+                                            Yes, from:
+                                        
+</td></td> <ul><ul>  <li>California residents directly</li><li>California residents' use of our Services,
+                                                which results in collection of
+                                                information through cookies and similar
+                                                technologies
+                                            </li><li>
+                                                Xperi Subsidiaries
+                                            </li><li>
+                                                Third parties (such as service providers,
+                                                marketers and other users who, for
+                                                example, may refer California residents
+                                                to use our Services)
+                                            </li></ul></ul> <div><ul>  <li>
+                                                Consumer data resellers
+                                            
+</li></ul><td>  Same as above</td><td>  
+<strong> Categories of "sensitive personal information" as defined in the
+                                            CCPA </strong>
+</td><td>  A consumer's social security,
+                                        driver's license, state
+                                        identification card, or passport
+                                        number in the case of the
+                                        employment context
+                                    </td></div> <td><td>  Yes, from California residents directly</td></td> <td><td>  
+                                            Yes, to:
+                                        
+</td></td> <ul><ul>  <li>Xperi Subsidiaries, who form part of our
+                                                business</li><li>Service providers, to receive services
+                                                from them
+                                            </li><li>
+                                                Other individuals or companies at a
+                                                California resident's request or consent
+                                            </li><li>
+                                                Third parties relating to legal requests, if
+                                                required by law or if we believe in good
+                                                faith that it is reasonably necessary
+                                            </li></ul></ul> <div><ul>  <li>
+                                                Third parties for sales of transfers of our
+                                                business or assets
+                                            
+</li></ul><td>  A consumer's account log-in,
+                                        financial account, debit card, or
+                                        credit card number in
+                                        combination with any required
+                                        security or access code,
+                                        password, or credentials
+                                        allowing access to an account</td></div> <div><td>  Same as above </td><td>  Same as above</td><td>  A consumer's precise
+                                        geolocation</td><td>  No</td><td>  N/A</td><td>  A consumer's racial or ethnic
+                                        origin, religious or
+                                        philosophical beliefs, or union
+                                        membership</td><td>  Same as above </td><td>  Same as above</td><td>  The contents of a consumer's
+                                        mail, email, and text messages
+                                        unless the business is the
+                                        intended recipient of the
+                                        communication
+                                    </td></div> <div><td>  Same as above </td><td>  Same as above</td><td>  A consumer's genetic data
+                                    </td><td>  No </td><td>  N/A</td><td>  The processing of biometric
+                                        information for the purpose of
+                                        uniquely identifying a
+                                        consumer
+                                    </td><td>  No</td><td>  
+                                        N/A
+                                    </td></div> <div><td>  Personal information collected
+                                        and analyzed concerning a
+                                        consumer's health
+                                    </td><td>  No</td><td>  N/A</td><td>  Personal information collected
+                                        and analyzed concerning a
+                                        consumer's sex life or sexual
+                                        orientation
+                                    </td><td>  No </td></div> <div><td>  N/A</td><p>  
+                                We used the personal information collected from <strong> users of our Services </strong>
+                                to operate,
+                                evaluate and improve our
+                                Services and business (including developing new products and services; enhancing and
+                                improving our services;
+                                managing our communications; and analyzing our products); to plan and host corporate
+                                events, host online forums
+                                and social networks in which event attendees may participate; to correspond with
+                                Services users; to provide
+                                additional functionality that enables them to use our Services more effectively; to
+                                enhance their online experience;
+                                to serve targeted advertisements on websites we do not operate to users; and to engage
+                                in email marketing.
+                            </p></div> <p><p>  
+                                We used the personal information collected from <strong> business contacts </strong> to
+                                provide them and
+                                the organization they
+                                represent with information they requested and other information we believe is of
+                                interest to them; to improve our
+                                products, information, distribution, and marketing; to make and receive orders and
+                                shipments; to process payments;
+                                and to communicate with business contacts and their organizations.
+                            </p></p> <p><p>  
+                                We used the personal information that we collected from <strong> employees </strong> in
+                                accordance with our
+                                employee and candidate
+                                notice. For more information on that collection, please refer to the Xperi Worker and
+                                Applicant Privacy Notice.
+                            </p></p> <p><p>  
+                                We use the personal information of <strong> Services users, business contacts, and
+                                    employees </strong> to
+                                protect and secure our
+                                business operations, assets, online services, network, and information and technology
+                                resources; to investigate,
+                                prevent, detect and take action regarding fraud, unauthorized access, situations
+                                involving potential threats to the
+                                rights or safety of any person or third party, or other unauthorized activities or
+                                misconduct; to manage and respond
+                                to actual and potential legal disputes and claims, and to otherwise establish, defend or
+                                protect our rights or interests,
+                                including in the context of anticipated or actual litigation with third parties.
+                            </p></p> <p><p>  
+                                We do not have actual knowledge that we sell or share the personal information of
+                                California residents under 16
+                                years of age. We do not use sensitive personal information for purposes other than those
+                                referred to in Subsection
+                                1798.121(a) of the CCPA. In particular, we only use sensitive personal information:
+                            </p></p> <ul><ul>  <li>as necessary to perform the services reasonably expected by an average California
+                                    resident who requests
+                                    those services from us;</li><li>to help to ensure security and integrity to the extent the use of the California
+                                    resident's personal
+                                    information is reasonably necessary and proportionate for these purposes;</li><li>for short-term, transient use, including, but not limited to, non-personalized
+                                    advertising shown as part of a
+                                    California resident's current interaction with us, provided that the California
+                                    resident's personal
+                                    information is not disclosed to another third party and is not used to build a
+                                    profile about them or
+                                    otherwise alter their experience outside the current interaction with us;</li></ul></ul> <ul><ul>  <li>to perform services on behalf of our behalf, including maintaining or servicing
+                                    accounts, providing
+                                    customer service, processing or fulfilling orders and transactions, verifying
+                                    customer information,
+                                    processing payments, providing financing, providing analytic services, providing
+                                    storage, or providing
+                                    similar services on our behalf;
+                                </li></ul></ul> <ul><ul>  <li>
+                                    to undertake activities to verify or maintain the quality or safety of a service or
+                                    device that is owned,
+                                    manufactured, manufactured for, or controlled by us, and to improve, upgrade, or
+                                    enhance the service or
+                                    device that is owned, manufactured, manufactured for, or controlled by us.
+                                </li></ul></ul> <p><p>  
+<strong> 
+                                    2. Your Rights under the CCPA
+                                 </strong>
+</p></p> <p><p>  
+                                As a California resident, you have the following rights under the CCPA, subject to the
+                                limitations and exceptions
+                                set forth in the CCPA:
+                            </p></p> <ul><ul>  <li>The <strong> right to know </strong> what personal information we have collected about
+                                    you, including
+                                    the categories of
+                                    personal information, the categories of sources from which the personal information
+                                    is collected, the
+                                    business or commercial purpose for collecting, selling, or sharing personal
+                                    information, the categories of
+                                    third parties to whom we disclose personal information, and the specific pieces of
+                                    personal information we
+                                    have collected about you.</li></ul></ul> <ul><ul>  <li>The <strong> right to delete </strong> personal information that we have collected
+                                    from you.</li><li>The <strong> right to correct </strong> inaccurate personal information that we
+                                    maintain about you.
+                                </li><li>The <strong> right to opt-out of the "sale" or "sharing" </strong> of your personal
+                                    information by us.
+                                    We disclose California
+                                    residents' personal information to our Ad Partners for the purposes of
+                                    cross-contextual behavioral
+                                    advertising to provide you with more interesting and customized information,
+                                    promotions and
+                                    advertising. As such, we "sell" and "share" personal information as these terms are
+                                    defined under the CCPA.
+                                    Please note that we do not sell personal information in the sense of disclosing your
+                                    personal information
+                                    directly in exchange for money. We sell your personal information to third parties
+                                    for the purposes stated
+                                    in this notice and as permitted by applicable law(s). Please also note that, if you
+                                    exercise your right to opt-out of the “selling or sharing" of your personal
+                                    information, we may still disclose your personal information
+                                    to third parties for purposes other than cross-contextual behavioral advertising, as
+                                    described in our privacy
+                                    disclosures.
+                                </li></ul></ul> <ul><ul>  <li>
+                                    The <strong> right not to receive discriminatory treatment </strong> by us for the
+                                    exercise of privacy
+                                    rights conferred by
+                                    the CCPA.
+                                </li></ul></ul> <p><p>  
+<strong> 
+                                    3. How to Exercise Your CCPA Rights
+                                 </strong>
+</p></p> <ul><ul>  <li><strong> Methods of Submission and Instructions: </strong>
+</li><li>
+                                            To submit a request to exercise your <strong> rights to know, delete or
+                                                correct, </strong>
+                                            please email us at <a href="mailto:privacyrequest@xperi.com" target="_blank"> privacyrequest@xperi.com </a> or
+                                            call 1-877-367-8486. Please specify in your
+                                            request the personal
+                                            information about you that you would like to have provided, deleted or
+                                            corrected.
+                                        </li></ul></ul> <ul><ul>  <li>
+                                            To submit a request to exercise your <strong> right to opt-out of "sales" and
+                                                "sharing, </strong>" please click here:
+                                            <a href="https://xperi.com/data-privacy-consumer-rights-request/" target="_blank"> https://xperi.com/data-privacy-consumer-rights-request/ </a>
+                                            ("Do Not Sell or
+                                            Share My Personal
+                                            Information")
+                                        
+</li></ul></ul> <ul><ul>  <li><strong> Verification: </strong> Only you, or someone legally authorized to act on
+                                    your behalf, may
+                                    make a request related
+                                    to your personal information. You may also make a request on behalf of your minor
+                                    child. You may
+                                    designate an authorized agent by taking the steps outlined under "Authorized Agent"
+                                    further below. In your
+                                    request or in response to us seeking additional information, you, or your authorized
+                                    agent, must provide
+                                    sufficient information to allow us to reasonably verify that you are, in fact, the
+                                    person whose personal
+                                    information was collected, which will depend on your prior interactions with us and
+                                    the sensitivity of the
+                                    personal information being requested. We may ask you for information to verify your
+                                    identity and, if you
+                                    do not provide enough information for us to reasonably verify your identity, we will
+                                    not be able to fulfil
+                                    your request. We will only use the personal information you provide to us in a
+                                    request for the purposes of
+                                    verifying your identity and to fulfil your request.</li></ul></ul> <ul><ul>  <li><strong> Fees: </strong> We do not charge a fee to process or respond to your request
+                                    unless it is
+                                    excessive, repetitive, or
+                                    manifestly unfounded. If we determine that the request warrants a fee, we will tell
+                                    you why we made that
+                                    decision and provide you with a cost estimate before completing your request.
+                                </li></ul></ul> <ul><ul>  <li><strong> Opt-Out Preference Signals: </strong> We respond to opt-out preference
+                                    signals communicated
+                                    via the Global
+                                    Privacy Control and will process such signals with respect to the browser or signal
+                                    communicating the
+                                    signals through our cookie consent manager on our applicable Services. To use Global
+                                    Privacy Control opt-out preference signals, please follow the instructions here:
+                                    <a href="https://globalprivacycontrol.org/" target="_blank">  https://globalprivacycontrol.org/. </a>
+</li></ul></ul> <ul><ul>  <li>
+<strong> Authorized Agents: </strong> You can designate an authorized agent to make a
+                                    request under the
+                                    CCPA on your
+                                    behalf if (i) the authorized agent is a natural person or a business entity
+                                    registered with the Secretary of
+                                    State of California, (ii) we receive a written authorization stating that you have
+                                    authorized the authorized
+                                    agent to submit a request on your behalf which has been signed by you and the
+                                    authorized agent, and (iii)
+                                    we have verified the identity of you and the authorized agent. If you provide an
+                                    authorized agent with power
+                                    of attorney pursuant to California Probate Code sections 4121 to 4130, it may not be
+                                    necessary to perform
+                                    the above steps, and we will respond to any request from the authorized agent in
+                                    accordance with the CCPA.
+                                </li></ul></ul> <p><p>  
+<strong> 
+                                    4. Contact Us
+                                 </strong>
+</p></p> <p><p>  
+                                If you have questions or concerns about our privacy policies or practices, please email
+                                us at <a href="mailto:privacyrequest@xperi.com" target="_blank"> privacyrequest@xperi.com. </a>
+</p></p> <div><ul>  <li>Open menu
+</li><li>Open menu
+</li><li>Open menu
+</li><li>Open menu
+</li><li>Open menu
+</li><li>Open menu
+</li><li>English
+</li><li>简体中文</li><li> (Chinese (Simplified)</li><li>繁體中文</li><li> (Chinese (Traditional)</li><li>日本語</li><li> (Japanese</li><li>한국어</li><li> (Korean</li><li>Español</li><li> (Spanish</li><li>Français</li><li> (French</li><li>Deutsch</li><li> (German</li><li>Italiano</li><li> (Italian</li><li>Türkçe</li><li> (Turkish</li><li>English (UK)</li><li> (English</li></ul></div>

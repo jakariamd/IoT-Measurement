@@ -1,0 +1,274 @@
+<div><h1>  Privacy settings and terms of use
+
+
+</h1><p>  
+<strong> Last updated: April 13, 2021 </strong>
+
+
+
+
+The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA), and in accordance with the country-specific data protection regulations applicable to TrendMD.
+
+As the data controller, TrendMD has implemented numerous technical and organizational measures to ensure the protection of personal data processed through its products (widget, website, and blog).
+
+This Privacy Policy is designed to help the users understand what data we collect, why we collect it, and what we do with it. Please, read this Privacy Policy carefully.
+
+
+
+</p></div> Definitions 1) "Affiliate" means an entity that directly or indirectly controls, is controlled by or is under common control with, a party. 2) "CCPA" means the California Consumer Privacy Act of 2018, effective as of January 1, 2020, as amended or replaced from time to time, along with any implementing regulations. CCPA is a California statute intended to enhance privacy rights and consumer protection for residents of California, the United States. 3) "Consent" means any freely given, specific, informed and unambiguous indication of the data subject's wishes by which he or she, by a statement or clear affirmative action, signifies agreement to the processing of personal data relating to him or her. 4) "Consumer" means natural persons who reside in California, including individuals who are in California for other than a temporary and transitory purpose and individuals who are domiciled in California, but are outside the state for a temporary or transitory purpose. 5) "Controller or controller responsible for the processing" means the natural or legal person, public authority, agency or another body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law. 6) "Data Incident" means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data on systems managed by or otherwise controlled by TrendMD. "Data Incidents" will not include unsuccessful attempts or activities that do not compromise the security of Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and other network attacks on firewalls or networked systems. 7) "Data Subject" means any identified or identifiable natural person, whose personal data is processed by the controller responsible for the processing. 8) "EEA" means the European Economic Area. 9) "GDPR" means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC. 10) "Personal Data" means any information relating to an identified or identifiable natural person ("data subject"). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. 11) "Personal Information" similar to Personal Data, means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. 12) "Processing" means any operation or set of operations which is performed on personal data or on sets of personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. 13) "Processor" means a natural or legal person, public authority, agency or another body which processes personal data on behalf of the controller. 14) "Profiling" means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyze or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements. 15) "Pseudonymization" means the processing of personal data in such a manner that the personal data can no longer be attributed to a specific data subject without the use of additional information, provided that such additional information is kept separately and is subject to technical and organizational measures to ensure that the personal data are not attributed to an identified or identifiable natural person. 16) "Recipient" means a natural or legal person, public authority, agency or another body, to which the personal data are disclosed, whether a third party or not. 17) "Restriction of processing" is the marking of stored personal data with the aim of limiting their processing in the future. 18) "Third party" means a natural or legal person, public authority, agency or body other than the data subject, controller, processor and persons who, under the direct authority of the controller or processor, are authorized to process personal data. 19) "TrendMD" means TrendMD Inc., an Ontario corporation. 20) "TrendMD network" means our widget, website, and blog. <div><h3>  Information we collect
+
+We collect information to provide better services to our users. We collect information in the following ways:
+
+
+1) Information you give us
+
+If you are a publisher, we will normally require you to sign up for an account. In the process of setting up an account, we will ask you for certain personal information, such as the company name, the name of the company's representative, an email address, a telephone number, etc.
+
+If you are a reader, no account is required. However, in case you subscribe for our email newsletters and notifications, you will be asked to provide your email address.
+
+2) Information we get from your use of our services
+
+2.1) When you use our widget, we may collect and store on our servers certain general data and information. We may collect the following types of information:
+
+2.1.1) The browser types and versions used
+2.1.2) The operating system used by the accessing system
+2.1.3) The website from which you access our widget
+2.1.4) The date and time of access to the Internet site
+2.1.5) An Internet protocol address (IP address)
+2.1.6) Any other similar data and information that does not allow identification of the reader
+2.1.7) A randomly-generated unique identifier that is stored on the user's device upon receiving consent for activating various features or setting certain preferences
+
+2.2) When using the aforementioned general data and information, we do not intend to draw any conclusions about your true identity, such as your real name, nickname, physical address, or email address. Rather, this information is needed to:
+
+
+2.2.1) Provide readers with personalized reading recommendations
+2.2.2) Ensure that we can comply with the readers' data privacy requests
+2.2.3) Collect correct statistical information (avoid treating multiple views from the same computer as multiple views for statistical purposes)
+
+2.3) When you contact us, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
+
+
+2.4) If certain data that we collect can be matched with other pieces of information in our possession in order to identify the reader, we use pseudonymization, anonymization, and encryption techniques to adjust personal data in a way that prevents identification of the originating person. Although we strive to provide the same level of protection to all of our readers, sometimes it is beyond our abilities. We guarantee that pseudonymization, anonymization, and encryption techniques will be used to prevent a possibility of identification of all readers from the EEA. However, we reserve the right to adopt a selective use of such techniques in other instances.
+
+</h3></div> <p><p>  
+3) Detailed information about the rights for visitors within the EEA — see <a href="#gdpr" target="_blank"> here </a>
+.
+
+4) For the purposes stated in sections 2.2.2 and 2.2.3, we collect general information under the section 6(1)(f) of the GDPR. Collecting of data used to provide you with personalized reading recommendations is subject to your consent. We will also ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
+
+
+</p></p> <p><p>  
+3) Opt-out options for visitors outside the EEA — see <a href="/targeting-settings" target="_blank"> here </a>.
+
+
+
+
+</p></p> <div><h3>  How we use cookies
+
+1) A cookie is a small file which is placed on your device in order to store various information, like specific identifiers and your preferences. Cookies help us analyze web traffic and let us know when you use our widget/website/blog. They also help us make sure that during the current browsing session we are not asking the same reader for the same consent multiple times on the same website.
+
+2) We use traffic log cookies to identify which pages are being used. This helps us analyze data about the webpage traffic and improve our widget/website/blog in order to tailor it to the customers' needs. We use this information solely for statistical analysis purposes. The cookies that we use cannot be used to identify you unless you have consented to this.
+
+3) Overall, cookies help us provide you with a better service by increasing the accuracy of statistical information we collect and the quality of recommendations that we provide you with. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+4) Click <a href="/clear-cookies" target="_blank"> here </a>
+for a guide on how to clear cookies on popular browsers.
+
+
+</h3></div> <div><h3>  Use of Google Analytics
+
+1) TrendMD uses tracking technologies like Google Analytics that help recognize your visit and track visitors' use of and interaction with the services. We use this data to determine the number of people using our widget, website, and blog, to better understand how they find and use our products and to see their journey through our network (widget, website, blog).
+
+2) We consider Google to be a third party data processor.
+
+3) Google Analytics records data such as your geographic location, device, Internet browser, and operating system. We request Google Analytics to apply
+<a href="https://support.google.com/analytics/answer/2763052?hl=en" target="_blank"> IP anonymization </a>
+, so your computer’s IP address is <a href="https://support.google.com/analytics/answer/2905384?hl=en" target="_blank"> masked </a>
+.
+
+4) Google Analytics makes use of <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=en" target="_blank"> cookies </a>, details of which can be found on
+<a href="https://developers.google.com/analytics/devguides/collection/" target="_blank"> Google’s developer guides </a>. TrendMD has enabled Advertising Features, thus enabling Google Analytics to collect data about your traffic via
+<a href="https://policies.google.com/technologies/types" target="_blank"> Google advertising cookies </a>
+and identifiers, in addition to data collected through a standard Google Analytics implementation.
+
+5) Advertising Features that we are using or we may use include: remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting, integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers.
+
+6) TrendMD is using or may use interest-based advertising.
+
+7) You can opt-out of Google Analytics Advertising Features through <a href="https://adssettings.google.com" target="_blank"> Ads Settings </a> and Ad Settings for mobile apps. Other opt-out means include
+<a href="http://optout.networkadvertising.org/" target="_blank"> http://optout.networkadvertising.org/ </a>
+and <a href="https://www.networkadvertising.org/mobile-choice" target="_blank"> http://www.networkadvertising.org/mobile-choice </a>.
+
+
+8) To opt-out of Google Analytics, click <a href="https://tools.google.com/dlpage/gaoptout" target="_blank"> here </a>
+.
+
+9) Google Analytics is a registered trademark of Google, Inc.
+
+10) For data subjects within the EEA:
+
+When you provide consent for the use of Google Analytics and related cookies across the TrendMD network (widget, website, and/or blog), if not already present, a TrendMD cookie containing a randomly-generated unique identifier will be placed on your device. This identifier will also be sent to TrendMD in order to record your consent on our server. If the aforementioned consent is revoked, our server will be updated accordingly. We may also collect and store on our server the related Google Analytics Client ID(s) which are not in any way related to your true identity (i.e., knowing your Google Analytics Client ID will not allow us to know your name and address).
+
+
+
+</h3></div> <div><h3>  Subscription
+1) You are given an opportunity to subscribe to the notifications and newsletters we offer. The subscription form used for this purpose determines what personal data are transmitted, as well as when the notifications and newsletters are requested from the controller.
+
+2) A confirmation e-mail will be sent to the e-mail address provided by you for the first time. This confirmation e-mail is used to prove whether the owner of the e-mail address, as the data subject, is authorized to receive the information we send out. The subscription to our notifications and newsletters may be terminated at any time.
+
+3) The notifications and newsletters may contain so-called tracking pixels. A tracking pixel is a miniature graphics embedded in such e-mails, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of online marketing campaigns. Based on the embedded tracking pixel, we may see if and when you open a certain email message that we sent. We may also track which links in the email message you clicked on. This information is used to provide better service to the customer.
+
+
+
+</h3></div> Rights of the data subject under the GDPR 1) Right of confirmation Each data subject shall have the right granted by the European legislator to obtain from the controller the confirmation as to whether or not personal data concerning him or her are being processed. If a data subject wishes to avail himself of this right of confirmation, he or she may, at any time, contact our data protection officer at the email address stated below. In order for us to be able to respond to your request for information, you need to have consented for the features that store a randomly-generated unique identifier valid across the TrendMD network. 2) Right of access 2.1) The data subject shall have the right granted by the European legislator to obtain information about his or her personal data stored at any time and a copy of this information. Furthermore, the European directives and regulations grant the data subject access to the following information: 2.1.1) the purposes of the processing; 2.1.2) the categories of personal data concerned; 2.1.3) the recipients or categories of recipients to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organizations; 2.1.4) where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period; 2.1.5) the existence of the right to request from the controller rectification or erasure of personal data, or restriction of processing of personal data concerning the data subject, or to object to such processing; 2.1.6) the existence of the right to lodge a complaint with a supervisory authority; 2.1.7) where the personal data is not collected from the data subject, any available information as to their source; 2.1.8) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) of the GDPR and, at least in those cases, meaningful information about the logic involved, as well as the significance and envisaged consequences of such processing for the data subject. 2.2) Furthermore, the data subject shall have a right to obtain information as to whether personal data are transferred to a third country or to an international organization. Where this is the case, the data subject shall have the right to be informed of the appropriate safeguards relating to the transfer. 2.3) In order for us to be able to respond to your request for access, you need to have consented for the features that store a randomly-generated unique identifier valid across the TrendMD network. 2.4) If a data subject wishes to avail himself of this right of access, he or she may at any time contact our data protection officer at the email address stated below. 3) Right to rectification 3.1) Each data subject shall have the right granted by the European legislator to obtain from the controller without undue delay the rectification of inaccurate personal data concerning him or her. Taking into account the purposes of the processing, the data subject shall have the right to have incomplete personal data completed, including by means of providing a supplementary statement. 3.2) If a data subject wishes to exercise this right to rectification, he or she may, at any time, contact our data protection officer at the email address stated below 4) Right to erasure (Right to be forgotten) 4.1) Each data subject shall have the right granted by the European legislator to obtain from the controller the erasure of personal data concerning him or her without undue delay, and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies, as long as the processing is not necessary: 4.1.1) The personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed. 4.1.2) The data subject withdraws consent to which the processing is based according to point (a) of Article 6(1) of the GDPR, or point (a) of Article 9(2) of the GDPR, and where there is no other legal ground for the processing. 4.1.3) The data subject objects to the processing pursuant to Article 21(1) of the GDPR and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2) of the GDPR. 4.1.4) The personal data have been unlawfully processed. 4.1.5) The personal data must be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject. 4.1.6) The personal data have been collected in relation to the offer of information society services referred to in Article 8(1) of the GDPR. 4.2) If one of the aforementioned reasons applies, and a data subject wishes to request the erasure of personal data stored by TrendMD, he or she may at any time contact our data protection officer at the email address stated below. 4.3) Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the data subject has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. The data protection officer or another employee will arrange the necessary measures in individual cases. 5) Right of restriction of processing 5.1) Each data subject shall have the right granted by the European legislator to obtain from the controller restriction of processing where one of the following applies: 5.1.1) The accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data. 5.1.2) The processing is unlawful and the data subject opposes the erasure of the personal data and requests the restriction of their use instead. 5.1.3) The controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defense of legal claims. 5.1.4) The data subject has objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether the legitimate grounds of the controller override those of the data subject. 5.2) If one of the aforementioned conditions is met, and a data subject wishes to request the restriction of the processing of personal data stored by TrendMD, he or she may at any time contact our data protection officer at the email address stated below. 6) Right to data portability 6.1) Each data subject shall have the right granted by the European legislator, to receive the personal data concerning him or her, which was provided to a controller, in a structured, commonly used and machine-readable format. He or she shall have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, as long as the processing is based on consent pursuant to point (a) of Article 6(1) of the GDPR or point (a) of Article 9(2) of the GDPR, or on a contract pursuant to point (b) of Article 6(1) of the GDPR, and the processing is carried out by automated means, as long as the processing is not necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller. Furthermore, in exercising his or her right to data portability pursuant to Article 20(1) of the GDPR, the data subject shall have the right to have personal data transmitted directly from one controller to another, where technically feasible and when doing so does not adversely affect the rights and freedoms of others. 6.2) In order to assert the right to data portability, the data subject may at any time contact the data protection officer at the email address stated below. 7) Right to object 7.1) Each data subject shall have the right granted by the European legislator to object, on grounds relating to his or her particular situation, at any time, to processing of personal data concerning him or her, which is based on point (e) or (f) of Article 6(1) of the GDPR. This also applies to profiling based on these provisions. 7.2) TrendMD shall no longer process the personal data in the event of the objection unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights, and freedoms of the data subject, or for the establishment, exercise or defense of legal claims. 7.3) If TrendMD processes personal data for direct marketing purposes, the data subject shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the data subject objects to TrendMD to the processing for direct marketing purposes, TrendMD will no longer process the personal data for these purposes. 7.4) In addition, the data subject has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest. 7.5) In order to exercise the right to object, the data subject may directly contact the data protection officer of TrendMD. In addition, the data subject is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications. 8) Automated individual decision-making, including profiling 8.1) Each data subject shall have the right granted by the European legislator not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) is not authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, or (3) is not based on the data subject's explicit consent. 8.2) If the decision (1) is necessary for entering into, or the performance of, a contract between the data subject and a data controller, or (2) it is based on the data subject's explicit consent, TrendMD shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision. 8.3) If the data subject wishes to exercise the rights concerning automated individual decision-making, he or she may at any time directly contact our data protection officer at the email address stated below. 9) Right to withdraw data processing consent 9.1) Each data subject shall have the right granted by the European legislator to withdraw his or her consent to processing of his or her personal data at any time. 9.2) If the data subject wishes to exercise the right to withdraw the consent, he or she may at any time directly contact our data protection officer at the email address stated below. Consumer's rights under the CCPA 1) Right to access 1.1) The CCPA provides Consumers with specific rights regarding their Personal Information. As a Consumer, you have the right to request, and TrendMD has an obligation to provide the following information: 1.1.1) The categories of Personal Information we collect about you 1.1.2) The categories of sources from which the information was collected 1.1.3) The business or commercial purpose for collecting, disclosing, or selling Personal Information 1.1.4) The categories of third parties we have disclosed Personal Information to for a business purpose and the categories of personal information disclosed 1.1.5) The specific pieces of personal information we collected about you (also called a data portability request) 1.2) You have the right to request twice during the twelve month period that TrendMD disclose certain information to you about our collection and use of your personal information over the past twelve months. Such information would be provided in a readily usable format. 2) Right to deletion 2.1) Each Consumer shall have the right granted by the CCPA to request deletion of his/her Personal Information which TrendMD process, and TrendMD shall have the obligation to erase Personal Information without undue delay, as long as the processing is not necessary to: 2.1.1) Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity 2.1.2) Debug products to identify and repair errors that impair existing intended functionality 2.1.3) Ensure the right of another Consumer to exercise his or her right of free speech, or exercise another right provided for by law 2.1.4) Comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code 2.1.5) To enable solely internal uses that are reasonably aligned with the expectations of Consumer based on the Consumer's relationship with the business 2.1.7) Comply with a legal obligation 2.1.8) Complete the transaction for which we collected your Personal Information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you 2.1.9) Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information's deletion may likely render impossible or seriously impair the research's achievement, if you previously provided informed consent 2.1.10) Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information. If one of the aforementioned reasons applies, your Personal Information may not be deleted. 2.2) If Consumer wishes to request the erasure of Personal Information stored by TrendMD, he or she may at any time contact our data protection officer at the email address stated below. 3) Right to non-discrimination TrendMD respect all Consumers and will not discriminate against you for exercising any of your CCPA rights. Unless permitted by the CCPA, we will not: 3.1) Deny you goods or services 3.2) Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties 3.3) Provide you a different level or quality of goods or services 3.4) Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services. 4) Consumer requests 4.1) The verifiable Consumer request must contain the following information: 4.1.1) Sufficient information that allows TrendMD to reasonably verify Consumer as a person about whom we collected personal information or an authorized representative 4.1.2) Sufficient details that allow TrendMD to properly understand, evaluate, and respond to the request 4.1.3) TrendMD may request additional materials or information for the purposes of validating the authenticity of your request 4.2) TrendMD would not able to respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm Personal Information relates to you. TrendMD will use the information provided in connection with a verification request solely for the purposes of verification 4.3) Only Consumer or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable Consumer request related to your Personal Information. You may also make a verifiable Consumer request on behalf of your minor child 4.4) Consumer may only make a verifiable consumer request for access or data portability twice within a twelve month period 4.5) TrendMD would provide the response on Consumer's request within 45 days of its receipt. If we require more time (up to 90 days), we will inform you of the reason and extension period in writing. If TrendMD is unable or not required to effectuate your rights request, we will respond to your request within the period required by the CCPA. The response will provide relevant details regarding TrendMD's determination and any additional, pertinent information about your request 4.6) For any data-related requests you may contact us directly by email stated below, with the subject "CCPA Rights Request". Opt-out rights may be exercised also through applicable sections of TrendMD website. TrendMD website includes a page called "Do Not Sell My Personal Information" that allows Consumers to opt-out of the sale of Personal Information. <div><h3>  Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes.
+
+We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+
+
+
+</h3></div> <div><h3>  Information collected from children
+
+Our widget and website are not intended for children under the age of 16. If you are under the age of 16 and would like to use our services, you can do so only if we obtain consent from your parents. Contact our data protection officer for details. We do not knowingly collect, maintain, or use personal information from children without parental consent. If we learn that we have inadvertently obtained information in violation of applicable laws, we will promptly delete the information.
+
+
+
+</h3></div> <div><h3>  Information we share
+
+We do not share your personal data with companies, organizations, and individuals outside of our company unless one of the following circumstances applies:
+
+
+1) With your consent
+
+We will share personal information with companies, organizations, or individuals when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information.
+
+For certain territories, if the circumstances require, there may be exceptions from this rule; however, under no circumstance, personal data of data subjects from the EEA can be shared with third parties without their consent.
+
+
+2) For external processing
+
+We may provide personal information to our GDPR-compliant and CCPA-compliant affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+
+
+3) For legal reasons
+
+We will share personal information with companies, organizations or individuals if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+
+3.1) Meet any applicable law, regulation, legal process or enforceable governmental request.
+
+3.2) Enforce applicable terms of service, including investigation of potential violations.
+
+3.3) Detect, prevent, or otherwise address fraud, security or technical issues.
+
+3.4) Protect against harm to the rights, property or safety of TrendMD, our users or the public as required or permitted by law.
+
+We may share non-personally identifiable information publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services.
+
+
+If TrendMD is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+
+If express or implied consent is given by a user, TrendMD reserves the right to show targeted content and/or share user-specific collected information with third party business partners.
+
+Please note that the definition of consent varies depending on the jurisdiction in which the user is located. As a data processor, TrendMD applies different privacy protection mechanisms which rely on geolocation technology.
+
+</h3></div> <div><h3>  Information security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online:
+
+1) We encrypt many of our services using SSL.
+
+2) We review our information collection, storage, and processing practices, including physical security measures, to guard against unauthorized access to systems.
+
+3) We restrict access to personal information to our employees, contractors, and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations. Only a limited number of our employees have access to certain parts of the data we collect. We constantly ensure that different types of pseudonymized data that, if matched, can be used to identify a particular reader, are stored separately.
+
+
+
+</h3></div> <div><h3>  Data Incidents
+
+1) Incident Notification
+
+If we become aware of a Data Incident, we will notify the readers promptly and without undue delay, and promptly take reasonable steps to minimize harm and secure the readers' data.
+
+2) Delivery of Notification
+
+We will deliver a notification of any Data Incident to the reader's notification email address or, at our discretion (including if the customer has not provided a notification email address), by other direct communication (for example, by phone call). The customer is solely responsible for providing the notification email address and ensuring that the notification email address is current and valid. In case we do not have your contact information, we will deliver a notification via indirected means of communication (for example, we may post a message on our website).
+
+3) No Acknowledgement of Fault by TrendMD
+
+Our notification of or response to a Data Incident will not be construed as an acknowledgment by TrendMD of any fault or liability with respect to the Data Incident.
+
+
+
+</h3></div> <div><h3>  When this Privacy Policy applies
+
+This Privacy Policy applies to all of the services offered by TrendMD, Inc and its affiliates, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you, sites that may include TrendMD services, or other sites linked from our services.
+
+Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags, and other technologies to serve and offer relevant ads.
+
+
+
+</h3></div> <div><h3>  Links to other websites
+
+Our widget/website/blog may contain links to other websites of interest. However, once you have clicked on a widget recommendation or used a link to leave our website/blog, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+
+
+</h3></div> <div><h3>  Compliance and cooperation with regulatory authorities
+
+We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+
+
+
+</h3></div> <div><h3>  Processing in the European Economic Area (EEA)
+
+For readers located in the European Economic Area, from May 25, 2018, all processing of Personal Data is performed in accordance with the Regulations (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, known as the General Data Protection Regulation (GDPR), and TrendMD processing will take place in accordance with the GDPR. We will use the geographic location of the reader as we can identify it via the IP addresses collected in accordance with this privacy policy to determine if the reader accesses our widget/website/blog from within the EEA. If the reader makes it impossible for us to identify their geographic location as one within the EEA, we may not be able to provide such a reader with some or all GDPR rights described above. Those readers that use VPN or any other means to hide their true geographic location bear full responsibility for their actions.
+
+
+
+</h3></div> <div><h3>  Processing in California, the USA
+
+For Consumers located in the state of California, the USA, all processing of Personal Information is performed in accordance with the California Consumer Privacy Act of 2018 (CCPA), and TrendMD processing will take place in accordance with the CCPA. We will use the geographic location of the reader as we can identify it via the IP addresses collected in accordance with this privacy policy to determine if the reader accesses our widget/website/blog from within the California state. If the reader makes it impossible for us to identify their geographic location as one within the California state, we may not be able to provide such a reader with some or all CCPA rights described above. Those readers that use VPN or any other means to hide their true geographic location bear full responsibility for their actions.
+
+
+
+</h3></div> <div><h3>  Period for which the personal data will be stored
+
+The criteria used to determine the period of storage of personal data is the respective statutory retention period. After the expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment or the initiation of a contract or for the purposes of the legitimate interests pursued by us.
+
+
+
+</h3></div> <div><h3>  Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).
+
+
+</h3></div> <div><h3>  Contact information
+
+If you have questions, concerns, or you would like to make a request, please contact us at the following email address
+
+TrendMD LLC
+4023 Kennett Pike 50094, 19807, Wilmington, Delaware
+Email: <a href="mailto:personal-data@trendmd.com" target="_blank"> personal-data@trendmd.com </a>
+
+
+
+
+
+
+
+
+
+</h3><span>  
+I consent to the use of Google Analytics and related cookies across the TrendMD network (widget, website, blog).
+<a href="/google-analytics" target="_blank"> Learn more </a>
+
+
+</span></div> <div><div>  
+<a href="" target="_blank"> No </a>
+
+
+
+</div></div>

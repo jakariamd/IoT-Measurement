@@ -1,0 +1,39 @@
+<div><span>  Sign Up</span><span>  Log In</span></div> <div><h1>  
+
+</h1><span>  Help & Support</span><p>  You have selected  posts.
+
+</p><span>  Aug 2021</span><span>  Oct 2021</span><span>  Aug '21</span><p>  Been using Sonarr on Mac via Docker for about a two years which has been pretty slick, where the one down point has been in the indexers and I never went in to tweak and update the indexers.</p><p>  Migrating the docker media services to Synology and time to give the indexers some TLC.
+What are your favorite free indexers (tv/movies including older content?)</p></div> <p><p>  Considering Usernet and interested in recommendations to help sift through the sea of reviews that conclude in little direction. Allergic to subscriptions and open to purchasing a lifetime option or two. Notice some indexers are invite only ~ invites appreciated.</p></p> <p><p>  ATM, process for me is to get information from Jackett, set up each in sonarr and radarr. Each configuration takes a fair amount of time and seems repetitive. Are there tools to make this go faster?</p></p> <div><span>  1 Reply</span><ul>  <li>created</li></ul><span>  Aug '21</span><ul>  <li>last reply</li></ul><span>  Oct '21</span><ul>  <li>14</li></ul></div> <div><h4>  replies</h4><ul>  <li>2.3k</li></ul></div> <div><h4>  views</h4><ul>  <li>users</li><li>like</li><li>links</li></ul><span>  Aug '21</span><p>  Each configuration takes a fair amount of time and seems repetitive. Are there tools to make this go faster?</p><p>  setup an indexer for all of jackett - eg 
+that way you can add/remove indexers to/from jackett whenever you like and you dont have to touch sonarr</p><p>  but, you only get the standard categories (or at least did the last time i looked) so if one of your indexers uses a custom category for something you want then you will need to also add an indexer entry for that one as well, but only for the custom category, the standard ones will be covered under the jackett indexer entry.</p></div> <div><span>  2 Replies</span><span>  Aug '21</span><p>  Sounds great…so is this saying ONE indexer that you put into Sonarr? If so, is that as Torznab?</p><span>  Aug '21</span><p>  yes, and yes.  added exactly the same as any other jackett based indexer, the only difference is the  in the url instead of the indexers name</p><span>  Aug '21</span><p>  This is fantastic! Thank you for sharing.</p><span>  Aug '21</span><p>  just dont forget to change the  part to whatever yours needs.  simplest is to just copy any current jackett indexers url and replace the name with all so it works in your situation.</p></div> <div><span>  Aug '21</span><p>  Thought I had it working… just one indexer for sonarr that points to Jackett and testing indicates indexing is working for sonarr. Mind elaborating further on copying indexer urls?</p><span>  Aug '21</span><p>  in jackett you click on the copy torznab feed button to get the link for that indexer.  i get this;
+
+and you just change the  indexer name to all to get
+</p><p>  in my case though jackett is behind a reverse proxy, and its in docker as is the sonarr.  they are both on the same container network though, so to make that link work i have to change the host part from  to .</p></div> <p><p>  what, and even if, you have to change it to will depend on your setup.</p></p> <div><span>  Aug '21</span><p>  the  endpoint has no benefit besides laziness and has nothing but downsides and frequent problem causing</p><p>  it absolutely should never be used, ever.</p><p>  both the *Arr teams and the Jackett teams explicitly advise against it.</p><p>  if you don’t want to configure each tracker 1x1; check out prowlarr</p><span>  2 Replies</span><span>  Aug '21</span><p>  prowlarr</p><p>  Thank you. Exploring prowler. Wondering if there is a script of compose style file that could be used for indexers, seems so manual.</p></div> <div><span>  Aug '21</span><p>  Like all *arrs the entire UI is just lipstick on the API</p><span>  Aug '21</span><p>  prowlarr</p><p>  Thank you. Exploring prowler. Wondering if there is a script of compose style file that could be used for indexers, seems so manual.</p><p>  Update - Prowler appears to working well. </p><p>  Terms of indexers and Usenet, does anyone have recommendations? Subscription allergic, albeit open to possibility of purchasing lifetime access for a Usenet spot or two, and open to invites.</p></div> <div><span>  Aug '21</span><p>  Terms of indexers and Usenet, does anyone have recommendations? Subscription allergic, albeit open to possibility of purchasing lifetime access for a Usenet spot or two, and open to invites.</p><p>  r/Usenet/
+r/UsenetInvites/</p><p>  Probably better suited to finding the answers you seek, including plenty of people who have already asked about similar recommendations. Just a word of warning, for pretty much any decent private indexer, you’re looking at a subscription. And for actual usenet access it’s subscription or blocks only.</p></div> <div><span>  Aug '21</span><p>  Thank you.</p><p>  closed </p><p>  on Oct 30, '21</p><p>  This topic was automatically closed 60 days after the last reply. New replies are no longer allowed.</p><span>  Reply</span></div> <div><h3>  
+    Suggested Topics
+  </h3><span>  
+
+</span><td>  Help & Support
+</td><td>  5
+</td><td>  110
+</td><td>  Jul 10
+</td><span>  
+
+</span><td>  Help & Support
+</td><td>  4
+</td><td>  121
+</td><td>  Jul 12
+</td><span>  
+
+</span><td>  Help & Support
+</td><td>  10
+</td><td>  132
+</td><td>  17d
+</td></div> <div><h3>  
+    Want to read more? Browse other topics in </h3></div> <div><h3>  Help & Support or <a href="/latest" target="_blank"> view latest topics </a>.
+  </h3></div> <div><h3>  [en.share.topic]</h3><span>  Share
+</span><span>  
+
+
+
+
+</span></div>

@@ -1,0 +1,246 @@
+<div><p>  TERMS OF DIAGNOSTICS DATA
+COLLECTION IN ECOSTRUX</p><span>  URE</span><span>  ™
+BUILDING OPERATION </span><p>  Version 1.0.</p><p>  PLEASE CAREFULLY READ THESE TERMS,
+AS THEY ARE APPLICABLE TO THE DIAGNOSTICS DATA COLLECTION </p><span>  IN
+CONNECTION WITH YOUR ECOSTRUXURE BUILDING OPERATION.</span><p>  STARTING
+FROM THE INSTALLATION OF YOUR ECOSTRUXURE BUILDING OPERATION, SCHNEIDER
+ELECTRIC WILL COLLECT SYSTEM DATA FOR ANALYSIS FROM YOUR ECOSTRUXURE BUILDING
+OPERATION, THROUGH DIAGNOSTICS DATA COLLECTION (HEREINAFTER “DIAGNOSTICS”),
+THAT IS A COMPONENT ECOSTRUXURE BUILDING OPERATION. </p></div> <p><p>  YOU, AS
+</p></p> <span><span>  YOUR CORPORATION, COMPANY
+OR OTHER LEGAL ENTITY OR YOURSELF AS THE CASE MIGHT BE</span></span> <p><p>  (HEREINAFTER “YOU”), </p></p> <span><span>  CONFIRM YOUR
+ACCEPTANCE OF THESE TERMS (HEREINAFTER “TERMS”) AND YOUR AGREEMENT TO BE BOUND HEREBY,
+BY CONTINUING TO LOG-ON TO ECOSTRUXURE BUILDING OPERATION FOLLOWING INSTALLATION.
+IF YOUR ECOSTRUXURE BUILDING OPERATION HAS ALREADY BEEN INSTALLED AND LOGGED-ON
+BY A THIRD PARTY ON YOUR BEHALF, YOU CONFIRM YOUR ACCEPTANCE OF THESE TERMS BY ANY
+SUBSEQUENT LOG-ON TO ECOSTRUXURE BUILDING OPERATION. IF YOU DO NOT AGREE TO BE
+BOUND HEREBY YOU MUST OPT-OUT FROM DIAGNOSTICS VIA YOUR ECOSTRUXURE BUILDING
+OPERATION SYSTEM SETTINGS, ACCESSIBLE AFTER YOU HAVE LOGGED-ON TO ECOSTRUXURE
+BUILDING OPERATION.</span></span> <div><p>  he present Terms
+is a legal agreement between You and Schneider Electric (as defined hereunder) which
+</p><span>  sets forth the terms and conditions governing the Diagnostics
+embedded in and operating through Your </span><span>  Ecostruxure Building
+Operation</span><span>  . </span><span>  It is Your responsibility to ascertain
+that any person completing the installation of Your </span><span>  Ecostruxure
+Building Operation </span><span>  Ecostruxure Building Operation has
+the mandate or legal authority to bind You and confirm Your acceptance of the
+Terms. </span></div> <p><p>  If You are a Third Party, subject to, and
+as defined in, Section </p></p> <p><p>  , prior to installing and logging on to </p></p> <span><span>  Ecostruxure Building Operation, </span></span> <div><span>  You
+need to obtain permission from the </span><span>  end
+user of </span><span>  Ecostruxure Building Operation, being the
+owner or licensee of the </span><span>  Ecostruxure Building
+Operation, from which Data is collected via the Diagnostics (hereinafter </span><span>  “End User”).</span><p>  1.</p><span>       </span><span>  The Diagnostics</span><p>  The Diagnostics connects
+Your </p><span>  Ecostruxure Building Operation system, once
+installed in Your facility, and to which the Diagnostics can be applied, to
+Schneider Electric, enabling the Diagnostics to collect </span></div> <div><span>  Ecostruxure
+Building Operation Data for analysis from </span><span>  Ecostruxure
+Building Operation systems, </span><span>  in order to improve the usability,
+quality and performance of Schneider Electric products, systems, solutions</span><span>  
+and services</span><p>  The Diagnostics may be
+subject to change at Schneider Electric’s discretion. </p><p>  In case of a
+discrepancy between information in hard copy and the description on
+www.schneider-electric.com the latter shall prevail. </p></div> <div><p>  The Diagnostics is provided </p><span>  in
+connection with </span><span>  Ecostruxure Building Operation,
+under these Terms by the Schneider Electric company which is registered in the
+country where You install, and log-on, to </span><span>  Ecostruxure
+Building Operation. The Schneider Electric companies are listed under the
+drop-list of countries <<Select your country>> on the corporate web
+site of Schneider Electric Group (hereinafter “Schneider Electric”). Your </span><span>  Ecostruxure Building Operation may also be installed by
+Schneider Electric or by a company which </span></div> <p><p>  directly or indirectly controls, or is controlled by, or is under
+common control with, Schneider Electric (hereinafter “Affiliate”)</p></p> <p><p>  2.</p></p> <div><span>      
+</span><span>  Rights in the </span><p>  Diagnostics</p><p>  The Diagnostics, as well as all rights, including but
+not limited to all intellectual property rights, title, interest, technology
+and know-how, whether patented or not, embodied in the Diagnostics shall remain
+the sole property of Schneider Electric, to the exclusion of any third-party
+software embedded in the Diagnostics or otherwise provided to You with the Diagnostics.</p><p>  Nothing in these Terms shall be deemed to convey to
+You any of Schneider Electric’s intellectual property rights in the Diagnostics;
+all rights not specifically granted in these Terms are reserved by Schneider
+Electric. Schneider Electric does not sell the Diagnostics to You.</p></div> <p><p>  All intellectual property rights pertaining to any
+third-party software embedded in the Diagnostics, or otherwise provided to You
+with the Diagnostics, shall remain vested in the relevant third-party and there
+will be no deemed or implied transfer of ownership to You of such third-party intellectual
+property rights.</p></p> <div><p>  Schneider Electric
+and other trademarks contained in the </p><span>  Diagnostics</span><p>  are registered trademarks of the Schneider Electric group. Except as
+otherwise expressly prescribed by statute, </p><span>  You may not
+remove or alter any trademark, trade names, product names, logo, copyright or
+other proprietary notices, legends, symbols or labels in the </span><span>  Diagnostics</span><span>  . These Terms does not authorise You to use any names or trademarks of
+Schneider Electric or its authorised resellers.</span></div> <p><p>  3.</p></p> <div><span>       </span><span>  Data collected and data privacy.</span><p>  The Diagnostics will collect, store and process configuration,
+performance, quantitative and qualitative data from Your </p><span>  Ecostruxure
+Building Operation system (hereinafter “Data”). Such Data will be collected and
+processed anonymously. </span><p>  Data will be collected, stored and processed for
+analysis purposes, </p><span>  in order to improve and further
+develop the Diagnostics, </span><span>  Ecostruxure Building
+Operation and similar products, systems and services offered by Schneider
+Electric.</span></div> <div><p>  Data may include the following: </p><p>   Any data that
+pertains to Your </p><span>  Ecostruxure Building Operation
+system and its associated devices and networks such as the models, serial
+numbers, quantities, versions, attributes and state. The Diagnostics is not intended
+to collect any commercial information relating to Your business that falls
+outside the scope of the building management system as indicated herein above. </span><p>  As </p><span>  Ecostruxure Building
+Operation provides You with the option of registering your </span></div> <div><span>  Ecostruxure
+Building Operation on Schneider Electric website in order to enhance </span><span>  Your</span><span>    user experience,
+solely in such case and for such purpose You will be required to provide the
+following mandatory personal identifiable information: e-mail, contact name,
+business name, phone number, and the address of your business. With respect to
+any such personal information provided by You, Schneider Electric shall comply
+with Schneider Electric Privacy Policy available at </span></div> <p><p>  http://www2.schneider-electric.com/sites/corporate/en/general/legal-information/data-privacy.page</p></p> <span><span>   and that is incorporated herein by reference. The
+aforesaid Privacy Policy is subject to change at Schneider Electric’s
+discretion.</span></span> <div><p>  You are responsible for any personal information
+pertaining to individuals that are under Your control and that is present or
+accessible in the hardware configuration of Your </p><span>  Ecostruxure
+Building Operation, Your personal computers, or mobile devices that could be
+collected and stored via the </span><span>  Diagnostics.The laws and
+regulations of some jurisdictions require the consent of the individuals to
+which the personal information pertain prior to any collection, processing and
+storage of their personal information and require that such personal
+information shall be treated in compliance with such laws and regulations, You
+agree and undertake to comply with all laws and regulations applicable to any
+of those personal information above mentioned and to obtain all necessary consents
+from any such individual, before You agree to these Terms.</span></div> <p><p>  4.</p></p> <div><span>       </span><span>  Data storage</span><p>  When Your </p><span>  Ecostruxure
+Building Operation sends Data to Schneider Electric via the Diagnostics, such
+Data is sent in an encrypted form over the Internet. When Schneider Electric
+receives the Data, security technologies and strict procedures that Schneider
+Electric uses to store its own business data are implemented to protect the
+collected Data from unauthorized access, use or disclosure. </span><p>  The Data will be collected and stored on computers and
+servers either owned and operated by Schneider Electric and/ or service
+providers acting on behalf of Schneider Electric in the countries where
+Schneider Electric conducts business or otherwise stores its own business data.
+</p></div> <p><p>  Upon Your request, Schneider Electric will provide You
+with any commercially reasonable available information concerning said security
+technologies and procedures which You may then review </p></p> <span><span>  so as
+to determine whether such security technologies and procedures meet Your
+security needs including any specific requirement of security applicable in the
+field of Your activity. Should any security technologies and/or procedures
+implemented by Schneider Electric with respect to Data do not meet Your
+security requirements, </span></span> <div><span>  You should opt-out from the Diagnostics
+via the </span><span>  Ecostruxure Building Operation settings.</span><p>  In all cases, Schneider Electric will ensure strict
+confidentiality as regards to the Data and any other confidential information
+such as but not limited to information about You and Your business coming into
+possession of Schneider Electric in connection with the set-up, operation and
+performance of Your </p><span>  Ecostruxure Building Operation,
+with the same degree of care it uses in safeguarding its own confidential
+information, but in no event with less than a reasonable degree of diligence
+and care. Schneider Electric shall store Data for as long as necessary for the
+purpose set out in these Terms.</span></div> <p><p>  5.</p></p> <p><p>  The main purpose for Schneider Electric to collect
+Data is the continuous improvement of its offering of products, systems and
+services.</p></p> <p><p>  By accepting these Terms, </p></p> <span><span>  You
+acknowledge and agree that Schneider Electric is granted a non-exclusive,
+perpetual, irrevocable, worldwide, royalty-free, paid-up, transferable,
+sub-licensable license and approval to use, import, distribute, modify and
+distribute modifications of, perform, create and distribute derivative works
+of, copy, and display the Data for these purposes. This license includes the
+right of Schneider Electric to sublicense the same rights to any Affiliated company
+of Schneider Electric and any </span></span> <span><span>  third party contractors
+hired for any such purposes by Schneider Electric or otherwise acting on its
+behalf.</span></span> <span><span>    You represent that (i) You have
+and will keep in effect all licenses and approvals necessary to grant at no
+charge to Schneider Electric the foregoing license rights, and (ii) You are and
+will remain responsible for complying with the terms of any agreements
+including entitlements and permitted uses binding upon You to any third party
+in relation to the Data and to hold harmless Schneider Electric from any third
+party claims, costs and other amounts that Schneider Electric may incur or
+otherwise be subject to because of Your failure to comply with any such third
+party rights or agreements, entitlements or permitted uses.</span></span> <p><p>  You acknowledge that Schneider Electric may use the
+Data only for the purposes as referred to herein above, and that Schneider
+Electric may disclose Data to any contractors hired by Schneider Electric or
+otherwise acting on its behalf to achieve such Schneider Electric’s internal
+business purposes, always subject to confidentiality that Schneider Electric
+shall preserve in accordance with these Terms.</p></p> <p><p>  At any time, the Diagnostics is terminated pursuant to
+Section </p></p> <p><p>  ,
+Schneider Electric will no longer collect nor process Data from Your </p></p> <span><span>  Ecostruxure Building Operation. Notwithstanding the above and
+save for any personal information, provided by You pursuant to Section </span></span> <p><p>  ,
+Schneider Electric shall retain the right to use the Data collected and
+processed before such termination, pursuant to the license granted under this
+Section. </p></p> <p><p>  You shall own and retain all right, title and interest
+(including without limitation all intellectual property rights) in and to any
+Data collected from Your </p></p> <span><span>  Ecostruxure Building
+Operation through the Diagnostics.</span></span> <p><p>  Schneider Electric shall own and retain all right,
+title and interest (including without limitation all intellectual property
+rights) in and to any information created by Schneider Electric from processing
+Data in accordance with these Terms.</p></p> <p><p>  6.</p></p> <div><span>      
+</span><span>  Third party
+installation</span><p>   and log-on</p><p>  If You are not the End-User, nor Schneider Electric nor
+a Schneider Electric Affiliate (hereinafter “Third Party) and You are installing
+and completing the log-on to </p><span>  Ecostruxure Building
+Operation, on behalf of, or as a part of a service to, an End User, </span><span>  You have to ensure that such End User accepts and agrees to
+these Terms prior or at the time You complete the installation log-on to the </span></div> <span><span>  Ecostruxure Building Operation. </span></span> <p><p>  By completing the installation of, and by logging-on
+on to, </p></p> <span><span>  Ecostruxure Building Operation on behalf of
+the End User, </span></span> <span><span>  You warrant to Schneider Electric that the
+End User has accepted and agreed to these Terms and hold Schneider Electric
+harmless in connection hereto as set out in this Section. </span></span> <div><p>  You shall indemnify and
+hold Schneider Electric harmless from </p><span>  any and all
+claims, damages, demands or proceedings (including attorney’s fees) brought
+against Schneider Electric, including those brought by any End User or other
+third party, including but not limited governmental bodies, European Union bodies,
+etc., arising out of or in connection with Your non-fulfillment of Your
+obligation to insure the acceptance and approval of these Terms by an End User
+in accordance with this Section. </span></div> <p><p>  7.</p></p> <div><span>      
+</span><span>  Liability</span><p>  In no event shall
+Schneider Electric be liable for any indirect, intangible, incidental, punitive
+or consequential damages, loss, expense or cause of action, whether based on
+contract, warranty, tort (including negligence), strict liability, statute or otherwise,
+including, without limitation, damages for loss of business, loss of profits,
+business interruption, loss of data or for any other pecuniary or non-pecuniary
+loss or damage, arising out of or in connection with the use, inability to use
+or misuse of the Diagnostics, even if Schneider Electric has been advised of
+the possibility of such damages.</p></div> <p><p>  8.</p></p> <div><span>       </span><span>  Warranty</span><p>  The Diagnostics is provided as it is and to the full
+extent permitted by law (on both federal and state level, when applicable)
+applicable in any country where You installed </p><span>  Ecostruxure
+Building Operation, Schneider Electric makes no other warranty than those
+explicitly contained in this Section </span><p>  
+and expressly disclaims all other warranties or representations, either express
+or implied, as to the Diagnostics and its updates, including without limitation
+any warranties of fitness for any particular purpose, merchantability,
+non-infringement, title or sample. Further, while Schneider Electric has taken
+reasonable steps to ensure the accuracy of the information contained in or
+shown on the Diagnostics, Schneider Electric makes no warranty or
+representation of any kind, whether express or implied, as to whether Diagnostics
+will meet Your requirements, expectations or purposes or the operation of the Diagnostics
+or </p></div> <span><span>  Ecostruxure Building Operation will be
+uninterrupted or error-free or that the Diagnostics will be protected against
+all possible security threats, internet threats or other threats or
+interruptions.</span></span> <p><p>  9.</p></p> <div><span>       </span><span>  Duration and termination</span><p>  The Diagnostics shall start
+collecting data as of the date of the installation of Your </p><span>  Ecostruxure
+Building Operation and shall remain active unless: (i) Schneider Electric, at
+its sole discretion decides to discontinue the Diagnostics, or (ii) You opt out
+from the Diagnostics via the </span><span>  Ecostruxure Building
+Operation settings.</span><p>  10.</p><span>    </span><span>  Miscellaneous</span><p>  These Terms constitute
+the entire agreement between You and Schneider Electric in relation to the Diagnostics
+and replaces any previous agreement or understanding, whether oral, electronic
+or written, in relation with the same subject matter. </p></div> <div><p>  You acknowledge and
+agree that these Terms as well as the Diagnostics may be modified or amended by
+Schneider Electric from time to time and that Your continued use of </p><span>  Ecostruxure Building Operation, without opting out from the
+Diagnostics, after a modification or amendment of either shall constitute Your
+acceptance of the modified terms or Diagnostics. Any modification or amendment
+to these Terms or Diagnostic will be posted on Schneider Electric’s website(s) dedicated
+to the Diagnostics. Should any modification or amendment to these Terms or Diagnostics
+not be acceptable to You, </span></div> <div><span>  You should immediately opt
+out from the Diagnostics as set up in Section </span><p>  Should any of the
+provisions in these Terms be held invalid, illegal or unenforceable by a
+competent jurisdiction, You and Schneider Electric shall take all reasonable
+steps </p><span>  in order to modify such term to render it valid
+and enforceable, bearing in mind its original intent, and such term as modified
+shall be fully enforced between You and Schneider Electric; all other terms of
+these Terms shall remain valid and unaffected by such declared invalidity,
+illegality or non-enforceability.</span></div> <p><p>  No failure or delay on
+the part of either You or Schneider Electric in the exercise of any power,
+right or privilege hereunder shall operate as a waiver thereof, nor shall any
+single or partial exercise of any such power, right or privilege preclude other
+or further exercise thereof or of any other right, power or privilege.</p></p> <p><p>  Headings in these Terms
+are just for ease of reference and will not affect their interpretation.</p></p> <p><p>  Words expressed in the
+singular include the plural and vice versa.</p></p> <div><p>  Sections </p><p>  10</p><span>  
+and </span><span>  11</span><span>  
+of these Terms shall survive termination of the Diagnostic.</span><p>  11.</p><span>    </span><span>  Applicable law – Disputes Resolution</span><p>  These Terms shall be
+exclusively governed by the laws of the country (on both federal and state
+level, when applicable) where Schneider Electric has its registered office or
+principal place of business, to the exclusion of said country’s conflict of law
+rules.</p><p>  Any dispute between You
+and Schneider Electric arising out of or in connection with these Terms and/or
+the Diagnostics, whether based on contract, warranty, tort (including
+negligence), strict liability, statute or otherwise, which cannot be amicably
+settled, shall in all cases be finally settled according to the law governing
+these Terms as defined above, by the courts having jurisdiction in the place
+where Schneider Electric has its registered office or principal place of
+business, to the exclusion of any other jurisdiction whatsoever, including in
+case of plurality of defendants, injunction-like or emergency proceedings and
+appeal in warranty.</p></div> <div><p>  </p></div>

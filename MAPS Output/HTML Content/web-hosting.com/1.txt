@@ -1,0 +1,109 @@
+<div><span>  0
+</span><span>  0
+</span><span>  0
+</span><span>  Close</span><span>  USD 0.00</span><span>  
+
+</span><span>  Home</span><ul>  <li>Home
+</li><li>Discover
+</li><li>Community
+</li><li>Podcast
+</li><li>Trending
+</li><li>Store
+</li><li>Radio
+</li></ul><span>  Playlists</span><p>  Looks like you haven't created any playlists yet.</p><p>  web.POPUP_ERROR_LOAD_PLAYLISTS</p><span>  Create Playlist</span><span>  Yours</span><span>  Collaborative</span><span>  Subscribed</span><span>  Community</span></div> <p><p>  web.MANATEE_DISCONNECTED</p></p> <p><p>  web.POPUP_ERROR_LOAD_FRIENDS</p></p> <p><p>  Share your profile to your friends to build your community.</p></p> <div><p>  Invite your friends!</p><span>  You are currently offline</span><span>  Filter</span><ul>  <li>
+
+
+</li></ul><span>  Dark Mode
+</span><ul>  <li>
+
+</li></ul><span>  Upload
+</span><ul>  <li>
+
+</li></ul><span>  Artist / Band Manager
+</span><ul>  <li>
+
+</li></ul><span>  Notifications
+</span><span>  0
+</span><p>  Login to make your Collection, Create Playlists and Favourite Songs</p></div> <div><h1>  Cookies and Personal data</h1><p>  Last Updated: </p><p>  The EU law on the handling of personal data, The General Data Protection Regulation, is often referred to by its acronym GDPR.</p><p>  How does the GDPR affect your website’s use of cookies and online tracking? How do you comply? And how does it affect the cookie policy and your cookie consent on your website?</p><p>  In this article, we give a comprehensive introduction to the GDPR and a hands-on guide as to what the rules mean for you and your website.</p></div> <div><p>  GDPR and cookies | What do I need to know? | Is my use of cookies compliant?</p><p>  <strong> GDPR and cookies </strong></p><p>  The GDPR is a EU regulation that represents the most significant initiative on data protection in 20 years.</p><p>  The purpose is to protect “natural persons with regard to the processing of personal data and on the free movement of such data”, e.g. the website user.</p><p>  Cookies are mentioned once in the 88 pages long regulation. However, those few lines have a significant impact on the compliance of cookies:</p></div> <p><p>  (30): “Natural persons may be associated with online identifiers […] such as internet protocol addresses, cookie identifiers or other identifiers […]. This may leave traces which, in particular when combined with unique identifiers and other information received by the servers, may be used to create profiles of the natural persons and identify them.”</p></p> <p><p>  In other words: when cookies can identify an individual, it is considered personal data.</p></p> <div><p>  <strong> What’s the deal with cookies anyway? </strong></p><p>  Cookies are small files that are automatically dropped on your computer as you browse the web. In and of themselves they are harmless bits of text that are locally stored and can easily be viewed and deleted.</p><p>  But cookies can give a great deal of insight into your activity and preferences, and can be used to identify you without your explicit consent.</p><p>  This represents a major breach from a legal point of view, and as data technologies grow more and more sophisticated, your privacy as a user is increasingly compromised.</p></div> <p><p>  Often, the cookies don’t even originate from the website you are visiting, but from third parties that track you for marketing purposes. All of which is going on “behind the scenes”.</p></p> <p><p>  While not all cookies are used in a way that could identify users, the majority (and the most useful ones to the website owners) are, and will therefore be subject to the GDPR.</p></p> <p><p>  Cookies for analytics, advertising and functional services, such as survey and chat tools, are all examples of cookies that can identify users.</p></p> <p><p>  The problem with cookies is both one of privacy - what is being registered? - and one of transparency - who is tracking you, for what purpose, where does the data go, and for how long does it stay?</p></p> <div><span>  View All Notifications</span></div> <div><h2>  Play Radio Station</h2></div> <div><h2>  Claim Artist Profile</h2><ul>  <li>
+ Verify Account
+</li><li>
+ Information
+</li><li>
+ Finished
+</li></ul><p>  Please verify your information below before claiming an artist. Your email and full legal name will be used for contact purposes.</p><label>  Email Address:</label><label>  Full Name:</label><label>  >Please enter your password:</label><label>  Enter your artist or band name:</label><span>  Is this your correct artist name?</span><span>  ... or choose from other existing profiles:</span></div> <div><label>  Phone Number:</label><label>  Ext:</label><label>  Affiliation to Artist:</label><label>  Explain your relationship to the artist and provide a band link:</label></div> <div><h3>  Speed up the process! Verify your artist's accounts below.</h3></div> <div><h3>  Twitter</h3><span>  Click to quickly verify your artist's account and help us verify you.</span></div> <div><h3>  Facebook</h3><span>  Click to quickly verify your artist's account and help us verify you.</span></div> <div><h3>  Passport</h3><span>  Scan and upload passport to get verify even faster.</span><span>  Browse</span><label>  I have read and agree to the <a class='artist-profile-terms'>Artist Profile Terms</a> and have the legal right to claim this artist content.</label><p>  Your request has been submitted! You will receive an email once it has been processed.</p></div> <div><h2>  Play Radio Station</h2><p>  You have music in your Queue. Would you like to clear those songs and play a Radio Station?</p></div> <div><h2>  Sign In</h2><span>  Facebook</span><span>  Facebook</span><label>  Email:</label><label>  Password:</label></div> <div><h2>  Sign up</h2><span>  Facebook</span><span>  Facebook</span><label>  Email Address:</label><label>  Display Name:</label><label>  Password:</label><label>  Retype Password:</label><p>  By signing up you agree to the <a href="/page/term-and-condition" target="_blank"> Terms of Service </a></p><label>  Optional Username & Custom URL:</label><span>  https://proprioceptive-irresolvedly.initrdns.web-hosting.com/</span><p>  
+
+</p><label>  I'm an artist, and I want to create my artist profile.
+</label></div> <div><h2>  Thank you for registering. Please verify your account.</h2><p>  In order login in to our wesbite, you must verify your account. An email has been sent to your email with a link to verify your account. If you have not received the email after a few minutes, please check your spam folder.</p></div> <div><h3>  Customize your new profile.</h3><p>  Let's get acquainted.</p></div> <div><h3>  Enjoy what's popular?</h3><p>  Check out the most popular songs.</p></div> <div><h3>  Make your own music?</h3><p>  Create your band's identity..</p></div> <div><h2>  Update your information</h2></div> <div><h2>  Reset Password?</h2><p>  Don't worry, we'll send an email with instructions to access your account. Unless you <a class='login'>remember?</a></p><label>  Email:</label></div> <div><h2>  Create New Playlist</h2><span>  Edit</span><label>  Name:
+</label><label>  Genres:
+</label><label>  Moods:
+</label><label>  Description:
+</label><label>  Make public</label></div> <div><h2>  Edit Playlist Information</h2><span>  Edit</span><label>  Name:
+</label><label>  Genres
+</label><label>  Moods
+</label><label>  Description
+</label><label>  Make public</label></div> <div><h2>  Delete Playlist?</h2><p>  Are you sure you want to delete the Playlist :playlist?</p><ul>  <li>Embed</li><li>Facebook</li><li>Twitter</li><li>More</li></ul><p>  Clicking <strong> share </strong> below will open a new window to share on Facebook.</p><p>  Write a Tweet:</p><span>  45</span><p>  Clicking on the networks below will open a new window:</p><span>  Reddit</span><span>  Pinterest</span><span>  LinkedIn</span><span>  Email</span></div> <div><h2>  Feedback</h2><p>  Find a problem with our player or report a bug? Fill out this form and we'll check it out.</p><label>  Your email:</label><label>  I Feel:</label><label>  Feedback is about:</label><label>  Share your thoughts:</label><ul>  <li>
+
+</li><li>
+
+</li></ul><p>  Description:</p><p>  Amount:</p><p>  Total:</p><p>  Your billing information will be submitted securely over HTTPS.</p><p>  By processing the payment, you agree to immediately access the service and to waive any right of withdrawal. You may terminate your subscription at any time by going to "Settings" in your account. The termination will be applied at the end of the current subscription period.</p></div> <div><label>  
+                                            Credit or debit card (Power by Stripe)
+                                        </label><span>  Submit Payment</span><p>  Click below to open PayPal so you can sign in and continue the transaction.</p><span>  Open PayPal</span></div> <div><h2>  Contact Support</h2><p>  web.LB_BILLING_FEEDBACK_MSG</p><label>  Your email:</label><label>  web.LB_BILLING_FEEDBACK_REPORT</label></div> <div><h2>  Invite Collaborators</h2><p>  Please wait...</p></div> <div><h2>  Language</h2><span>  Edit</span><label>  Title:
+</label><label>  Genre(s):
+</label><label>  Mood(s):
+</label><label>  Tag(s):
+</label><label>  Description:
+</label><label>  Released at:
+</label><label>  Copyright:
+</label><label>  BPM (beats per minute)
+</label><label>  Attachment (for after purchase download):
+</label><span>  
+
+</span><label>  Explicit</label><label>  Make public</label><label>  Allow comments</label><label>  Allow download</label><label>  Sell this song</label><label>  Price: 
+</label></div> <div><h2>  Create New Album</h2><span>  Edit</span><label>  FORM_TITLE
+</label><label>  FORM_GENRE
+</label><label>  FORM_MOOD
+</label><label>  Type:
+</label><label>  FORM_DESCRIPTION
+</label><label>  FORM_RELEASED_AT
+</label><label>  FORM_SCHEDULE_PUBLISH
+</label><label>  FORM_COPYRIGHT
+</label><label>  Make public</label><label>  Allow comments</label><label>  Sell this album</label><label>  Price: 
+</label><span>  Edit</span><label>  FORM_TITLE
+</label><label>  FORM_GENRE
+</label><label>  FORM_MOOD
+</label></div> <div><label>  Type:
+</label><label>  FORM_DESCRIPTION
+</label><label>  FORM_RELEASED_AT
+</label><label>  FORM_SCHEDULE_PUBLISH
+</label><label>  FORM_COPYRIGHT
+</label><label>  Make public</label><label>  Allow comments</label><label>  Sell this album</label><label>  Price: 
+</label></div> <div><h2>  Create Event</h2><label>  Title:
+</label><label>  Location:
+</label><label>  Outside link (option):
+</label><label>  Starting at:
+</label></div> <div><h2>  web.EDIT_EVENT</h2><label>  >Title:
+</label><label>  >Location:
+</label><label>  Outside link (option):
+</label><label>  Starting at:
+</label></div> <div><h2>  Need Subscription</h2></div> <div><h3>  Upgrade to Access This Feature</h3><p>  This feature is only available for subscribers. Login to your premium account or upgrade your account to get access to this and lots of other awesome features.</p></div> <div><h2>  Need Purchase</h2></div> <div><h3>  You have to purchase individual songs to play/download them.</h3><p>  You can listen to the song preview but for a full listen, you have to purchase the song.</p></div> <div><h2>  Download</h2></div> <div><h1>  Upgrade your account to download high quality music.</h1><span>  Standard</span><span>  128 Kbps</span><span>  High Quality</span><span>  320 Kbps</span><label>  Not available</label><span>  Subscription</span></div> <div><h2>  Add Podcast Feed Url</h2><label>  Enter podcast feed url
+</label><label>  FORM_COUNTRY
+</label><label>  FORM_LANGUAGE
+</label><label>  FORM_SCHEDULE_PUBLISH
+</label><label>  MAKE_PUBLIC</label></div> <div><h2>  Create New Show</h2><span>  Edit</span><label>  FORM_TITLE
+</label><label>  FORM_DESCRIPTION
+</label><label>  FORM_CATEGORY
+</label><label>  FORM_COUNTRY
+</label><label>  FORM_LANGUAGE
+</label><label>  FORM_SCHEDULE_PUBLISH
+</label><label>  Make public</label><label>  Allow comments</label><label>  Notify my fans</label><label>  Allow download</label><label>  Explicit</label><span>  Edit</span><label>  FORM_TITLE
+</label><label>  FORM_DESCRIPTION
+</label><label>  FORM_CATEGORY
+</label><label>  FORM_COUNTRY
+</label></div> <div><label>  FORM_LANGUAGE
+</label><label>  FORM_SCHEDULE_PUBLISH
+</label><label>  Make public</label><label>  Allow comments</label><label>  Allow download</label><label>  Explicit</label></div> <div><h2>  EDIT_EPISODE</h2><label>  Episode title:
+</label><label>  Episode description
+</label><label>  Season #:
+</label><label>  Episode #:
+</label><label>  Type:
+</label><label>  Make public</label><label>  Allow comments</label><label>  Allow download</label><label>  Explicit</label></div>

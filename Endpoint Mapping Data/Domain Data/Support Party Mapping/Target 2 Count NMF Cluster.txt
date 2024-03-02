@@ -1,0 +1,34 @@
+0: streaming service
+1: tv/streaming services
+2: miscellaneous 			
+3: miscellaneous/web
+4: smart home/IoT
+5: cdn/cloud
+6: dns
+7: radio/music
+8: mobile app
+9: video streaming
+10: search engine/google
+11: webmail service
+12: miscellaneous
+13: gaming services
+14: news/sports/social
+15: cloud service/iot
+16: miscellaneous/microsoft
+17: ad/tracker
+18: business/it
+19: amazon/ecommerce service
+20: miscellaneous/proxy/vpn
+21: ad/tracker
+22: torrent/file server
+23: miscellaneous
+24: business/it
+25: miscellaneous/samsung
+26: weather service
+27: internet/cable
+28: proxy/vpn
+29: miscellaneous/sky/microsoft
+
+
+
+

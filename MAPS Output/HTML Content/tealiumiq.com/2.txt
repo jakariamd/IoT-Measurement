@@ -1,0 +1,202 @@
+<div><ul>  <li>  </li></ul><span>  
+
+</span><span>   Expand/CollapseMenu 
+</span><ul>  <li> TLC 
+
+</li></ul><span>   Home 
+</span><span>   Home 
+</span><ul>  <li>
+
+</li></ul><span>   Discussions 
+</span><span>   Discussions 
+</span><ul>  <li>
+
+</li></ul><span>   Documentation 
+</span><span>   Documentation 
+</span><ul>  <li>
+
+</li></ul><span>  Knowledge Base
+</span><span>   Knowledge Base 
+</span><ul>  <li>
+
+</li><li>
+
+</li></ul><span>   Education 
+</span><span>   Education 
+</span><ul>  <li>
+
+</li><li>
+
+</li></ul></div> <div><span>   Blog 
+</span><span>   Blog 
+</span><ul>  <li>
+
+</li></ul><span>  Support Desk
+</span><span>   Support Desk 
+</span><ul>  <li>
+
+
+
+</li></ul></div> <div><h1>  Announcements Blog</h1><span>  
+
+</span><span>  
+				Show  only 
+			</span><span>   | </span><span>  
+			Search instead for 
+</span><ul>  <li>:
+</li><li>:
+</li><li>:
+</li><li>Introducing CCPA Consent Manager for Tealium iQ Ta...
+</li><li>Mark as New</li><li>Mark as Read</li></ul></div> <div><h1>  Introducing CCPA Consent Manager for Tealium iQ Tag Management</h1><span>  ‎05-14-2020
+</span><span>  11:46 AM
+</span><span>  
+
+</span><span>  TealiumJustin
+</span><ul>  <li>Mark as New</li><li>Mark as Read</li></ul><p>  This release includes the all-new feature, </p><span>  CCPA Consent Manager for Tealium iQ Tag Management. The CCPA Consent Manager enables you to add a privacy banner and popup to your site in support of compliance for the California Consumer Protection Act (CCPA). Other updates in this release include improvements to tag categorization and event logging for all consent management features. </span></div> <div><p>  In this announcement:</p></div> <div><h1>  CCPA Consent Manager</h1><p>  The new CCPA Consent Manager for Tealium iQ Tag Management is now available to help you stay compliant with the California Consumer Protection Act. With just a few easy steps you can add a privacy banner and popup to your site without any additional coding.</p></div> <div><h2>  What is CCPA?</h2><p>  The California Consumer Privacy Act (CCPA) is legislation that secures new privacy rights for California consumers. This sweeping legislation creates significant new requirements for identifying, tracking, and deleting consumer privacy information. All companies subject to CCPA must adhere to the new regulations or face fines and other legal reprimands. The date to begin enforcement for CCPA compliance is July 1st, 2020.</p></div> <div><h2>  How Tealium Can Help</h2><p>  If your company is subject to CCPA you are responsible for ensuring that you provide a "Do Not Sell My Information" link on your website or mobile app and to give your users the option to opt-out of the sale of personal information. Tealium iQ Tag Management offers consent management tools to help you comply with these requirements.</p><p>  The CCPA Consent Manager offers the following components in support of CCPA:</p></div> <div><h3>  <strong> Banner and Popup </strong>
+</h3><p>  Configure both a banner and popup to cover the full "Do Not Sell" experience. The banner displays the necessary message to the user at the bottom of the screen and includes a link that pops up the "Do Not Sell" prompt and a link to your policy about the sale of personal information.
+</p></div> <div><h3>  <strong> Popup </strong>
+</h3><p>  Configure a dedicated "Do Not Sell" popup for for use with your existing privacy banner. The popup provides a link to your "Do Not Sell My Information" disclosure page and a toggle for the user to opt-in or opt-out of the sale of information.
+</p></div> <div><h2>  Features</h2><ul>  <li>Multi-Language Support</li><li>Customizable Content: Message, Do Not Sell link, Call to Action Button, etc.</li><li>Fully Customizable Presentation: HTML, JavaScript, and CSS</li><li>Global Settings (for multiple profiles)</li><li>Preview Mode</li></ul></div> <div><h2>  Tags Affected by Do Not Sell</h2><p>  The CCPA Consent Manager improves to the way that tags are categorized to allow more flexibility over which tags are governed. </p><p>  In the CCPA Consent Manager tags are governed by by their <a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/Tags/ta-p/5016#toc-hId-707103006" target="_blank"> UID </a>, which means that two instances of the same tag can appear in different categories. This allows tags to be categorized based on their specific behavior (for example, whether they sell personal information), instead of based on their general purpose.</p></div> <div><h1>  Release Notes</h1><ul>  <li>Added the CCPA Consent Manager, with banner and popup workflow.</li><li>Tags can be categorized as “Do not sell personal information”.</li><li>Updated the consent cookie to include an opt-out option of “DNS” (do not sell).</li><li>Updated the <a href="https://community.tealiumiq.com/t5/Customer-Data-Hub/Consent-Change-Event-Specifications/ta-p/23213" target="_blank"> consent change event specifications </a>  to include the CCPA policy and a "do not sell" tag list attribute.</li><li><a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/Event-Logging-for-Consent-Management/ta-p/32902" target="_blank"> Event Logging </a> now applies to all consent management workflows.</li></ul></div> <ul><ul>  <li>Tag categories can be renamed within GDPR Consent Preferences.</li><li>Changed the default consent cookie expiration to 12 months for GDPR.</li><li>The Tealium Collect tag is now categorized under "Big Data".</li><li>Added ability to select a profile for event data logging.</li></ul></ul> <div><h1>  Links</h1><ul>  <li><strong> CCPA Consent Manager Setup Guide </strong>Learn how to activate, configure, and customize the CCPA Consent Manager banner and popup for your site.</li><li><a href="https://tealium.com/ccpa-tealium-masterclass/" target="_blank"> Tealium CCPA Webinar Series </a>Learn more about CCPA and it’s newly introduced consumer rights from this Tealium Master Class.</li><li><a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/Consent-Management/ta-p/30085" target="_blank"> Tealium Consent Management </a>See the full offering of consent management features.</li></ul></div> <div><h1>  Frequently Asked Questions</h1><p>  <strong> We already have a cookie banner, how do we integrate the popup for the CCPA Consent Manager? </strong>The CCPA Consent Manager is designed to work with an existing cookie banner. With the popup configured, a JavaScript function that triggers the pop-up is made available in your Universal Tag (utag.js). To integrate the CCPA popup with your banner, add a link with an "on click" action to call the JavaScript function.</p><p>  <strong> How does Tealium use cookies? </strong>See the article <a href="https://community.tealiumiq.com/t5/iQ-Tag-Management/How-Tealium-Uses-Cookies/ta-p/23440" target="_blank"> How Tealium Uses Cookies </a>.</p></div> <p><p>  <strong> We are already GDPR compliant. Does that mean we are also CCPA compliant? </strong>No. Being GDPR compliant does not mean that you are CCPA compliant. You need to make changes to your privacy policy, include a “Do Not Sell My Personal Information” link on your home page and footer, establish methods for requests for access, change, and erasure of data, establish a method for verification of the identity of the person making a data-related request, and establish a method for obtaining prior consent by minors before selling their personal data.</p></p> <div><span>  
+	
+			1
+		
+</span><span>  
+	Kudo
+
+</span><ul>  <li>Back to Blog
+</li><li>Newer Article
+</li><li>Older Article</li></ul><span>  Comments</span><span>  
+
+</span><span>  mitchellt
+</span><span>  ‎06-22-2020
+</span><span>  12:36 PM
+</span><ul>  <li>Mark as Read</li><li>Mark as New</li></ul><span>  ‎06-22-2020
+</span><span>  12:36 PM
+</span><span>  
+	
+			0
+		
+</span><span>  
+	Kudos
+
+</span><span>  
+
+</span><span>  TealiumJustin
+</span><span>  ‎06-29-2020
+</span><span>  02:50 PM
+</span><ul>  <li>Mark as Read</li><li>Mark as New</li></ul></div> <div><span>  ‎06-29-2020
+</span><span>  02:50 PM
+</span><p>  <a href="/t5/user/viewprofilepage/user-id/5122" target="_blank"> @mitchellt </a> You should be able to use geolocation to populate a data layer variable, then use that in a load rule, which can be set as the Display Rule in the CCPA Consent Manager.</p><span>  
+	
+			2
+		
+</span><span>  
+	Kudos
+
+</span><span>  
+
+</span><span>  mitchellt
+</span><span>  ‎06-29-2020
+</span><span>  07:41 PM
+</span><ul>  <li>Mark as Read</li><li>Mark as New</li></ul></div> <div><span>  ‎06-29-2020
+</span><span>  07:41 PM
+</span><span>  
+	
+			0
+		
+</span><span>  
+	Kudos
+
+</span><span>  ksmith
+</span><span>  ‎02-21-2021
+</span><span>  07:43 PM
+</span><ul>  <li>Mark as Read</li><li>Mark as New</li></ul><span>  ‎02-21-2021
+</span><span>  07:43 PM
+</span><p>  I saw on another post you were still interested in this capability and I know we've solved this for other customers already using the response headers from our CDN endpoint.</p><p>  The TiQ CDN has a location service we can hit at <a href="https://akamai.tiqcdn.com/location/location.js" target="_blank"> https://akamai.tiqcdn.com/location/location.js </a>.</p></div> <p><p>  Using the response headers, you should be able to output the desired data layer variables you need for location based consent (or any other creative purpose you can think of).</p></p> <p><p>  Here is an extension that was developed by our Technical Trainer here in Melbourne, Aus (I'm not taking credit for this - Thanks Zac). Feel free to customise based on your needs.</p></p> <p><p>  This will output the relevant data layer variables you need. Use the CSV import for your Tealium iQ profile and paste the following.</p></p> <p><p>  Would love to hear how you go with this, please keep us posted.</p></p> <div><p>  Good luck</p><p>  Kieran</p><span>  
+	
+			0
+		
+</span><span>  
+	Kudos
+
+</span><span>  Latest Articles</span><span>  Labels</span><span>  1
+</span><span>  53
+</span><span>  40
+</span><span>  66
+</span><span>  Latest Comments</span><ul>  <li>
+
+</li></ul><span>  Jane_PS
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Support-Challenge-Winner-Spotlight-Tarun-Kumar/bc-p/34397#M191" target="_blank"> Support Challenge Winner Spotlight: Tarun Kumar </a>
+</span><ul>  <li>ksmith
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Introducing-CCPA-Consent-Manager-for-Tealium-iQ-Tag-Management/bc-p/35384#M168" target="_blank"> Introducing CCPA Consent Manager for Tealium iQ Ta... </a>
+</li><li>ThijsvanOirscho
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Introducing-Server-Side-User-Permissions/bc-p/32993#M73" target="_blank"> Introducing Server-Side User Permissions </a>
+</li><li>
+
+</li></ul></div> <span><span>  mitchellt
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/New-Location-Tracking-and-Geofencing-Feature-for-Mobile/bc-p/33105#M64" target="_blank"> New Location Tracking and Geofencing Feature for M... </a>
+</span></span> <ul><ul>  <li>KristenMeren
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Get-More-Out-of-Customer-Data-with-Machine-Learning-Plus-Details/bc-p/32021#M58" target="_blank"> Get More Out of Customer Data with Machine Learnin... </a>
+</li><li>Tony_Taliaferro
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Introducing-the-View-Through-Tracking-Extension/bc-p/30264#M47" target="_blank"> Introducing the View-Through Tracking Extension </a>
+</li><li>
+
+</li></ul></ul> <div><span>  Tirrusri
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Release-Notes-December-2018/bc-p/27272#M26" target="_blank"> Release Notes - December 2018 </a>
+</span><ul>  <li>
+
+</li></ul><span>  zed_haque
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Hosted-Data-Layer-Now-Supports-JSON-Files/bc-p/26196#M7" target="_blank"> Hosted Data Layer Now Supports JSON Files </a>
+</span><ul>  <li>
+
+</li></ul><span>  TealiumJustin
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Tealium-Release-Notes-April-2018/bc-p/23393#M138" target="_blank"> Tealium Release Notes - April 2018 </a>
+</span></div> <div><ul>  <li>
+
+</li></ul><span>  tamedbeast
+
+		
+
+					on:
+					<a href="/t5/Announcements-Blog/Introducing-Product-Ideas/bc-p/21526#M130" target="_blank"> Introducing Product Ideas </a>
+</span><ul>  <li>
+
+</li><li> Products 
+</li><li> Company 
+</li></ul><p>  Copyright All Rights Reserved © 2008-2023</p><span>  Public</span></div>

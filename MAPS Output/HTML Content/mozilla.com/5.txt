@@ -1,0 +1,174 @@
+<div><h2>  
+        
+          
+          Privacy
+        
+      </h2></div> <div><h1>  Firefox <strong> protects </strong> your privacy in every product</h1></div> <div><h2>  Firefox Browser</h2></div> <div><h3>  
+      2,000+ trackers blocked — automatically
+    </h3><p>  Tracking has become an epidemic online: companies follow every move, click and purchase, collecting data to predict and influence what you’ll do next. We think that’s a gross invasion of your privacy. That’s why Firefox mobile and desktop browsers have Enhanced Tracking Protection on by default.</p><p>  
+<strong> If you want to see what Firefox is blocking for you, visit this page on your Firefox desktop browser. </strong>
+</p><p>  
+      Get Enhanced Tracking Protection
+    </p></div> <div><p>  
+      
+        Download Firefox
+        — English (US)
+    </p><p>  Your system may not meet the requirements for Firefox, but you can try one of these versions:</p><p>  
+      
+        Download Firefox
+        — English (US)
+    </p><p>  <strong> Firefox is  </strong><a href="https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support" target="_blank"> no longer supported </a><strong>  on Windows 8.1 and below. </strong></p><p>  Please download Firefox ESR (Extended Support Release) to use Firefox.</p></div> <p><p>  <strong> Firefox is  </strong><a href="https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support" target="_blank"> no longer supported </a><strong>  on macOS 10.14 and below. </strong></p></p> <p><p>  Please download Firefox ESR (Extended Support Release) to use Firefox.</p></p> <div><ul>  <li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li></ul></div> <div><ul>  <li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li></ul></div> <div><h3>  Invisible to the top trackers
+</h3><p>  Meet four of the most common categories of trackers — who won’t meet you.
+</p></div> <div><h3>  Always in your control
+</h3><p>  Want to customize what gets blocked? Your settings are only one click away.
+</p></div> <div><h3>  Protection beyond tracking
+</h3><p>  If you have a Firefox Account, you can also see how we’re helping you protect your personal info and passwords.
+</p></div> <div><h2>  More than 10,000,000,000 trackers blocked each day for Firefox users worldwide</h2><p>  
+      
+        Download Firefox
+        — English (US)
+    </p><p>  Your system may not meet the requirements for Firefox, but you can try one of these versions:</p><p>  
+      
+        Download Firefox
+        — English (US)
+    </p><p>  <strong> Firefox is  </strong><a href="https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support" target="_blank"> no longer supported </a><strong>  on Windows 8.1 and below. </strong></p></div> <p><p>  Please download Firefox ESR (Extended Support Release) to use Firefox.</p></p> <p><p>  <strong> Firefox is  </strong><a href="https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support" target="_blank"> no longer supported </a><strong>  on macOS 10.14 and below. </strong></p></p> <p><p>  Please download Firefox ESR (Extended Support Release) to use Firefox.</p></p> <div><ul>  <li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li></ul></div> <div><ul>  <li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li><li>
+<strong> 
+            
+              Download the Firefox browser
+            
+           </strong>
+</li></ul></div> <div><h2>  Firefox Monitor</h2><p>  When you enter your email address in Firefox Monitor, we forget it immediately after we’ve checked for a match in known data breaches — unless you authorize us to continue monitoring new breaches for your personal information.</p></div> <div><h2>  Mozilla VPN</h2><p>  Surf, stream and get work done on servers in over 30 countries for a secure internet connection with a new perspective.</p></div> <div><h2>  Pocket</h2><p>  Pocket recommends high-quality, human-curated articles without collecting your browsing history or sharing your personal information with advertisers.</p></div> <div><h2>  Your Firefox Account</h2></div> <div><h2>  Take your privacy and bookmarks everywhere with a Firefox Account.</h2><p>  
+<strong> Enter your email </strong> to access Firefox Accounts.
+      
+      </p><label>  Email address</label><p>  
+          By proceeding, you agree to the <a href="https://accounts.firefox.com/legal/terms" target="_blank"> Terms of Service </a> and <a href="https://accounts.firefox.com/legal/privacy" target="_blank"> Privacy Notice </a>.
+        </p><p>  
+        Already have an account? <a href="https://accounts.firefox.com/signin?entrypoint=mozilla.org-privacy-products&form_type=button&utm_source=mozilla.org-privacy-products&utm_medium=referral&utm_campaign=privacy-products" target="_blank"> Sign In </a> or <a href="/en-US/firefox/accounts/" target="_blank"> learn more </a> about joining Firefox.
+        </p></div> <div><h2>  Read the <a href="/en-US/privacy/firefox/" target="_blank"> Privacy Notice </a> for our products</h2></div> <div><h5>  
+            Company
+          </h5></div> <div><h5>  
+            Resources
+          </h5></div> <div><h5>  
+            Support
+          </h5></div> <div><h5>  
+            Developers
+          </h5></div> <div><h5>  Follow @Mozilla</h5><span>   (@mozilla)</span><span>   (@mozilla)</span><span>   (@mozilla)</span><span>   (@mozilla)</span><span>   (@mozilla)</span><span>   (@mozilla)</span></div> <div><h5>  Follow @Firefox</h5><span>   (@firefox)</span><span>   (@firefox)</span><span>   (@firefoxchannel)</span><label>  Language</label><p>  
+          
+          
+          Visit <a href="/en-US/" target="_blank"> Mozilla Corporation’s </a> not-for-profit parent, the <a href="https://foundation.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer" target="_blank"> Mozilla Foundation </a>.
+          Portions of this content are ©1998–2023 by individual mozilla.org contributors. Content available under a <a href="/en-US/foundation/licensing/website-content/" target="_blank"> Creative Commons license </a>.
+        </p></div>

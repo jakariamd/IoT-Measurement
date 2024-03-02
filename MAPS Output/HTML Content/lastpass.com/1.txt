@@ -1,0 +1,283 @@
+<ul><ul>  <li>Why LastPass
+</li><li>
+                                                OVERVIEW
+                                            
+</li><li>Why LastPass
+ 
+</li><li>What is a Password Manager
+ 
+</li><li>Password Vault
+ 
+</li><li>Security Architecture
+ 
+</li><li>
+                                                                    Try LastPass Free
+                                                                 
+<a href="https://lastpass.com/misc_download2.php" target="_blank"> Download LastPass Apps </a> 
+</li></ul></ul> <div><ul>  <li>
+                                                KEY FEATURES
+                                            
+</li><li>Save and Autofill
+ 
+</li><li>Password Generator
+ 
+</li><li>Dark Web Monitoring
+ 
+</li><li>Security Dashboard
+ 
+</li><li>Passwordless Authentication
+ 
+
+</li><li>
+                                                            LastPass Security
+                                                        </li></ul><div>  
+                                                            How Is LastPass Secure?
+                                                        </div></div> <div><div>  
+ 
+
+
+
+
+</div><ul>  <li>Pricing
+</li><li>
+                                                OUR PLANS
+                                            
+</li><li>Personal Plans
+ 
+</li><li>Business Plans
+ 
+</li><li>Contact Sales
+ 
+
+
+
+
+</li><li>Personal
+</li><li>
+                                                PERSONAL PLANS
+                                            
+</li><li>Premium
+ 
+</li><li>Families
+ 
+</li><li>
+                                                                    Try LastPass Free
+                                                                 
+<a href="/products/personal" target="_blank"> Compare Plans </a> 
+
+
+
+</li></ul></div> <div><ul>  <li>Business
+</li><li>
+                                                BUSINESS PLANS
+                                            
+</li><li>Enterprise
+ 
+</li><li>Business
+ 
+</li><li>Teams
+ 
+</li><li>
+                                                                    Try LastPass Business
+                                                                 
+<a href="/demo/lastpass-enterprise" target="_blank"> Request a Demo </a> 
+</li><li>
+                                                ADMIN FEATURES
+                                            
+</li></ul></div> <div><ul>  <li>Single Sign-On (SSO)
+ 
+</li><li>Multifactor Authentication (MFA)
+ 
+</li><li>Administrator Controls
+ 
+</li><li>Password sharing
+ 
+
+</li><li>
+                                                SOLUTIONS
+                                            
+</li><li>Passwordless
+ 
+</li><li>Identity Protection
+ 
+</li><li>Integrations
+ 
+</li><li>Authentication Solutions
+ 
+
+
+
+
+</li><li>Partners
+</li><li>
+                                                ALLEGIANCE PARTNER PROGRAM
+                                            
+</li></ul></div> <ul><ul>  <li>Partner Program Overview
+ 
+</li><li>Solution Providers
+ 
+</li><li>Managed Service Providers
+ 
+</li><li>Technology Partners
+ 
+
+</li><li>
+                                                BECOME A PARTNER
+                                            
+</li><li>
+                                                                    Become LastPass Partner
+                                                                 
+<a href="https://partners.lastpass.com/s" target="_blank"> Partner Login </a><a href="https://lastpass.com/enterprise_trial.php?createacct=1&msp=1" target="_blank"> Try LastPass for MSP </a><a href="https://app.impact.com/campaign-mediapartner-signup/LastPass.brand?execution=e1s1" target="_blank"> Explore Affiliate Program </a> 
+
+
+
+</li></ul></ul> <div><ul>  <li>Support
+</li><li>
+                                                HELP
+                                            
+</li><li>Recommended Security Actions
+ 
+</li><li>Support Center
+ 
+</li><li>LastPass University
+ 
+</li><li>Product Status
+ 
+
+</li><li>
+                                                RESOURCES
+                                            
+</li><li>Resource Center
+ 
+</li><li>SSO App Catalog
+ 
+</li><li>Webinars & Events
+ 
+</li><li>Blog
+ 
+
+</li><li>
+                                                Trust
+                                            
+</li></ul></div> <div><ul>  <li> Trust Center
+ 
+</li><li>Security
+ 
+</li><li>Privacy
+ 
+</li><li>Compliance
+ 
+
+
+
+
+</li><li>Log In
+</li><li>Contact Us
+</li><li>
+                                                Contact Us
+                                            
+</li><li>
+ </li></ul><span>  Email Sales
+ 
+</span><ul>  <li>
+
+</li></ul><span>  Call Sales +1-833-854-6520
+
+
+</span><ul>  <li>
+ </li></ul><span>  Request a Demo
+ 
+
+
+
+
+
+</span><div>  
+
+</div><div>  
+
+
+</div></div> <div><h3>  
+                            Log in through the extension
+                        
+</h3><p>  LastPass is best experienced through your browser extension. Install LastPass for Firefox to automatically login to sites as you browse the web.
+
+<a href="" target="_blank"> 
+                            Install LastPass
+                         </a>
+<a href="" target="_blank"> 
+                           Close
+                         </a>
+
+
+</p></div> <div><h3>  LEGAL CENTER
+
+</h3></div> <div><h1>  Your Privacy Choices
+
+
+</h1><p>  
+
+
+
+
+</p><p>  LastPass allows you to actively manage your data and exercise your individual privacy rights. This page is designed to provide you with important information and resources regarding LastPass’ data privacy practices and outline specific actions you can take to exercise your rights regarding your personal data. To better understand the specific rights applicable to you, please see our Privacy Policy. 
+</p><p>  The most effective and efficient way to exercise your privacy rights is through the use of our <strong> Individual Rights Management Portal </strong>. You may select the action you wish to take and submit a request here. Depending on the nature of your request, we may require additional verification of your identity.
+</p></div> <p><p>  <em>  Sharing and Selling Data </em>. LastPass does not sell your personal information as that term is traditionally understood. However, under some evolving US state privacy laws, certain activities, including our use of third-party cookies, may be considered a “sale” of your data. As described in our Privacy Policy, we may also share your personal data with third parties for the purposes of cross-contextual advertising. If you would like to opt out of the sale or sharing of your data, please submit a request <a href="mailto:privacy@lastpass.com" target="_blank"> here </a>.
+</p></p> <p><p>  <em> Deletion Requests. </em> In order to best protect the sensitive contents in your vault from inadvertent deletion, initiate the deletion of your LastPass account and vault data by following the steps located <a href="https://lastpass.com/delete_account.php" target="_blank"> here </a>. If you are not a current LastPass user or if you wish to delete other information LastPass may maintain outside of your LastPass vault (for instance your billing address or your name), you may do so <a href="mailto:privacy@lastpass.com" target="_blank"> here </a>.
+
+</p></p> <p><p>  <em> Access Requests. </em> Due to our zero-knowledge security model, we do not maintain a decrypted copy of end user LastPass vaults for security purposes. Therefore, the only means to export the contents of your vault in an unencrypted form is to successfully log into your account from your own device and follow the steps located <a href="https://lastpass.com/support.php?cmd=showfaq&id=1206" target="_blank"> here </a>. If you wish to exercise your access rights for other information LastPass may maintain outside of your LastPass vault, please do so <a href="mailto:privacy@lastpass.com" target="_blank"> here </a>.
+
+</p></p> <p><p>  <em> Cookies. </em> For more information about Cookies and related technologies used by LastPass to provide our services and operate our website(s) and to exercise your choices with respect to those Cookies, please see our <a href="/-/media/3f498f50f5fc4ee8bbd15d1e62fe80e9.pdf" target="_blank"> Cookie Notice </a>. If you wish to opt-out of having the information these technologies collect used for the purpose of serving you targeted ads, you may opt-out <a href="https://www.lastpass.com/?consentprefs=1" target="_blank"> here </a>.
+</p></p> <p><p>  Want to learn more about LastPass’ approach to privacy and security? Visit our Trust Center, <a href="/trust-center" target="_blank"> here </a>.
+</p></p> <div><div>  
+
+</div></div> <div><h3>  Legal Center
+</h3><p>  Explore LastPass’ terms of service, privacy policies, and other legal policies and documents.
+<a href="/legal-center" target="_blank"> Go to Legal Center </a> 
+</p><div>  
+
+</div></div> <div><h3>  Trust Center
+</h3><p>  Your single source for the latest security, privacy, compliance, and system performance information.
+<a href="/trust-center" target="_blank"> Visit Trust Center </a> 
+</p><div>  
+
+</div></div> <div><h3>  About Us
+</h3><p>  Leading the way in password security and identity management for personal and business digital safety.
+<a href="/company/about-us" target="_blank"> Learn about LastPass </a> 
+
+
+</p></div> <div><h2>  Get started with LastPass
+</h2></div> <div><h4>  
+
+LastPass makes it easy to improve employee password habits and endpoint security. See for yourself with a free 14-day trial. No credit card required.                   
+</h4><span>  
+
+
+
+</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+
+
+
+</li></ul></div> <div><h5>  LastPass
+</h5></div> <div><h5>  Features
+</h5></div> <div><h5>  For Business
+</h5></div> <div><h5>  Resources
+</h5></div> <div><h5>  Trust
+</h5></div> <div><h5>  Company
+</h5></div> <div><h5>  Get LastPass
+</h5><ul>  <li> 
+
+</li></ul><span>  English
+
+</span></div>

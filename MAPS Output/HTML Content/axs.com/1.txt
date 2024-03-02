@@ -1,0 +1,487 @@
+<div><h1>  SCOPE OF THIS POLICY</h1><p>  This Policy applies to your use of our “<b> Services </b>,”which include the following:</p><ul>  <li>AXS.com, the AXS Marketplace, and any
+     other websites or services where we link to/post this Privacy Policy
+     (including any subdomains or mobile versions, the “<b> Site(s) </b>”);</li><li>our mobile applications (the “<b> Mobile
+     App(s) </b>”); </li><li>call centers from which tickets may be
+     purchased; and</li><li>automated ticket kiosks and other
+     web-enabled technology.</li></ul></div> <div><h1>  HOW TO CONTACT US/CONTROLLER</h1><p>  Our current subsidiaries subject to this Privacy Policy include the following: </p><ul>  <li>AXS Group LLC</li><li>AXS Group Canada</li><li>AXS Australia Group PTY LTD</li><li>AXS New Zealand Group LTD</li></ul><p>  The controller of your Personal Data under this Policy is AXS Group LLC, or the party specified in “<a href="#_REGIONAL_SUPPLEMENTS" target="_blank"> REGIONAL SUPPLEMENTS </a>” below. You may contact our Data Privacy Team as follows (for our address and contact details in other regions, please see the <a href="#_REGIONAL_SUPPLEMENTS" target="_blank"> REGIONAL SUPPLEMENTS </a>):</p></div> <div><td>  <b> General Inquiries: </b></td><td>  <b> Data Protection Officer: </b></td><td>  <b> Opt-Out of Data Sales or Sharing;  </b><b> Limit uses of Sensitive Personal Data: </b></td><td>  visit the <a href="https://www.axs.com/latest-opt-out" target="_blank"> AXS Privacy Request Portal </a>, or email us at <a href="mailto:privacy@axs.com" target="_blank"> privacy@axs.com </a>
+</td><td>  <b> Regional Data Rights: </b> </td><td>  visit the <a href="https://www.axs.com/latest-opt-out" target="_blank"> AXS Privacy Request Portal </a>, or email us at <a href="mailto:privacy@axs.com" target="_blank"> privacy@axs.com </a>.
+      
+</td></div> <div><td>  <b> Direct Marketing Disclosure Inquiries: </b></td><td>  send us mail to the mailing address below or email <a href="mailto:privacy@axs.com" target="_blank"> privacy@axs.com </a>
+</td><td>  <b> Physical Address (US): </b></td><td>  AXS Group LLC 
+      425 W. 11th St., Suite 100 
+      Los Angeles, CA 90015 
+      Attn: Legal Department
+      
+</td><p>  For additional mailing addresses for AXS subsidiaries, see the “<a href="#_REGIONAL_SUPPLEMENTS" target="_blank"> Regional Supplements </a>” section below.</p></div> <div><h1>  CATEGORIES AND SOURCES OF PERSONAL DATA
+</h1><p>  The following describes how we process data relating to identified or identifiable individuals and households (“<b> Personal Data </b>”).</p></div> <div><h2>  Categories of Personal Data </h2><span>  We Process</span><p>  The categories of Personal Data we process may include:</p><p>  <strong> Audio/Visual Data  </strong>
+
+- Recordings and images collected from audio files and records, such as voicemails, call recordings, photographs, and the like.</p><p>  <strong> Transaction Data  </strong>
+
+- Information about the Services we provide to you and about transactions you make with us or other companies for events and services and similar information. </p></div> <p><p>  <strong> Contact Data  </strong>
+
+- Identity Data we can use to contact you, such as email and physical addresses, phone numbers, social media or communications platform usernames/handles.</p></p> <p><p>  <strong> Device / Network Data  </strong>
+
+- Browsing history, search history, and
+information regarding your interaction with a website, application, or
+advertisement (e.g. IP Address, MAC Address, SSIDs, application ID/AdID/IDFA,
+session navigation history and similar browsing metadata, and other data
+generated through applications and browsers, including cookies and similar
+technologies or other device identifiers or persistent identifiers), online
+user ID, device characteristics (such as browser/OS version), web server logs,
+application logs, first party cookies, third party cookies, web beacons, clear
+gifs and pixel tags.</p></p> <p><p>  <strong> Identity Data  </strong>
+
+- Information such as your name; address;
+email address; telephone number; gender; date of birth, age and/or age range;
+account login details, e.g. username and password, avatar, or other account
+handles/usernames; ticket/RFID identifiers; license plates.</p></p> <p><p>  <strong> Preference Data  </strong>
+
+- Personal Data generated reflecting your
+preferences, characteristics, predispositions, behavior, demographics,
+household characteristics, market segments, likes, favorites and other data or
+analytics.</p></p> <p><p>  <strong> General Location Data  </strong>
+
+- Non-precise location data, e.g. location
+information derived from social media tags/posts, or areas of events and venues
+you visited.</p></p> <p><p>  <strong> Sensitive Personal Data  </strong>
+
+- Personal Data deemed “sensitive” under
+California or other laws, such as social security, driver’s license, state
+identification card, or passport number; account log-in and password, financial
+account, debit card, or credit card number; precise location data; racial or
+ethnic origin, religious or philosophical beliefs, etc. We collect the
+following categories of Sensitive Personal Data:</p></p> <ul><ul>  <li>“Government ID Data” Data relating to
+     official government identification, such as driver’s license or passport
+     numbers, including similar Identity Data protected as Sensitive Data under
+     applicable law.</li><li>“Payment Data” Information such as
+     bank account details, payment card information, including similar data
+     protected as Sensitive Data under applicable law.</li><li>“Precise Location Data” data from GPS,
+     WiFi triangulation, certain localized Bluetooth beacons, or technologies
+     used to locate you at a precise location and time.</li></ul></ul> <ul><ul>  <li>“Race or Ethnic Origin” data relating to
+     your race, ethnic, or national origin. </li></ul></ul> <div><p>   See your <a href="#_YOUR_RIGHTS_&" target="_blank"> Rights & Choices </a> to limit processing of Sensitive Personal Data</p><p>  <strong> User Content  </strong>
+
+- Unstructured/free-form data that may include any category of Personal Data, e.g. data that you give us in free text fields such as comment boxes.</p></div> <div><h2>  Sources of Personal Data</h2><span>   We Process</span><p>  We collect Personal Data from various sources, which include:</p><p>  <strong> Data you provide us  </strong>
+
+- We receive Personal Data when you provide them to us, when you purchase our products or services, complete a transaction via our Services, or when you otherwise use our Services.</p><p>  <strong> Data we collect automatically </strong>
+
+- We collect Personal Data about or generated by any device used to access our Services.</p></div> <p><p>  <strong> Service Providers  </strong>
+
+- We receive Personal Data from third party service providers who collect Personal Data when performing services on our behalf (e.g. AXS Marketplace).</p></p> <p><p>  <strong> Event partners  </strong>
+
+- We collaborate with various entities to put on events, which may include promoters, artists, sports teams or leagues, venues, and other parties (collectively, “Event Partners”).  If you
+purchase products and services through our Services that may be fulfilled by an Event Partner, we may receive certain Personal Data (e.g. Transaction Data) from that Event Partner in connection with the fulfilment of those products and
+services.</p></p> <p><p>  <strong> Aggregators and advertisers  </strong>
+
+- We may receive Personal Data from ad networks, data brokers, Targeted Advertising vendors, market research, and social media companies or similar companies who provide us with additional Personal Data, e.g. Preference Data in relation to <a href="#Targeted_Advertising" target="_blank"> Targeted Advertising and Profiles </a> (where permitted by law).</p></p> <p><p>  <strong> Social media & other companies  </strong>
+
+- We receive Personal Data from social media and other companies when you use third-party single sign on, or interact with that social media or other company on or in connection with our Services.</p></p> <p><p>  <strong> Data we create or infer  </strong> 
+
+- We, certain partners, social media companies, and third parties operating on our behalf, create and infer Personal Data such as Preference Data or Aggregate Data based on our observations or
+analysis of other Personal Data processed under this Policy, and we may correlate this data with other data we process about you. </p></p> <div><h1>  DATA PROCESSING CONTEXTS / NOTICE AT COLLECTION</h1></div> <div><h2>  Account registration</h2><p>  We process Identity Data, Preference Data, and Contact Data when you register and create an account for our Services. We process Payment Data if you associate payment information with that account. </p><p>  We use this Personal Data to create and maintain your account, to provide the products and services you request, and for our </p><span>  Business Purposes. We may process Identity Data, Preference Data, and Contact Data for </span><span>  Commercial Purposes (which may include data sales/sharing). We do not sell or “share” Payment Data or use it for Business Purposes not permitted under applicable law. </span></div> <div><p>  Sensitive Personal Information</p><span>  . We may also process Payment Data if you choose, for example, to store Payment Data for future purchases.</span><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h2>  Purchases and transactions</h2><p>  We process Transaction Data, Identity Data,
+Payment Data, Preference Data, and Contact Data when you complete a purchase or
+sale transaction. We do not permanently store your Payment Data, except at your
+request. In certain cases, Preference Data may reveal Race or Ethnic Origin
+(see “<a href="#_Profiles" target="_blank"> Profiles </a>” for more information). If you elect to receive tickets via SMS, we may process Contact Data in order to deliver your tickets via SMS.</p></div> <p><p>  We process this Personal Data as necessary
+to perform or initiate a transaction with you, process your order, payment, or
+refund, carry out fulfillment and delivery, document transactions, and for our <a href="#_For_our_Business" target="_blank"> Business Purposes </a>. </p></p> <p><p>  We may process Identity Data, Transaction
+Data, Contact Data, Race or Ethnic Origin, and Device/Network Data for <a href="#_Commercial_Purposes" target="_blank"> Commercial Purposes </a></p></p> <span><span>  (which may include data sales/sharing). We do not sell or “share” Payment Data or process it for Business Purposes not permitted under applicable law. We do not share Contact Data collected as part of SMS ticket delivery with third parties for their own marketing or Commercial Purposes.</span></span> <div><p>  Third party businesses/controllers may receive your information</p><span>  . Third Party data controllers/businesses (such as Event Partners) provide many products and services related to your purchase through our Services. We may disclose Identity Data, Transaction Data, Contact Data, and Device/Network Data to those third parties to facilitate your purchase. You may also direct us to disclose this data to or interact with these third parties as part of your purchase (which does not involve a sale by AXS.) For example, when you enter into a transaction for a ticket to a National Hockey League event, you direct us to share your Identity Data, Contact Data, and Commercial Data relating to the ticket purchase with NHL Interactive CyberEnterprises, LLC, and its affiliates, including NHL Enterprises, L.P., NHL Enterprises Canada, L.P., and the National Hockey League ("NHL"). We share this with the NHL so that they can conduct analysis to better understand NHL fans and fan engagement across the NHL, including its member clubs. NHL may also use and share insights to enable the NHL, including its member clubs, to customize and improve their services, advertising and communications, as further set forth in the NHL <a href="https://www.nhl.com/info/privacy-policy" target="_blank"> Privacy Policy </a>.</span></div> <div><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h2>  RFID products and digital tickets</h2><p>  We process Identity Data, Transaction Data,
+Payment Data, Preference Data, General Location Data, and Contact Data when you
+use digital ticketing or RFID technologies at an event. See above for
+information collected in connection with original Ticket Purchases.</p><p>  We process Identity Data, Transaction Data,
+Payment Data, Preference Data, General Location Data, and Contact Data to
+authenticate your access to an event, complete a transaction you request, for
+our </p></div> <span><span>  Business Purposes,
+and our other legitimate interests, including:</span></span> <ul><ul>  <li>verifying
+     your identity for authentication and security purposes;</li><li>helping
+     us to ensure ticket purchasers are genuine and to prevent fraud;</li><li>managing
+     access to specific areas of events; and</li><li>to
+     create market research and statistical analysis of guest engagement,
+     movement, or other matters.</li></ul></ul> <p><p>  We may process Identity Data, Transaction
+Data, Preference Data, General Location Data, and Contact Data for our </p></p> <span><span>  Commercial Purposes
+(which may include data sales/sharing). We do not sell or “share” Payment Data
+or process it for Business Purposes not permitted under applicable law.</span></span> <div><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h2>  Marketing
+communications</h2><p>  We process Device/Network Data, Contact
+Data, Identity Data, and Preference Data in connection with marketing emails,
+SMS, push notifications, telemarketing, or similar communications, and when you
+open or interact with those communications (“Marketing Communications”). You
+may receive Marketing Communications if you consent and, in some jurisdictions,
+as a result of account registration or a purchase. In some cases, Preference
+Data may reveal Race or Ethnic Origin (see “Profiles” for more information). We
+may also collect Precise Location Data in order to deliver relevant
+communications in our Mobile App (see “Mobile Apps” for more information).</p></div> <div><p>  We process this Personal Data to contact
+you about relevant products or services and for our </p><span>  Business Purposes.
+We may use Device/Network Data, Contact Data, Identity Data, and Preference
+Data for our </span><span>  Commercial
+Purposes (which may include data sales/sharing). We also process
+Race or Ethnic Origin Data and Precise Location Data to personalize Marketing
+Communications as permitted by applicable law, but we do not process this data
+for Targeted Advertising, or where users have opted out or not provided
+necessary consents. We do not sell or “Share” Race or Ethnic Origin Data and
+Precise Location Data or process it for Business Purposes not permitted under
+applicable law. See your </span></div> <div><span>  Rights
+& Choices</span><span>   to limit processing
+of Precise Location Data or Race or Ethnic Origin Data.</span><p>  We do not share Contact Data collected as part of SMS marketing campaigns with third parties for their own marketing or Commercial Purposes.</p><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h2>  Digital Services</h2></div> <div><h3>  Generally</h3><p>  We process Device/Network Data, Contact
+Data, Identity Data, General Location Data, and Preference Data. You may also
+be able to </p><span>  complete
+purchases, </span><span>  register
+for an account, or enroll in </span><span>  Marketing Communications through our Services.
+</span><p>  We use this Personal Data as necessary to operate
+our Services, such as keeping you logged in, delivering pages, etc., for our </p><span>  Business Purposes,
+and our other legitimate interests, such as:</span></div> <ul><ul>  <li>ensuring
+     the security of our websites, mobile applications and other technology
+     systems; and</li><li>analyzing
+     the use of our Services, including navigation patterns, clicks, etc. to
+     help understand and make improvements to the Services.</li></ul></ul> <div><p>  We may process this Personal Data for our </p><span>  Commercial
+Purposes (which may include data sales or “sharing.”) </span><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h3>  Mobile Apps</h3><p>  If you use our Mobile Apps, we may process Identity Data, Device/Network Data, Preference Data, General Location Data, and, with your consent, Precise Location Data. </p><p>  We process this Personal Data to provide our Mobile Apps, for our </p><span>  Business Purposes</span><span>  , and our other legitimate interests, such as: </span><ul>  <li>to optimize the display and functionality of the Mobile App on your device; </li><li>determine your location within a certain area (e.g. near an event where you have a ticket); </li><li>provide directions and contextual information to you at your request (e.g. information about venues where events are held);</li><li>deliver features that require the use of Precise Location Data; and</li><li>creating aggregate information about users’ location and patterns, which we use to help improve our Services. </li></ul></div> <p><p>  We may process Identity Data,
+Device/Network Data, Preference Data, and General Location Data for our </p></p> <div><span>  Commercial
+Purposes</span><span>   (which may include data sales/sharing). If
+you opt in to the collection of Precise Location Data, we also process Precise
+Location Data for Marketing Communications, such as in-app notifications about
+offers from us or our partners when you are present at an event. We do not sell
+or “share” Precise Location Data or process it for Business Purposes not
+permitted under applicable law. You have the right to limit our use of Precise
+Location Data by withdrawing consent to or disabling the collection of Precise
+Location Data through your mobile device’s settings menu.</span></div> <div><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h3>  Cookies
+and other tracking technologies</h3><p>  We process Identity Data, Device/Network
+Data, Contact Data, Preference Data, General Location Data, and other
+non-Personal Data in connection with our use of cookies and similar
+technologies on our Services. We may collect this data automatically. </p><p>  We and authorized third parties may use
+cookies and similar technologies for the following purposes:</p><ul>  <li>for
+     “essential” purposes necessary for our Services to operate (such as
+     maintaining user sessions, CDNs, and the like);</li><li>for
+     “functional” purposes, such as to enable certain features of our Services
+     (for example, to allow a customer to maintain an online shopping cart);</li><li>for
+     “analytics” purposes and to improve our Services, such as to analyze the
+     traffic to and on our Services (for example, we can count how many people
+     have looked at a specific page, or see how visitors move around the
+     website when they use it, to distinguish unique visits/visitors to our
+     Services, and what website they visited prior to visiting our website, and
+     use this information to understand user behaviors and improve the design
+     and functionality of the website); </li></ul></div> <ul><ul>  <li>for
+     “retargeting,” </li></ul></ul> <span><span>  Targeted
+     Advertising, or other advertising and marketing purposes,
+     including technologies that process Preference Data or other data so that
+     we can deliver, buy, or target advertisements which are more likely to be
+     of interest to you; </span></span> <ul><ul>  <li>for “social media” e.g. via third-party
+     social media cookies, or when you share information using a social media
+     sharing button or “like” button on our Services or you link your account
+     or engage with our content on or through a social networking website such
+     as Facebook or Twitter.</li></ul></ul> <div><p>  We may also process this Personal Data for
+our </p><span>  Business Purposes
+and </span><span>  Commercial
+Purposes (which may include data sales/sharing). See your </span><span>  Rights & Choices
+for information regarding opt-out rights for cookies and similar technologies.</span><p>  Third parties may view, edit, or set
+their own cookies or place web beacons on our websites</p><span>  . We, or third party providers, may be able to use these
+technologies to identify you across platforms, devices, sites, and services.
+Third parties may engage in </span></div> <span><span>  Targeted Advertising using this data. Social
+Media companies and third parties engaged in Targeted Advertising are third
+party controllers and may have their own privacy policies and their processing
+is not subject to this Policy. </span></span> <div><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h2>  Contests and promotions</h2><p>  We may collect and process Identity Data,
+Preference Data, certain Contact Data, and User Content when you enter a
+contest/sweepstakes or take part in a promotion. If you are a winner of a
+contest, sweepstakes, or certain other promotions, we may (where permitted by
+law) collect Government ID Data. </p><p>  We process this Personal Data as necessary
+to provide the contest/promotion, notify you if you have won, or to process
+delivery of a prize, for our </p><span>  Business Purposes, and other legitimate
+interests, such as:</span></div> <ul><ul>  <li>verifying
+     your identity for authentication, anti-fraud, and security purposes (in
+     which case we may process Government ID Data to complete verification); </li><li>to
+     improve our Services and to create a personalized user experience; and </li><li>to contact you about relevant products or
+     services, and in connection with Marketing Communications and Targeted
+     Advertising. </li></ul></ul> <p><p>  If you win a special promotion (e.g., a
+sweepstakes), your acceptance of a prize may allow us to make certain Personal
+Information public, e.g. posting your first name and last initial, hometown
+and/or state on a winner’s list (or making physical copies of the winner’s list
+available, upon request or as required by law). See the special program
+agreement(s) for additional details and terms.</p></p> <p><p>  We may process Identity Data, Contact Data,
+and User Content information for our </p></p> <span><span>  Commercial Purposes (which may include data sales/sharing).
+We do not sell, “share,” or process Government ID Data for any Commercial
+Purposes or any Business Purposes not permitted under applicable law.</span></span> <div><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h2>  Contact us; support</h2><p>  We collect and process Identity Data,
+Contact Data, and User Content when you contact us, e.g. through a contact us
+form, or for support. If you call us via phone, we may collect Audio/Visual
+data from the call recording.</p><p>  We process this Personal Data to respond to
+your request, and communicate with you, as appropriate, and for our </p><span>  Business Purposes.
+If you consent or if permitted by law, we may use Identity Data and Contact
+Data to send you Marketing Communications and for our </span></div> <span><span>  Commercial Purposes
+(which may include data sales/sharing). </span></span> <div><p>  Data Retention | </p><span>  Regional Data Rights</span><p>  Employees and
+contractors are subject to separate privacy notices</p><span>  . If you are an applicant, employee, independent contractor engaged
+by AXS, former employee/independent contractor, or beneficiary, your Personal Data
+is subject to the HR Privacy Notice.</span></div> <div><h2>  Posts and social media</h2><p>  We process Identity Data, Preference Data,
+Contact Data, and User Content you post (e.g. comments, forum and social media
+posts, etc.) on our Services. We also process Identity Data, Contact Data, and
+User Content if you interact with or identify us, or relevant Event Partners on
+social media platforms (e.g. if you post User Content that engages with or tags
+our official accounts.)</p><p>  We process this Personal Data for our </p><span>  Business Purposes,
+and </span></div> <span><span>  Commercial
+Purposes (which may include data sales/sharing). </span></span> <p><p>  Posts may be
+public, or reposted on our Services</p></p> <p><p>   Content you provide may be publicly-available when you post it on
+our Services, or in some cases, if you reference, engage, or tag our official
+accounts.</p></p> <div><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h2>  Feedback and surveys</h2><p>  We process Identity Data, Contact Data,
+Preference Data, and User Content collected in connection with guest surveys or
+questionnaires. </p><p>  We process this Personal Data as necessary
+to respond to guest requests/concerns, for our </p><span>  Business Purposes, and other legitimate
+interests, such as analyzing guest satisfaction and to allow our third-party
+partners to communicate with guests.</span><p>  We may process this Personal Data for our </p><span>  Commercial
+Purposes (which may include data sales/sharing). We may share
+Feedback/Survey data relating to third party partners with those partners, who
+may use it for their own purposes. </span></div> <div><p>  Data Retention | </p><span>  Regional Data Rights</span></div> <div><h1>  PROCESSING PURPOSES</h1></div> <div><h2>  Business Purposes</h2><p>  We and our Service Providers process Personal Data we hold for numerous business purposes, depending on the context of collection, your </p><span>  Rights & Choices, and our legitimate interests. We and our Service Providers generally process Personal Data for the following “Business Purposes.”</span></div> <div><h3>  Service Delivery</h3><p>  We process Personal Data as necessary to
+provide our Services and the products and services you purchase or request. For
+example, we process Personal Data to authenticate users and their rights to
+access the Services, events, or venues, as otherwise necessary to fulfill our
+contractual obligations to you, provide you with the information, features, and
+services you request, and create relevant documentation.</p></div> <div><h3>  Internal Processing and Service Improvement</h3><p>  We may use any Personal Data we process
+through our Services as necessary in connection with our legitimate interests
+in improving the design of our Service, understanding how our Services are used
+or function, for customer service purposes, for internal research, technical or
+feature development, to track use of our Service, QA and debugging, audits, and
+similar purposes. </p></div> <div><h3>  Security and Incident Detection</h3><p>  We may process Personal Data in connection
+with our legitimate interest in ensuring that our Services are secure, identify
+and prevent crime, prevent fraud, and verify or authenticate users/individuals,
+and ensure the safety of our guests. Similarly, we process Personal Data on our
+Services as necessary to detect security incidents, protect against, and
+respond to malicious, deceptive, fraudulent, or illegal activity. We may
+analyze network traffic, device patterns, and characteristics, maintain and
+analyze logs and process similar Personal Data in connection with our
+information security activities.</p></div> <div><h3>  Contextual Advertising</h3><p>  We may display contextual advertising on
+our Services. In which case, we may customize such advertisement using data
+processed based on your current interaction with the Service (e.g. time,
+general location). We may also document and audit ad impressions and related
+data relating to the delivery and display of contextual advertisements.</p></div> <div><h3>  Personalization</h3><p>  We process certain Personal Data as
+necessary in connection with our legitimate interest in personalizing our
+Services. For example, aspects of the Services may change so they are more
+relevant to you. We may personalize based on Preference Data and your current
+interactions with the Service using Personal Data we hold about you. We may
+also personalize based on Profiles, where permitted by law, e.g. by displaying
+your name and other appearance or display preferences, to display content that
+you have interacted with in the past, or to display content that we think may
+be of interest to you based on your interactions with our Digital Services and
+other content. </p></div> <div><h3>  Aggregated </h3><span>  Data</span><p>  We process Personal Data in order to
+identify trends, including to create aggregated and anonymized data about
+buying and spending habits, use of our Services, and other similar information
+(“<b> Aggregated Data </b>”). Aggregated Data that does not contain Personal Data
+is not subject to this Privacy Policy.</p></div> <div><h3>  Compliance, Health, Safety, Public Interest</h3><p>  We may also process Personal Data as
+necessary to comply with our legal obligations, such as where you exercise your
+rights under data protection law, for the establishment and defense of legal
+claims, where we must comply with requests from government or law enforcement
+officials, and as may be required to meet national security or law enforcement
+requirements or prevent illegal activity. We may also process data to protect
+the vital interests of individuals, or on certain public interest grounds, each
+to the extent required or permitted under applicable law. Please see the </p></div> <div><span>  How We Share Personal Data</span><span>   section for more information about how we disclose Personal Data in
+extraordinary circumstances.</span></div> <div><h2>  Commercial Purposes</h2><p>  We and certain third parties process
+Personal Data to further our commercial or economic interests (“<b> Commercial
+Purposes </b>,”) depending on the context of collection and your </p><span>  Rights & Choices.</span><p>  Please Note</p><span>   – We may require your consent, or we may not engage in processing of Personal Data for Commercial Purposes in some jurisdictions. See the “<a href="#_REGIONAL_SUPPLEMENTS" target="_blank"> REGIONAL SUPPLEMENTS </a>” section below for more information.</span></div> <div><h3>  Profiles</h3><p>  Entertainment is personal, and we are
+always working to help you find the best concerts, festivals, sports, and other
+events for you to enjoy. In order to understand our customers’ preferences, and
+better recommend products and services that are personalized to our customers,
+we may create a “<b> Profile </b>” by linking together and analyzing Personal
+Data processed in the following contexts:</p><p>  We may augment Profiles with Personal Data that
+we receive from Event Partners, affiliates or third parties, e.g. information
+about Services you have used or purchased previously, events and venues you
+visited, or locations at those events/venues, or demographic data and data from
+your publicly-available social media profiles.</p></div> <p><p>  In some cases we process Preference Data
+that reveals Race or Ethnic Origin as part of our Profiles. We typically
+process this information in relation to marketing for certain events (e.g.
+cultural or heritage events.) Depending on applicable laws, we may not collect
+this information, and we may require your consent before collecting it. We will
+limit the use and disclosure of your Race or Ethnic Origin according to
+applicable law. See the “<a href="#_REGIONAL_SUPPLEMENTS" target="_blank"> Regional Supplements </a>” section below for more
+information about your rights in Sensitive Data.</p></p> <p><p>  We use Profiles for our legitimate
+interests in market research and statistical analysis in connection with the
+improvement of our Services. For example, we may analyze the Personal Data of
+customers who have purchased tickets for a future event, and then compare them
+with other customers in our database. If we identify other customers in our
+database who have similar Personal Data to the original purchasers, we may
+direct marketing about that event to the similar customers. We may conduct the
+profiling and send the direct marketing emails automatically. </p></p> <p><p>  Profiles involve processing that is
+automated, in whole or in part.</p></p> <div><h3>  Personalized
+Marketing Communications</h3><p>  We may personalize </p><span>  Marketing
+Communications based on your </span><span>  Profile. If consent to Consumer Profiling or
+Targeted Advertising is required by law, we will seek your consent.</span></div> <div><h3>  Targeted
+Advertising</h3><p>  In some jurisdictions, AXS affiliates and
+certain third parties operating on or through our Services, may engage in
+advertising targeted to your interests based on Personal Data that we or those
+third parties obtain or infer from your activities across non-affiliated websites,
+applications, or services in order to predict your preferences or interests (“<b> Targeted
+Advertising </b>” or “<b> Sharing </b>”). This form of advertising includes
+various parties and service providers, including third party data controllers,
+engaged in the processing of Personal Data in connection with advertising.
+These parties may be able to identify you across sites, devices, and over time.</p></div> <div><p>  The parties that control the processing of
+Personal Data for Targeted Advertising purposes may create or leverage
+information derived from </p><span>  Personalization,
+</span><span>  Profiles,
+and </span><span>  Marketing
+Communications. In some cases, these parties may also develop and
+assess aspects of a Profile about you to determine whether you are a type of
+person a company wants to advertise to, and determine whether and how ads you
+see are effective. These third parties may augment your profile with
+demographic and other Preference Data, and may track whether you view, interact
+with, or how often you have seen an ad, or whether you purchased advertised
+goods or services.</span></div> <p><p>  We generally use Targeted Advertising for
+the purpose of marketing our Services and third-party goods and services, and
+to send Marketing Communications, including by creating custom marketing
+audiences on third-party websites or social media platforms.</p></p> <div><h3>  Data Sales</h3><p>  We may engage in “sales” or “sharing” of
+data as defined by applicable law. For example, we may “sell” certain Personal
+Data when we engage in marketing campaigns with or on behalf of sponsors,
+conduct Targeted Advertising or data “sharing,” or we may sell or grant access
+to Personal Data to our marketing partners, Event Partners, and other
+advertisers in relation to Targeted Advertising, joint promotions, and other
+marketing initiatives. See the </p><span>  US Regional Supplement section for a list of
+categories of Personal Data sold or “shared.”</span></div> <div><h1>  DISCLOSURE/SHARING OF PERSONAL DATA</h1><p>  We may share Personal Data with the
+following categories of third-party recipients and/or for the following
+reasons. Note, some parties may be third party controllers who process data
+subject to their own privacy policy. </p><p>  <strong> Affiliates </strong>
+
+- we will share your Personal Data with any
+of our current or future affiliated entities, subsidiaries, and parent
+companies in order to streamline certain business operations, and in support of
+our <a href="#_For_our_Business" target="_blank"> Business Purposes </a> and <a href="#Process_Personal_Commercial" target="_blank"> Commercial Purposes </a>.</p></div> <p><p>  <strong> Service Providers </strong>
+
+- We may share your Personal Data with
+service providers who provide certain services or process data on our behalf in
+connection with our general business operations, product/service fulfillment
+and improvements, to enable certain features, and in connection with our (or
+our Service Providers’) <a href="#_For_our_Business" target="_blank"> Business Purposes </a>.</p></p> <p><p>  <strong> Sponsors, Advertisers, and Social Media Platforms  </strong>
+
+- We may share certain Personal Data with
+social media platforms, advertisers, ad exchanges, data management platforms,
+or sponsors in support of our <a href="#_For_our_Business" target="_blank"> Business Purposes </a>
+and <a href="#Process_Personal_Commercial" target="_blank"> Commercial Purposes </a>. We may allow
+these third parties to operate on or through our Services. These parties may be
+third party controllers, and may have their own privacy policies and their
+processing is not subject to this Policy. We do not share Contact Data collected in connection with SMS marketing or ticket delivery with these parties.</p></p> <p><p>  <strong> Public Disclosure  </strong>
+
+- If you use any social media plugin, API,
+or other similar feature, use an event hashtag or similar link, or otherwise
+interact with us or our Services via social media, we may make your post
+available on our Services or to the general public. We may share, rebroadcast,
+or redisplay Personal Data or other information in the post to the extent
+permitted by the relevant social media service.</p></p> <p><p>  <strong> Event Partners  </strong>
+
+- We may share your Personal Data with Event Partners who have engaged us to provide
+Services on their behalf in connection with the events that are provided or
+promoted by that third party. You may also direct us to disclose this data to
+or interact with these third parties as part of attending an event or making a
+purchase (which does not involve a data sale by us). However, in other cases,
+these parties may also receive data for our <a href="#_For_our_Business" target="_blank"> Business
+Purposes </a></p></p> <span><span>   and in connection with <a href="#_Data_Sales" target="_blank"> Data Sales and Sharing </a>. We do not share Contact Data collected in connection with SMS marketing or ticket delivery with Event Partners.</span></span> <p><p>  <strong> Data Aggregators  </strong>
+
+- We may share Personal Data with third
+party data suppliers in support of our <a href="#Process_Personal_Commercial" target="_blank"> Commercial
+Purposes </a> and in connection with <a href="#_Data_Sales" target="_blank"> Data Sales and
+Sharing </a>. These disclosures/sales can help better personalize our Services,
+the services of third parties, enrich <a href="#Consumer_Profile" target="_blank"> Profiles </a>, and help ensure that you see advertisements
+that are more relevant to your interests.</p></p> <p><p>  <strong> Successors  </strong>
+
+- We may share Personal Data if we go
+through a business transition, such as a merger, acquisition, liquidation, or
+sale of all or a portion of our assets. For example, Personal Data may be part
+of the assets transferred, or may be disclosed (subject to confidentiality
+restrictions) during the due diligence process for a potential transaction.</p></p> <p><p>  <strong> Lawful Recipients </strong>
+
+- In limited circumstances, we may, without
+notice or your consent, access and disclose your Personal Data, any
+communications sent or received by you, and any other information that we may
+have about you to the extent we believe such disclosure is legally required, to
+prevent or respond to a crime, to investigate violations of our Terms of Use,
+in the vital interests of us or any person (such as where we reasonably believe
+the use or disclosure is necessary to lessen or prevent a serious threat to the
+life, health or safety of any individual or to public health or safety) or in
+such other circumstances as may be required or permitted by law. These
+disclosures may be made to governments that do not ensure the same degree of
+protection of your Personal Data as your home jurisdiction. We may, in our sole
+discretion (but without any obligation), object to the disclosure of your
+Personal Data to such parties.</p></p> <div><h1>  INTERNATIONAL TRANSFERS OF YOUR PERSONAL DATA </h1><p>  If you are located outside the US, we may transfer or process your Personal Data in the US, UK, European Economic Area (EEA), and other jurisdictions where AXS or our service providers operate. Where required by local law, we ensure your data remains protected in connection with any international transfers. See the “<a href="#_REGIONAL_SUPPLEMENTS" target="_blank"> Regional Supplement </a>” section below for more information.</p></div> <div><h1>  YOUR RIGHTS & CHOICES</h1><p>  You may have certain rights and choices regarding the Personal Data we process. Please note, these rights may vary based on the country or state where you reside, and our obligations under applicable law. See the following sections for more information regarding your rights/choices in specific regions:</p></div> <div><h2>  Your Rights</h2><p>  You may have certain rights and choices regarding the Personal Data we process. See the “Regional Supplement” section below for rights available to you in your jurisdiction. To submit a request, contact our <a href="#_Contact_Data" target="_blank"> Data Privacy Team </a>. We verify your identity in connection with most requests, as described below.</p></div> <div><h2>  Verification of Rights Requests</h2><p>  If you submit a request, we typically must verify your identity to ensure that you have the right to make that request, reduce fraud, and to ensure the security of Personal Data. If an agent is submitting the request on your behalf, we reserve the right to validate the agent’s authority to act on your behalf. </p><p>  We may require that you match personal information we have on file in order to adequately verify your identity. If you have an account, we may require that you log into the account to submit the request as part of the verification process. We may not grant access to certain Personal Data to you if prohibited by law.</p></div> <div><h2>  Your Choices</h2></div> <div><h3>  Marketing Communications</h3><p>  You can withdraw your consent to receive Marketing Communications by clicking on the unsubscribe link in an email (for email), by responding with “opt-out” or other supported unsubscribe message (for SMS), by adjusting the push message settings for our mobile apps using your device operating system (for push notifications), or for other communications, by contacting us using the information below. To opt-out of the collection of information relating to email opens, configure your email so that it does not load images in our emails.</p></div> <div><h3>  Withdrawing Your Consent/Opt-Out</h3><p>  You may withdraw any consent you have provided at any time. The consequence of you withdrawing consent might be that we cannot perform certain services for you, such as location-based services, personalizing or making relevant certain types of advertising, or other services conditioned on your consent or choice not to opt-out.</p></div> <div><h3>  Precise Location Data</h3><p>  You may control or limit Precise Location Data that we collect through our Services by changing your preferences in your device’s location services preferences menu, or through your choices regarding the use of Bluetooth, WiFi, and other network interfaces you may use to interact with our Services. Note, we may collect general location data even if you opt out of the collection of Precise Location Data.</p></div> <div><h3>  Cookies, Similar Technologies, and Targeted Advertising</h3><p>  <strong> General </strong>
+
+- If you do not want information collected through the use of cookies, you can manage/deny cookies (and certain technologies) using your browser’s settings menu or our <a href="javascript:void(0);" target="_blank"> Cookie Preferences </a> link. You may need to opt out of third-party services directly via the third party. For example, to opt-out of Google’s analytic and marketing services, visit </p></div> <div><span>  Google Analytics Terms of Use</span><span>  , the </span><span>  Google Policy</span><span>  , or </span><span>  Google Analytics Opt-out</span><p>  <strong> Targeted Advertising  </strong>
+
+- You may opt out or withdraw your consent to Targeted Advertising by visiting </p><span>  AXS Privacy Request Portal</span><span>   or through our <a href="javascript:void(0);" target="_blank"> Cookie Preferences </a> link. In some cases, you may be able to opt-out with third parties directly by submitting requests to third party partners, including for the parties listed below </span></div> <div><ul>  <li>Google</li><li>Facebook Custom Audience Pixel</li><li>Twitter Audience Pixel</li><li>Digital Advertising Alliance’s opt-out</li><li>Network Advertising Initiative opt-out</li></ul><p>  <strong> Global Privacy Control (GPC) </strong>
+
+- Our Services may support certain automated opt-out controls, such as the </p><span>  Global Privacy Control</span><span>   (“GPC”). GPC is a specification designed to allow Internet users to notify businesses of their privacy preferences, such as opting-out of the sale/sharing of Personal Data. To activate GPC, users must enable a setting or use an extension in the user’s browser or mobile device. Please review your browser or device settings for more information regarding how to enable GPC. </span></div> <p><p>  Please note: We may not be able to link GPC requests to your Personal Data in our systems, and as a result, some sales/sharing of your Personal Data may occur even if GPC is active. See the “<a href="#_REGIONAL_SUPPLEMENTS" target="_blank"> REGIONAL SUPPLEMENTS </a>” section below for more information regarding other opt-out rights.</p></p> <p><p>  <strong> Do-Not-Track </strong>
+
+- Our Services do not respond to your browser’s do-not-track request. </p></p> <div><h1>  DATA SECURITY </h1><p>  We implement and maintain reasonable security measures to secure your Personal Data from unauthorized processing. While we endeavor to protect our Services and your Personal Data unauthorized access, use, modification and disclosure, we cannot guarantee that any information, during transmission or while stored on our systems, will be absolutely safe from intrusion by others.</p><span>   When we process information, we may pseudonymize data (i.e. store or use Personal Data using only a non-identifying number) or anonymize data (i.e. store data in a form that is not linked to or reasonably able to identify you personally) in order to protect your Personal Data during processing.</span></div> <div><h1>  CHILDREN</h1><p>  Our Services are neither directed at nor intended for use by persons under the age of 13 in the US, or under the age of 13 to 16 in the EEA, UK, Switzerland, Cayman Islands, or 15/16 in Australia and New Zealand. Further, we do not knowingly collect Personal Data from minors. If we learn that we have inadvertently done so, we will promptly delete it. Do not access or use the Services if you are not of the age of majority in your jurisdiction unless you have the consent of your parent or guardian.</p></div> <div><h1>  DATA RETENTION</h1><p>  We retain Personal Data for so long as it is reasonably necessary to achieve the relevant processing purposes described in this Privacy Policy, or for so long as is required by law. What is necessary may vary depending on the context and purpose of processing. We generally consider the following factors when we determine how long to retain data (without limitation):</p><ul>  <li>Retention periods established under applicable law;</li><li>Industry best practices;</li><li>Whether the purpose of processing is reasonably likely to justify further processing;</li><li>Risks to individual privacy in continued processing;</li><li>Applicable data protection impact assessments;</li><li>IT systems design considerations/limitations; and</li><li>The costs associated continued processing, retention, and deletion.</li></ul></div> <p><p>  We will review retention periods periodically and may pseudonymize or anonymize data held for longer periods. </p></p> <div><h1>  THIRD PARTY WEBSITES AND MOBILE APPLICATIONS</h1><p>  Except for processing by our service providers (described above), this Privacy Policy does not apply to third party websites, products, or services. For example, we handle some of the purchase process on our Services directly, and third party businesses (such as payment processors) may manage others. Third parties may operate or develop some of Our Group’s websites and mobile apps, may operate or host a contest/sweepstakes on our Services. In these cases, the terms, conditions, and privacy practices of the third party, not Our Group, may govern your transactions, and we may have no control over the Personal Data collected. </p></div> <div><h1>  CHANGES TO OUR POLICY</h1><p>  We may change this Policy from time to time. We will post changes on this page. We will notify you of any material changes, if required, via email or notices on our Services. Your continued use of our Services constitutes your acknowledgement of any revised Policy.</p></div> <div><h1>  REGIONAL SUPPLEMENTS</h1></div> <div><h2>  US States/California</h2></div> <div><h3>  US State & California Privacy Rights & Choices</h3><p>  Under the California Consumer Privacy Act (“<b> CCPA </b>”) and other state privacy laws, residents of certain US states may have the following rights, subject to regional requirements, exceptions, and limitations. </p><p>  <strong> Confirm </strong>
+
+- Right to confirm whether we process your Personal Data</p><p>  <strong> Access/Know </strong>
+
+- Right to request any of following: (1) the categories of Personal Data we have collected, sold/“shared,” or disclosed for a commercial purpose; (2) the categories of sources from which your Personal Data was collected; (3) the purposes for which we collected or sold/“shared” your Personal Data; (4) the categories of third parties to whom we have sold/“shared” your Personal Data, or disclosed it for a business purpose; and (5) the specific pieces of Personal Data we have collected about you.</p></div> <p><p>  <strong> Portability </strong>
+
+- Right to request that we provide certain Personal Data in a common, portable format</p></p> <p><p>  <strong> Deletion </strong>
+
+- Right to delete certain Personal Data that we hold about you.</p></p> <p><p>  <strong> Correction </strong>
+
+- Right to correct certain Personal Data that we hold about you.</p></p> <p><p>  <strong> Opt-Out (Sales, Sharing,
+Targeted Advertising, Profiling) </strong>
+
+- Right to opt-out of the following:</p></p> <ul><ul>  <li>If we engage in sales of data (as defined by applicable law), you may direct us to stop selling Personal Data.</li><li>If we engage in Targeted Advertising (aka “sharing” of personal data or cross-context behavioral advertising,) you may opt-out of such processing. </li><li>If we engage in certain forms of “profiling” (e.g. profiling that has legal or similarly significant effects), you may opt-out of such processing.</li></ul></ul> <p><p>  <strong> Opt-out or Limit Use and Disclosure of Sensitive Personal Data  </strong>
+
+- Right to opt-out of the processing of certain Sensitive Data, or request that we limit certain uses of Sensitive Personal Data. This right does not apply in cases where we only use Sensitive Personal Data where necessary, or for certain business purposes authorized by applicable law.</p></p> <p><p>  <strong> Opt-in/Opt-out of Sale/Sharing of Minors’ Personal Data </strong>
+
+- To the extent we have actual knowledge that we collect or maintain personal information of a minor under age 16 in California, those minors must opt in to any sales/sharing of personal information (as defined under CCPA), and minors under the age of 13 must have a parent consent to sales/sharing of personal information. All minors have the right to opt-out later at any time.</p></p> <div><p>  <strong> Non-Discrimination  </strong>
+
+- California residents have the right to not to receive discriminatory treatment as a result of your exercise of rights conferred by the CCPA</p><p>  <strong> List of Direct Marketers  </strong>
+
+- California residents may request a list of Personal Data we have disclosed about you to third parties for direct marketing purposes during the preceding calendar year.</p><p>  <strong> Remove Minors’ User Content </strong>
+
+- Residents of California under the age of 18 can delete or remove posts using the same deletion or removal procedures described above, or otherwise made available through the Services. If you have questions about how to remove your posts or if you would like additional assistance with deletion you can contact us using the information below. We will work to delete your information, but we cannot guarantee comprehensive removal of that content or information posted through the Services.</p></div> <div><h3>  Submission of Requests</h3><p>  You may submit requests, as follows (please our review </p><span>  verification requirements section). If you have any questions or wish to appeal any refusal to take action in response to a rights request, contact us at privacy@axs.com. We will respond to any request to appeal within the time period required by law.</span><td>  Access/Know, Confirm Processing, Portability, 
+</td><td>  Deletion, and 
+</td><td>  Correction
+</td><ul>  <li>You may or email us at <a href="mailto:privacy@axs.com" target="_blank"> privacy@axs.com </a>, together with your email address, phone number or address on file, along with your request.
+</li></ul></div> <td><td>  Opt-Out of Sales, “Sharing,” Targeted Advertising or Profiling 
+</td></td> <div><td>  Opt-out/Limit Use and Disclosure of Sensitive Personal Data 
+</td><td>  Opt-in/Opt-out of Sale/ “Sharing” of Minors’ Personal Data 
+</td><ul>  <li>You may disable <a href="#_Targeted_Advertising" target="_blank"> Targeted Advertising </a> as described in the <a href="#_Cookies,_Similar_Technologies," target="_blank"> Cookies and Similar Technology Choices </a> section above.</li></ul><span>  to opt out of Targeted Advertising/“sharing”. Services supporting GPC (or similar standards) will treat the request as a request to opt-out of Targeted Advertising/“sharing” on the device where the GPC setting is active.</span></div> <ul><ul>  <li>To limit the use and disclosure of Precise Location</li><li>Data, update your preferences for location data using your device’s settings menu, or disable WiFi, Bluetooth, or other interfaces on your mobile device.
+</li></ul></ul> <div><td>  List of Direct Marketers
+</td><td>  Remove Minors’ User Content
+</td><ul>  <li>Contact us via email to our privacy team at <a href="mailto:privacy@axs.com" target="_blank"> privacy@axs.com </a>. 
+</li></ul></div> <div><h3>  Categories of Personal Data Disclosed for Business Purposes</h3><p>  For purposes of the CCPA, we have disclosed to Service Providers for “business purposes” in the preceding 12 months the following categories of Personal Data, to the following categories of recipients: </p><p>  Category of Personal Data</p><p>  Category of Recipients</p><td>  Audio/Visual Data
+</td><td>  Affiliates; Service Providers; Business Partners; Successors; Lawful Recipients; Data Aggregators; Public Disclosure
+</td></div> <div><td>  Transaction Data
+</td><td>  Contact Data
+</td><td>  Device/Network Data
+</td><td>  Identity Data
+</td><td>  Preference Data
+</td><td>  General Location Data
+</td><td>  Precise Location Data
+</td><td>  Sensitive Personal Data
+</td><td>  User Content
+</td></div> <div><h3>  Categories of Personal Data Sold</h3><span>  , Shared, or Disclosed for Commercial Purposes</span><p>  For purposes of the CCPA, we have “sold” or 
+“shared” in the preceding 12 months the following categories of Personal Data
+in the, to the following categories of recipients: </p><p>  Category of Personal Data</p><p>  Category of Recipients</p><td>  Transaction Data
+</td><td>  Sponsors, Advertisers, and Social Media Platforms; Data Aggregators
+</td><td>  Contact Data
+</td><td>  Device/Network Data
+</td></div> <div><td>  Identity Data
+</td><td>  Preference Data
+</td><td>  General Location Data
+</td><td>  User Content
+</td></div> <div><h3>  Categories of Sensitive Personal Data Used or Disclosed</h3><p>  For purposes of CCPA, we may use or disclose the following categories of Sensitive Personal Data Government ID Data; Payment Data; Precise Location Data; Race or Ethnic Origin. However, we do not sell or “share” Sensitive Personal Data, or use it for purposes other than those listed in CCPA section 7027(m). </p></div> <div><h2>  Australia/New Zealand</h2></div> <div><h3>  Rights and Choices</h3><p>  Residents of Australia and New Zealand have the following right in their Personal Data under their respective Privacy Acts.</p><p>  Access</p><span>   - You may request a copy of your Personal Data that we hold about you.</span><p>  Correction</p><span>   - You may seek to correct any Personal Data that we hold about you. For Registration Data, you may be able to make changes via your account settings menu.</span><p>  Withdraw Consent </p><span>  - If you have provided your consent to Process Personal Data, you may withdraw it at anytime.</span></div> <div><p>  Erasure</p><span>   - You may request that we delete your Personal Data.</span><p>  If you wish to exercise your right, you may visit the <a href="https://www.axs.com/latest-opt-out" target="_blank"> AXS Privacy Request Portal </a></p><p>   or email us at <a href="mailto:dpo@axs.com" target="_blank"> dpo@axs.com </a>. If you make a request, we will require you to verify your identity before we provide you with any access.</p></div> <div><h3>  Purposes of Processing </h3><p>  In certain cases, we may not automatically process your Personal Data for certain purposes. We rely on your consent to process Personal Data as follows: </p><p>  Sources of Personal Data </p><ul>  <li>Aggregators and Advertisers</li></ul><p>  Contexts </p><ul>  <li>Cookies and other tracking technologies for Targeted Advertising</li><li>Any context where we process Sensitive Personal Data</li><li>Marketing communications </li></ul><p>  Purposes</p><ul>  <li>Targeted Advertising</li><li>Data Sales</li></ul></div> <div><p>  Disclosures</p><ul>  <li>Sponsors, Advertisers, and Social Media Platforms</li></ul></div> <div><h3>  Consequences of not providing information</h3><p>  If you do not provide information that we need in order to provide our Services, we will not be able to perform certain Services for you, such as location-based Services, personalizing or making relevant certain types of advertising, or other Services conditioned on your consent.</p></div> <div><h3>  Information about Third Parties </h3><p>  We receive any Personal Data that you provide to us about third parties on the understanding that you have the relevant individual's consent for us to collect and handle their personal information in accordance with this Privacy Policy.</p></div> <div><h3>  Complaints</h3><p>  If you have a complaint about the way in which AXS handles your personal information under Australian privacy laws, or you believe that a breach of your privacy has occurred, please contact AXS using the details in the section How to Contact Us.</p><p>  Your complaint will be considered and dealt with by an AXS nominated representative, who may escalate the complaint internally within the organization if the matter is serious or if necessary to resolve it.</p><p>  Please allow AXS a reasonable time to respond to your complaint.  If you are not satisfied with AXS' resolution, you may make a complaint to the Office of the Australian Information Commissioner, whose contact details can be found at: https://www.oaic.gov.au (if you reside in Australia), or to the Office of the Privacy Commissioner, whose contact details can be found at <a href="https://www.privacy.org.nz" target="_blank"> https://www.privacy.org.nz </a> (if you reside in New Zealand).</p></div> <div><h3>  Submission of Requests</h3><td>  <b> General Inquiries: </b></td><td>  <b> Data Rights Requests: </b></td><td>  visit the AXS <a href="https://privacyportal-cdn.onetrust.com/dsarwebform/c7968fb5-dd42-4c76-8f79-3e5198bd1303/e43abdb5-c154-4d93-be9d-ed1384b3c67c.html" target="_blank"> Privacy Request Portal </a> or 
+      email us at <a href="mailto:dpo@axs.com" target="_blank"> dpo@axs.com </a>.
+</td><td>  <b> Marketing Choices: </b> </td><td>  visit the preference center at <a href="https://fanaccount.axs.com/" target="_blank"> https://fanaccount.axs.com/ </a> or 
+      visit the <a href="https://privacyportal-cdn.onetrust.com/dsarwebform/c7968fb5-dd42-4c76-8f79-3e5198bd1303/e43abdb5-c154-4d93-be9d-ed1384b3c67c.html" target="_blank"> AXS Privacy Request Portal </a>
+
+</td></div> <div><td>  <b> Data Protection Officer: </b></td><td>  Federico Zanetti, 
+<a href="mailto:dpo@axs.com" target="_blank"> dpo@axs.com </a>
+
+</td><td>  <b> Physical Address: </b></td><td>  AXS Australia Group Pty Ltd
+      232 Dorcas Street
+      South Melbourne
+      VIC 3205
+</td><span>  
+            Follow us on        </span><ul>  <li>Browse by</li><li>
+                        AXS                    </li><li>
+                       AXS.com Info                    </li><li>
+                        Language                    </li><li>Kia ora!<a href="" target="_blank">  (New Zealand)
+                             </a>
+</li><li>Arts & Family<a href="" target="_blank"> 
+                    Categories                  </a>
+</li><li> More 
+</li></ul></div> <p><p>  © 2011-2023 AXS. All rights reserved.
+</p></p> <div><span>  
+            Follow us on        </span></div> <div><h3>   Sign up for our weekly event guide email.</h3><p>  Be the first to know. Get personalized event announcements, updates, and reviews every week with the AXS.com event guide email.</p><p>   Thanks for signing up for the event guide!</p></div> <div><h3>  
+
+                            Welcome, please create an account.        </h3></div> <div><h3>  Create an AXS.com account</h3><p>  By clicking <strong> Next </strong>, you agree to the AXS.com <a href="https://www.axs.com/about-terms-of-use.html" target="_blank"> Terms and Conditions </a>.</p><span>  Close</span></div> <div><h1>  
+                    Search            </h1></div> <div><h2>  Search Results</h2><span>  Close</span></div> <div><h1>  
+                    Change Location            </h1></div> <div><h2>  Search Results</h2><span>   Change your location</span><span>   Change your location by entering a City, Zip or Postal Code</span><span>  Close</span></div> <div><h1>  
+                            Music            </h1><span>  Close</span></div> <div><h1>  
+                            Sports            </h1><span>  Close</span></div> <div><h1>  
+                            Arts & Family            </h1><span>  Close</span></div> <div><h1>  
+                        Headlines            </h1></div> <div><h1>  Sign In</h1><span>  Sign In</span><label>  Email</label><label>  Password</label></div> <div><h3>  Welcome, please create an account.</h3></div> <div><h3>  Create an AXS.com account</h3><p>  By clicking</p><span>   <strong> Next </strong></span><p>  By clicking Create Account, you agree to AXS.com </p></div> <div><h3>  Welcome, please create an account.</h3></div> <div><h3>  Create an AXS.com account</h3><span>  Chat with Us</span></div> <div><h3>  Privacy Preference Center</h3></div> <div><h3>   Manage Consent Preferences</h3></div> <div><h4>  Strictly Necessary Cookies</h4><label>  Strictly Necessary Cookies</label><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div> <div><h4>  Targeting Cookies</h4><label>  Targeting Cookies</label><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div> <div><h4>  Performance Cookies</h4><label>  Performance Cookies</label><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div> <div><h4>  Functional Cookies</h4><label>  Functional Cookies</label><p>  These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.</p><p>  Back</p></div> <div><h3>  Performance Cookies</h3><label>  Vendor Search</label><p>  Clear Filters</p><label>  Information storage and access</label><span>  Consent</span><span>  Leg.Interest</span><p>  All Consent Allowed</p><label>  Select All Vendors</label><label>  Select All Vendors</label><label>  All Consent Allowed</label><p>  By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. </p></div>

@@ -1,0 +1,111 @@
+<div><ul>  <li>▼
+</li><li>
+
+</li></ul><span>  ▼
+</span><span>  ▼
+</span></div> <div><h1>  Popular Videos Trending Now</h1><p>  
+            Added by 
+</p></div> <div><h1>  Share Video</h1><label>  Suggested friends to send video to</label><label>  Link</label><label>  Embed</label><span>  Love Telly?</span></div> <div><h1>  Sign in to Telly</h1></div> <div><h1>  Create a Collection</h1><p>  <strong> Collect & Share videos you love. </strong></p><p>  A collection is a set of videos built around a common theme. Here are some good examples of collection titles: The Awesome Channel, Best of Family Guy, Funny Impressions, or 's Top Vids.</p><label>  Collection Title</label><label>  Who can post?</label><label>  
+ Just me
+                </label><label>  
+ Me + Editors
+                </label><label>  
+ Anyone
+                </label></div> <div><h1>  Create a Telly Account</h1><p>  You need to create an account to use many of the features on this site.</p><label>  Name</label><label>  Telly Username</label><small>   - http://telly.com/<b> YOUR_USERNAME </b></small><label>  Email</label><label>  Password</label></div> <div><h1>  Help</h1><p>  Simply <strong> drag and drop </strong> user icons or collection icons throught the site to your favorites bar. </p><p>  You can also sort the order of your favorites by dragging them up and down within the list. To remove a favorite, 
+          click the X to the right of the user.
+      </p><p>  Recently, we've started to migrate existing Twitvid users to Telly. Your Twitvid profile and all your videos will now be accessible on the Telly.com domain.
+        </p><p>  No action is needed on your part for this migration - You will still able to do everything on Telly that you could do on Twitvid: Easily upload videos to Twitter or Facebook from the mobile apps or the website, watch videos from your favorite Twitter users, or embed your videos on other sites . 
+        </p></div> <p><p>  In addition, we've added a whole set of new features for you to enjoy:
+        </p></p> <ul><ul>  <li>Organize and share your favorite web videos: Setup the browser extension or our Chrome Bookmarklet to share cool videos you find on the internet
+          </li><li>Build a following for your videos: Upload your own videos, or share existing videos you find online to your own Telly profile. 
+          </li><li>Discover awesome videos: Follow others and discover what videos they like or watch
+        </li></ul></ul> <p><p>  We hope you enjoy these features and many more! Help us make the product better by sending us your feedback at <a href="mailto:hi@telly.com" target="_blank"> hi@telly.com </a></p></p> <div><h1>  Edit your Profile</h1><label>  Name</label><label>   Bio </label><label>  Email</label><label>  URL</label><span>  http://telly.com//</span><label>  Website</label><p>   Profile Pic </p><span>   Upload new pic :</span><label>  Who can post?</label><label>  
+ 
+                            Just me
+                        </label><label>  
+ 
+                            Me + Editors
+                        </label><label>  
+ 
+                            Anyone
+                        </label><label>  
+
+
+                        Enable Moderation
+                      </label></div> <div><label>  Remove this collection</label><p>  Email me when</p><label>  
+
+
+                            I am sent a reply or @ mention
+                            </label><label>  
+
+
+                            My Videos are Commented on
+                            </label><label>  
+
+
+                            Someone Follows me or one of my collections
+                            </label><label>  
+
+
+                            My Videos are Liked
+                            </label><label>  
+
+
+                            My Videos are Reposted
+                            </label></div> <div><label>  
+
+
+                            People watch my videos
+                            </label><label>  
+
+
+                                There are New Features and Tips on Telly
+                                </label><label>  
+
+
+                                A new weekly digest of videos is available
+                                </label><label>  
+
+
+                                A new hot video is released (daily)
+                                </label><p>  Language Preference</p><label>  
+ 
+                        English
+                      </label></div> <div><label>  
+
+                          العربية  
+                      </label><label>  
+ 
+                        Español
+                      </label><label>  
+
+                        Русский 
+                      </label><label>  
+
+                          한국어  
+                      </label><p>  Change your Telly Password</p><p>  You can also add a password to your account if you don't have one (signed in with Facebook or Twitter)</p><label>   New Password </label><p>  "My Telly" is a personalized stream of recommended videos based on what your friends are watching, commenting on, liking, and sharing. For increased privacy, you can turn off your own "watch" action, so your friends only see what you've shared, liked or commented on—and not watched.</p></div> <div><label>  
+
+
+                            Publish Watch Actions
+                        </label><p>  If you no longer wish to have a Telly account, you may delete all of your posted videos, comments, likes, etc by permanently deleting your user below. Warning: account deletions are irreversible. All of your data will be erased.</p></div> <div><h1>  Add a Video to your Telly Profile</h1></div> <div><h1>  Uploading your file...</h1><p>  Your video has uploaded. Make sure you have filled up the extra info and continue!</p><p>  Ooops. It seems something went wrong. Try again :(</p><p>  Your video is uploading. Please be patient, it shouldn’t be very long.</p><label>  
+            Share on Facebook
+
+
+
+
+<a href="#none" target="_blank"> No </a></label><label>  
+            Share on Twitter
+
+            
+
+
+<a href="#none" target="_blank"> No </a></label></div> <div><h1>  Edit Call to Action</h1><label>  CTA Type: </label><label>  Supported Devices</label><label>  
+
+                            Web
+                        </label><label>  
+
+                            iPhone & iPad
+                        </label><label>  
+
+                            Android
+                        </label><label>  URL</label><label>  URL for iPhone & iPad</label><label>  URL for Android Devices</label><span>  Follow on Telly: </span></div>

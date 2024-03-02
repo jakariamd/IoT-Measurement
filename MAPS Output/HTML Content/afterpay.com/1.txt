@@ -1,0 +1,368 @@
+<div><h2>  Privacy</h2></div> <div><h2>  Terms</h2></div> <div><h2>  Installment Agreement</h2></div> <div><h2>  Installment Payment Authorization</h2></div> <div><h2>  Responsible spending</h2></div> <div><h2>  Careers</h2></div> <div><h2>  Mind Body Wallet</h2></div> <div><h2>  Mobile app</h2></div> <div><h2>  Contact</h2></div> <div><h2>  Afterpay API</h2></div> <div><h2>  Security</h2></div> <div><h2>  Licenses</h2><p>  Afterpay US Services, LLC, NMLS ID 1870854 NMLS Consumer Access.</p><p>  Late fees may apply. Eligibility Criteria apply.  Loans to California residents made or arranged pursuant to California Finance Lenders Law license #60DBO-99995.</p><span>  <strong> Afterpay Privacy Policy </strong></span></div> <div><h3>  <strong> ﻿We appreciate that you trust us with your personal information. Here we provide an overview of what personal information we collect from you and why, how we handle it, and your rights and choices. </strong></h3><span>  This Privacy Policy describes how your Afterpay entity as indicated below and affiliates (“Afterpay,” “we,” “us”, and "our") collects, uses, discloses, transfers, stores, retains and otherwise processes your personal information ("you", “your”, and "customer") when you visit our website, download our app, apply for and use your Afterpay account, or otherwise interact and engage with us in relation to our customer products, features, and services, including as outlined in our Terms of Service ("agreement") (collectively, "Services"). The Afterpay entity you are interacting with will be based on your country of residence. A list of Afterpay entities can be found in <u> 11. How to Contact Us </u> below. </span></div> <span><span>  Partners, retailers, online marketplaces, and suppliers that Afterpay interacts with are independent of Afterpay and responsible for their own privacy policies and practices. This includes, content on their websites or app, and products or services provided. Please refer to their privacy policy or reach out directly to these third parties for further information.</span></span> <div><h3>  <strong> 1. PERSONAL INFORMATION WE COLLECT ABOUT YOU AND WHY </strong></h3><span>  Personal information reasonably identifies you and is about you, directly or indirectly, as described in applicable privacy laws in countries we operate in. </span><span>  We collect and process personal information about you in three ways: </span><span>  (i) when you provide it to us directly; </span><p>  (ii) when we gather personal information while you are using our Services, including through cookies and similar technologies (see <u> 4. How We Use Cookies and Similar Technologies </u> below); and </p></div> <p><p>  (iii) when we collect personal information from other third party sources. </p></p> <span><span>  We explain in the table below what types of personal information we collect and process, how and why we do so, and the lawful bases that apply in particular as prescribed under the General Data Protection Regulation and UK General Data Protection Regulation. We will collect and process your personal information with your knowledge and consent, including as set out in this Policy, except where otherwise required or permitted by law. We may collect or process personal information in other ways than as described below. We will let you know at that time, unless otherwise inappropriate or unlawful to do so. </span></span> <span><span>  If you fail or refuse to provide us with personal information we request from you directly, or we do not obtain your consent where we rely upon it, including to gather personal information while you are using our Services or from third party sources, we may not be able to proceed with entering into or fulfilling some of our Services. Consequently, we will not be able to provide or continue to provide those Services to you. This includes, but without limitation, setting up your Afterpay account, or responding to a support request or complaint.</span></span> <td><td>   <b>  To create (and assess whether to create) an Afterpay account,  </b> including to carry out our identity and account verification process and to enable you to authenticate into your account once created. </td></td> <div><td>  
+        From you -
+        </td><ul>  <li> Contact information, such as your name, address (and location), phone number, and email</li><li> Financial information, such as a credit or debit card number to link to your account</li><li> Identity information, such as your date of birth, and your driver’s license, passport or other required identification information and documents 
+</li></ul><p>  
+        From other sources -
+        </p><ul>  <li> Confirmation of your identity through verification processes from identity verification and fraud prevention providers, and credit reference agencies, who may validate the information you provide us with other information from publicly or commercially available sources. Your personal information may also be screened against relevant sanctions watchlists. </li><li> Social security number (US only)
+</li><li> Legal obligation - to comply with applicable anti-money laundering and counter terrorism financing and sanctions laws</li></ul></div> <ul><ul>  <li> To take steps to enter into and for the performance of our agreement with you</li><li> For our legitimate interests to protect our business, and to confirm your identity, to detect, prevent and investigate suspected or actual money laundering, fraud, or other crimes or illegal activities
+</li></ul></ul> <td><td>  
+<b>  To provide (and assess whether to provide) our Afterpay account Services, </b> including to develop our credit risk profile about you that determines your creditworthiness, to process transactions, and for the delivery of third party retailers’ goods or services.
+        
+
+</td></td> <p><p>  
+          We will also provide transaction support and communications as necessary about our Services, such as payment reminders, authentication requests, and Service updates.
+          
+</p></p> <div><td>  
+        From you -
+        </td><ul>  <li> Contact information, such as your phone number and email address</li><li> Financial information, such as a credit or debit card number to link to your account, and preferred payment method
+</li></ul><p>  
+        From your use of our Services -
+        </p><ul>  <li> Orders and payments attempted or made and history, including upcoming or overdue payments, and refunds</li><li> Promotions and discounts applied
+</li></ul><p>  
+        From other sources -
+        </p></div> <ul><ul>  <li> Transaction information, such as the retailer you attempted or made a transaction with using our Services, the items you have purchased, the amount owed or refunded, promotions or discounts applied, and shipping details. </li><li> Information about your financial standing, including your credit score (US only)
+</li><li> Legal obligation - to comply with applicable anti-money laundering and counter terrorism financing and sanctions laws</li><li> For the performance of our agreement with you</li></ul></ul> <ul><ul>  <li> For our legitimate interest to protect our business, detect, investigate and prevent suspected or actual money laundering, fraud, and other crimes or illegal activities, and to determine your credit risk profile	
+</li></ul></ul> <td><td>   <b>  To provide (and assess whether to provide) our Pulse Rewards program,  </b> including offering discounts and third party supplier gift cards according to your Pulse Reward tier.  </td></td> <div><td>  
+        From you -
+        </td><ul>  <li> Name, email address and phone number of a gift card recipient
+</li></ul><p>  
+        From your use of our Services-
+        </p><ul>  <li> Inferences about you, such as your age and inferred gender </li><li> Orders and payments attempted or made and history, including upcoming or overdue payments, and refunds</li><li> Pulse Rewards loyalty information, such as your status and available points and offers. For further information refer to our Pulse Rewards Program Terms and Conditions.
+</li><li> For the performance of our agreement with you</li><li> For our legitimate interests, to tailor our Pulse Rewards program to you
+</li></ul></div> <td><td>  <b> To find stores that accept Afterpay in your vicinity, and to send marketing in-app about stores nearby  </b> </td></td> <div><td>  
+        From your use of our Services -
+        </td><ul>  <li> Your geolocation, including precise geolocation
+</li><li> With your consent
+</li></ul><td>  <b>  To provide you support, resolve disputes, recover debt and fees owed to us, and troubleshoot problems </b> </td><td>  
+        From you -
+        </td><ul>  <li> Contact information, such as your name, address, phone number, and email</li><li> Identity verification information requested to discuss your account with you</li><li> Information about the subject of your support request or complaint</li><li> Call recording of a conversation with you
+</li></ul></div> <div><td>  
+        From your use of our Services -
+        </td><ul>  <li> Orders and payments attempted or made and history, including upcoming or overdue payments, and refunds
+</li></ul><p>  
+        From other sources -
+        </p><ul>  <li> Identity verification information requested from an agent you have authorized to discuss your account on your behalf</li><li> Information relevant to the subject of the support request or complaint from retailers or other relevant and appropriate sources
+</li><li> For the performance of our agreement with you</li><li> For our legitimate interests, such as to protect our business, investigate or respond to a support request or complaint, ensuring the accuracy and completeness of the information provided, to enforce and recover a debt owed to us, and for quality assurance and training purposes
+
+</li></ul></div> <td><td>  <b>  To detect, investigate and prevent suspected or actual money laundering, fraud, or other crimes or illegal activities on an ongoing basis,  </b> including in relation to credit card rules, and to protect Afterpay’s legal rights and claims.</td></td> <div><td>  
+        From your use of our Services -
+        </td><ul>  <li> Information about your use of our Services
+</li></ul><p>  
+        From other sources -
+        </p><ul>  <li> Information from third parties, including from our affiliates, about you, such as identity and transaction information, where permitted and consistent with applicable law
+</li><li> Legal obligation - to comply with applicable anti-money laundering and counter terrorism financing and sanctions laws</li><li> For our legitimate interests to protect our business by determining any risks in providing services to you and to detect, investigate and prevent suspected or actual money laundering, fraud, and other crimes or illegal activities
+</li></ul></div> <td><td>  
+<b> To learn more about your level of satisfaction, your expectations of us and our Partners, and how we can meet them. </b> For example, in relation to our Services, and the goods and services offered by retailers, and to customize, measure, and improve our Services, including the content, layout and operations. 
+        
+
+</td></td> <p><p>  
+          We may send you survey requests to do so.
+          
+
+</p></p> <p><p>  
+          We may use this information to produce statistics and reports about our Services and operations.
+          
+
+</p></p> <p><p>  
+          We may use this information to produce statistics and reports about our Services and operations. We will typically use this information to create aggregated or anonymised information and only use personal information where necessary.
+          
+</p></p> <div><td>  
+        From you -
+        </td><ul>  <li> Feedback you provide us about our Services and interactions with us and our partners
+</li></ul><p>  
+        From your use of our Services -
+        </p><ul>  <li> Information from you, your use of our Services, and other sources, as detailed in this section of our Privacy Policy. 
+</li><li> Our legitimate interests to understand our customers and other relationships so that we can provide a better experience for you and everyone, and to maintain and improve our Services 
+</li></ul></div> <td><td>  
+<b> To send you direct marketing or other promotional communications you might like from us and our retailers, partners or affiliates. </b> Refer also to <u> 6. Your Rights and Choices </u> below for more information. 
+        
+
+</td></td> <p><p>  
+          When you receive direct marketing, we may also process your personal information to determine, measure, and provide personalized marketing messages that may be of interest or relevance to you
+          
+</p></p> <div><td>  
+        From you -
+        </td><ul>  <li> Your contact details, such as your email address</li><li> Other information that may be requested from you to enter into a competition or promotion we operate (directly or through our marketing agents or partners)
+</li></ul><p>  
+        From your use of our Services -
+        </p><ul>  <li> Refer to “Marketing profiling” below
+</li><li> With your consent or where otherwise permitted by applicable law</li><li> Our legitimate interests, to provide targeted and more personalized direct marketing communications. 
+</li></ul></div> <td><td>  
+<b>  To make our site work as you’d expect it to, </b> such as to prevent and respond to suspected or actual malicious software or activity, for secure identity verification and login, fraud prevention, and remembering your cookies choices.  
+        
+
+</td></td> <p><p>  
+          This includes personal information collected and processed by the use of cookies and similar technologies. Refer to <u> 4. How We Use Cookies and Similar Technologies </u> below
+          
+</p></p> <div><td>  
+        From your use of our Services -
+        </td><ul>  <li> Technical information, such as date and time you visited a site or took an action, IP address, login details, your location, device or browser settings</li><li> Your cookies preferences
+</li><li> To enter into and for the performance of our agreement with you</li><li> Our legitimate interests, to provide a secure and functioning delivery of our Services 
+</li></ul><td>  <b> To provide by the use of cookies and similar technologies on our website better functionality, to assess our performance, for advertising by us and our partners, and to provide a personalized experience.  </b> Refer also to <u> 4.
+How We Use Cookies and Similar Technologies  </u> below</td></div> <div><td>  
+        From your use of our Services -
+        </td><ul>  <li> Technical information, such as date and time you visited a site or took an action, IP address, contact details such as your email address, your geolocation, device or browser settings
+</li><li> With your consent or where otherwise consistent with applicable law
+</li></ul><td>  <b> For other purposes you have specifically consented to  </b> </td><td>  
+        From you, from the use of our Services, or other sources -
+        </td></div> <ul><ul>  <li> Information you share with us through social media sites (e.g., Facebook or Twitter). By associating an account managed by a third party with your Afterpay account and authorizing Afterpay to have access to this information, you agree that Afterpay may collect, store and use this information in accordance with this Privacy Policy. Social media sites may also process personal information in accordance with their privacy policies.</li><li> We may collect and process personal information categorized as “sensitive” or “special” under applicable laws, such as your health information, to deliver our Services. We will only collect this information where it is reasonably necessary and we have your consent, or where required or permitted by applicable laws</li></ul></ul> <ul><ul>  <li> Other information from you, from the use of our Services, or other sources as explained to you at the time we seek your consent.
+</li><li> With your consent
+</li></ul></ul> <td><td>  <b> As required or permitted by applicable laws and regulations,  </b> including to satisfy our bookkeeping, taxation, auditing, and accounting requirements, and to carry out business, operational, and legal functions. </td></td> <td><td>  
+        Unspecified information from you, from the use of our Services, or other sources. 
+        
+</td></td> <ul><ul>  <li> As required or permitted by applicable laws and regulations</li><li> For our legitimate interests to uphold our right, protect our business, and carry out business, operational and legal functions
+</li></ul></ul> <div><h3>  <strong> 2. WHEN AND WITH WHOM WE SHARE YOUR PERSONAL INFORMATION </strong></h3><span>   We share personal information described in <u> 1. Personal Information We Collect and Why </u> above with the following categories of service providers and other third parties.</span><td>  
+<b> Affiliates within our group of companies </b>
+
+
+</td><p>  
+          Such as, Cash App, Square, or other subsidiaries of Block Inc.
+          
+</p><td>  
+        We may share your personal information for the following purposes for our legitimate interests or as otherwise required or consistent with applicable law.
+        
+
+</td></div> <ul><ul>  <li> To provide (or assess to provide), maintain or improve our Services</li><li> To understand how you engage with our Services to help make them better for you and for everyone</li><li> To help us manage our relationship with you across our group of companies and for customer support issues and to enforce our agreement with you, including in cases of debt recovery</li><li> For us and our affiliates to detect, investigate and prevent money laundering, fraud and other crimes or illegal activities</li></ul></ul> <div><ul>  <li> For marketing purposes where legally permitted</li><li> As instructed by you and choices available to you</li><li> As required or permitted by applicable law
+</li></ul><td>  <b> Service providers and subcontractors </b></td><td>  
+        We share your personal information with the following service providers for our legitimate interests to provide, maintain and improve our Services.
+      
+
+</td><ul>  <li> Technology and IT infrastructure providers to store information and to provide software or programs that help us provide our Services</li><li> Marketing or event providers that help us run our advertising campaigns, contests, special offers, or other events or activities</li><li> Identity verification and fraud prevention providers and credit reference agencies to help us confirm your identity and prevent fraud, to assist us in meeting our obligations under anti-money laundering / counter terrorism financing and sanctions laws, and other compliance requirements. These companies process your personal information in accordance with their own privacy policies
+</li></ul></div> <ul><ul>  <li> Credit reference agencies, as applicable, who provide credit reference services by sharing your credit score, which will contribute to your credit risk profile with us  </li><li> Collection agencies if you fail to make payment when due and in connection with recovery of monies due under your agreement with us, to help us manage our relationship with you
+</li><li> Financial partners, like financial institutions, payment networks, payment card associations, and credit bureaus that help us provide our joint Services</li></ul></ul> <ul><ul>  <li> Outbound phone and text messaging service providers. Our service providers may need to access and intercept messages between us and you from time to time or disclose your personal information to a government body or telecommunications network provider to comply with applicable telecommunications laws, or a court or tribunal order </li><li> Customer service agencies, to support manage our relationship with you</li><li> Analytics providers, to understand how you engage with our Services to help make them better for you and for everyone. For example, we partner with third-party analytics providers, like Google, to help us understand how you use our services. Refer to <u>  4. How We Use Cookies and Similar Technologies  </u> for more information
+
+</li></ul></ul> <div><td>  <b> Retailers and third party suppliers </b></td><td>  
+        We share your personal information for the following purposes to fulfill our agreement with you and for our legitimate interests.
+      
+
+</td><ul>  <li> To provide (or assess to provide) our Services</li><li> For retailers to provide their goods and services to you (or the recipient of the third party goods or services)</li><li> To manage an order, including dealing with any refunds, disputes or claims</li><li> To respond to an inquiry or complaint made by you</li><li> To help them improve the quality and standard of the services that they provide to you</li><li> Other permitted purposes outlined in our agreement with you
+</li></ul></div> <td><td>  <b> Financial institutions that we may partner with to jointly create and offer a product </b>, including banking partners as may be required by credit card association rules for inclusion on their list of terminated merchants</td></td> <td><td>  
+        We share your personal information for the following purposes with your consent, to fulfill our agreement with you, or for our legitimate interests.
+      
+
+</td></td> <ul><ul>  <li> To provide Afterpay and partner products and services</li><li> To maintain funding lines so that our business remains commercially viable and to provide (or assess to provide) our Services to you</li><li> If you elect to use the Plaid Technologies, Inc. (“Plaid”) feature in the US, Plaid may collect your information from financial institutions. By using the Plaid service, you acknowledge and agree that Plaid will collect and use your personal information in accordance with Plaid’s privacy policy, which is available at
+            <a href="https://plaid.com/legal" target="_blank"> https://plaid.com/legal </a>
+
+</li></ul></ul> <td><td>  <b> Online trackers, advertising partners, and external affiliate networks </b></td></td> <td><td>  
+        We share your personal information for the following purposes with your consent or for our legitimate interests.
+      
+
+</td></td> <ul><ul>  <li> Consistent with applicable law and choices that may be available to you, we share your personal information with advertising partners for interest-based advertising or “targeted” advertising campaigns, and with advertising partners that help analyze our site, run contests, special offers, or other events or activities, and track metrics on our behalf or in connection with our Services. Refer to <u>  4. How We Use Cookies and Similar Technologies  </u> for more information  </li><li> We share the information that you have clicked on a sponsored Retailer link from our website or app with our external affiliate network partner. We use a unique Afterpay URL or “hyperlink,” and will not share any personal identifiers or information in doing so. Our external affiliate network partner may track you through that Retailer’s website, including connecting our hyperlink with you in order to calculate a potential commission to Afterpay in line with their own privacy policies and practices
+</li></ul></ul> <div><td>  <b> Companies that we plan to merge with or be acquired by or who may invest in us </b></td><td>  
+        We share your personal information for the following purposes for our legitimate interests.
+      
+
+</td><ul>  <li> For business transfers and corporate changes to enable the assessment or completion of the relevant merger, restructuring, financing, acquisition, divestiture, dissolution or other corporate change. If we do or try to do a corporate merger, consolidation, or restructuring (including during due diligence and negotiation of these); the sale of substantially all of our stock and/or assets; the financing, acquisition, divestiture, or dissolution of all or a portion of our business; or other corporate change
+</li></ul></div> <ul><ul>  <li> To ensure that we or our business remains commercially viable</li><li> To a subsequent owner, co-owner, or operator of one or more of the Services to enable them to continue to run the Services after the change of owner or operator
+</li></ul></ul> <td><td>  <b> Law enforcement agencies, government agencies, officials, or other authorities or third parties pursuant to a subpoena, court order, or other legal process, requirement, or legitimate interest </b> </td></td> <td><td>  
+        We share personal information for the following purposes for our legitimate interests, to protect our business and enforce our agreement with you, or where required or authorized by law.
+      
+
+</td></td> <ul><ul>  <li> To detect, investigate and prevent suspected or actual fraud, money laundering, or other crimes or illegal activities, including credit card rules</li><li> To comply with any applicable law, regulation, legal process or governmental request (e.g., from creditors, tax authorities, law enforcement agencies, in response to a garnishment, levy, or lien notice, etc.)
+</li><li> To establish, exercise or defend our legal rights, including to enforce our agreement with you
+</li><li> To protect ours or our customers' rights or property, including from harm, fraud, or potentially prohibited or illegal activities, and for the security or integrity of our Services
+
+</li></ul></ul> <div><td>  <b> With your consent </b></td><ul>  <li> Other third parties with your consent or direction to do so, such as to provide (or assess to provide) our Services, or to discuss your account with an authorized agent
+</li></ul><td>  <b> Other third parties where required by law, or our legitimate interests as permitted by law </b></td><ul>  <li> To comply with any applicable law, regulation, legal process or governmental request (e.g., from creditors, tax authorities, law enforcement agencies, in response to a garnishment, levy, or lien notice, etc.)</li><li> Other purposes as permitted by applicable laws
+</li></ul></div> <div><h3>  <strong> 3. HOW WE SECURE YOUR PERSONAL INFORMATION </strong></h3><span>  We take appropriate measures, including administrative, technical, and physical safeguards, to protect your personal information from loss, theft, and misuse, and unauthorized access, disclosure, alteration, and destruction. The internet is not a 100% secure environment, so we cannot guarantee absolute security of the transmission or storage of your information.  We are an ISO 27001 compliant company, and require our third parties to meet appropriate privacy and security standards when handling data on our behalf. Your personal information will be accessible by our employees, contractors and service providers who require access for the purposes described in this Privacy Policy.</span></div> <span><span>  For more information about our security practices, please visit<a href="https://www.afterpay.com/en-AU/security" target="_blank">  https://www.afterpay.com/en-AU/security </a> or refer to <u> 11. How to Contact Us </u> below.</span></span> <div><h3>  <strong> 4. HOW WE USE COOKIES AND SIMILAR TECHNOLOGIES </strong></h3><span>  Cookies are small data files stored on your browser or device. They may be sent by the operator of the site or app you are visiting, in this case Afterpay (“first-party cookies”), or by third parties, such as our service providers and digital partners (“third-party cookies”). Other similar technologies may be used, such as tracking pixels or browser local storage (together “cookies”). For example, we partner with third-party analytics providers, like Google, to help us understand how you use our services so that we can improve your experience with us. The analytics providers that administer these services use cookies to help us analyze how you use our online services. We may disclose your site-use information (including IP address) to these analytics providers, and other service providers who use the information to help us figure out how you and others use our online services. To learn more about Google Analytics and how to opt out, please visit <a href="https://marketingplatform.google.com/about/" target="_blank"> https://marketingplatform.google.com/about/ </a> or <a href="https://support.google.com/analytics/answer/181881?hl=e" target="_blank"> https://support.google.com/analytics/answer/181881?hl=e </a>.</span></div> <span><span>  When you visit our website or app, we use cookies as necessary to make our Services work, to improve our performance and functionality, or to personalize your online experience.</span></span> <span><span>  You may see certain “interest-based advertising” or “targeted advertising” on other websites or online services based on information relating to your access to and use of our Services and other websites. This is because we may work with interest-based advertisers to promote our Services to the extent permitted by applicable law. We may provide third party services with personal information to deliver Afterpay advertisements on third party websites that may be tailored to your individual interests. These interest-based advertisers may also use personal information about you that they have independently collected and in accordance with their privacy policy and practices, including through the use of cookies. </span></span> <span><span>  Your browser or device may offer settings to control cookies. Selecting “Limit Ad Tracking” (for iOS devices), or “Opt out of Interest-Based Ads” (for Android devices), will allow you to limit our use of information collected from or about your mobile device (such as precise location data) for the purposes of serving interest-based advertising to you. You may also opt-out of receiving ads from us or our partners by using our partners’ settings or by heading to <a href="http://www.youronlinechoices.com/" target="_blank"> Your Online Choices </a> (EU/UK) or <a href="https://optout.aboutads.info/" target="_blank"> Your Ad Choices </a> (other countries) for more information. As a heads up, blocking or opting-out of some types of cookies may impact your experience and the Services we are able to offer.</span></span> <span><span>  Certain web browsers allow you to instruct your browser to respond to Do Not Track ("DNT") signals to websites you visit, informing those sites that you do not want your online activities to be tracked. At this time, our websites are not designed to respond to DNT signals or similar mechanisms from browsers.</span></span> <span><span>  If you are based in the EU or UK, head to "Cookies" on our website for further information and to manage cookies on our website or app.</span></span> <div><h3>  <strong> 5. HOW LONG WE KEEP YOUR PERSONAL INFORMATION </strong></h3><span>  The retention periods for personal information we collect and process about you are determined on a case-by-case basis that depends on the following factors below.</span><span>  ● <strong> The nature of the personal information, and why it is collected and processed </strong>, <strong> as described in this Privacy Policy </strong>. This includes to provide our Services, to comply with legal obligations, to enforce and prevent violations of our agreement with you, and to protect us against fraudulent activity.</span></div> <p><p>  ● <strong> To manage and enforce our agreement with you </strong>. Your use of our Services is subject to the agreement between us. So if, for example, you close your Afterpay account, we retain personal information about you for a period of time so as to collect any debt or fees owed, resolve disputes, troubleshoot problems, assist with any investigations or complaints, and to prevent fraud or risk.</p></p> <p><p>  ● <strong> To establish, exercise, or defend our legal claims or rights </strong>. For example, we preserve your personal information related to a legal claim or complaint, such as where we are subject to a regulatory investigation, or we need to defend ourselves in legal proceedings involving your personal information, or respond to a government authority or body in relation to a legal or regulatory complaint made by you or someone else.</p></p> <p><p>  ● <strong> As required or otherwise permitted by applicable law. </strong> For example, retention periods may be imposed under law or regulation for a prescribed period of time  (for example, up to 10 years under applicable anti-money laundering laws), and for instance, to protect our or other’s legitimate interests, such as to prevent fraud.</p></p> <span><span>  Once the retention periods applicable to your personal information expires, we will otherwise take steps to delete or anonymize personal data where we no longer have a lawful basis to retain your personal information. </span></span> <div><h3>  <strong> 6. YOUR RIGHTS AND CHOICES </strong></h3><span>  You can see or change personal information you gave us, ask us to close your account, control your device location tracking settings, or tell us to stop direct marketing to you at any time. Head to our Help Centre at any time by clicking "Help" on our website or app for detailed instructions. We also respect other privacy rights and choices you make consistent with applicable law. These rights and choices available to you are based on your country of residence and which Afterpay entity you are dealing with, and are subject to limitations as required or permitted by applicable law. </span></div> <span><span>  We may ask you to verify your identity in accordance with our standard procedures, including any authorized agent who would like to act on your behalf, or clarify your request, before taking further action on your privacy right or choice request. We endeavor to respond and address all privacy rights and choices requests within the applicable statutory time frame. We will let you know if we need more time, and why. We may not always be able to fulfill your request if we have a legitimate basis to refuse it. We will tell you why. For example, if you seek to erase your personal data in a way that would mean we are not able to comply with our obligations under law. </span></span> <span><span>  We will not discriminate against you, deny, charge different prices or rates for, or provide a different level or quality of goods or services if you choose to request these rights and choices.</span></span> <span><span>  If you would like to make a privacy right or choice request, please refer to <u> 11. How To Contact Us </u> below.</span></span> <div><span>  <u> See or change personal information you gave us  </u></span><p>  You can see your profile and payment details any time by logging into your Afterpay account on our website or app. You can change your address, delivery address, email address, phone number, and payment method at any time. You can see other relevant information about you in your Afterpay account, including orders made and upcoming payments. </p><span>  <u> Ask us to close your account </u></span><p>  You can ask us to close your account at any time by clicking "Close my account" under the "Profile details" tab on the app. </p></div> <div><span>  <u> Control your device location tracking settings </u></span><p>  In order to provide certain Services, we may request or require access to your location information, including precise geolocation information collected from your device. You can stop our collection of geolocation information at any time by changing the preferences on your mobile device. If you do, some of our Services may no longer function. You also may stop our collection of geolocation information via our app by following the standard uninstall process to remove the Afterpay app from your device. For more information, refer to 4. How We Use Cookies and Similar Technologies above. </p></div> <div><span>  <u> Tell us to stop direct marketing to you </u></span><p>  You can control your direct marketing preferences through the "Communication Settings" tab on our website or app. If you receive direct marketing emails from us, you can also opt out any time by clicking the unsubscribe link at the bottom of the message. If you decide to opt out of direct marketing, we'll still send you non-marketing communications such as notifications about your account, orders, and important updates to our Services. </p></div> <span><span>  For detailed instructions on direct marketing and the choices you can make, head to our Help Centre at any time by clicking "Help" on our website or app and search for "Marketing - Your Choices". </span></span> <div><span>  <u> Marketing profiling </u></span><p>  We create a profile about you and make predictions and inferences on what direct marketing communications we think you’d like to see from us when you are opted-in to receive such communications.</p><span>  The personal information we use in such circumstances include:</span><p>  ● your demographics, such as, your age, inferred gender, and location (and geolocation), and aggregated performance criteria;</p><p>  ● purchase and spending habits, such as, your preferred Retailers and products, and the recency and frequency of engagement with us;</p></div> <p><p>  ● how you interact with us, such as by clicking one of our marketing messages and then purchasing something from a retailer;</p></p> <p><p>  ● and your classification, such as being a Pulse Rewards loyalty member. For further information about our Pulse Rewards program, refer to its Terms and Conditions.</p></p> <span><span>  We use this personal information to send you personalized news, promotions, and offers from us and our retailers. If you would prefer not to receive personalized marketing, you have the right to object and opt out at any time.</span></span> <span><span>  <u> Other rights and choices that may be available to you, based on your country of residence </u></span></span> <div><td>  Withdraw your consent</td><td>  
+        You have the right to withdraw your consent where we have relied on it to process your personal information. If you withdraw your consent, we may not be able to provide you with certain Services. It will not affect our lawful basis for processing based on consent before your withdrawal.
+    </td><td>  Access</td><td>  
+        You have the right to request a copy of your personal information held by us.  
+      
+</td><td>  Further information</td><td>  
+       You have the right to enquire further about the personal information we hold about you and our privacy practices, including how we transfer personal information internationally and onward disclosures of personal information
+      
+    </td></div> <div><td>  Correction</td><td>  
+        You have the right to ask us to correct your personal information held by us, including where you believe it is not accurate, complete, up to date, or relevant. 
+      
+</td><td>  Erasure </td><td>  
+You have the right to ask us to erase your personal information, and where personal information is made public, to inform other controllers of your personal information to erase your personal information where you have a lawful erasure right.       </td><td>  Restrict Processing </td></div> <td><td>  
+        You have the right to ask us to restrict processing of your personal information. 
+       </td></td> <div><td>  Object to processing</td><td>  
+        You have the right to object to us processing your personal information where we process it based on our legitimate interests, including for direct marketing purposes and other profiling activities. You can also opt out of direct marketing at any time as described above.  
+       </td><td>  Data Portability</td><td>  
+        You have the right to ask us to access or transfer on your behalf personal information we hold about you to a third party in a structured, commonly used and machine-readable format.
+       </td></div> <div><td>  Make an enquiry or complaint</td><td>  
+       You have the right to make an enquiry or complaint, including to lodge a complaint with your local privacy authority.
+       </td><td>  Object to automated decision making </td><td>  
+        You have the right to object to solely automated decisions that we may have made about you that produce a legal or similarly significant effect, and ask for more information about the decision and have a person review it, unless we are prohibited or exempt from doing so under law.    
+      
+
+</td></div> <div><p>   <u>  More information  </u>
+
+
+</p><p>   We use systems to make decisions about you through automated means, including behavioral profiling, without our staff being involved. We complete the following decision making by automated means, with legal or similarly significant effects on you, to enter into and perform our Services you request from us, or to comply with laws that apply to us:
+          
+
+</p><ul>  <li> Verify your identity to assess your application to provide you our Services. This decision helps us make sure we’re lending responsibly, protecting you and your money from financial crime, and ensures our decisions are fair and consistent. It also helps us prevent fraud, money laundering, terrorism financing, and allows us to check against sanction lists in relevant cases. </li><li> Approve or decline orders when providing you our Services. Our fraud risk and money laundering assessments are necessary to make sure we’re lending responsibly, protecting you and your money from financial crime, and ensuring our decisions are fair and consistent. It also helps us prevent fraud, money laundering, and terrorism financing.</li></ul></div> <ul><ul>  <li> Determine your available account spending limit when providing you our Services. Our internal credit risk assessments are based on a customer’s interactions and experiences with us. This decision is necessary to ensure our decisions are fair and consistent and reward positive customer behaviors. It also reduces the risk of customers failing to meet payments by offering customers limits that they can afford to repay.
+</li></ul></ul> <p><p>  
+          These decisions rely on personal information we collect or hold about you from your applications and your interactions and experiences with us, such as transactions you have attempted to make or made with us. We may also use information about you we collect from third party credit reference and fraud prevention agencies for bullet points 1 and 2 above.  
+          
+
+</p></p> <p><p>  
+            Automated decisions can affect the products, services or features we may offer you. As a result of the above decisions, you may be declined access or have limited access to our Services. We perform regular checks of our automated decision models to ensure they are operating correctly.  
+            
+</p></p> <div><h3>  <strong> 7. RIGHTS OF CALIFORNIA RESIDENTS </strong></h3><span>  If you live in California, the following additional rights apply to you.</span><td>  Know</td><td>  
+        You may have the right to request, up to twice in a 12-month period, to see the following information about the personal information we have collected about you:   
+      
+
+</td><ul>  <li> The categories and specific pieces of personal information we have collected about you;
+ </li><li> The categories of sources from which we collected the personal information;</li><li> The business or commercial purpose for which we collected the personal information;</li><li> The categories of third parties with whom we shared the personal information; and</li><li> The categories of personal information about you that we disclosed for a business purpose, and the categories of third parties to whom we disclosed that information for a business purpose.
+</li></ul></div> <p><p>  
+          California law also gives you the right to ask if we share your personal information to third parties for their direct marketing purposes (we do not disclose your personal information for unaffiliated third parties’ direct marketing purposes). 
+          
+</p></p> <div><td>  Erasure</td><td>  
+        You have the right to ask us to delete the personal information we have collected from you (subject to exceptions the law provides). Please note that you may no longer be able to use our Services if you delete your personal information.  
+      
+</td><td>  Correction</td><td>  
+       You have the right to correct the personal information we have collected about you (subject to exceptions the law provides).
+      
+    </td><td>  Non-Discrimination</td><td>  
+        You have the right to not be discriminated against if you exercise these privacy rights. We will not discriminate against you, deny, charge different prices for, or provide a different quality of goods or services if you choose to exercise these rights. 
+      
+</td></div> <div><td>  Opt-Out </td><td>  
+You have the right to opt-out of the sharing of your personal information for purposes of certain targeted advertising known as cross-context behavioral advertising. If we share your personal information to third parties for such purposes, we will provide you the right to opt out of such sharing (subject to exceptions the law provides).  
+Although some of the information we collect and process about you may be considered sensitive personal information, we only process such information for purposes authorized by law, such as to provide services you request from us or to verify your information. 
+      
+ 
+      Although we disclose your personal information to third parties as described above, we do not sell your personal information.  </td></div> <span><span>  <u> How to Exercise Your Rights </u><a href="https://help.afterpay.com/hc/en-us/requests/new" target="_blank"> here </a><a href="mailto:privacy@afterpay.com" target="_blank"> privacy@afterpay.com </a><u> Exceptions to These Rights </u></span></span> <div><h3>  <strong> 8. INTERNATIONAL DATA TRANSFERS </strong></h3><span>  Personal information we collect and handle about you may be transferred to or stored in a jurisdiction outside your country of residence and where the Afterpay entity you are dealing with operates. We may do so, for example without limitation, when sharing personal information with our affiliates and service providers to help us provide (or assess to provide) our Services or other third parties that we partner with. Your personal information may be transferred to or stored in Australia, New Zealand, the United States, Canada, United Kingdom, the European Union, China, and Singapore. We may transfer your personal information to other countries, but we will always take steps to ensure your personal information is afforded equivalent levels of protection and rights as are required under your country of residence and where the Afterpay entity you are dealing with operates. For more information please reach out using the details in <u> 11. How to Contact Us </u> below. </span></div> <span><span>  Where we transfer your personal information outside the United Kingdom or European Union to countries that are not covered by an adequacy decision of the UK government or the European Commission (as applicable), we use appropriate safeguards that include Standard Contractual Clauses approved by the UK's Information Commissioner's Office or European Commission as appropriate, or other applicable measures, including transfers to a third party that has implemented Binding Corporate Rules, or specific situations outlined under Article 49 of the UK GDPR / GDPR. You can access a copy of the Standard Contractual Clauses approved by the UK Information Commissioner's Office<a href="https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-data-transfer-agreement-and-guidance/" target="_blank">  here </a>, and the Standard Contractual Clauses approved by the European Commission<a href="https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en" target="_blank">  here </a>. Afterpay entities are bound by an Intercompany Personal Data Transfer Agreement that contains Standard Contractual Clauses.</span></span> <span><span>  For further information about our policies and practices with respect to international data transfers, please refer to <u> 11. How To Contact Us </u> below. </span></span> <div><h3>  <strong> 9. CHILDREN'S PERSONAL INFORMATION </strong></h3><span>  Our Services are not directed at children under the age of 18. We do not knowingly collect, sell or share for cross-context behavioral advertising any information from children under the age of 18. If we learn that any personal information we collect has been provided by a child under the age of 18, we will promptly close the relevant account and delete that personal information as consistent with applicable law.</span></div> <div><h3>  <strong> 10. CHANGES TO THIS PRIVACY POLICY </strong></h3><span>  We reserve the right to change this Privacy Policy from time to time, as may be required. We will provide you with reasonable prior notice of any material changes in how we use your personal information, including by email if you have provided one. If you disagree with these changes, you may cancel your Afterpay account at any time. Any amendments will be published by posting a revised version of the Privacy Policy and updating the “Effective Date” above. The revised version will be effective on the “Effective Date” listed.</span></div> <div><h3>  <strong> 11. HOW TO CONTACT US </strong></h3><span>  If you have any questions or concerns regarding this Privacy Policy, or would like to exercise your rights and choices, you can get in touch with us by contacting your country specific Afterpay entity below. If you are dissatisfied with our response, you have a right to make a complaint to your local privacy authority, with a link to their contact page below. </span><td>  Australia</td><p>  Afterpay Australia Pty Ltd 
+          GPO Box 2269, Melbourne, VIC 3001, Australia
+          
+</p></div> <div><td>  Canada</td><p>   Afterpay Canada Limited  760 Market  St., 2nd Floor, San Francisco, California, United States of America 94102 
+
+</p><p>  
+          If you would like to speak to the Afterpay Privacy Lead, please address your communication accordingly. 
+          
+</p><td>  European Union</td><p>   Clearpay S.A.U  Paseo de la Castellana, 95, 28046 Madrid, Madrid, España 
+
+</p><p>  
+            If you would like to speak to the EU Data Protection Officer, please address your communication for the attention of the Data Protection Officer. 
+            
+
+</p></div> <p><p>  
+              Clearpay S.A.U Limited is the Data Controller for the purposes of the General Data Protection Regulation (GDPR). 
+              
+</p></p> <div><td>  New Zealand</td><p>  
+         Afterpay NZ Limited  TMF Group, Level 11, 41 Shortland Street, Auckland 1010
+          
+</p><td>  United Kingdom
+ </td><p>   Clearpay Finance Limited  101 New Cavendish Street, London, W1W 6XH 
+
+</p><p>  
+          If you would like to speak to the UK Data Protection Officer, please address your communication for the attention of the Data Protection Officer.
+          
+
+</p><p>  
+            Clearpay Finance Limited is the Data Controller for the purposes of the General Data Protection Regulation (GDPR) and U.K. GDPR / Data Protection Act 2018.  
+            
+</p></div> <div><td>  United States
+ </td><p>   Afterpay US, Inc.  760 Market St. Floor 2 Unit 2.03, San Francisco, CA 94102
+</p></div> <div><h3>  <strong> 12. US FEDERAL PRIVACY NOTICE </strong></h3><span>  This Notice applies to non-public information collected under the and in accordance with the Gramm-Leach Bliley Act.</span><td>  Why?</td><td>  
+        Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do. 
+      
+</td></div> <div><td>  What?</td><td>  
+        The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+      
+
+</td><ul>  <li> Account balances </li><li> Payment, transaction, and credit history</li><li> Personal identifying information including name, address and identification numbers
+</li></ul><td>  How?</td><td>  
+        All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Afterpay chooses to share; and whether you can limit this sharing.
+      
+</td></div> <td><td>  For our everyday business purposes –
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+</td></td> <div><td>  
+        Yes
+      
+</td><td>  
+        No
+      
+</td><td>  For our marketing purposes - to offer our products and services to you</td><td>  
+        Yes
+      
+</td><td>  
+        No
+      
+</td><td>  For joint marketing with other financial companies</td><td>  
+        No
+      
+</td><td>  
+        We don't share
+      
+</td><td>  For our affiliate's everyday business purposes - information about your transactions and experiences</td><td>  
+        Yes
+      
+</td><td>  
+        No
+      
+</td></div> <div><td>  For our affilitate's everyday business purposes - information about your creditworthiness</td><td>  
+        No
+      
+</td><td>  
+        We don't share
+      
+</td><td>  For our affiliates to market to you - information about your creditworthiness</td><td>  
+        No
+      
+</td><td>  
+        We don't share
+      
+</td><td>  For nonaffiliates to market to you</td><td>  
+        No
+      
+</td><td>  
+        We don't share
+      
+</td><td>  Who is providing this notice?   
+</td><td>  
+        Afterpay US, Inc. and Afterpay US Services, LLC                                                                                                                                                                                                                        
+      
+</td></div> <div><td>  How does Afterpay US protect my personal information?
+</td><td>  
+        We use security measures that comply with federal law to protect your personal information from unauthorized access. These measures include computer safeguards and secured files and buildings.
+      
+</td><td>  How does Afterpay US collect my personal information?
+</td><td>  
+        We collect personal information, for example, when you:
+      
+
+</td><ul>  <li> Open an account </li><li> Provide account information </li><li> Give us your contact information  </li><li> Request to use the installment feature</li><li> Make payments or account changes </li></ul></div> <p><p>  
+ We also collect information from your use of our Services, and other sources, such as credit bureaus, affiliates, or other companies.
+        </p></p> <div><td>  Why can’t I limit all sharing?
+</td><td>  
+        Federal law gives you the right to limit only:
+      
+
+</td><ul>  <li> sharing for affiliates’ everyday business purpose - information about your creditworthiness </li><li> affiliates from using your information to market to you</li><li> sharing for nonaffiliates to market to you
+</li></ul><p>   State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.
+          
+</p></div> <div><td>  Affiliates
+</td><td>  
+        Companies related by common ownership or control. They can be financial and nonfinancial companies.
+      
+
+</td><ul>  <li> Our affiliates include companies listed in <u>  11. How to Contact Us </u> above, as well as Block Inc, our Group entity 
+</li></ul><td>  Nonaffiliates
+</td><td>  
+        Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+      
+
+</td><ul>  <li> Nonaffiliated companies we share with include merchant partners and service providers. 
+</li></ul></div> <div><td>  Joint marketing                            
+</td><td>  
+        A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+      
+
+</td><ul>  <li> Afterpay US doesn't jointly market.
+</li></ul><td>  <b> 
+        Conflicts: </b> To the extent there are any conflicts between this notice and Afterpay US’s privacy policy, this notice will control for U.S. customers. 
+
+</td><p>  
+<b> 
+Telephone Communications:  </b>Afterpay US and its authorized agents, service providers and partners may monitor and/or record all telephone communications in accordance with applicable law.
+
+</p></div> <p><p>  <b> 
+Nevada Residents: </b>  The Nevada Revised Statutes Chapter 603A permits consumers who are Nevada residents to ask businesses covered under the act not to sell covered information collected. These provisions do not apply to personal information collected, processed, shared, or disclosed by financial institutions pursuant to the Gramm-Leach-Bliley Act. We will not share personal information that we collect about you with nonaffiliated third parties without your authorization, except as permitted by law.
+
+</p></p> <p><p>  <b> 
+Vermont Residents: </b> We will not share information we collect about you with nonaffiliates, except as permitted by law, including with your consent or to service your account. We will not disclose information about your creditworthiness to our affiliates and will not disclose your personal information, financial information, credit report, or health information to nonaffiliated third parties to market to you, other than as permitted by Vermont law, unless you authorize us to make those disclosures.
+</p></p> <div><h3>  <u> Afterpay </u></h3></div> <div><h3>  <u> Support </u></h3></div> <div><h3>  <u> Connect </u></h3></div> <div><h3>  <u> Afterpay app </u></h3></div> <div><h3>  <u> Location </u></h3><p>  <u> Afterpay US Services, LLC, NMLS ID 1870854 NMLS Consumer Access. </u></p><p>  Late fees may apply. Eligibility Criteria apply.  Loans to California residents made or arranged pursuant to California Finance Lenders Law license #60DBO-99995.</p></div>

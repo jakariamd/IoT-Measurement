@@ -1,0 +1,318 @@
+<div><td>  <font> Privacy 
+                  Policy Statement </font></td><td>  
+<font> PACIFIC 
+                    CENTURY CYBERWORKS LIMITED  </font><font> 
+                    PERSONAL DATA (PRIVACY) ORDINANCE - PRIVACY POLICY STATEMENT 
+                     </font>
+<font> GENERAL </font><font> 
+                  This policy statement provides information on the obligations 
+                  and policies of Pacific Century CyberWorks Limited, its subsidiaries, 
+                  affiliates, and associated companies (the "Company") 
+                  under the Hong Kong SAR Personal Data (Privacy) Ordinance 1995 
+                  - Cap.486 (the "Ordinance"). </font><font> 
+                  Although this policy specifically addresses the Company's obligations 
+                  in respect of the laws of the Hong Kong SAR, the Company believes 
+                  the principles embedded in the Ordinance are equal to any in 
+                  the world in respect of the protections they provide to an individual. 
+                  As such, the Company undertakes to apply, where practicable, 
+                  those principles and the processes set out herein to its operations 
+                  globally. </font><font> 
+                  Where the Company's operations are subject to privacy legislation 
+                  other than that of Hong Kong SAR, then this policy shall be 
+                  applied so far as practicable and consistent with such local 
+                  legislation. For further details on the Company's compliance 
+                  with the Ordinance and any other privacy legislation, please 
+                  contact Data Protection Officer, PCCW Limited at the  </font><a href="#address" target="_blank"> address </a><font>  
+                  listed below. Throughout this policy, our use of the term "personal 
+                  data" has the meaning ascribed to it by the Ordinance. </font><b> OUR 
+                  CORPORATE POLICY </b><font> The Company shall fully comply with the 
+                  obligations and requirements of the Ordinance. The Company's 
+                  officers, management, and members of staff shall, at all times, 
+                  respect the confidentiality of and endeavor to keep safe any 
+                  and all personal data collected and/or stored and/or transmitted 
+                  and/or used for, or on behalf of, the Company. </font><font> 
+                  The Company shall endeavor to ensure all collection and/or storage 
+                  and/or transmission and/or usage of personal data by the Company 
+                  shall be done in accordance with the obligations and requirements 
+                  of the Ordinance. </font><font> 
+                  Where an individual legitimately requests access to and/or correction 
+                  of personal data relating to the individual, held by the Company, 
+                  then the Company shall provide and/or correct that data in accordance 
+                  with the times and manner stipulated within the Ordinance. </font><b> 
+                  STATEMENT OF PRACTICES </b><font> Types 
+                  of Personal Data Collected </font><font> 
+                  For the purpose of carrying on the Company's business, including 
+                  registration and administration of the Company's telecommunications 
+                  and related products and services (including relevant online 
+                  services), you may be requested to provide personal data such 
+                  as, but not limited to, the following, without which it may 
+                  not be possible to satisfy your request:  </font></td></div> <ul><ul>  <li>Your name;</li><li>Service installation address, correspondence address, 
+                      and/or billing address;</li><li>Account details, including account numbers, service numbers, 
+                      or user accounts;</li><li>Payment details, including credit card and banking information;</li><li>Contact details, including contact name and telephone 
+                      number or email address; or</li><li>Information for the verification of identity, including 
+                      identification type and identification number.<font> In 
+                  some instances, you may also be requested to provide certain 
+                  data that may be used to further improve our products and services 
+                  and/or better tailor the type of information presented to you. 
+                  In most cases, this type of data is optional although, where 
+                  the requested service is a personalized service, or provision 
+                  of a product or dependant on your providing all requested data, 
+                  failure to provide the requested data may prevent us from providing 
+                  the service to you. This type of data includes, but is not limited 
+                  to:  </font></li></ul></ul> <ul><ul>  <li>Your age;</li><li>Gender;</li><li>Salary range and employment details;</li><li>Education and Profession;</li><li>Hobbies and leisure activities;</li><li>Other related products and services subscribed to; and</li><li>Family and household demographics.<font> In 
+                  support of the telecommunications and other services offered 
+                  by the Company, information may be automatically collected relating 
+                  to those services so we may perform accurate reporting and administration 
+                  of your accounts such as, but not limited to, call/connection 
+                  time, duration, origin, and destination. </font> <font> 
+                  The Company's Web servers may also collect data relating to 
+                  your online session, the use of which is to provide aggregated, 
+                  anonymous, statistical information on the server's usage so 
+                  that we may better meet the demands and expectations of visitors 
+                  to our sites. This type of data may include, but is not limited 
+                  to: </font> </li></ul></ul> <ul><ul>  <li>The browser type and version;</li><li>Operating system; and</li><li>The IP address and/or domain name. <font> Some 
+                  of the Company's Websites may place a "cookie" on 
+                  your machine; for example to provide personalized services and/or 
+                  maintain your identity across multiple pages within or across 
+                  one or more sessions. This information may include, but is not 
+                  limited to, relevant login and authentication details as well 
+                  as information relating to your activities and preferences across 
+                  our Websites. </font><font> 
+                  Under certain circumstances, telephone calls made to our order 
+                  and/or service hotlines and/or inquiry telephone numbers are 
+                  recorded for the purposes of quality control, appraisal, as 
+                  well as staff management and development. Unless expressly indicated 
+                  at the time of calling, such recordings are NOT personal data 
+                  of the caller and therefore, in respect of the caller, are not 
+                  subject to the various provisions of the Ordinance and the caller 
+                  has no rights and/or claims; either statutory, contractual or 
+                  tortious, over or to such data. At all times, every care is 
+                  taken to protect such recordings from inadvertent and/or unauthorized 
+                  access. </font><font> Accuracy of Personal Data </font><font> 
+                  Where possible, we will validate data provided using generally 
+                  accepted practices and guidelines. This includes the use of 
+                  check sum verification on some numeric fields such as account 
+                  numbers or credit card numbers. In some instances, we are able 
+                  to validate the data provided against pre-existing data held 
+                  by the Company. In some cases, as per the requirements of the 
+                  Ordinance, the Company is required to see original documentation 
+                  before we may use the personal data such as with Personal Identifiers 
+                  and/or proof of address. </font> <font> 
+                  Although we do not currently provide online access to and correction 
+                  of personal data held by the Company, we fully comply with the 
+                  "Rights of Access and Correction" obligations of the 
+                  Ordinance. Please refer to the section titled  </font><a href="#acpd" target="_blank"> "Access 
+                  and Correction of Personal Data" </a><font>  below for details 
+                  on how you can obtain and correct any personal data relating 
+                  to you that we may hold. </font><font> Retention of Personal Data </font><font> The Company will destroy any personal data it may hold in 
+                  accordance with our internal retention policy. The policy states 
+                  that: </font> </li></ul></ul> <ul><ul>  <li>Personal data will only be retained for as long as is 
+                      necessary to fulfil the original or directly related purpose 
+                      for which it was collected, unless the personal data is 
+                      also retained to satisfy any applicable statutory or contractual 
+                      obligations; and</li><li>Personal data are purged from the Company's electronic, 
+                      manual, and other filing systems in accordance with specific 
+                      schedules based on the above criteria and the Company's 
+                      internal procedures. <b> Disclosure 
+                  of Personal Data </b><font> All 
+                  personal data held by the Company will be kept confidential 
+                  but the Company may, where such disclosure is necessary to satisfy 
+                  the purpose, or a directly related purpose, for which the data 
+                  was collected provide such information to the following parties: </font>
+</li></ul></ul> <ul><ul>  <li>Any subsidiaries, holding companies, associated companies, 
+                      or affiliates of, or companies controlled by, or under common 
+                      control with the Company;</li><li>Any person or company who is acting for or on behalf of 
+                      the Company, or jointly with the Company, in respect of 
+                      the purpose or a directly related purpose for which the 
+                      data was provided;</li><li>c. Any other person or company who is under a duty of 
+                      confidentiality to the Company and has undertaken to keep 
+                      such information confidential, provided such person or company 
+                      has a legitimate right to such information; and</li></ul></ul> <ul><ul>  <li>d. Any financial institutions, charge or credit card issuing 
+                      companies, credit information or reference bureaux, or collection 
+                      agencies necessary to establish and support the payment 
+                      of any services being requested. <font> Personal 
+                  data may also be disclosed to any person or persons that have 
+                  a right under the Ordinance to gain access to such information 
+                  provided they are able to prove their authority to access such 
+                  information. For example, if the Company were served with a 
+                  court order demanding certain customer information then the 
+                  Company would disclose the information to the duly appointed 
+                  officer of the court or such other persons as the court orders. </font><font> Transfer 
+                  of Personal Data Outside of Hong Kong  </font><font> 
+                  At times it may be necessary and/or prudent for the Company 
+                  to transfer certain personal data to places outside of the Hong 
+                  Kong SAR in order to carry out the purposes, or directly related 
+                  purposes, for which the personal data were collected. Where 
+                  such a transfer is performed, it will be done in compliance 
+                  with the requirements of the Ordinance. </font> <font> Security of Personal Data </font><font> 
+                  Physical records containing personal data are securely stored 
+                  in locked areas and/or containers when not in use. Computer 
+                  data are stored on computer systems and storage media to which 
+                  access is strictly controlled and/or are located within restricted 
+                  areas. </font><font> 
+                  Access to records and data without appropriate management authorization 
+                  are strictly prohibited. Authorizations are granted only on 
+                  a "need to know" basis that is commensurate with an 
+                  individual's Company responsibilities and their training. </font>
+<font> 
+                  Records of the Company are under the control of assigned information 
+                  officers who are responsible to ensure the transfer of or access 
+                  to information is legitimate and complies with the Ordinance. </font>
+<font> 
+                  Audit records may be produced to validate data modifications 
+                  in order to verify the data's integrity. </font> <font> 
+                  There may be violations logging processes for investigation 
+                  of any unauthorized attempt to access information. </font> <font> 
+                  Encryption technology, such as SSL, may be employed for the 
+                  transmission of data collected online. </font> <b> Access and Correction of Personal Data </b>
+<font> 
+                  Under the terms of the Ordinance, individuals have the right 
+                  to: 
+                   </font></li></ul></ul> <ul><ul>  <li>Check whether the Company holds any personal data relating 
+                      to them and, if so, obtain copies of such data;</li><li>Require the Company to correct any personal data relating 
+                      to them which is inaccurate for the purpose for which it 
+                      is being used; and </li><li>Ascertain the Company's policies and practices in relation 
+                      to personal data, which are those policies and practices 
+                      set out in their entirety herein. <font> An 
+                  individual may exercise his or her right of access by: 
+                   </font></li></ul></ul> <ul><ul>  <li>Completing the form "Personal Data (Privacy) Ordinance 
+                      1995 - PCCW Data Subject Access Request" (<a href="#" target="_blank"> PCCW/PDPF001A/0901 </a>) 
+                      - see also <a href="#note" target="_blank"> Note 1 </a> below;</li><li>Sending the completed form, along with appropriate proof 
+                      of identity (a copy of the applicant's Hong Kong Identity 
+                      Card or Passport) and the prescribed fee (as at July 2001, 
+                      HK$250) to Data Protection Officer, PCCW Limited at the 
+                      <a href="#address" target="_blank"> address </a> listed below.</li></ul></ul> <ul><ul>  <li>Alternatively, if you do not wish to provide a copy of 
+                      your proof of identity, you may present the completed form 
+                      (<a href="#" target="_blank"> PCCW/PDPF001A/0901 </a>) - see also <a href="#note" target="_blank"> Note 
+                      1 </a> below - in person, along with appropriate identification 
+                      and payment, at any of our conveniently located <a href="#ccc" target="_blank"> Customer 
+                      Care Centers </a> listed below. There, staff will verify 
+                      your identity and stamp the completed form appropriately, 
+                      before forwarding it on to the Company's Privacy Compliance 
+                      Officer for processing. <font> The 
+                  Company will, upon satisfying itself of the authenticity and 
+                  validity of the access request, make every endeavor to comply 
+                  with and respond to the request within the period set by the 
+                  Ordinance. </font> <font> 
+                  An individual may exercise their right of correction by: 
+                   </font></li></ul></ul> <ul><ul>  <li>Writing to Data Protection Officer, PCCW Limited at 
+                      the address listed below, specifying the data which they 
+                      believe to be incorrect, the reason they believe it is incorrect, 
+                      and the applicable corrections; and</li><li>Providing "proof of identity" verifying that 
+                      the individual making the request is authorized to request 
+                      such corrections. <font> The 
+                  Company will, upon satisfying itself of the authenticity and 
+                  validity of the correction request, make every endeavor to comply 
+                  with and respond to the request within the period set by the 
+                  Ordinance </font> <b> 
+                  Direct Marketing </b> <font> 
+                  In accordance with the requirements of the Ordinance, the Company 
+                  will honor an individual's request not to use his or her personal 
+                  data for the purposes of direct marketing. Should you wish not 
+                  to receive direct marketing material from the Company, please 
+                  write to Data Protection Officer, PCCW Limited at the  </font><a href="#address" target="_blank"> address </a><font>  
+                  listed below. </font><font> 
+                  Any such request should clearly state details of the personal 
+                  data in respect of which the request is being made. Specifically, 
+                  we request that you include the corresponding Company assigned 
+                  account numbers which are printed on the Company's statements/invoices. 
+                  Please also state clearly the authority under which you are 
+                  authorized to make such a request. </font> <font> 
+                  Unless otherwise instructed as per the above, the Company may 
+                  use any of the data collected in the normal course of its business 
+                  for marketing purposes. </font><b> RECRUITMENT 
+                  AND EMPLOYMENT </b><b> 
+                  Recruitment </b> <font> 
+                  During the recruitment process, job applicants may be required 
+                  to provide sufficient personal data so that the Company may, 
+                  as appropriate and/or applicable: </font> </li></ul></ul> <ul><ul>  <li>Assess the applicant's suitability for the position being 
+                      applied for; </li><li>Assess the applicant's suitability for other positions 
+                      the Company may have available;</li><li>Determine preliminary remuneration and benefit packages;</li><li>Verification of credentials and/or experience; and</li><li>Perform security vetting and/or integrity checking. <font> At 
+                  a minimum, such personal data will include: </font> </li><li>The applicant's name and contact details, including address 
+                      and telephone number(s);</li></ul></ul> <ul><ul>  <li>Previous employment and relevant experience; and</li><li>Education and relevant training. <font> Additional 
+                  information may also be required dependant on the nature of 
+                  the position being applied for. </font> <font> 
+                  The applicant is responsible for ensuring all personal data 
+                  they provide is accurate and complete. The provision of inaccurate 
+                  information or the withholding of requested information may 
+                  prevent the Company from making an offer of employment, invalidate 
+                  such offer if the inaccuracy or omission is discovered after 
+                  an offer has been made, or lead to termination of employment 
+                  if the inaccuracy or omission is discovered after employment 
+                  has commenced. </font> <font> 
+                  The personal data so provided may be transferred to persons 
+                  within the Company who are involved in the assessment of the 
+                  applicant's suitability for the position applied for and/or 
+                  other positions, which may be, or may become, available within 
+                  the Company. The data may also be transferred to other third 
+                  parties, such as investigation agencies, as are necessary to 
+                  satisfy the purposes set out above. </font> <font> 
+                  The Company shall retain the personal data of unsuccessful applicants 
+                  for future recruitment purposes for a period of two years from 
+                  the date of application. The personal data of successful applicants 
+                  shall be retained for the duration of their employment by the 
+                  Company and as described below under the heading of "Employment, 
+                  Including Post Employment". </font> <font> 
+                  In respect of the Company's practices regarding matters not 
+                  directly addressed in this section "Recruitment", 
+                  the practices, and procedures set out in the preceding sections 
+                  of this Privacy Policy Statement shall apply. </font> <font> Employment, including Post Employment </font><font> In the course of employment by the Company, personal data 
+                  of employees and their families, as appropriate, will be collected 
+                  and used on an ongoing basis for various Human Resource purposes 
+                  including but not limited to; administering staffing, performance 
+                  management, training, career development, salary and benefits 
+                  administration, communication, medical benefits, provident fund 
+                  administration, insurance, taxation, welfare and providing information 
+                  in compliance with legal requirements. It will be transferred 
+                  to those internal departments, intra-company, and/or to other 
+                  third parties as is necessary for the purposes. </font> <font> 
+                  The Company retains certain personal data of employees when 
+                  they cease to be employed by the Company. Such data are required 
+                  for any residual employment-related activities of the former 
+                  employee including, but not limited to: 
+                   </font></li></ul></ul> <ul><ul>  <li>The provision of job references;</li><li>Processing applications for re-employment;</li><li>Matters relating to retirement benefits; and</li><li>Allowing the Company to fulfil contractual or statutory 
+                      obligations. <font> Further 
+                  details regarding the Company's polices and practices in respect 
+                  of it's handling of personal data relating to its employees, 
+                  including post employment, are included in the Company's Human 
+                  Resources Policies and Staff Handbooks. They are also available 
+                  to the Company's employees from either the Company's Data Protection Officer
+                   or directly from their respective Human Resources 
+                  representative. </font> <b> 
+                  THE COMPANY'S PERSONAL DATA (PRIVACY) ORDINANCE CONTACT DETAILS </b>
+<font> 
+                  All inquiries regarding the Company's compliance with its obligations 
+                  under the Ordinance should be in writing to: </font>
+</li></ul></ul> <p><p>  <font> PCCW 
+                    Data Protection Officer, PCCW Limited  </font><font> 
+                    GPO Box 9872 </font><font> 
+                    GPO </font><font> 
+                    Hong Kong </font>
+<font> Or 
+                  via email to: </font><a href="mailto:opt-out@pccw.com" target="_blank"> opt-out@pccw.com </a><font> Customer Care Centers: </font>
+</p></p> <div><td>  <font> Care 
+                        Center </font></td><td>  <font> Area </font></td><td>  <b> Address </b></td><td>  <font> Tel. </font></td><td>  <font> Mobile 
+                        Services Care Center </font></td><td>  <font> Mongkok </font></td><td>  <font> 2/F-3/F, 
+                        168-176 Sai Yeung Choi St., Mongkok, Kln. </font></td><td>  <font> 2888-1010 </font></td><td>  <font> 1010 Center </font></td><td>  <font> TST </font></td><td>  <font> G/F 
+                        & 1/F, Zeng Cheng Building, 82-84 Canton Rd., Tsim 
+                        Sha Tsui , Kln. </font></td></div> <div><td>  <b> 2910-1010 </b></td><td>  <font> 1010 Center </font></td><td>  <font> Central </font></td><td>  <font> G/F 
+                        & 4/F Century Square, 1-13 D'Aguilar St., Central, HK. </font></td><td>  <b> 2918-1010 </b></td><td>  <font> O2F 
+                        Megastore </font></td><td>  <font> Tsuen 
+                        Wan </font></td><td>  <font> 1/F, 
+                        Dung Fat Mansion, 10-20 Tai Ho Rd., Tsuen Wan, NT. </font></td><td>  <b> 2498-5961 </b>
+</td><td>  <font> Note 
+                        1: </font></td></div> <td><td>  <font> The 
+                        Company will honor requests made either on its own form, 
+                        "Personal Data (Privacy) Ordinance 1995 - PCCW Data 
+                        Subject Access Request" ( </font><a href="#" target="_blank"> PCCW/PDPF001A/0901 </a><font> ), 
+                        or on that prescribed by the Hong Kong SAR Privacy Commissioner 
+                        for Personal Data (form no.: OPS003), which is available 
+                        from the Privacy Commissioner's Office, provided all mandatory 
+                        data as specified in the Pacific Century CyberWorks form 
+                        has been supplied. </font></td></td> <td><td>  <font> (If 
+                        there is any inconsistency or conflict between the English 
+                        and Chinese versions, the English version shall prevail.) </font>
+
+</td></td> <div><td>  
+
+</td><td>  </td></div>

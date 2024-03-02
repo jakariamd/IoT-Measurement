@@ -1,0 +1,243 @@
+<div><div>  
+
+</div></div> <div><h1>  Podnapisi.NET
+</h1><ul>  <li>Quick links
+</li><li>
+
+</li><li>FAQ
+</li><li>Login
+</li><li>Register
+
+</li><li>Home
+</li><li>Board index
+
+
+
+
+
+</li></ul></div> <div><h2>  Frequently Asked Questions
+</h2><div>  
+<strong> User Levels and Groups </strong><a href="#f4r0" target="_blank"> What are Administrators? </a><a href="#f4r1" target="_blank"> What are Moderators? </a><a href="#f4r2" target="_blank"> What are usergroups? </a><a href="#f4r3" target="_blank"> Where are the usergroups and how do I join one? </a><a href="#f4r4" target="_blank"> How do I become a usergroup leader? </a><a href="#f4r5" target="_blank"> Why do some usergroups appear in a different colour? </a><a href="#f4r6" target="_blank"> What is a “Default usergroup”? </a><a href="#f4r7" target="_blank"> What is “The team” link? </a>
+<strong> Private Messaging </strong><a href="#f5r0" target="_blank"> I cannot send private messages! </a><a href="#f5r1" target="_blank"> I keep getting unwanted private messages! </a><a href="#f5r2" target="_blank"> I have received a spamming or abusive email from someone on this board! </a>
+<strong> Friends and Foes </strong><a href="#f6r0" target="_blank"> What are my Friends and Foes lists? </a><a href="#f6r1" target="_blank"> How can I add / remove users to my Friends or Foes list? </a>
+<strong> Searching the Forums </strong><a href="#f7r0" target="_blank"> How can I search a forum or forums? </a><a href="#f7r1" target="_blank"> Why does my search return no results? </a><a href="#f7r2" target="_blank"> Why does my search return a blank page!? </a><a href="#f7r3" target="_blank"> How do I search for members? </a><a href="#f7r4" target="_blank"> How can I find my own posts and topics? </a>
+<strong> Subscriptions and Bookmarks </strong><a href="#f8r0" target="_blank"> What is the difference between bookmarking and subscribing? </a><a href="#f8r1" target="_blank"> How do I bookmark or subscribe to specific topics? </a><a href="#f8r2" target="_blank"> How do I subscribe to specific forums? </a><a href="#f8r3" target="_blank"> How do I remove my subscriptions? </a>
+<strong> Attachments </strong><a href="#f9r0" target="_blank"> What attachments are allowed on this board? </a><a href="#f9r1" target="_blank"> How do I find all my attachments? </a>
+<strong> phpBB Issues </strong><a href="#f10r0" target="_blank"> Who wrote this bulletin board? </a><a href="#f10r1" target="_blank"> Why isn’t X feature available? </a><a href="#f10r2" target="_blank"> Who do I contact about abusive and/or legal matters related to this board? </a><a href="#f10r3" target="_blank"> How do I contact a board administrator? </a>
+
+
+
+</div></div> <div><h2>  Login and Registration Issues
+<strong> Why do I need to register? </strong>
+</h2><span>  Top
+ <strong> What is COPPA? </strong>
+</span><span>  Top
+ <strong> Why can’t I register? </strong>
+</span><span>  Top
+ <strong> I registered but cannot login! </strong>
+</span><span>  Top
+ <strong> Why can’t I login? </strong>
+</span><span>  Top
+ <strong> I registered in the past but cannot login any more?! </strong>
+</span><span>  Top
+ <strong> I’ve lost my password! </strong><em> I forgot my password </em>
+</span></div> <div><span>  Top
+ <strong> Why do I get logged off automatically? </strong><em> Remember me </em><em> Remember me </em>
+</span><span>  Top
+ <strong> What does the “Delete cookies” do? </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  User Preferences and settings
+<strong> How do I change my settings? </strong>
+</h2><span>  Top
+ <strong> How do I prevent my username appearing in the online user listings? </strong><em> Hide your online status </em>
+</span><span>  Top
+ <strong> The times are not correct! </strong>
+</span><span>  Top
+ <strong> I changed the timezone and the time is still wrong! </strong>
+</span><span>  Top
+ <strong> My language is not in the list! </strong><a href="https://www.phpbb.com/" target="_blank"> phpBB </a>
+</span></div> <div><span>  Top
+ <strong> What are the images next to my username? </strong>
+</span><span>  Top
+ <strong> How do I display an avatar? </strong>
+</span><span>  Top
+ <strong> What is my rank and how do I change it? </strong>
+</span><span>  Top
+ <strong> When I click the email link for a user it asks me to login? </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  Posting Issues
+<strong> How do I create a new topic or post a reply? </strong>
+</h2><span>  Top
+ <strong> How do I edit or delete a post? </strong>
+</span><span>  Top
+ <strong> How do I add a signature to my post? </strong><em> Attach a signature </em>
+</span><span>  Top
+ <strong> How do I create a poll? </strong>
+</span><span>  Top
+ <strong> Why can’t I add more poll options? </strong>
+</span><span>  Top
+ <strong> How do I edit or delete a poll? </strong>
+</span><span>  Top
+ <strong> Why can’t I access a forum? </strong>
+</span></div> <div><span>  Top
+ <strong> Why can’t I add attachments? </strong>
+</span><span>  Top
+ <strong> Why did I receive a warning? </strong>
+</span><span>  Top
+ <strong> How can I report posts to a moderator? </strong>
+</span><span>  Top
+ <strong> What is the “Save” button for in topic posting? </strong>
+</span><span>  Top
+ <strong> Why does my post need to be approved? </strong>
+</span><span>  Top
+ <strong> How do I bump my topic? </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  Formatting and Topic Types
+<strong> What is BBCode? </strong>
+</h2><span>  Top
+ <strong> Can I use HTML? </strong>
+</span><span>  Top
+ <strong> What are Smilies? </strong>
+</span><span>  Top
+ <strong> Can I post images? </strong>
+</span><span>  Top
+ <strong> What are global announcements? </strong>
+</span><span>  Top
+ <strong> What are announcements? </strong>
+</span><span>  Top
+ <strong> What are sticky topics? </strong>
+</span><span>  Top
+ <strong> What are locked topics? </strong>
+</span></div> <div><span>  Top
+ <strong> What are topic icons? </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  User Levels and Groups
+<strong> What are Administrators? </strong>
+</h2><span>  Top
+ <strong> What are Moderators? </strong>
+</span><span>  Top
+ <strong> What are usergroups? </strong>
+</span><span>  Top
+ <strong> Where are the usergroups and how do I join one? </strong>
+</span><span>  Top
+ <strong> How do I become a usergroup leader? </strong>
+</span><span>  Top
+ <strong> Why do some usergroups appear in a different colour? </strong>
+</span><span>  Top
+ <strong> What is a “Default usergroup”? </strong>
+</span></div> <div><span>  Top
+ <strong> What is “The team” link? </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  Private Messaging
+<strong> I cannot send private messages! </strong>
+</h2><span>  Top
+ <strong> I keep getting unwanted private messages! </strong>
+</span><span>  Top
+ <strong> I have received a spamming or abusive email from someone on this board! </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  Friends and Foes
+<strong> What are my Friends and Foes lists? </strong>
+</h2><span>  Top
+ <strong> How can I add / remove users to my Friends or Foes list? </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  Searching the Forums
+<strong> How can I search a forum or forums? </strong>
+</h2><span>  Top
+ <strong> Why does my search return no results? </strong>
+</span><span>  Top
+ <strong> Why does my search return a blank page!? </strong>
+</span><span>  Top
+ <strong> How do I search for members? </strong>
+</span><span>  Top
+ <strong> How can I find my own posts and topics? </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  Subscriptions and Bookmarks
+<strong> What is the difference between bookmarking and subscribing? </strong>
+</h2><span>  Top
+ <strong> How do I bookmark or subscribe to specific topics? </strong>
+</span><span>  Top
+ <strong> How do I subscribe to specific forums? </strong>
+</span><span>  Top
+ <strong> How do I remove my subscriptions? </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  Attachments
+<strong> What attachments are allowed on this board? </strong>
+</h2><span>  Top
+ <strong> How do I find all my attachments? </strong>
+</span><span>  Top
+
+
+
+</span></div> <div><h2>  phpBB Issues
+<strong> Who wrote this bulletin board? </strong><a href="https://www.phpbb.com/" target="_blank"> phpBB Limited </a><a href="https://www.phpbb.com/about/" target="_blank"> About phpBB </a>
+</h2><span>  Top
+ <strong> Why isn’t X feature available? </strong><a href="https://www.phpbb.com/ideas/" target="_blank"> phpBB Ideas Centre </a>
+</span><span>  Top
+ <strong> Who do I contact about abusive and/or legal matters related to this board? </strong><a href="http://www.google.com/search?q=whois" target="_blank"> whois lookup </a><strong> absolutely no jurisdiction </strong><strong> not directly related </strong><strong> about any third party </strong>
+</span></div> <div><span>  Top
+ <strong> How do I contact a board administrator? </strong>
+</span><span>  Top
+
+
+
+</span><span>  Jump to
+</span><span>  
+
+</span><ul>  <li> Community Applications
+
+
+
+
+</li><li>Home </li><li>Board index </li><li>All times are </li></ul><span>  UTC+02:00</span><ul>  <li>Delete cookies
+</li><li>Contact us
+
+
+
+</li></ul><p>  Powered by <a href="https://www.phpbb.com/" target="_blank"> phpBB </a>® Forum Software © phpBB Limited
+
+</p><p>  Privacy
+			|
+			</p><span>  Terms
+
+
+</span><div>   
+
+</div></div> <div><div>  
+
+</div><p>  
+
+</p><div>  
+
+</div><div>  
+
+
+</div><div>  
+
+</div></div>

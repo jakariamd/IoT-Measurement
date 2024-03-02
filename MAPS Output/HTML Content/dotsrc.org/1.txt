@@ -1,0 +1,32 @@
+<div><h2>  Policy</h2><p>  Dotsrc.org has a strong policy against any binary material or HTML in usenet postings.
+We believe that Usenet is for communication - not for binary exchange.</p><p>  As a consequence of this, we do not carry any binary group and we do have a rather aggressive anti-spam filtering system which also cleans out binaries, HTML postings etc.</p><p>  The filter also ensures compliance with RFC1036 - especially with regard to using Re: (and not Sv:) in the Subject line in replies to postings.</p></div> <div><h2>  Rules</h2><p>  Users of the Dotsrc.org USENET news server are required to follow this set of rules.
+Disregarding the rules may cause termination of access privileges without further notice!</p><p>  <strong> Real Name: </strong>
+It is required to use the accurate personal name (also called “real name”) in each posting, particularly in the From: or Sender: field. It is not sufficient to include your name in the signature solely.</p><p>  <strong> Accurate Sender Address: </strong>
+The e-mail address in From: or Sender: fields must belong to you. Using identifiers of other individuals is not permitted.</p></div> <p><p>  <strong> Netiquette: </strong>
+Most hierarchies of Usenet have their own netiquette and guidelines. Users should pay attention to the relevant policies.</p></p> <p><p>  <strong> No Commercial Usage: </strong>
+This server is liable to the rules of Darenet, the Danish research Nework. Therefore particularly commercial or for-profit activities are prohibited.</p></p> <p><p>  <strong> No SPAM: </strong>
+It is inadmissible to use this server to post SPAM. (To spam Usenet means to send many identical or nearly-identical messages separately to a large number of Usenet newsgroups.)</p></p> <p><p>  <strong> No Control Messages: </strong>
+Users are not allowed to post control messages at this server. The only exception is to cancel your own articles.</p></p> <p><p>  <strong> No Third-Party Cancels: </strong>
+No user is allowed to cancel any article other than his or her own.</p></p> <div><h2>  Open Source related groups</h2><p>  Starting October 15, 2005, dotsrc.org limits the provided groups to global users to reflect our policy to support Open Source development.
+We will therefore only provide groups which are Open Source related or which can gain the developers of Open Source software.
+Furthermore the primary language in the provided groups must be either English or Danish in order for the dotsrc.org staff group to be able to handle abuse cases.</p><p>  At the moment the following hierachies are covered as Open Source related groups:</p></div> <ul><ul>  <li>alt.comp.*</li><li>alt.os.*</li><li>comp.*</li><li>emacs.*</li><li>fm.*</li><li>gnu.*</li><li>linux.*</li><li>microsoft.*</li><li>netscape.*</li><li>opera.*</li><li>redhat.*</li><li>staroffice.*</li><li>sunsite.*</li></ul></ul> <p><p>  If you miss any groups, which fullfill our criterion for an open source related group, please inform us, and we will judge whether we will add the group to our server or not.</p></p> <div><h2>  USENET Client Configuration</h2></div> <div><h3>  General Information</h3><p>  When configuring your news reader to connect to the usenet news server at news.sunsite.dk you should generally use these configurations:</p><span>  which</span><span>  continue</span><span>  119</span><p>  The username and password for authentication is retrieved as described <a href="../" target="_blank"> here </a>.</p><p>  Below we have gathered some screenshots of configuration examples for some common news readers.</p></div> <div><h3>  Outlook</h3></div> <div><h3>  Netscape / Mozilla / Thunderbird</h3><p>  When you have finished the setup guide click “manage newsgroup subscriptions”.
+Shortly you will be prompted for your username and password.
+Remember to tell mozilla to remember your username and password.</p></div> <div><h3>  Opera</h3><p>  No screenshots available at the moment.</p></div> <div><h3>  Agent</h3></div> <div><h3>  Sylpheed</h3><p>  No screenshots available at the moment</p></div> <div><h3>  Gnus</h3><p>  Put the following into your  file in your home dir:</p><span>  machine</span><span>  @host</span><span>  123456</span><span>  yes</span><p>  And put the following two lines into your  file:</p><span>  "news.sunsite.dk"</span><span>  function</span><span>  'nntp-send-authinfo)
+</span></div> <div><h3>  Pan</h3></div> <div><h3>  Gravity</h3></div> <div><h3>  Slrn</h3><p>  No screenshots available at the moment</p><p>  
+          
+            
+              dotsrc staff
+            
+          
+
+           • ©
+          
+            2022
+          
+
+          
+             • 
+            <a href="https://dotsrc.org" target="_blank"> dotsrc </a>
+</p><p>  
+<a href="https://gohugo.io" target="_blank"> Hugo v0.74.3 </a> powered  •  Theme <a href="https://github.com/halogenica/beautifulhugo" target="_blank"> Beautiful Hugo </a> (<a href="https://gitlab.com/dotSRC/web/beautifulhugo" target="_blank"> fork </a>) adapted from <a href="https://deanattali.com/beautiful-jekyll/" target="_blank"> Beautiful Jekyll </a>
+</p></div>

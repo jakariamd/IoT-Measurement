@@ -1,0 +1,131 @@
+<div><p>  <strong> AUKEY On-Wrist Privacy Policy </strong>
+</p><p>  Dear users:
+</p><p>  We knows the importance of privacy to you and will do our best to protect your privacy. Please read, understand and agree to this "Privacy Policy" before submitting personal or privacy data to our product AUKEY On-Wrist.
+</p><p>  The purpose of this policy is to help you understand the following:
+</p><p>  1. How we use your personal data
+</p><p>  2. How we use Cookie and similar technology
+</p><p>  3. How we disclose your personal data
+</p></div> <p><p>  4. How to access or modify your personal data
+</p></p> <p><p>  5. How we protect your personal data
+</p></p> <p><p>  6. How we handle children's personal data
+</p></p> <p><p>  7. Our third-party providers and their services
+</p></p> <p><p>  8. How your personal data is transferred globally
+</p></p> <p><p>  9. How to update this policy
+</p></p> <p><p>  10. How to contact us
+</p></p> <p><p>  This policy explains how AUKEY On-Wrist handles your personal and private data, and affirms AUKEY On-Wrist's commitment to protecting privacy. We recommend that you read this policy to fully understand the privacy policy of AUKEY On-Wrist specific products or services.
+</p></p> <p><p>  Note: Service functionality may vary due to system versions. Some of the following services may not be supported on certain models. Please check your settings for details. Only rules relating to the services made available to you, such as information collection and use, will apply. 
+</p></p> <p><p>  <strong> 1. How we use your personal data </strong>
+</p></p> <p><p>  Personal data refers to information that can be used to determine personal identity when used alone or in combination with other information. Such data will be collected when you use AUKEY On-Wrist products or services, including gender, date of birth, address, account number, photo, and the location and date of access to the product or service. AUKEY On-Wrist will only collect and use your personal data for the purposes described in this policy.
+</p></p> <div><p>  The following examples illustrate the personal data we may collect and how we use such data:
+</p><p>  <strong> 1.1 The personal data we collect </strong>
+</p><p>  About your data: We may collect and use account, avatar, nickname, gender, time zone, language and region data.
+</p><p>  Personal body information: After starting AUKEY On-Wrist, we need you to provide date of birth, height, weight, and gender data.
+</p><p>  Device recording data: When you use AUKEY On-Wrist to synchronize device data, we will save your personal data locally after your authorization, including but not limited to activity information, sleep, heart rate, Blood Oxygen, Stress.
+</p></div> <div><p>  Connect with Health Kit：
+</p><p>  If you are using an Apple mobile phone, in order to calculate the activity consumption, we will receive and send your exercise data from Apple’s Health Kit with your authorization. In order to simplify your input process. We read your weight data from the Health Kit. At the same time, the exercise and health data generated in the "AUKEY On-Wrist" App will be synchronized with Apple's Health Kit. Any information obtained through the use of Health Kit, such as weight and heart rate data, will not be shared or sold to any third party, including advertisers and other agents. We will not use Health Kit information for marketing, advertising and similar services.
+</p></div> <p><p>  Incoming call information: When you use incoming call prompt function, we need to get the status of your incoming call. If you allow access to contact information, it will be displayed when the device receives incoming calls. However, your contacts and other related data will not be stored.
+</p></p> <p><p>  Mobile phone information: When you use AUKEY On-Wrist, we need to obtain your mobile phone operating system version and mobile phone brand model name.
+</p></p> <p><p>  Phone number: When you register a AUKEY On-Wrist account, you may need to provide your phone number.
+</p></p> <p><p>  Email address: When you register a AUKEY On-Wrist account, you may need to provide your email address.
+</p></p> <p><p>  Receiving notifications: When you connect your phone to a smart wearable device and enable notifications through your watch, we will receive the names of your installed applications, and collect the relevant data contained within your notification banner messages, including your calls, SMS messages, notifications, and general information. Furthermore, we also require your permission to read your notifications and activate your Bluetooth function, so that we can send notifications to your connected smart wearable device via Bluetooth. All related operations are performed on the local device and only for the intended notification function. Your information will not be stored, modified, uploaded, or used for any other purposes.
+</p></p> <p><p>  Network usage data: We may collect network types, network signals, etc. related to specific functions of AUKEY On-Wrist.
+</p></p> <p><p>  Location data: When you use location-based program services or features, we may collect your location data.
+</p></p> <p><p>  Log information: When you browse the AUKEY On-Wrist server, our server will automatically record a number of recorded data, including but not limited to: IP address, browser type, browser language, reference source page, operating system, timestamp and clickstream data.
+</p></p> <p><p>  Device information: When you use AUKEY On-Wrist to connect to a hardware device, data (non-personal data) including but not limited to the unique identifier, version and approximate geographic location of the device will be sent to the server. The above-mentioned data collection may also apply to your system or software update, restoration of original factory settings, etc.
+</p></p> <p><p>  Unsolicited information: When you use the feedback function, you may need to provide us with feedback information and contact details (including email and phone number), so that we can resolve your problem and provide better service.
+</p></p> <p><p>  <strong> 1.2 How we use personal data </strong>
+</p></p> <p><p>  The purpose of collecting personal data is to provide you with services and/or products, and we also comply with applicable laws and regulations . You hereby agree to the company's processing and disclosure of personal data to affiliated companies (communication, social media, technology and cloud services) and third-party service providers (see definitions below) for the purposes described in this privacy policy.
+</p></p> <div><p>  We may use your personal data for the following purposes:
+</p><p>  Here are more details about how we use your data (which may include personal data).
+</p><p>  Registering an APP account: The personal information collected through the APP will be used to create a personal account and user data page.
+</p><p>  Calculating exercise results: We will use personal body data to accurately calculate exercise results.
+</p><p>  Provide AUKEY On-Wrist service: The device data and related data will be shown to the user.
+</p></div> <p><p>  Display caller information: When you receive an incoming call, the device will display the caller's data.
+</p></p> <p><p>  Determine if the phone is supported: The phone information will be used to determine whether your phone can use AUKEY On-Wrist.
+</p></p> <p><p>  Provide network-related services: We will use network types, network signals, etc. to prompt users to download updated versions in different network environments.
+</p></p> <p><p>  Provide location-based services: Location data will be used to record moving locations during the use of AUKEY On-Wrist. For example, when you record exercising tracking information through the AUKEY On-Wrist exercising function, or request map information, your location information may be sent back to AUKEY On-Wrist so that AUKEY On-Wrist can provide you with accurate content.
+</p></p> <p><p>  Optimize service: We will use recorded data to improve service quality.
+</p></p> <p><p>  Provide device management: This type of data provides management of bound devices.
+</p></p> <p><p>  Improve software stability: Collect fault records for analyzing software quality, so as to provide better services.
+</p></p> <div><p>  <strong> （3）How we use your personal data </strong>
+</p><p>  We will use your personal data for the following purposes:
+</p><p>  (a) Make changes at your request; and provide technical support.
+</p><p>  (b) Send you notifications of operating system or application updates and installations.
+</p><p>  (c) Provide you with better user experience and after-sales service.
+</p><p>  (d) Conduct internal audits, data analysis and research to improve our products and services.
+</p><p>  (e) Analyze the efficiency of business operations and measure market share.
+</p></div> <p><p>  (f) Improve customer communications and ensure that customers are provided with safe and high-quality services.
+</p></p> <p><p>  (g) Troubleshoot errors if you choose to send us the details of the error.
+</p></p> <p><p>  (h) Synchronize, share and store the data you upload or download and the data required to perform the upload and download.
+</p></p> <p><p>  (i) Improve our loss prevention and anti-fraud plan.
+</p></p> <p><p>  <strong> 1.4 Location-based services </strong>
+</p></p> <p><p>  When accessing certain location-based services (such as performing bluetooth searches), we will collect, use, and process your device's accurate or fuzzy location. We need this location information to provide the above services. We will collect your device’s device type, model, and real-time location data (obtained via GPS, WLAN, and service provider’s network ID). Our purpose in collecting location data is to provide and improve location-based products and services. We will ask you for which applications you want to enable location-based services. You can choose to turn off location-based services on your device and refuse to share your location data. For details on how to disable location-based services, please contact your network operator.
+</p></p> <p><p>  <strong> 1.5 Collection and use of non-identifying data </strong>
+</p></p> <p><p>  Non-identifying data refers to data that cannot be used to determine an individual's identity. For example, we will collect aggregated statistics, such as visits. Our purpose of collecting this data is to understand how users use their products and services. In this way, we can improve our services and better meet customer needs. We may at our own discretion collect, use, process, transfer or disclose non-identifying data for other purposes.
+</p></p> <p><p>  Create your account: Your mobile phone number, personal information and other information will be used to create your account and enable use of related services.
+</p></p> <p><p>  Feedback: We may get in touch with you through the phone number you provided when using the feedback function for the purposes of user surveys and follow-up visits.
+</p></p> <p><p>  Receiving notifications: When you enable notifications on your watch, the connected smart wearable device will display your notification banner messages synchronously, such as incoming calls. AUKEY On-Wrist will not modify or store the above information and will only use such information to provide the desired notification function. Meanwhile, if you enable the promotion notifications in Settings, we will use your account information for content push services. If you want to unsubscribe from such notifications or other specific notifications, you can disable it in the Sports and Notifications Settings.
+</p></p> <p><p>  <strong> 1.6 Allowing Device Permissions </strong>
+</p></p> <p><p>  When providing the Services, AUKEY On-Wrist may request some of your device permissions. The followings are the permissions we may request and their corresponding function descriptions and purposes.
+</p></p> <p><p>  (1) Bluetooth Permissions: To connect and bind your smart wearable device and support functions such as message synchronization.
+</p></p> <p><p>  (2) Networking Permissions: To judge your network environment and use some functions that require networking.
+</p></p> <p><p>  (3) Location Permissions: To provide location-based services, e.g. for recording and displaying sports data and motion trails, providing weather information and so on.
+</p></p> <p><p>  (4) Storage Permissions: To store local data and provide the app’s service functions to meet content storage requirements.
+</p></p> <p><p>  (5) Phone Permissions: Please give the permission so that the device can properly receive incoming call reminders and one-click reject calls.
+</p></p> <p><p>  (6) Call Log Permissions: Please give the permission so that you can one-click reject calls on the device.
+</p></p> <p><p>  (7) Contact Permissions: Please give this permission so that the device can receive call reminders and display the contact names properly.
+</p></p> <p><p>  (8) Camera Permissions: The portrait function requires camera permissions to take photos.
+</p></p> <p><p>  (9) Fitness Permissions: To provide functions such as step counting and presenting; You need to authorize the Fitness permission if you want to synchronize device data (including steps) to Google Fit. 
+</p></p> <p><p>  You may set the above permissions by going to System settings - Applications and Permissions – Manage Permissions”.
+</p></p> <p><p>  <strong> 2. How we use Cookie and similar technology </strong>
+</p></p> <p><p>  <strong> 2.1 Cookie </strong>
+</p></p> <p><p>  To ensure the proper functioning of our website, we sometimes store small data files called cookie on mobile devices. Cookie is a plain text file stored on a computer or mobile device by a web server. The content of Cookie can only be retrieved or read by the server that creates it. Each Cookie is unique to your mobile application. Cookie usually contains identifiers, site names, and some numbers and characters. We can store user preference data with Cookie.
+</p></p> <p><p>  Most Internet service providers enable Cookie to improve user experience. With Cookie, it is possible to remember the user's single visit (using session Cookie) or multiple visits (using permanent Cookie). With Cookie, settings such as the language of the mobile device, personal data and other data can be saved. This means that users do not need to reconfigure user preferences every time they visit. If a mobile device does not use Cookie, every time a user turns on the mobile device, the mobile device will treat it as a new visitor. For example, if you have logged in to a mobile device, the device will not recognize you when you log in again, and you will be logged out again.
+</p></p> <p><p>  We will not use Cookie for any purpose other than those described in this policy.
+</p></p> <p><p>  <strong> 3. How we disclose your personal data </strong>
+</p></p> <p><p>  We will not sell your personal data to third parties. However, we will disclose your personal data in the following situations:
+</p></p> <p><p>  3.1 Synchronization data to third parties: After obtaining your explicit consent, we will share your personal data to third parties. If you want to share your personal data to a third party device and platforms, we may share your data (e.g., exercise and health data such as steps, distance, height, weight, heart rate, sleep, calories, etc.) to third parties upon your request. Please carefully read the privacy policies of these third party devices or platforms, as your activities on them will no longer be governed by this privacy policy.
+</p></p> <p><p>  3.2 Disclosure to authorized partners (referred as "Our partners" hereafter): Some of our services are provided by our partners. We may share some of your personal data with our partners to provide better customer service and user experience. For example, when you purchase our products online, we must share your personal data with logistics service providers to arrange delivery, or arrange for partners to provide services. We will only process your personal data for specific, clear and lawful purposes, and only disclose the data necessary to provide the service. Our partners have no right to use the shared personal data for any other purpose.
+</p></p> <p><p>  3.3 Disclosure based on law or reasonable basis: We may disclose your personal data when required by law, legal procedures, litigation, or public and government authorities. In some jurisdictions, if we are involved in reorganization, merger or bankruptcy and liquidation litigation, then your personal data will also be disclosed to the counterparty. We will also disclose your data when there is a reasonable need, for example, for the purpose of enforcing terms and conditions and protecting customers.
+</p></p> <p><p>  <strong> 4. How to access or modify your personal data </strong>
+</p></p> <p><p>  According to our terms and conditions, you can manage your personal data, such as your account information, at any time. You should ensure that all personal data submitted is accurate. We will try our best to maintain the accuracy and completeness of personal data and update these data in a timely manner.
+</p></p> <p><p>  You have the right to access your personal data, except for certain legal exceptions. If the privacy and information laws of certain jurisdictions are different, we will comply with those laws. If you want to exercise data access rights, please give us feedback via email. To ensure safety, you may need to provide a written request.
+</p></p> <p><p>  You also have the right to delete or modify any personal information we hold about you. We will delete or modify such information at your request. To make such a request, please send us an email feedback. If we have a reasonable basis to believe that these requests are deceptive and unfulfilled, or if local laws do not provide for access rights, we will refuse to process the request.
+</p></p> <p><p>  Right to close your account: You have the right to close your account, which can be done via accessing “Me>More APP Settings>Delete Account”. After delete account, your personal information will be deleted or anonymized no later than 30 days from the date of your deletion request.
+</p></p> <p><p>  Right to withdraw consent: You have the right to withdraw your consent for storage and use of your personal information at any time. Use of personal information is necessary to perform business functions. You may alter if and what personal information you authorize us to collect. Authorization can be withdrawn at any time by deleting your personal information, turning off device permissions, adjusting relevant settings or features, or closing your account.
+</p></p> <p><p>  <strong> 5. How we protect your personal data </strong>
+</p></p> <p><p>  We value the security of personal data. We adopt industry standard practices to protect your personal data and prevent unauthorized access, disclosure, use, modification, damage or loss of data. We will take all reasonable and feasible measures to protect your personal data. For example, we will use encryption technology to ensure the confidentiality of data; we will use trusted protection mechanisms to prevent malicious attacks on data; we will deploy access control mechanisms to ensure that only authorized personnel can access personal data; and we will conduct security and privacy protection training courses to strengthen employees’ awareness of the importance of protecting personal data.
+</p></p> <p><p>  We will take all reasonable and feasible measures to ensure that irrelevant personal data is not collected. We will only retain your personal data for the period required to achieve the purpose stated in the policy, unless it is necessary to extend the retention period or is permitted by law. We will do our best to protect your personal data, but please note that no security measures can be impeccable.
+</p></p> <p><p>  <strong> 6. How we handle children's personal data </strong>
+</p></p> <p><p>  Our products and services are mainly for adults. Without the consent of their parents or guardians, children may not create their own user accounts. For the collection of children's personal data with parental consent, we will only use or disclose this data when permitted by law, the parent or guardian's explicit consent, or is necessary to protect the child. Although local laws and customs define children differently, we treat anyone under 13 years old as a child.。
+</p></p> <p><p>  If we find that we have collected children’s personal data without first obtaining verifiable parental consent, we will try to delete the relevant data as soon as possible.
+</p></p> <p><p>  <strong> 7. Our third-party providers and their services </strong>
+</p></p> <p><p>  We have no control over the privacy and data security policies of third-parties, and third-parties are not bound by this policy. Please refer to the privacy policies of these third-parties prior to submitting your personal information to a third-party.。
+</p></p> <div><p>  Our cooperation with third-party software development kit (SDK) providers
+</p><p>  In order to enable functionality, incorporation of some functional SDKs may be required. In such an event, please be aware that we will neither collect your personal information nor request any sensitive permissions.
+</p><p>  • Name: Google Location and Maps SDKs
+</p><p>  Purpose of use: Map display and user location
+</p><p>  Types of personal data collected: Lat/long positioning, location information, and network information
+</p></div> <div><p>  • Name: BMKMap Location and Maps SDKs
+</p><p>  Purpose of use: Map display and user location
+</p><p>  Types of personal data collected: Lat/long positioning, location information, network information，and activity data from moblile sensor
+</p><p>  • Name: Tencent Bugly SDK
+</p><p>  Purpose of use: Uploading app crash reports and device logs for developers to analyze the crash issues and causes
+</p><p>  Types of personal data collected: app crash reports and ANR logs, device infomation（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/IP address）
+</p></div> <div><p>  • Name: Google login authorization SDK
+</p><p>  Purpose of use: Third-party login with Google
+</p><p>  Types of personal data collected: Device identifiers
+</p><p>  <strong> 8. How your personal data is transferred globally </strong>
+</p><p>  We provide products and services through resources and servers all over the world. This means that your personal data may be transferred to other jurisdictions outside the country/region where you use the product or service, or be accessed from these jurisdictions. Such jurisdictions may have different data protection laws or even no relevant laws. In such cases, we will ensure that your data is adequately and equally protected as required by all applicable laws and regulations.
+</p></div> <p><p>  <strong> 9. How to update this policy </strong>
+</p></p> <p><p>  We reserve the right to update or modify this policy from time to time. We will send you a notification of changes through version updates.
+</p></p> <p><p>  <strong> 10. How to contact us </strong>
+</p></p> <p><p>  If you have any questions, comments or suggestions, please send them to us by email.
+</p></p> <p><p>  Important note: In view of local laws and language differences, the local language version of AUKEY On-Wrist "Privacy Policy" may be different from this version. If there are any discrepancies, please refer to the local language version.
+</p></p> <div><p>  
+
+</p><p>  Last updated: June 2023.
+</p><p>  Developer’s Name: Aukey Technology Co., Ltd. (Above referred to as "we")
+</p><p>  Developer’s Address: Building P07, Phase 1, South China Electronic Trading Center, Pinghu Huanancheng Road 1st, Longgang District, Shenzhen
+</p><p>  Customer Service Email: info@aukeys.com
+</p></div>

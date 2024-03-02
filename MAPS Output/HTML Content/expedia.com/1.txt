@@ -1,0 +1,1010 @@
+<div><div>  
+               Welcome to <u> Expedia.com </u>, a US site operated by Expedia, Inc., a Washington corporation.
+            
+</div></div> <div><div>  Expedia.com
+
+</div></div> <span><span>  Welcome to {{domainText}}
+<strong> Continue to the U.S. site at {{usSiteDomain}} </strong>
+</span></span> <div><span>  
+              close
+        
+
+
+</span><div>  Booking travel on behalf of </div><div>  
+
+</div><span>  
+                                                        More travel
+                                                    
+</span><span>  
+
+
+</span><span>  
+
+
+</span><span>  
+                                                        Shop Travel
+                                                    
+
+</span><span>  
+
+
+
+</span></div> <div><h3>  Shop Travel
+</h3><span>  
+
+
+</span><span>  English
+
+
+
+</span><span>  List your property
+
+
+</span><span>  
+
+
+</span><span>  Support
+
+
+</span><span>  
+
+
+</span><span>  
+                                            Trips
+                                        
+
+</span><span>  
+
+
+</span><span>   Sign in
+
+</span><div>  Members can access discounts and special features
+</div><span>  Sign in
+
+</span><span>  Create a free account
+ 
+
+
+</span><span>  
+                                                                  English
+                                                                
+                                                                ·
+                                                                </span></div> <div><span>  
+                                                                  USD
+                                                                
+</span><span>  
+                                                                  $
+                                                                
+                                                                ·
+                                                                  </span><span>  
+
+
+
+
+
+
+
+ 
+</span><span>  
+                                                        More travel
+                                                    
+</span></div> <div><span>  
+
+
+</span><div>  
+
+
+
+</div><div>  
+                Create an account
+            
+</div></div> <div><h2>  Create your free account
+
+
+</h2></div> <div><h2>  
+                            Create your free account
+                            
+
+
+
+
+</h2><span>  
+                                        Sign Up with Google
+                                    
+
+</span><span>  Sign Up with Apple
+
+</span><span>  
+                                        Sign Up with Naver
+                                    
+
+</span><span>  
+                                    Sign Up with Facebook
+                                
+
+</span><span>  
+
+
+
+</span><div>  
+<strong> OR </strong>
+
+
+
+
+</div></div> <span><span>  
+                            We apologize for our system failure. Please try again
+                        
+</span></span> <div><span>  
+                            Account already exists
+                        
+</span><span>  
+                            Authentication failure. Please try again
+                        
+
+</span><span>  Action required!
+</span><span>  To finish creating your account, please click the link we just sent to 
+
+
+</span><label>  
+                        First name
+                    
+
+</label><p>  
+
+
+</p><label>  
+                                                      Last name
+                                                  
+
+</label></div> <div><p>  
+
+
+</p><label>  
+                                                    Email address
+                                                
+
+</label><label>  
+                                                    Please enter a valid email address
+                                                
+</label><span>  
+                                                    Please check you have entered your email address correctly.
+                                                
+</span><label>  Please check you have entered your email address correctly before continuing.
+
+</label></div> <span><span>  
+                                                                 This email has already been used to sign up with CONNECTED_THIRD_PARTY_NAMES. Try signing in with CONNECTED_THIRD_PARTY_NAMES or use another email address.
+                                                             
+
+
+</span></span> <div><label>  Create a password
+
+</label><p>  
+
+</p><span>  
+
+
+
+</span><label>  
+
+
+
+
+</label><div>  
+                                   By creating an account, I agree to the Expedia <a href="/terms" target="_blank"> Terms of Use </a></div><span>  opens in a new window, <a href="/privacy" target="_blank"> Privacy Policy  </a></span><span>  opens in a new window and <a href="/rewards/terms" target="_blank">  Expedia Rewards Terms and Conditions.  </a></span><span>  opens in a new window
+
+</span><p>  
+
+</p></div> <div><span>  Sign Up
+
+</span><div>  
+                                     By creating an account, I agree to the <a href="/terms" target="_blank"> Terms of Use  </a></div><span>  opens in a new window and the <a href="/privacy" target="_blank"> Privacy Policy  </a></span><span>  opens in a new window.
+                                 
+</span><p>  
+
+</p><div>  
+                                           By creating an account, I agree to the <a href="/terms" target="_blank"> Terms of Use </a></div><span>  opens in a new window, <a href="/privacy" target="_blank"> Privacy Policy  </a></span></div> <span><span>  opens in a new window and <a href="/rewards/terms" target="_blank">  Expedia Rewards Terms and Conditions.  </a></span></span> <div><span>  opens in a new window
+
+</span><p>  
+
+</p><div>  
+                                   Already have an account?
+                               
+
+</div><span>  Sign In
+
+
+
+</span><div>  
+
+
+</div><div>  
+                Sign In
+            
+</div></div> <div><h2>  Sign in to your account
+
+
+</h2></div> <div><h2>  
+                            Sign in to your account
+                            
+
+
+
+
+</h2><span>  
+                                        Sign In with Google
+                                    
+
+</span><span>  Sign In with Apple
+
+</span><span>  
+                                        Sign In with Naver
+                                    
+
+</span><span>  
+                                    Sign In with Facebook
+                                
+
+</span><span>  
+
+
+
+</span><div>  
+<strong> OR </strong>
+
+
+
+
+</div></div> <span><span>  
+                            We apologize for our system failure. Please try again
+                        
+</span></span> <div><span>  
+                            You may have entered an unknown email address or an incorrect password
+                        
+</span><span>  
+                            Authentication failure. Please try again
+                        
+</span><span>  
+                            As per our routine security check, we have reset your account password. Rest assured your account is safe with us – use the “Forgot password?” link to set a new password.
+                        
+
+</span><label>  
+                    Email address
+                
+
+</label></div> <div><p>  
+
+
+</p><label>  Password
+
+</label><p>  
+
+</p><span>  
+
+
+
+</span><label>  
+
+</label><span>  
+                                    Keep me signed in
+                            
+
+
+
+</span><label>  
+
+</label><span>  
+                                            Join <a href="/rewards/howitworks" target="_blank"> Expedia Rewards </a></span><span>  opens in a new window. By joining I accept all <a href="/rewards/terms" target="_blank"> terms and conditions </a></span><span>  opens in a new window.
+                                    
+
+
+
+</span></div> <div><div>  
+                                By signing into my Expedia Rewards account, I agree to the Expedia <a href="/terms" target="_blank"> Terms of Use </a></div></div> <span><span>  opens in a new window, <a href="/privacy" target="_blank"> Privacy Policy </a></span></span> <div><span>  opens in a new window and <a href="/rewards/terms" target="_blank"> Expedia Rewards Terms and Conditions </a></span><span>  opens in a new window.
+                            
+</span><p>  
+
+</p><span>  Sign In
+
+</span><div>  
+                                         By signing in, I agree to the <a href="/rewards/terms" target="_blank">  Expedia Rewards Terms and Conditions.  </a></div><span>  opens in a new window
+
+</span><p>  
+
+</p><div>  
+                            Need an account?
+                        
+
+</div></div> <div><span>  
+                                    Sign Up
+                                
+
+
+
+</span><div>  
+
+
+</div><div>  
+
+
+</div><p>  Display settings
+</p><div>  
+
+</div></div> <div><h3>  One Key™, our new rewards program, is currently only available in the US
+
+
+</h3><div>  
+                            To keep earning and using OneKeyCash™, you'll need to keep your region as the US.
+                        
+</div><div>  
+
+</div></div> <div><h3>  Changing your region could change your rewards program
+
+
+</h3><div>  
+                            One Key™ is a new rewards program for the US only for now. To stay with your current rewards (where applicable), keep your region the same.
+                        
+</div><div>  English
+</div><span>  Change language
+</span><span>  
+
+
+
+</span><span>  
+                                USD
+                            
+</span><span>  
+                                $
+                            
+
+</span></div> <div><span>  Change currency
+</span><span>  
+
+
+
+</span><p>  Global site
+</p><span>  United States
+
+</span><span>  Change region
+</span><span>  
+
+
+
+
+</span><span>  Done
+
+
+
+
+ </span></div> <div><h2>  Language
+</h2><div>  
+
+</div><label>  English
+
+</label><div>  
+
+</div><label>  Español
+
+</label><div>  
+
+</div><label>  简体中文
+
+
+
+</label><span>  Save
+
+ 
+
+ </span></div> <div><h2>  Currency
+</h2><div>  
+
+</div><label>  AED
+</label><span>  د.إ
+
+
+
+</span><div>  
+
+</div><label>  ARS
+</label><span>  $
+
+
+
+</span><div>  
+
+</div><label>  CLP
+</label><span>  $
+
+
+
+</span><div>  
+
+</div><label>  CNY
+</label><span>  ¥
+
+
+
+</span><div>  
+
+</div><label>  COP
+</label><span>  $
+
+
+
+</span><div>  
+
+</div><label>  EGP
+</label><span>  £
+
+
+
+</span><div>  
+
+</div><label>  ISK
+</label><span>  kr
+
+
+
+</span><div>  
+
+</div><label>  MXN
+</label><span>  $
+
+
+
+</span><div>  
+
+</div><label>  PEN
+</label></div> <span><span>  S/.
+
+
+
+</span></span> <div><div>  
+
+</div><label>  SAR
+</label><span>  ﷼
+
+
+
+</span><div>  
+
+</div><label>  USD
+</label><span>  $
+
+
+
+</span><div>  
+
+</div><label>  ZAR
+</label><span>  R
+
+
+
+
+
+</span><span>  Save
+
+ 
+
+ </span></div> <div><h2>  Region
+</h2><span>  
+
+</span><p>  You can only access your trip information and Expedia Rewards points from the Expedia site you booked on.
+
+
+
+
+</p><div>  
+
+</div><label>  Argentina
+
+
+
+</label><div>  
+
+</div><label>  Australia
+
+
+
+</label><div>  
+
+</div><label>  Austria
+
+
+
+</label><div>  
+
+</div><label>  Belgium
+
+
+
+</label><div>  
+
+</div><label>  Brazil
+
+
+
+</label><div>  
+
+</div><label>  Canada
+
+
+
+</label><div>  
+
+</div><label>  Chile
+
+
+
+</label><div>  
+
+</div><label>  China
+
+
+
+</label><div>  
+
+</div></div> <div><label>  Colombia
+
+
+
+</label><div>  
+
+</div><label>  Costa Rica
+
+
+
+</label><div>  
+
+</div><label>  Denmark
+
+
+
+</label><div>  
+
+</div><label>  Egypt
+
+
+
+</label><div>  
+
+</div><label>  Euro
+
+
+
+</label><div>  
+
+</div><label>  Finland
+
+
+
+</label><div>  
+
+</div><label>  France
+
+
+
+</label><div>  
+
+</div><label>  Germany
+
+
+
+</label><div>  
+
+</div><label>  Hong Kong SAR
+
+
+
+</label><div>  
+
+</div><label>  India
+
+
+
+</label><div>  
+
+</div><label>  Indonesia
+
+
+
+</label><div>  
+
+</div><label>  Ireland
+
+
+
+</label></div> <div><div>  
+
+</div><label>  Italy
+
+
+
+</label><div>  
+
+</div><label>  Japan
+
+
+
+</label><div>  
+
+</div><label>  Malaysia
+
+
+
+</label><div>  
+
+</div><label>  Mexico
+
+
+
+</label><div>  
+
+</div><label>  Netherlands
+
+
+
+</label><div>  
+
+</div><label>  New Zealand
+
+
+
+</label><div>  
+
+</div><label>  Norway
+
+
+
+</label><div>  
+
+</div><label>  Peru
+
+
+
+</label><div>  
+
+</div><label>  Philippines
+
+
+
+</label><div>  
+
+</div><label>  Saudi Arabia
+
+
+
+</label><div>  
+
+</div><label>  Singapore
+
+
+
+</label><div>  
+
+</div><label>  South Korea
+
+
+
+</label></div> <div><div>  
+
+</div><label>  Spain
+
+
+
+</label><div>  
+
+</div><label>  Sweden
+
+
+
+</label><div>  
+
+</div><label>  Switzerland
+
+
+
+</label><div>  
+
+</div><label>  Taiwan
+
+
+
+</label><div>  
+
+</div><label>  Thailand
+
+
+
+</label><div>  
+
+</div><label>  United Arab Emirates
+
+
+
+</label><div>  
+
+</div><label>  United Kingdom
+
+
+
+</label><div>  
+
+</div><label>  United States
+
+
+
+</label><div>  
+
+</div><label>  Vietnam
+
+
+
+
+
+</label><span>  Save
+
+ 
+
+ 
+
+</span></div> <div><h2>  Your Privacy Choices
+</h2><p>  Please click on the button below and use our tool to opt-out from the use of non-essential third-party cookies and any data sharing program with third parties that would be considered a sale under California or Nevada law or Targeted Advertising under Colorado, Connecticut, Virginia or Utah law.
+</p><p>  In order to have your opt-out associated with your account, you must log in.
+</p><span>  Do Not Sell or Share My Personal Information/Opt-Out of Targeted Advertising
+</span></div> <p><p>  Success! You have been opted-out across devices that are associated with your Expedia account.
+</p></p> <p><p>  Success, you are opted-out only on this browser and device.
+</p></p> <p><p>  We’re sorry, but we are unable to opt you out across all of the devices associated with your Expedia account at this time.  Please check your Do Not Sell opt-out status by logging into your Expedia account on your associated devices and clicking on the Do Not Sell My Personal Information link. 
+</p></p> <div><p>  
+
+
+
+</p><div>  
+
+</div><div>  
+
+</div><div>  
+
+</div></div> <div><h5>  Expedia
+
+</h5></div> <div><h5>  Expedia Links
+
+</h5></div> <div><h5>  Expedia Sitemaps
+
+</h5></div> <div><h5>  Partner Services
+
+</h5></div> <div><h5>  Global Sites
+
+</h5></div> <div><h5>  Expedia Partners
+
+</h5><div>  1
+</div><ul>  <li><a href="#multi-currency-multi-lang-picker-id-02" target="_blank"> English  </a><a href="" target="_blank">  USD $  </a><strong> .  </strong></li></ul><span>  flag us
+
+</span><label>  mcmlDisplaySettingsTitleLabel
+</label><label>  mcmlDLanguageLabel
+</label><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+
+
+
+
+</li></ul><span>  
+
+
+</span><label>  mcmlDCurrencyLabel
+
+</label><ul>  <li>
+                                    USD 
+
+</li></ul><span>  
+
+</span></div> <ul><ul>  <li>AED <strong> د.إ </strong>
+</li></ul></ul> <div><span>  
+
+</span><ul>  <li>ARS 
+</li></ul><span>  
+
+</span><ul>  <li>CLP 
+</li></ul><span>  
+
+</span><ul>  <li>CNY 
+</li></ul><span>  
+
+</span><ul>  <li>COP 
+</li></ul><span>  
+
+</span><ul>  <li>EGP 
+</li></ul><span>  
+
+</span><ul>  <li>ISK <strong> kr </strong>
+</li></ul><span>  
+
+</span><ul>  <li>MXN 
+</li></ul><span>  
+
+</span><ul>  <li>PEN <strong> S/. </strong>
+</li></ul><span>  
+
+</span><ul>  <li>SAR 
+</li></ul><span>  
+
+</span><ul>  <li>USD 
+</li></ul><span>  
+
+</span><ul>  <li>ZAR 
+</li></ul></div> <div><span>  
+
+
+
+
+
+</span><span>  
+                    USD 
+
+
+</span><label>  mcmlGlobalSitesTitleLabel
+
+</label><label>  mcmlDRegionLabel
+
+</label><ul>  <li>
+
+</li><li>flag arArgentina
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag auAustralia
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag atAustria
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag beBelgium
+                                                </li></ul></div> <div><span>  
+
+</span><ul>  <li>flag brBrazil
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag caCanada
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag clChile
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag cnChina
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag coColombia
+                                                </li></ul><span>  
+
+</span></div> <div><ul>  <li>flag crCosta Rica
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag dkDenmark
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag egEgypt
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag euEuro
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag fiFinland
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag frFrance
+                                                </li></ul></div> <div><span>  
+
+</span><ul>  <li>flag deGermany
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag hkHong Kong SAR
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag inIndia
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag indIndonesia
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag ieIreland
+                                                </li></ul></div> <div><span>  
+
+</span><ul>  <li>flag itItaly
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag jpJapan
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag myMalaysia
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag mxMexico
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag nlNetherlands
+                                                </li></ul><span>  
+
+</span></div> <div><ul>  <li>flag nzNew Zealand
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag noNorway
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag pePeru
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag phPhilippines
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag saSaudi Arabia
+                                                </li></ul><span>  
+
+</span></div> <div><ul>  <li>flag sgSingapore
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag krSouth Korea
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag esSpain
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag seSweden
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag chSwitzerland
+                                                </li></ul><span>  
+
+</span></div> <div><ul>  <li>flag twTaiwan
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag thThailand
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag aeUnited Arab Emirates
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag ukUnited Kingdom
+                                                </li></ul><span>  
+
+</span><ul>  <li>flag usUnited States
+                                                </li></ul></div> <div><span>  
+
+</span><ul>  <li>flag vnVietnam
+                                                </li></ul><span>  
+
+
+
+
+
+
+</span><div>  mcmlDRegionWarningMessage
+
+</div><span>  mcmlSaveSettingsLabel
+</span><span>  mcmlCancelSettingsLabel
+
+
+</span><div>  
+    Expedia, Inc. is not responsible for content on external Web sites. © 2023 Expedia, Inc, an Expedia Group Company. All rights reserved.
+
+
+
+</div><div>  
+
+
+
+
+</div><p>  This site uses cookies and similar tracking technology. As disclosed in our Privacy Statement, we and our partners may collect personal information and other data. By continuing to use our website, you accept our  Privacy Statement and Terms of Service. <a href="/lp/b/lg-privacypolicy" target="_blank"> Privacy Statement </a><a href="/lp/b/terms-of-service" target="_blank"> Terms of Service </a></p></div> <div><h2>  Your Privacy Choices</h2><span>  Your Opt Out Preference Signal is Honored</span><ul>  <li>How to Make Your Privacy Choices</li><li>Strictly Necessary Cookies</li><li>Do Not Sell or Share My Personal Information/Opt-Out of Targeted Advertising</li></ul></div> <div><h4>  How to Make Your Privacy Choices</h4><p>  You may elect to opt-out from the use of non-essential third-party cookies and any data sharing program with third parties that would be considered a sale under California or Nevada law or Targeted Advertising under Colorado, Connecticut, Virginia or Utah law. To do so, please click on the Do Not Sell or Share My Personal Information/Opt-Out of Targeted Advertising tab to the left.  
+
+Keep in mind that: 
+
+1. You will still receive cookies that are essential to the function of the website; 
+2. You will still see advertising, but it will not be targeted and may not be relevant to you; and 
+3. We will still share your personal data with our service providers and travel suppliers to provide the services on our web site. 
+
+In order to have your opt-out associated with your account, you must be logged in. 
+<a href="lp/lg-privacypolicy" target="_blank"> For more information, see our Privacy Statement </a></p></div> <div><h4>  Strictly Necessary Cookies</h4><div>  Always Active</div><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div> <div><h4>  Do Not Sell or Share My Personal Information/Opt-Out of Targeted Advertising</h4><label>  Do Not Sell or Share My Personal Information/Opt-Out of Targeted Advertising </label><span>  Status: Opt-In</span><p>  Under certain Privacy laws, you may have the right to opt-out of the sale or sharing of your personal information with third parties or the right to opt-out of targeted advertising. The cookies described collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of this data usage by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not sell nor share your personal information with third parties. If you have enabled privacy controls on your browser (such as a plugin), we consider that as a valid request to opt-out, and it will have the same effect as the switch above. </p></div> <div><ul>  <li>Performance Cookies</li><li>Switch Label </li></ul><span>  label</span><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div> <div><ul>  <li>Targeting Cookies</li><li>Switch Label </li></ul><span>  label</span><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div> <div><h3>  Cookie List</h3><span>  Consent </span><span>  Leg.Interest</span><label>  checkbox label </label><span>  label</span><label>  checkbox label </label><span>  label</span><label>  checkbox label </label><span>  label</span><label>  checkbox label </label><span>  label</span><div>  </div></div>

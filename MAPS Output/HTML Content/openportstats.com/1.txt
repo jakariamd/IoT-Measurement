@@ -1,0 +1,8 @@
+<div><h3>  Open Port Statistics</h3></div> <div><h5>  Open port statistics by country.Find your IP address in our database. </h5></div> <div><h3>  Info</h3><p>  Welcome to the automatic IoT scanner. We collect statistics about connected devices. You can see information about connected devices to your IP here.</p></div> <div><h3>  
+              About Us
+            </h3><p>  
+              The Open Port Statistics service was created to collect statistics on open ports and connected devices to the network. If you want to remove your IP address from our database, write to us.
+            </p></div> <div><h3>  
+              Links
+            </h3><p>  All copyrights reserved © 2019
+              </p></div>

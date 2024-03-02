@@ -1,0 +1,43 @@
+<div><h1>  PRIVACY POLICY</h1></div> <div><h4>  1. Information collection</h4><ul>  <li>
+                    To access and use the service at <a href="https://ekyc.vnpt.vn/" target="_blank"> ekyc.vnpt.vn </a>, you will be required to register with personal information (Email, Full Name, Phone Number, Company Name).                </li><li>
+                    When you contact us through the contact form on website <a href="https://ekyc.vnpt.vn/" target="_blank"> ekyc.vnpt.vn </a>, we will save the contact information you have provided.
+                </li><li>
+                    To issue an electronic invoice for each payment, you will be asked to add additional information (Name, Unit name, Tax code, Address, Email).
+                </li></ul></div> <ul><ul>  <li>
+                    We do not collect VNPT eKYC products and services from the way you use them, including: Cookies, IP addresses, biometric information, paper information, operating system version, details about how you have used our products and services, request history, support history, device event information such as breakdown, system activity, hardware settings, browser type , browser, language used, time.
+                </li></ul></ul> <div><h4>  2. Information usage</h4><ul>  <li>
+                    We do not collect and use your personal information
+                </li><li>
+                    We can use the information collected from this website to contact you directly in the forms such as: Product introduction, customer care, promotion, promotion, customer gratitude, thank you letters, SMS, renewal notices, package upgrade notices and other notices, send e-invoices.
+                </li><li>
+                    For the information we collect from VNPT eKYC products and services, we will store in <a href="https://ekyc.vnpt.vn/" target="_blank"> ekyc.vnpt.vn </a> data center, to improve the user data set and use in the Data analysis to improve VNPT eKYC service
+                </li></ul></div> <ul><ul>  <li>
+                    We may use your email address to notify you of our services, such as letting you know about upcoming changes or improvements.
+                </li><li>
+                    We use information collected from cookies and other technologies to improve your user experience and the overall quality of our products and services.
+                </li><li>
+                    We keep all online transaction information of Members strictly confidential, including invoice information in the central data area of ​​<a href="https://ekyc.vnpt.vn/" target="_blank"> ekyc.vnpt.vn </a>.
+                </li></ul></ul> <div><h4>  3. Information storage</h4><ul>  <li>
+                    Members' personal data provided on the website, and data we collect from products and services of VNPT eKYC will be automatically deleted after 15 days or according to member's needs.                </li><li>
+                    If customer requests to delete data on website <a href="https://ekyc.vnpt.vn/" target="_blank"> ekyc.vnpt.vn </a>, please send email to contact_dx@vnpt.vn.                </li></ul></div> <div><h4>  4. Individuals or organizations with access to information</h4><ul>  <li>
+                    We do not share personal information with companies, organizations or individuals outside of the VNPT group in accordance with the law                </li><li>
+                    In case the information storage server is attacked by hacker, causing personal loss of members, <a href="https://ekyc.vnpt.vn/" target="_blank"> ekyc.vnpt.vn </a> will be responsible for the service to notify the authorities to promptly handle and user to be aware.                </li></ul></div> <div><h4>  5. Address of the unit that collects and manages personal information</h4><ul>  <li>
+                    VNPT Information Technology Company - Vietnam Post and Telecommunication Group Branch                </li><li>
+                    Registered business address: No. 57 Huynh Thuc Khang Street, Lang Ha Ward, Dong Da District, Hanoi City                </li><li>
+                    Office: 7th Floor, No. 57 Huynh Thuc Khang Street, Lang Ha Ward, Dong Da District, Hanoi City                </li><li>
+                    Office phone: 02433855588                </li></ul></div> <div><h4>  6. Instruments and tools for users to access and edit personal data</h4><ul>  <li>
+                    Currently the website has deployed a personal information management page of members, so customers can access and edit some personal data such as: Full name, phone number                </li><li>
+                    In addition, some information that we collect from how you use VNPT eKYC products and services, you will not have the right to modify or withdraw.                </li></ul></div> <div><h4>  7. Mechanism for receiving and resolving consumer complaints related to personal information being used for the wrong purpose or jurisdiction announced.</h4></div> <div><h4>  8. Payment information security policy</h4><ul>  <li>
+<b> Privacy statement </b>
+</li><li>
+<b> Privacy regulations </b>
+</li><li>
+                    Dual security with OTP code and 6 digit password                </li><li>
+                    3-D Secure security feature                </li><li>
+                    Meet GeoTrust security standards                </li><li>
+                    Customer's personal information is kept and kept confidentially at the system's servers and guaranteed to be safe in accordance with the State Bank's regulations. Activities that interact directly with servers and machines located in Data Centers must strictly comply with the regulations and procedures on safety, security and security. regulations; meeting the requirements of information technology safety and confidentiality according to regulations of the State Bank and other international security, safety and confidentiality standards.                </li></ul></div> <ul><ul>  <li>
+                    We (<a href="https://ekyc.vnpt.vn/" target="_blank"> ekyc.vnpt.vn </a>) only keep transaction codes encrypted by VNPT Pay Payment Gateway Partner to cross-check payment with VNPT Pay gateway and provide function allowing users to view history their transaction. We do not directly store customer's wallet or card information. The security of Customer's wallet and payment card information is done by a licensed VNPT Pay Payment Gateway Partner.                </li></ul></ul> <div><p>  
+                                Sản phẩm thuộc hệ sinh thái
+                                
+</p></div> <div><h5>  Chính sách</h5></div> <div><h5>  Tải ứng dụng</h5></div> <div><h5>  Kênh truyền thông</h5><span>  ISO 30107-3:  Spoof Detection </span><p>  Công ty công nghệ thông tin VNPT 
+                                Giấy phép / ĐKKD: 0108212803-002 do Sở KHDTHN cấp ngày 12/10/2018</p><span>  © 2020 VNPT. Đã đăng ký bản quyền.</span></div>

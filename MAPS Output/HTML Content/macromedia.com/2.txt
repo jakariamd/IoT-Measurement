@@ -1,0 +1,90 @@
+<div><h4>  What are privacy settings?</h4><p>  Applications that run in Flash Player may want to 
+            have access to the camera and/or microphone available on your computer. Privacy 
+            settings let you specify whether you want applications from a particular website 
+            to have such access. Note that it is the person or company that has created the 
+            application you are using that is requesting such access, not Adobe (unless 
+            Adobe has created the application that wants access to your camera or 
+            microphone). </p></div> <p><p>  It is the responsibility of the person or company requesting access to make 
+            it clear to you why they want access and how they plan to use the audio or 
+            video. You should be aware of the privacy policy of anyone who is requesting 
+            audio or video access. For example, see the <a href="/go/privacy" target="_blank"> Adobe privacy policy </a>. Contact the website requesting access for information 
+            on their privacy policy.</p></p> <p><p>  It's important to understand that even though this settings panel is part of 
+            Flash Player, the audio and video will be used by an application created 
+            by a third party. Adobe assumes no responsibility for third-party privacy 
+            policies, actions of third-party companies in capturing audio or video on your 
+            computer, or such companies' use of such data or information. </p></p> <p><p>  To specify privacy settings for all websites, use the <a href="settings_manager02.html#118539" target="_blank"> Global 
+            Privacy Settings panel </a>. To specify privacy settings for individual websites, 
+            use the <a href="settings_manager06.html#117645" target="_blank"> Website 
+            Privacy Settings panel </a>.</p></p> <div><h4>  What are storage settings?</h4><p>  Applications that run in Flash Player may want to 
+            store some information on your computer, but the amount they can store is 
+            limited to 100 kilobytes unless you agree to allocate additional space. Local 
+            storage settings let you specify how much disk space, if any, applications from 
+            a particular website can use to store information on your computer. Note that it 
+            is the person or company that has created the application you are using that is 
+            requesting such access, not Adobe (unless Adobe has created the application that 
+            wants to save the information). It is the responsibility of the person or 
+            company requesting access to make it clear to you why they want access and how 
+            they plan to use the information they save. You should be aware of the privacy 
+            policy of anyone who is requesting access to your computer. For example, see the 
+            <a href="http://www.adobe.com/go/privacy" target="_blank"> Adobe privacy policy </a>. Contact the website 
+            requesting access for information on their privacy policy.</p></div> <p><p>  It's important to understand that even though this settings panel is part of 
+              Flash Player, the information will be used by an application created by a 
+            third party. Adobe assumes no responsibility for third-party privacy policies, 
+            actions of third-party companies in storing information on your computer, or 
+            such companies' use of such data or information.</p></p> <p><p>  To specify storage settings for websites you haven't yet visited, use the <a href="settings_manager03.html#117498" target="_blank"> Global 
+            Storage Settings panel </a>. To specify storage settings for websites you have 
+            already visited, use the <a href="settings_manager07.html#117717" target="_blank"> Website 
+            Storage Settings panel </a>.</p></p> <div><h4>  What are security settings?</h4><p>  Adobe has designed Flash Player to provide security settings that do not 
+            require you to explicitly allow or deny access in most situations. Over time, as 
+            SWF and FLV content have become more sophisticated, Flash Player has also become more 
+            sophisticated, offering users additional privacy and security protections. 
+            However, you might occasionally encounter older SWF or FLV content that was created 
+            using older security rules. In these cases, Flash Player asks you to make a 
+            decision: You can allow the content to work as its creator intended, using the 
+            older security rules, or you can choose to enforce the newer, stricter rules. 
+            The latter choice helps ensure that you only view or play content that meets the most 
+            recent standards of security, but it may sometimes prevent older SWF or FLV content
+            from working properly.</p></div> <p><p>  When older content runs in a newer version of the player, and Flash Player 
+            needs you to make a decision about enforcing newer rules or not, you may see one 
+            of the following pop-up dialog boxes. These dialog boxes ask your permission 
+            before allowing the older SWF or FLV content to communicate with other locations on 
+            the Internet:</p></p> <ul><ul>  <li>A dialog box might appear alerting you that the SWF or FLV content you are 
+                using is trying to use older security rules to access information from a site 
+                outside its own domain and that information might be shared between two 
+                sites. Flash Player asks if you want to allow or deny such access. 
+                In 
+                addition to responding to the dialog box, you can use the <a href="settings_manager04.html#117502" target="_blank"> Global 
+                Security Settings panel </a> to specify if Flash Player should always ask for 
+                your permission, through the dialog box, before allowing access; always deny 
+                access, without asking first; or always allow access to other sites or domains 
+                without asking your permission.</li></ul></ul> <ul><ul>  <li>(Flash Player 8 and later) If you have downloaded SWF or FLV content to 
+                your computer, a dialog box might appear alerting you that the content is 
+                trying to communicate with the Internet. Flash Player 8 and later versions do 
+                not allow the local SWF or FLV content to communicate with the Internet, by 
+                default. 
+
+                Using the <a href="settings_manager04.html#117502" target="_blank"> Global 
+                Security Settings panel </a>, you can specify that certain  applications that run in Flash Player
+                on your computer may communicate with the Internet. </li></ul></ul> <p><p>  To change your security settings or learn more about your options, see the <a href="settings_manager04.html#117502" target="_blank"> Global 
+            Security Settings panel </a>.</p></p> <div><h4>  What are protected content playback settings?</h4><p>  Some content on the Internet is protected by the content provider using Adobe Flash Access. To enjoy this protected content, users must first get content licenses from the content provider. These content licenses are automatically downloaded to your computer, for example, when you rent or purchase the protected content. Flash Player saves these licenses on your computer. 
+
+  To manage or deactivate these licenses, use the <a href="settings_manager08.html" target="_blank"> Protected Content Playback Settings panel </a>.</p></div> <div><h4>  What are peer-assisted networking settings?</h4><p>  A website that serves audio and video to your computer can deliver the content with better performance if users who are playing the same content share their bandwidth. Sharing bandwidth allows the audio or video to play more smoothly, without skips or pauses from buffering. This is called peer-assisted networking, since peers on the network assist each other to provide a better experience. Flash Player  only shares bandwidth using peer-assisted networking with your permission.</p></div> <p><p>  If you  enable this option, you are not agreeing to share your bandwidth whenever an application wants to use it. You are only allowing applications to ask you whether you want to share your bandwidth. In most cases, you want to share your bandwidth only when you are using a high-speed Internet connection.</p></p> <p><p>  Note  that sharing your bandwidth increases the amount of data your network provider  delivers to your device. If you pay a flat monthly fee for unlimited network data, using peer-assisted networking won't increase your monthly bill.</p></p> <p><p>  However, if you pay for a limited amount of data  or are unsure how you are charged for network usage, you probably want to disable peer-assisted networking. If you do so, you will never be asked whether you want to share your bandwidth.</p></p> <p><p>  To specify whether or not to use peer-assisted networking, use the <a href="settings_manager09.html" target="_blank"> Peer-Assisted Networking panel </a>.</p></p> <div><h4>  If I've already set privacy and disk space options in my 
+            browser, do I need to do it again?</h4><p>  You may be aware that some websites work together with your browser to store 
+            small amounts of data, called cookies, on your computer for their own 
+            use in the future. For example, when you go to a website regularly, it may 
+            welcome you by name; your name is probably stored in a cookie, and you can use 
+            browser options to determine whether you want cookies or not. You may also have 
+            specified in your browser that pages you visit can take up only a certain amount 
+            of disk space.</p></div> <p><p>  When SWF or FLV content is being played, the settings you select for Flash Player 
+            are used in place of options you may have set in your browser. That is, even if 
+            you have specified in your browser settings that you do not want cookies placed 
+            on your computer, you may be asked if an  application that runs in Flash Player can store information. 
+            This happens because the information stored by Flash Player is not the same as a 
+            cookie; it is used only by the  application and has no relation to any 
+            other Internet privacy or security settings you may have set in your browser.</p></p> <p><p>  Similarly, the amount of disk space you let the  application use has no 
+            relation to the amount of disk space you have allotted for stored pages in your 
+            browser. That is, when SWF or FLV content is being played, the amount of disk space 
+            you allow here is in addition to any space your browser is using for stored 
+            pages.</p></p> <p><p>  No matter how you may have configured your browser, you still have the option 
+            to allow or deny the application that runs in Flash Player permission to store the information and 
+            to specify how much disk space the stored information can occupy.</p></p> <div><span>  United States <a href="/go/gffooter_choose_region" target="_blank"> (Change) </a></span><span>  Choose your region</span><p>  Americas</p><p>  Europe, Middle East and Africa</p><p>  Asia Pacific</p><p>  Commonwealth of Independent States</p><p>  Copyright © 2023 Adobe Systems Incorporated.  All rights reserved.</p></div>

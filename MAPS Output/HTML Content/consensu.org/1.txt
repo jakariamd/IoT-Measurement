@@ -1,0 +1,133 @@
+<div><span>  
+
+</span><div>  
+
+
+</div></div> <div><h2>  Consent Management Provider registration requirements for TCF
+</h2><p>  
+                        Applicants for approved CMP status in the context of the Framework must provide the following information to and inform IAB Europe if there are any changes to the information provided.
+                    
+<strong> Please complete the following if you wish to apply for approved Consent Management Provider (CMP) status </strong>
+
+</p><div>  
+
+
+</div><label>  Legal name</label><div>  
+
+</div><div>  
+
+
+
+</div></div> <div><label>  Billing entity name</label><div>  
+
+
+</div><div>  
+
+
+</div><label>  Contact Person first name</label><div>  
+
+</div><div>  
+
+
+</div><label>  Contact Person last name</label><div>  
+
+</div><div>  
+
+
+</div><label>  Contact Email</label><div>  
+
+</div><div>  
+
+
+</div><label>  Website</label><div>  
+
+</div><div>  
+
+
+
+</div><div>  
+
+                        CMP will be used for own purposes
+                    
+</div><div>  
+
+                        CMP services will be offered to others
+                    
+</div></div> <div><label>  Contact Person legal/policy</label><div>  
+
+</div><label>  Contact Email legal/policy</label><div>  
+
+
+</div><div>  
+
+
+</div><div>  Agree to the <u> Terms & Conditions of the Framework </u> *
+
+
+
+</div><div>  
+
+
+</div><div>  
+                            Commitment to comply with all relevant law and regulations *
+                        
+
+
+</div><div>  
+
+
+</div><div>  Commitment to comply with the <u> Framework policies v2.0 </u> *
+
+
+
+</div><div>  
+
+
+</div><div>  
+                            Attest to the existence of a company privacy and data protection compliance program covering the General Data Protection Regulation and ePrivacy Directive *
+                        
+
+
+</div></div> <div><div>  
+
+
+</div><div>  
+                            Agreement to pay an annual fee of Euro 1575 charged by IAB Europe *
+                        
+
+
+
+</div></div> <div><h4>  Disclaimer
+</h4><div>  
+                        IAB Europe provides no warranty, express or implied, as to the compliance with any relevant law or regulation including, but not limited to, Regulation (EU) 2016/679 of any consent obtained by any publisher and communicated to the Vendor. IAB Europe shall in no circumstances be liable for any claim howsoever arising as a result of any failure to properly obtain consent from any user whose personal data is subsequently processed in breach of any applicable law or regulation.
+                        
+                        IAB Europe provides no warranty, express or implied, as to the compliance of any data processing activity carried out by any Vendor. In the event of a claim against IAB Europe arising out of or in connection with a failure by the Vendor to comply with relevant laws or regulations relating to the processing of personal data relating to consent purportedly communicated through the Framework, the Vendor shall indemnify IAB Europe against all liabilities, costs, expenses, damages and losses (including but not limited to any direct, indirect or consequential losses, loss of profit, loss of reputation and all interest, penalties and legal costs (calculated on a full indemnity basis) and all other professional costs and expenses) arising therefrom.
+                    
+
+</div></div> <div><div>  
+
+</div><div>  
+
+</div><div>  
+<font> Please complete mandatory fields. </font>
+
+
+
+</div><div>  
+
+</div><div>  
+
+
+
+
+
+</div><div>  
+
+
+</div><p>  
+                    The IAB Europe Transparency & Consent Framework registration website uses a single session cookie
+                    to ensure the website functions securely. For more information on how data gathered during the registration process is used,
+                    please refer to IAB Europe's <a href="https://iabeurope.eu/privacy-policy/" target="_blank"> Privacy Policy. </a>
+
+
+</p></div> <div><div>  </div></div>

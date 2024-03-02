@@ -1,0 +1,4 @@
+<div><h1>  Hmm. We’re having trouble finding that site.</h1><p>  We can’t connect to the server at static-hw.xnxx-cdn.com.</p><p>  What can you do about it?</p><span>  <strong> If you entered the right address, you can: </strong></span><ul>  <li>Try again later</li><li>Check your network connection</li><li>Check that Firefox has permission to access the web (you might be connected but behind a firewall)</li></ul><p>  You can continue with your default DNS resolver. However, a third-party might be able to see what websites you visit.</p></div> <p><p>  You can continue with your default DNS resolver. However, a third-party might be able to see what websites you visit.</p></p> <p><p>  It looks like your network security settings might be causing this. Do you want the default settings to be restored?</p></p> <div><p>  
+
+</p><label>  Report errors like this to help Mozilla identify and block malicious sites
+</label></div>

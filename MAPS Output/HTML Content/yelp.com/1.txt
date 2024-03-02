@@ -1,0 +1,57 @@
+<div><h1>  Your Privacy Choices
+</h1><div>  Depending on where you reside, you may have certain rights around Yelp’s use, disclosure and retention of your personal information. More information about these data rights, including how they relate to Yelp’s services, can be found in Yelp’s <a href="https://www.yelp.com/tos/privacy_policy?" target="_blank"> Privacy Policy </a>.
+</div></div> <div><h3>  Yelp Does Not Sell Your Personal Information
+Yelp does not sell your personal information and will not do so in the future without providing you with notice and an opportunity to opt-out of such sale as required by law.  As such, because it is inapplicable to Yelp we do not currently offer an opt-out of the sale of data. Similarly, we do not offer financial incentives associated with our collection, use, or disclosure of your personal information. 
+
+</h3></div> <div><h3>  Managing Your Sensitive Personal Information
+Sensitive personal information is a subcategory of personal information defined by applicable law that includes information like precise geolocation, certain health-related data, and data concerning potentially sensitive subjects like an individual’s sexual orientation, race, ethnicity, or religion. The types of sensitive personal information Yelp might receive about you include precise geolocation, preferences that potentially may be related to your religious or other beliefs (for example, where you’ve set a preference for “kosher” or “halal” food), and certain information contained in the content you choose to post on Yelp. Yelp does not collect or process your sensitive personal information without your consent.  For example, in order for Yelp to receive your precise geolocation, you must opt-in to sharing your location through your mobile device.  Any other sensitive personal information, such as information shared through preferences or in the content you choose to post on Yelp, can be removed at any time through your account.<strong> How to Remove Geolocation Consent </strong>You can remove permission for your mobile device to share your geolocation with Yelp by adjusting your device settings. 
+</h3></div> <div><p>  <strong> To turn off location access on an iPhone or iPad </strong>
+</p><div>          1.  Tap on your device's <strong> Settings </strong> app        2.  Tap <strong> Privacy </strong>        3.  Tap <strong> Location Services </strong>        4.  Scroll down to the Yelp app icon        5.  Select <strong> Never </strong>
+</div><p>  ​<strong> To turn off location access on an Android device  </strong>
+</p><div>          1.  Tap on your device's <strong> Settings  </strong>        2.  Tap <strong> Location </strong>        3.  Tap App <strong> access to location </strong>        4.  Select the Yelp app icon        5.  Select <strong> Don’t allow </strong> under “Location access for this app”
+<strong> Removing Consent to Process Other Sensitive Personal Information  </strong>You can generally remove content you choose to share on Yelp and, with limitations, can edit certain content as well. You can learn more about removing or editing reviews that you have posted <a href="https://www.yelp-support.com/Posting_Reviews?l=en_US" target="_blank"> here </a>. Certain preferences that you share on Yelp, such as “kosher” or “halal”, may potentially permit your sensitive personal information to be inferred. Information on editing these preferences through your account settings can be found <a href="https://www.yelp-support.com/article/000054733?" target="_blank"> here </a>.
+
+</div></div> <div><h3>  Opting-Out of Targeted Advertising or Sharing Data for Targeted Advertising
+Yelp may use data collected about your activity on Yelp to serve you ads off of Yelp. For example, if you search for a plumber on Yelp, then visit a news website, we may facilitate showing you an ad for a plumber on that site. You can opt-out of this type of targeted advertising, in which case we also won’t share your personal information with our service providers to display advertising off Yelp, by taking the steps below. Please note that opting out of targeted advertising off of Yelp will not affect the ads you see on Yelp. 
+</h3></div> <div><div>  <strong> To opt-out of targeted advertising  </strong>        1.  Go to the <a href="https://yelp.com/profile?" target="_blank"> Account Settings </a> section of your account or tap <strong> More </strong>, then <strong> Settings </strong> on the Yelp app        2.  Click or tap on <a href="https://www.yelp.com/profile_privacy?" target="_blank"> Privacy Settings </a>        3.  Scroll down to “Ads Displayed off Yelp”        4.  For app users, select “<strong> No </strong>” for “Ads Displayed off Yelp”. For website users, uncheck “Allow Yelp to target ads on other sites and apps”
+Once this setting is changed, it may take some time for the change to take effect. You can adjust this setting at any time. Please note that if you are not logged into your account on some or all of your devices, your opt-out of targeted advertising through your account will not apply to your activity on those logged-out devices. In order to opt-out of targeted advertising on logged-out devices, either log-in to your account on that device, or follow the steps as described below to opt-out of ad targeting cookies. Note that you must follow these steps for each logged-out device.<strong> Manage Ad Tracking Cookies </strong>For logged-out users, you can opt-out of targeted advertising—and sharing personal information for the purposes of targeted advertising—by opting out of ad targeting cookies on your devices through the “<strong> Manage Cookies </strong>” button in Yelp’s <a href="https://terms.yelp.com/privacy/en_us/20220831_en_us/#cookies?" target="_blank"> Privacy Policy </a>. Note that you must opt-out of targeting cookies for each device.<strong> Manage Mobile App Preferences (iOS and Android)  </strong>You can also manage your software development kit (SDK) preferences on Yelp’s mobile applications as described below.  Note that if you are not logged-in, you must change your settings for each device. <strong> To turn off functional and/or analytics SDKs (iOS and Android) </strong>        1.  Tap <strong> More </strong>, then <strong> Settings </strong> on the Yelp app        2.  Tap on Mobile App Preferences        3.  Scroll down to “Functional” and/or “Analytics”        4.  Toggle off “Functional” and/or “Analytics”Once this setting is changed, it may take some time for the change to take effect. You can adjust this setting at any time. If you turn off Targeting SDKs, you will still see the same number of ads on Yelp, but they won’t be as personalized. If you don’t see “Mobile App Preferences” in your Settings, please update your app to the newest version. 
+</div></div> <p><p>  Need Help? Call us. 
+</p></p> <div><p>  (877) 767-9357
+
+</p><p>  Mon-Fri, 5am-6pm PT | Average wait 1-3 mins
+
+</p><p>  Need Help? Call us. 
+</p><p>  (877) 767-9357
+
+</p><p>  Available Mon-Thurs, 5am - 7pm PST; Fri, 5am - 6pm PST; Sat-Sun, 8am - 4pm PST.
+</p><p>  Average wait time: less than 30 secs.
+
+</p><p>  Need Help? Call us. 
+</p><p>  (888) 717-0532
+
+</p><p>  Available Mon-Thurs, 5am - 7pm PST; Fri, 5am - 6pm PST; Sat-Sun, 8am - 4pm PST.
+</p><p>  Average wait time: less than 30 secs.
+
+</p></div> <div><h3>  About
+</h3></div> <div><h3>  Discover
+</h3></div> <div><h3>  Yelp for Business
+</h3></div> <div><h3>  Language
+</h3><span>  English
+</span><ul>  <li>
+<a href="/article/Your-Privacy-Choices?l=en_US" target="_blank"> English </a>
+
+
+
+
+
+
+
+
+</li></ul><small>  
+                            Copyright © 2004–2023 Yelp Inc. Yelp, ,  and related marks are registered trademarks of Yelp.
+                        
+
+
+
+
+</small></div>

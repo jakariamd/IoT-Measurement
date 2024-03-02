@@ -1,0 +1,1 @@
+HTTP ERROR 400 Bad Request URI: /5/ct=y/c=6250/rand=810503292/pv=y/int=%23OpR%2344945%23https%3A%20%3A%20Total%20Site%20Traffic/int=%23OpR%2384742%23www.irishnews.com%20%3A%20Site%20Section%20%3A%20privacy/ug=%23OpR%2345175%23GrapeShot%20%3A%20Channel%20%3A%20DEFAULT/rt=ifr STATUS: 400 MESSAGE: Bad Request SERVLET: CCServlet_v5 Powered by Jetty:// 9.4.38.v20210224

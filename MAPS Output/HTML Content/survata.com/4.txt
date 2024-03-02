@@ -1,0 +1,28 @@
+<div><h2>  How Upwave’s Privacy Moves Actually Boost Measurement Accuracy</h2><p>  There are two ways for advertisers and their tech partners to respond to the growth of privacy safeguards such as Chrome’s planned deprecation of 3rd-party cookie support and Apple’s planned changes to IDFA. </p><p>  On the one hand, advertising platforms can resist the arrival of privacy safeguards by using workarounds that are ultimately short-lived. When adtech companies purport to use something like “passive, probabilistic technology to construct cookieless privacy-safe identity on the edge,” you can be sure they are using fingerprinting in a futile cat-and-mouse game that will leave you switching adtech partners every 6-12 months. </p></div> <p><p>  On the other hand, advertising platforms can welcome privacy safeguards as exciting opportunities to develop new, better products for customers. At Upwave, we have dived head-first into the vast pool of opportunities created by new privacy safeguards. We are excited to share some of the ways brand outcome measurement will actually be more accurate as a result. One of these developments – household-level intercept — will happen in the coming weeks and months, and is the subject of this whitepaper. </p></p> <div><ul>  <li>Menu Toggle</li></ul><span>  Brand Optimization</span><span>  Brand Reach</span><span>  Brand Outcomes</span><ul>  <li>Menu Toggle</li><li>Menu Toggle</li><li>Menu Toggle</li></ul></div> <div><h2>  Platform</h2><ul>  <li>Platform
+</li><li>Allocate with Brand Optimization
+</li><li>Validate with Brand Reach
+</li><li>Measure with Brand Outcomes
+</li><li>Track with Brand Effects
+</li><li>Campaign and Portfolio Views
+</li></ul></div> <div><h2>  Insights</h2><ul>  <li>Digital Network
+</li><li>Partner Ecosystem
+</li><li>Whitepapers
+</li><li>Blog
+</li><li> Analytics Engine
+</li><li>Knowledge Base
+</li><li>Blog
+</li><li>Events
+</li></ul></div> <div><h2>  Company</h2><ul>  <li>About
+</li><li>Careers
+</li><li>Press
+</li></ul><p>  1160 Battery Street East, Suites 100 San Francisco, CA 94111</p><ul>  <li>Privacy Policy
+</li></ul><span>  Terms & Conditions
+</span><span>  Publisher Policy
+</span><span>  Transparency In Coverage
+</span><span>  CPRA Notice
+</span><p>  © 2021 Upwave. All Rights Reserved.</p><span>  Twitter
+</span><span>  Facebook
+</span><span>  Linkedin
+</span><span>  Phone-alt
+</span><span>  Envelope
+</span><label>  Company name</label></div> <div><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label></div> <div><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label></div> <div><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label><label>  Company name</label></div> <div><label>  Email</label><label>  First name</label><label>  Last name</label><label>  Job title</label><label>  How did you hear about Upwave?</label><label>  UTM Campaign</label><label>  UTM Medium</label><label>  UTM Source</label></div>

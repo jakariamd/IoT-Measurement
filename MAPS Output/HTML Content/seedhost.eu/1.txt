@@ -1,0 +1,12 @@
+<div><h1>  Privacy Policy</h1></div> <div><h4>  SeedHost.eu treat their clients' privacy seriously and will take all measures to protect your personal information. All personal data will only be used to proceed your order. We will not sell, redistribute, reuse or rent your information to anyone.</h4></div> <div><h2>  Personal Details</h2></div> <div><h4>  SeedHost.eu ask your Name, Address, Email etc. so that we can easily contact you and deliver the service. SeedHost.eu may also use these details for their future promotions. We only request information that we need to complete your order. This includes:
+Billing Address
+Email Address
+Only your billing data and order contents are stored on our server. This information is encrypted using a Secure Sockets Layer before it is transmitted over a web server. We do not store your Credit Card data.</h4></div> <div><h2>  Company Details</h2></div> <div><h4>  SeedHost
+Torunska 14/25
+99340 Krosniewice
+Poland
+VAT EU: PL7752098695</h4><td>  RESOURCES
+</td><td>  HELP & SUPPORT
+</td><td>  SERVICES
+</td><td>  FOLLOW US
+</td><td>  <a href="/terms-of-service.php" target="_blank"> Terms of service </a>      |     <a href="/privacy-policy.php" target="_blank"> Privacy policy </a>     |     <a href="/money-back-policy.php" target="_blank"> Refund policy </a></td><td>  seedhost © All rights reserved</td><p>  This website uses cookie files, by using it you consent to the use of cookies in accordance with the browser settings.</p></div>

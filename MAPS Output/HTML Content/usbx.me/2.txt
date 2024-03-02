@@ -1,0 +1,205 @@
+<div><h1>  Data Handling Policy</h1><p>  At Ultra.cc, we ask and store the minimum amount of information from you that is necessary to maintain our records and provide the services that you’d expect from us. The Ultra.cc team is also well-trained to handle your data with the utmost privacy and security in mind and are required to observe strict rules, which includes using strong credentials and multi-factor authentication.
+Also, all of the payment processing is entirely handled by our payment processors, and none of your financial information is stored to Ultra.cc, aside from the user’s payment and their respective transaction IDs.</p></div> <div><h3>  Email</h3><ul>  <li><strong> Uses </strong>
+</li><li>Serve as your login on your Ultra.cc Client Area and Ultra.cc Control Panel.</li><li>Point of contact for Ultra.cc service announcements</li><li>Point of contact for Ultra.cc Ticket System inquiries
+</li><li><strong> Collection </strong>
+</li><li>The user provides this during signup.
+</li><li><strong> Storage </strong>
+</li><li>WHMCS = Cleartext</li><li>Django Suit = Cleartext
+</li><li><strong> Access and Reasons for Access </strong>
+</li><li>User</li><li>Ultra.cc team
+</li></ul></div> <ul><ul>  <li>This is for contacting the user for support or any service announcements.
+
+</li><li><strong> Retention </strong>
+</li><li>Indefinite
+</li><li><strong> More information </strong>
+</li><li>Sensitive Data Removal Policy
+</li></ul></ul> <div><h3>  Username</h3><ul>  <li><strong> Uses </strong>
+</li><li>This is to identify the user on the Ultra.cc Ticket System.</li><li>It also will be the name of the user’s Ultra.cc slot.</li><li>It’ll be registered as a local user on the server that the user’s slot has deployed in. This will also show any running processes that the user has.</li><li>It’ll also serve as the user’s username for installed applications.
+</li><li><strong> Collection </strong>
+</li><li>The user provides this during signup.
+</li><li><strong> Storage </strong>
+</li></ul></div> <ul><ul>  <li>WHMCS = Cleartext</li><li>Django Suit = Cleartext</li><li>Installed Applications = Depends on the Application
+</li><li><strong> Access and Reasons for Access </strong>
+</li><li>User</li><li>Ultra.cc team
+</li><li>This is needed for any support inquiries.</li><li>This is also required to investigate any server issues by searching for applications that have high resource consumption, server instability source, or any illegitimate applications that the user runs.
+
+</li><li><strong> Retention </strong>
+</li></ul></ul> <div><ul>  <li>Indefinite
+</li><li><strong> More Information </strong>
+</li><li>Sensitive Data Removal Policy
+</li></ul></div> <div><h3>  Country</h3><ul>  <li><strong> Uses </strong>
+</li><li>This is to compute taxes that apply to the user’s country of their choosing.
+</li><li><strong> Collection </strong>
+</li><li>The user provides this during signup.
+</li><li><strong> Storage </strong>
+</li><li>WHMCS = Cleartext
+</li><li><strong> Access and Reasons for Access </strong>
+</li><li>User</li><li>Ultra.cc team
+</li><li><strong> Retention </strong>
+</li><li>Indefinite
+</li><li><strong> More Information </strong>
+</li><li>Sensitive Data Removal Policy
+</li></ul></div> <div><h3>  Password</h3></div> <div><h4>  Ultra.cc Client Area Password</h4><ul>  <li><strong> Uses </strong>
+</li><li>Serve as the user’s password on your Ultra.cc Client Area.
+</li><li><strong> Collection </strong>
+</li><li>The user provides this during signup on the Ultra.cc Client Area.
+</li><li><strong> Storage </strong>
+</li><li>WHMCS = Encrypted
+</li><li><strong> Access and Reasons for Access </strong>
+</li><li>User
+</li><li>Limited access by the Ultra.cc team
+</li><li>The Ultra.cc team has no means of seeing the user’s password as it is hashed, but they can reset your password for you after verification.
+</li></ul></div> <div><ul>  <li><strong> Retention </strong>
+</li><li>Indefinite
+</li><li><strong> More Information </strong>
+</li><li>Sensitive Data Removal Policy</li><li>Password Policy
+</li></ul></div> <div><h4>  Ultra.cc Control Panel Password</h4><ul>  <li><strong> Uses </strong>
+</li><li>Serve as the user’s password on the Ultra.cc Control Panel to gain access to their slot.
+</li><li><strong> Collection </strong>
+</li><li>The user provides this after the deployment of the user’s slot.
+</li><li><strong> Storage </strong>
+</li><li>Django Suit = Encrypted
+</li><li><strong> Access and Reasons for Access </strong>
+</li><li>User
+</li><li>Limited access by the Ultra.cc team
+</li><li>The Ultra.cc team has no means of seeing the user’s password as it is hashed, but they can reset your password for you after verification.
+</li></ul></div> <div><ul>  <li><strong> Retention </strong>
+</li><li>Indefinite
+</li><li><strong> More Information </strong>
+</li><li>Sensitive Data Removal Policy</li><li>Password Policy
+</li></ul></div> <div><h4>  Application Passwords</h4><ul>  <li><strong> Uses </strong>
+</li><li>Serve as the password for the user’s installed applications.
+</li><li><strong> Collection </strong>
+</li><li>The user provides this after the deployment of the user’s slot.
+</li><li><strong> Storage </strong>
+</li><li>Django Suit = Cleartext</li><li>Installed Applications = Depends on the Application
+</li><li><strong> Access and Reasons for Access </strong></li><li>User</li><li>Ultra.cc team
+</li><li>This is needed to provide application-specific support inquiries, with the user’s permission.
+</li></ul></div> <div><ul>  <li><strong> Retention </strong>
+</li><li>Until the user uninstalls the application
+</li><li><strong> More Information </strong>
+</li><li>Sensitive Data Removal Policy</li><li>Password Policy
+</li></ul></div> <div><h3>  Payment Processing</h3></div> <div><h4>  PayPal</h4><ul>  <li><strong> Uses </strong>
+</li><li>Serves as one of Ultra.cc payment gateways
+</li><li><strong> Collection </strong>
+</li><li>Payment processing is done entirely by PayPal. The only data that is saved in WHMCS under the user’s account is the <strong> PayPal Transaction ID </strong>.
+</li><li><strong> Storage </strong>
+</li><li>WHMCS = Cleartext (PayPal Transaction ID)
+</li><li><strong> Access and Reasons for Access </strong></li><li>Ultra.cc Sales Team
+</li><li>The Ultra.cc Sales Team may verify the user’s information with PayPal as part of our sales process.
+</li></ul></div> <div><ul>  <li><strong> Retention </strong>
+</li><li>Indefinite
+</li></ul></div> <div><h4>  Stripe</h4><ul>  <li><strong> Uses </strong>
+</li><li>Serves as one of Ultra.cc payment gateways
+</li><li><strong> Collection </strong>
+</li></ul><p>  Payment processing is done entirely by Stripe. The only data that is saved in WHMCS under the user’s account is the <strong> Stripe Payment ID, Hash, Card's last four digits and expiry </strong>.
+</p><p>  <strong> Storage </strong>
+</p><ul>  <li>WHMCS = Cleartext (Stripe Payment ID)
+</li></ul><p>  <strong> Access and Reasons for Access </strong>
+</p></div> <ul><ul>  <li>Ultra.cc Sales Team
+</li><li>The Ultra.cc Sales Team may verify the user’s information with Stripe as part of our sales process.
+</li><li><strong> Retention </strong>
+</li><li>Indefinite
+</li></ul></ul> <div><h4>  Coinbase Payment API</h4><ul>  <li><strong> Uses </strong>
+</li><li>Serves as one of Ultra.cc payment gateways
+</li><li><strong> Collection </strong>
+</li><li>Payment processing is done entirely by Coinbase. The only data that is saved in WHMCS is the <strong> Coinbase Order Code and Confirmation Hash </strong>.
+</li><li><strong> Storage </strong>
+</li><li>WHMCS = Cleartext (Order Code and Confirmation Hash)
+</li><li><strong> Access and Reasons for Access </strong></li><li>Ultra.cc Sales Team
+</li><li>The Ultra.cc Sales Team may verify the user’s information with Coinbase as part of our sales process.
+</li></ul></div> <div><ul>  <li><strong> Retention </strong>
+</li><li>Indefinite
+</li></ul></div> <div><h3>  Logs and Analytics</h3></div> <div><h4>  Server Metrics</h4><ul>  <li><strong> Uses </strong>
+</li><li>This is to view the health and resource usage of the servers.
+</li><li><strong> Collection </strong>
+</li><li>The user provides this after the deployment of the user’s slot.
+</li><li><strong> Storage </strong>
+</li><li>Ultra.cc Servers = Cleartext</li><li>Django Suit = Cleartext</li><li>Sentry.io = Cleartext
+</li><li><strong> Access and Reasons for Access </strong></li><li>User
+</li><li>Server metrics can be viewed using various Linux utilities installed on your slot. The following are the major metrics can be seen:
+</li></ul></div> <ul><ul>  <li>CPU Usage</li><li>Swap Usage</li><li>RAM Usage</li><li>1/5/15 Load Average</li><li>Your running processes</li><li>Processes run by other users on the same server are not accessible by you.</li><li>Input/Output metrics</li><li>Disk space</li><li>Quota disk space (your allocated disk space)</li><li>Physical disk space
+
+</li><li>Ultra.cc Team
+</li><li>In addition to the metrics above, the Ultra.cc team uses Sentry.io to quickly aggregate all metrics from all of the servers and warn the team of any errors in any servers.</li></ul></ul> <ul><ul>  <li>Server metrics can be used for support inquiries and to investigate any resource abuse in any server.
+</li><li><strong> Retention </strong>
+</li><li>Indefinite
+</li></ul></ul> <div><h4>  Authentication Logs</h4></div> <div><h5>  Ultra.cc Control Panel Login Attempts</h5><ul>  <li><strong> Uses </strong>
+</li><li>Any invalid access accepts are logged into Django Suit, which bars the user from logging into the UCP after a certain number of attempts for a certain period of time. This includes the following:
+</li><li>Username, as inputted by the user</li><li>IP address</li><li>Number of attempts</li><li>Last date of attempt
+
+</li><li><strong> Collection </strong>
+</li><li>These are collected when a user enters his credentials incorrectly.
+</li><li><strong> Storage </strong>
+</li></ul></div> <ul><ul>  <li>Django Suit = Cleartext
+</li><li><strong> Access and Reasons for Access </strong></li><li>Ultra.cc Team
+</li><li>These are used to identify any brute-force attempts</li><li>User can also request to lift his timeout and remove the access attempt, upon request and verification via the Ticket system
+</li><li><strong> Retention </strong>
+</li><li>24 hours or if the user requests it.
+</li></ul></ul> <div><h5>  sshd Logs</h5><ul>  <li><strong> Uses </strong>
+</li><li>Standard logs created by the SSH Daemon. It’s located at 
+</li><li><strong> Collection </strong>
+</li><li>These are collected when SSH Daemon is operational
+</li><li><strong> Storage </strong>
+</li><li>Ultra.cc Servers = Cleartext
+</li><li><strong> Access and Reasons for Access </strong></li><li>Limited Access Ultra.cc team
+</li><li>These are checked for possible network intrusions, checking certificates for expiry and SSH daemon troubleshooting by the Ultra.cc Technical Support Team and are accessed only when necessary.
+</li></ul></div> <div><ul>  <li><strong> Retention </strong>
+</li><li>Indefinite
+</li></ul></div> <div><h4>  System Generated Logs</h4><ul>  <li><strong> Uses </strong>
+</li><li>Server-wide generated logs, used in identifying any issues on the servers.
+</li><li><strong> Collection </strong>
+</li><li>These are logs that are generated by the operating system of the servers.
+</li><li><strong> Storage </strong>
+</li><li>Ultra.cc Servers = Cleartext</li><li>Sentry.io = Cleartext
+</li><li><strong> Access and Reasons for Access </strong></li><li>Limited Access Ultra.cc team
+</li><li>They are used to identify any issues in a specific server.</li></ul></div> <ul><ul>  <li>The logs are also aggregated by Sentry.io, which warns the team of any errors in any servers.
+</li><li><strong> Retention </strong>
+</li><li>Indefinite
+</li></ul></ul> <div><h4>  Logs Generated by Installed Applications</h4><ul>  <li><strong> Uses </strong>
+</li><li>Logs generated by your installed applications, used in identifying issues within your slot.
+</li><li><strong> Collection </strong>
+</li><li>The user’s installed applications generate these logs.
+</li><li><strong> Storage </strong>
+</li><li>Django Suit = Cleartext</li><li>Installed Applications = Cleartext
+</li><li><strong> Access and Reasons for Access </strong></li><li>User</li><li>Ultra.cc team
+</li><li>This is needed to provide application-specific support inquiries, with your permission.
+</li></ul></div> <ul><ul>  <li><strong> Retention </strong>
+</li><li>Until the user uninstalls the application or removes it.
+</li></ul></ul> <div><h4>  User’s bash History</h4><ul>  <li><strong> Uses </strong>
+</li><li>This is a record of all the commands entered by the user on the slot’s shell. It’s located in 
+</li><li><strong> Collection </strong>
+</li><li>Each command entered on the shell is recorded.
+</li><li><strong> Storage </strong>
+</li><li>Ultra.cc Servers = Cleartext
+</li><li><strong> Access and Reasons for Access </strong></li><li>User</li><li>Ultra.cc team
+</li><li>These are used for general or application-specific inquiries such as checking if the entered commands by the user are correct.</li></ul></div> <ul><ul>  <li>Also used to check for possible intrusions or server abuse.
+</li><li><strong> Retention </strong>
+</li><li>Indefinite until the user removes it.
+</li></ul></ul> <div><h4>  Hosted Data</h4></div> <div><h5>  Installed Applications</h5><ul>  <li><strong> Uses </strong>
+</li><li>Essential files for installed applications to run properly
+</li><li><strong> Collection </strong>
+</li><li>The user installs this on your slot.
+</li><li><strong> Storage </strong>
+</li><li>Ultra.cc Servers = Depends on the Application
+</li><li><strong> Access and Reasons for Access </strong></li><li>User</li><li>Ultra.cc team
+</li><li>This is for application-centric support inquiries, with the user’s permission.
+</li><li><strong> Retention </strong>
+</li><li>Indefinite until the user removes it.
+</li></ul></div> <div><h5>  User Data</h5><ul>  <li><strong> Uses </strong>
+</li><li>Data created by the user and/or the user’s applications and is stored on the user’s slot.
+</li><li><strong> Collection </strong>
+</li><li>This is created by the user and/or the user’s applications.
+</li><li><strong> Storage </strong>
+</li><li>Ultra.cc Servers = Cleartext
+</li><li><strong> Access and Reasons for Access </strong></li><li>User
+</li><li>The user’s files are stored in one of the home folders in one of Ultra.cc servers and are isolated from other users. Only the user can access it.
+</li></ul></div> <ul><ul>  <li>Ultra.cc team
+</li><li>This can be accessed for any support inquiries, with the user’s permission.
+</li><li><strong> Retention </strong>
+</li><li>Indefinite until the user removes it.
+</li><li>For any legitimate DMCA takedown notices, we’ll be informing the user and be asked to delete said content within 24 hours.
+
+</li><li><strong> More Information </strong>
+</li><li>Abuse Policy</li><li>Sensitive Data Policy
+</li></ul></ul> <div><span>  Content Abuse Policy</span><span>  Global Privacy Practices</span></div> <div><h5>  Details</h5><span>  Created 2 years ago</span><span>  1 year ago</span></div> <div><h5>  Actions</h5><span>  Revisions</span><span>  Export</span><ul>  <li>Contained Web File</li></ul><span>  .html</span><ul>  <li>PDF File</li></ul><span>  .pdf</span><ul>  <li>Plain Text File</li></ul><span>  .txt</span><ul>  <li>Markdown File</li></ul><span>  .md</span><span>  Back to top</span></div>

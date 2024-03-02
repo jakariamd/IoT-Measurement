@@ -1,0 +1,1 @@
+Public Key Infrastructure Policies You can download the policies for the individual certificates here: Certificate Revocation List You can download the Certificate Revocation List here: Root certificates You can download the root certificates of the CA here: New ADFS certificates (valid until 2023) Here you can Download the token signing and token encryption of the ADFS server:

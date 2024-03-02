@@ -1,0 +1,27 @@
+<div><h1>  FAQ</h1><ul>  <li><b> What is Powvideo? </b>
+Powvideo is a file hosting provider. We offer online storage/remote backup capacity, sophisticated uploading and downloading tools.
+With Powvideo you can host files, images, videos, audio and flash on the same place.
+
+</li><li><b> Why should I use Powvideo? </b>
+Whenever you need to send a file that is too large for e-mail, Powvideo can help.
+If you need secure remote storage capacity for off-site backups, Powvideo offers solutions for you.
+If you want to access personal data from a variety of computers and don't want to carry around a USB stick, Powvideo is a perfect way of doing so.
+
+</li></ul></div> <ul><ul>  <li><b> Can I search for files other people uploaded? </b>
+No, because not everyone wishes to share the files they upload with everyone else. This way Powvideo can be used to share files with anyone you choose to, as well as keep it for yourself as a backup or to download from anywhere in the world.
+
+</li><li><b> What kind of files can be uploaded? </b>
+All kinds: from your party photos to an important document.
+The only restrictions are for illegal pornography, and of course, copyrighted material.Please refer to our <a href="tos.html" target="_blank"> TOS </a> for more info on Powvideo terms of service.
+
+</li></ul></ul> <ul><ul>  <li><b> How to delete a file I uploaded? </b>
+To delete a file you uploaded you must use Delete Link that was provided to you after the upload proccess.
+
+If you lost your removal code you can simply wait until the file expires so it will be automatically removed from our site.
+
+</li><li><b> Can I hotlink the stuff I upload? </b>
+No. Hotlinking is not allowed on any kind of files uploaded to our servers.
+
+</li><li><b> I still have questions, what should I do? </b>
+If you still have questions regarding our services don't hesitate to contact us using our <a href="contact.html" target="_blank"> contact form </a>.
+</li></ul></ul>

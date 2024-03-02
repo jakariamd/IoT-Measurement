@@ -1,0 +1,126 @@
+<div><td>  Contents
+      </td><p>  > FAQ <
+      </p></div> <div><h1>  Frequency Asked Questions
+</h1></div> <div><h2>  Questions
+</h2><ul>  <li><a href="#Q6" target="_blank"> How do I report a problem? </a> <b> - updated </b></li><li><a href="#delay_in_macro" target="_blank"> Can I insert delays into my macros? </a><font> 
+    - new! </font></li><li><a href="#version_numbers" target="_blank"> What do the version numbers mean? </a><font> 
+    - new! </font></li></ul></div> <div><h2>  Answers
+</h2><p>  <b> 1. Do I have to delete the old version before upgrading to the new
+version? </b>
+</p><p>  A. No, you do not have to delete or uninstall the old version before
+upgrading. Simply install it, no fiddling around, no need to close open programs
+(except Nojoks itself!), no rebooting of your computer and no replacing of
+system files! Minimum hassle installation!
+</p><p>   
+</p><p>  <b> 2. Does any version expire after a certain date? </b>
+</p><p>  A. No, the versions that can be downloaded from this web-site NEVER expire.
+You can continue using the version you have on your hard-drive for as long as
+you like.
+</p></div> <div><p>   
+</p><p>  <b> 3. Do I have to send personal information in the
+registration? </b>
+</p><p>  A. No you do not. If you would like to register without submitting your
+personal user name, e-mail us the details and delete your name and let us know
+that you do not want to submit your user name for privacy reasons. After we can
+confirm your host status, you can obtain a number. This process may take a
+little longer than a normal registration. Please be patient.
+</p><td>  <b> 4. How long does a registration acceptance normally
+take? </b>
+</td></div> <p><p>  A. Normally up to two days. Sometimes due to unusual circumstances, it could
+take up to a week, but we try to be as quick as possible. You will always
+receive a reply within a week.
+</p></p> <div><p>   
+</p><p>  <b> 5. There are no formats after I install it. Where are they? </b>
+</p><p>  A. Currently, we do not have a list of standard formats for all the rooms to
+install with the bracket. But you can either download a format from <a href="http://communities.msn.com/NojoksTourneyBracket/tourneyformats.msnw" target="_blank"> here </a>
+or create you own! Click <a href="howtouse2.htm" target="_blank"> here </a> for
+information on creating your own format.
+</p><p>   
+</p><p>  <a href="" target="_blank"> Q6 </a><b> . How do I report a problem? </b>
+</p></div> <p><p>  A. The easiest and quickest way is to join our <a href="http://communities.msn.com/NojoksTourneyBracket" target="_blank"> discussion
+group </a> and post a message in the message board for submitting problem
+reports. Alternatively, you can use MSN Messenger to talk to <a href="mailto:aus_norge@hotmail.com" target="_blank"> aus_norge@hotmail.com </a>
+for technical support. Included in .log file associated with the tournament can
+be useful too if you had bracket corruption.
+</p></p> <div><p>   
+</p><p>  <a href="" target="_blank"> Q7 </a><b> . Can I request new features? </b>
+</p><p>  A. Yes you can. The easiest and quickest way is to join our <a href="http://communities.msn.com/NojoksTourneyBracket" target="_blank"> discussion
+group </a> and post a message in the message board for requesting new features.
+</p><p>   
+</p><p>  <a href="" target="_blank"> Q8 </a><b> . I have downloaded the latest version, but it says it is corrupt. I have
+tried again, but still says it it corrupt. How do I get a version that isn't
+corrupt? </b>
+</p></div> <p><p>  A. Try downloading it from <a href="http://members.optushome.com.au/nojokstb/app/index.htm" target="_blank"> here </a>,
+<a href="http://www.geocities.com/nojokstb/app/index.htm" target="_blank"> here </a>
+or our <a href="http://communities.msn.com/NojoksTourneyBracket" target="_blank"> discussion
+board </a>. If you still have problems, email <a href="mailto:nojokstb@optushome.com.au" target="_blank"> nojokstb@optushome.com.au </a>
+requesting the latest version to be emailed and a copy will be emailed to you.
+</p></p> <div><p>   
+</p><p>  <a href="" target="_blank"> Q9 </a><b> . My auto-post isn't working. How do I get it to work? </b>
+</p><p>  A. Make sure you have selected a lobby to post into in the <i> Lobby </i> menu
+and also that the <i> Auto-post into lobby </i> option is check in the <i> Options </i>
+menu. Refer to <a href="howtouse4.htm" target="_blank"> this page </a> for more information on how
+to do this.
+</p><p>   
+</p><p>  <a href="" target="_blank"> Q10 </a><b> . How to I un-assign a win? </b>
+</p><p>  A. Just click on the check again and it will clear it. You can also use the
+Action/Undo feature too (Alt+Backspace keyboard short cut).
+</p></div> <div><p>   
+</p><p>  <a href="" target="_blank"> Q11 </a><b> . Where do I find out what % tokens are available? </b>
+</p><p>  A. All % tokens are listed <a href="howtouse_tokens.htm" target="_blank"> here </a>.
+</p><p>   
+</p><p>  <a href="" target="_blank"> Q12 </a><b> . How to I set the bonus points for the 1st, 2nd and 3rd place getters? </b>
+</p><p>  A. For 1st place, add up the points for the win and the bonus points for
+first place and set this number in the box in the Final row and the Win column.
+For 2nd place, set the bonus points in the box in the Final row and Loss column.
+For 3rd place, set the bonus points in the box in the Semi-final row and Loss
+column.
+</p></div> <div><p>   
+</p><p>  <a href="" target="_blank"> Q13 </a><b> . I'm holding a double-elim tournament and a loser in the winner's
+bracket leaves before playing in the loser's bracket. Can I remove the player
+from the tournament? </b>
+</p><p>  A. Yes, you can by right-mouse clicking on the player that left and click on <i> Remove
+player </i> in the menu. This will readjust all the tables and byes to accommodate
+the player who left prematurely.
+</p><p>   
+</p><p>  <a href="" target="_blank"> Q14 </a><b> . I would like to assign a winner to a bye in the next round before the
+current round has finished. How do I do that? </b>
+</p></div> <p><p>  A. Right-mouse click on the player before you click in winner's check box and
+select <i> Reassign player to a different table </i> in the menu. Select the bye
+table in the table list at the bottom of the box (the table will have one * next
+to it indicating it is the bye table), and click on OK. 
+</p></p> <div><p>   
+</p><p>  <a href="" target="_blank"> Q15 </a><b> . Can I insert delays into my macros? </b>
+</p><p>  A. Yes, you can. To insert a delay, enter   <font> .<DELAY:##.##> </font> 
+on its own line (it will not work if it part of a line of text), where ##.## is
+the time in seconds. For example, <font> .<DELAY:05.00> </font>
+will pause 5 seconds before continuing with the macro.
+</p><p>   
+</p><p>  <a href="" target="_blank"> Q16 </a><b> . I have added or edited a format or macro but it does not save. How do I
+save it? </b>
+</p></div> <p><p>  A. Make sure you click on the OK button to close the manager. This will
+automatically save any changes you have done. Clicking on Cancel or the little X
+in the top-right corner of the box will not save the changes. If you cannot see
+the OK button, you may have to change your display properties to use "small
+fonts" instead of the "large" fonts. This will hopefully be fixed
+up in a future version.
+</p></p> <div><p>   
+</p><p>  <a href="" target="_blank"> Q17 </a><b> . What do the version numbers mean? </b>
+</p><p>  A. The first number is the "major version" number - this is one and
+will be so for quite a while. The second number is the "minor version"
+number, and this is usually incremented with a major new feature being
+introduced (ie. prior to triple-elim, the version was 1.0, and with triple-elim,
+became 1.1). The third number is the "release" number. This is
+incremented everytime a version is released with any new functionality. The last
+number is the "build" number. This is incremented everytime a new
+version is sent out, including bug fixes, and also includes releases to a few
+people experiencing problems that can test it for me before release.
+</p></div> <div><p>   
+</p><p>  <a href="" target="_blank"> Q18 </a><b> . Is this written in VB (Visual Basic)? </b>
+</p><p>  A. No, it is not written in VB or any other Microsoft product. Of course the
+next question from some of the tech-heads out there is what is it written in? It
+is written in Borland's Delphi (Object Oriented Pascal), and yes, the
+author uses C and C++ for his day-to-day job!
+</p><p>   
+</p><p>  <i> More Q & As to come. </i>
+</p></div>

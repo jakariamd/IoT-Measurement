@@ -1,0 +1,8 @@
+<div><h3>  Open Port Statistics</h3></div> <div><h5>  Open port statistics by country.Find your IP address in our database. </h5></div> <div><h3>  Contacts</h3><p>  Feel free to contact us in case of any questions.</p><p>  General issues<b> : info@openportstats.com </b></p><p>  Complaints and suggestions<b> : abuseteam@openportstats.com </b></p></div> <div><h3>  
+              About Us
+            </h3><p>  
+              The Open Port Statistics service was created to collect statistics on open ports and connected devices to the network. If you want to remove your IP address from our database, write to us.
+            </p></div> <div><h3>  
+              Links
+            </h3><p>  All copyrights reserved © 2019
+              </p></div>

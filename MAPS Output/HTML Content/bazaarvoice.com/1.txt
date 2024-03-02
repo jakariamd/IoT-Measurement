@@ -1,0 +1,687 @@
+<div><h1>  Privacy Policy</h1><p>  On this page</p><p>  In this section</p><p>  <strong> Last Updated: April 6, 2023 </strong></p><p>  This Privacy Policy is intended to inform you (“you”, collectively “Consumers”) about Bazaarvoice, Inc., its affiliates’ and subsidiaries’ (“Bazaarvoice”, “we”, “us”, or “our”) collection, use, security and disclosure of information that we receive through the services that we provide on third party websites and in the mobile applications of our Clients (the “Bazaarvoice Network”), through bazaarvoice.com, and/or other Bazaarvoice-branded websites (“Website”), and through the business applications offered to our direct Clients on the Website (“BizApps”) (collectively, the “Services”). It also describes your choices regarding use, access and correction of your personal information.</p></div> <div><h2>  Information We Collect Through the Bazaarvoice Network</h2></div> <div><h3>  Information You Submit</h3><p>  <strong> User-Generated Content </strong>. As part of our Services to our Clients, we provide Consumers the ability to submit reviews, and to comment on or rate goods, products and services on websites and mobile applications within the Bazaarvoice Network (collectively, “User-Generated Content”). You should be aware that any information you provide in the area that is intended to collect such User-Generated Content may be published on a publicly facing website or mobile application and may be read, collected, and used by Bazaarvoice, its affiliates, subsidiaries, vendors and Clients. Therefore, please do not include any information within these areas that you do not want to share with the general public, including personally identifiable information, such as your name, email address or financial information. Bazaarvoice uses User-Generated Content for Client Services, market research, product development, service improvement, fraud detection, and analytics.</p></div> <p><p>  <strong> Consumer Account Info. </strong> In order to submit User-Generated Content, you may be required to create an account with the Bazaarvoice Client. During account creation, you may be asked to submit information, such as but not limited to, your name, email address, mailing address or phone number, and other data (collectively, “Consumer Account Info”). The Consumer Account Info may be collected by both Bazaarvoice and the applicable Bazaarvoice Client. Bazaarvoice uses Consumer Account Info to detect fraud and inauthentic content, as well as enable you to create User-Generated Content.</p></p> <p><p>  <strong> How Bazaarvoice’s Clients Use User-Generated Content and Consumer Account Info. </strong> To understand how the Bazaarvoice Client will use such data, please consult the terms and conditions on that Client’s website (e.g. the Client’s privacy notice or privacy policy).</p></p> <div><h3>  Data Collection Sources and Technologies</h3><p>  <strong> Passive Collection. </strong> As is true of most websites and mobile apps, we gather certain information automatically. Our technologies may collect the IP address of your computer, the pages you visit within the Bazaarvoice Network, the date and time of your visit, browser type and version, and other click-stream data (collectively “Analytics and Tracking Data”). We use the Analytics and Tracking Data to operate the Services, enable the submission of User-Generated Content, and to enable anonymous analytics and measurement reporting.</p></div> <p><p>  <strong> Types of Technologies on the Bazaarvoice Network. </strong> We and our partners use cookies or similar technologies to collect information from Consumers on the Bazaarvoice Network. We do so to analyze trends, administer and track users’ movements around the Bazaarvoice Network, and to gather collective demographic information about our user base. For more information on your choices for tracking technology preferences, please see the “Opting Out” section below.</p></p> <p><p>  <em> Web Beacons </em>. Web beacons are small, graphic images on web pages or web-based documents or in email messages. We use web beacons to determine the usefulness of the information our Services provide and to analyze general user traffic patterns. We also use web beacons as a way to transmit Consumer Account Info.</p></p> <p><p>  <em> Cookies </em>. Bazaarvoice uses its own cookies and cookies from third parties on the Bazaarvoice Network. Bazaarvoice uses cookies to combine your data across multiple websites. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions of a website or service.</p></p> <p><p>  <em> Precise Location Data: </em> If a Bazaarvoice Client has enabled such in their mobile application, your precise location may be collected with your express permission. You may opt-out of location-based services at any time by editing the setting at the device level.</p></p> <p><p>  <em> Cross Device Collection: </em> Your information may be combined across all the devices and browsers with which you access the Bazaarvoice network.</p></p> <p><p>  <strong> How Bazaarvoice’s Clients Use User-Generated Content and Consumer Account Info. </strong> The collection and use of User-Generated Content and Consumer Account Info will be governed by the terms of the Client’s website or application through which you have submitted such data. To understand how the Bazaarvoice Client to whom you have submitted User-Generated Content and Consumer Account Info will use such data, you must consult the terms and conditions on that Client’s website or application (e.g. the Client’s privacy notice or privacy policy).</p></p> <div><td>  To operate Bazaarvoice services</td><td>  If cookies are disabled then Consumers may not be able to change preference settings, e.g. filtering and sorting of content or the browser will not remember these settings as users navigate the site.</td><td>  To enable user-generated content submission</td><td>  If cookies are disabled then Consumers may not be able to submit content.</td><td>  To enable anonymous analytics & measurement reporting</td><td>  If cookies are disabled or blocked then Consumers will not be tracked, via an anonymous session unique identifier within the session.</td></div> <td><td>  To operate Bazaarvoice services.</td></td> <td><td>  If cookies are disabled then the service cannot track reviews user have submitted or commented on, which may impact the ability to perform these actions. Additionally if user has chosen to have their login credentials remembered, then this feature will not work.</td></td> <div><td>  To enable user-generated content submission</td><td>  If cookies are disabled then users may not be able to submit content or comments.</td><td>  To enable anonymous analytics & measurement reporting. (“Bazaarvoice Network Cookie”)</td><td>  If cookies are disabled or blocked then users will not be tracked via an anonymous unique identifier.</td><p>  For a list of cookies set by Bazaarvoice on the Bazaarvoice Network, <a href="https://knowledge.bazaarvoice.com/wp-content/knowledge/en_US/cookies.html" target="_blank"> click here </a>.</p></div> <div><h2>  Information We Collect Through the Website and Business Applications (BizApps)</h2></div> <div><h3>  Information You Submit</h3><p>  There are various areas on the Website where you have the opportunity to provide us with information. For example, you may submit your name, email address, or phone number if you contact us or request information about Bazaarvoice or our Services. We will use the information we collect on the Website to respond to your inquiries, provide you with the requested service or information, send you marketing communications, or improve the Website.</p><p>  If you use our BizApps, as part of your client account with Bazaarvoice, we may collect your personally identifiable information. For example, we may collect your name, company email address, or phone number as part of your account contact information. We will use the information we collect through the BizApps to respond to your inquiries, provide you with the requested service or information, personalize your services, send you marketing communications, or improve our website and the BizApps.</p></div> <p><p>  Marketing Communications. We may send marketing communications to anyone that has submitted their email address through the BizApps. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails.</p></p> <p><p>  Our Website offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:privacy@bazaarvoice.com" target="_blank"> privacy@bazaarvoice.com </a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p></p> <p><p>  <strong> Combination of Data. </strong> To assist us with our marketing efforts, the personal information of our Clients, such as email address, may be combined with Passively Collected Data (see below). We do not supplement/append the data we collect with additional data received from third party sources.</p></p> <div><h3>  Data Collection Technologies</h3><p>  Cookies. We use cookies or similar technologies to collect analytics and tracking information from Consumers on the Website and BizApps. Our technologies may collect the IP address of your computer, the pages you visit, the date and time of your visit, browser type and version and other click-stream data (collectively “Analytics and Tracking Data”).</p><p>  <strong> Cookies. </strong> Our cookies give us access to information about your browsing patterns, which we use to analyze general user traffic patterns. We do this so that we may determine the usefulness of the information on the Website, the effectiveness of our navigational structures and to otherwise improve the Website. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions of our Website or Services. To manage Flash cookies, please visit: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank"> Macromedia </a>.</p></div> <p><p>  <strong> Passive Collection. </strong> As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. We may combine this automatically collected log information with other information we collect about you, such as data that you submit on our website. We do this to improve the services we offer you, to ensure secure access to the Services, improve marketing, analytics, or site functionality.</p></p> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function. You can set your browser to block or alert you about these cookies, but some parts of the site will not work. These cookies do not store any personally identifiable information.</p><td>  media2.bazaarvoice.com</td><td>  First Party
+</td><td>  Session
+</td><td>  www.bazaarvoice.com</td><td>  First Party
+</td><td>  23 Days
+</td><td>  login.bazaarvoice.com</td><td>  First Party
+</td><td>  7 Days
+</td><td>  workbench-staging.bazaarvoice.com</td></div> <div><td>  First Party
+</td><td>  7 Days
+</td><td>  go.bazaarvoice.com</td><td>  First Party
+</td><td>  Session
+</td><td>  .www.bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds
+</td><td>  support.bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds, 365 Days
+</td><td>  explore.bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds
+</td><td>  connections.bazaarvoice.com</td><td>  First Party
+</td><td>  Session, Session
+</td><td>  api-analytics-kit.bazaarvoice.com</td><td>  First Party
+</td></div> <div><td>  6 Days
+</td><td>  workbench.bazaarvoice.com</td><td>  First Party
+</td><td>  Session
+</td><td>  .bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds, A few seconds
+</td><td>  resources.bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/cf_use_ob" target="_blank"> 
+                        cf_use_ob
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/BIGipServerabaweb-nginx-app_https" target="_blank"> 
+                        BIGipServerabaweb-nginx-app_https
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__cf_bm" target="_blank"> 
+                        __cf_bm
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__cfduid" target="_blank"> 
+                        __cfduid
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  A few seconds, Session, A few seconds, 30 Days
+</td><td>  bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/OptanonAlertBoxClosed" target="_blank"> 
+                        OptanonAlertBoxClosed
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/OptanonConsent" target="_blank"> 
+                        OptanonConsent
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/SSESS###########" target="_blank"> 
+                        SSESS###########
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/eupubconsent" target="_blank"> 
+                        eupubconsent
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  365 Days, 365 Days, Session, 365 Days
+</td><td>  AWSALB, AWSALBCORS
+</td><td>  Third Party
+</td><td>  7 Days, 7 Days
+</td><td>  __cfduid
+</td><td>  Third Party
+</td><td>  30 Days
+</td></div> <div><h4>  Performance Cookies</h4><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous.</p><td>  resources.bazaarvoice.com</td><td>  First Party
+</td><td>  90 Days
+</td><td>  developer.bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds
+</td></div> <td><td>  www.bazaarvoice.com</td></td> <div><td>  First Party
+</td><td>  A few seconds, A few seconds
+</td><td>  .status.bazaarvoice.com</td><td>  First Party
+</td><td>  Session, A few seconds
+</td><td>  bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/crl8.fpcuid" target="_blank"> 
+                        crl8.fpcuid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__utmt_UA-nnnnnnnn" target="_blank"> 
+                        __utmt_UA-nnnnnnnn
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_ga" target="_blank"> 
+                        _ga
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_mkto_trk" target="_blank"> 
+                        _mkto_trk
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_hjTLDTest" target="_blank"> 
+                        _hjTLDTest
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_xxxx" target="_blank"> 
+                        s_xxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_hjFirstSeen" target="_blank"> 
+                        _hjFirstSeen
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_hp2_hld" target="_blank"> 
+                        _hp2_hld
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/ubvt" target="_blank"> 
+                        ubvt
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gaexp" target="_blank"> 
+                        _gaexp
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/BVBRANDSID" target="_blank"> 
+                        BVBRANDSID
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gclxxxx" target="_blank"> 
+                        _gclxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_hjSessionUser_xxxxxx" target="_blank"> 
+                        _hjSessionUser_xxxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_hjAbsoluteSessionInProgress" target="_blank"> 
+                        _hjAbsoluteSessionInProgress
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat_UA-" target="_blank"> 
+                        _gat_UA-
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/BVBRANDID" target="_blank"> 
+                        BVBRANDID
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_hjSession_xxxxxx" target="_blank"> 
+                        _hjSession_xxxxxx
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  364 Days, A few seconds, 730 Days, 730 Days, Session, 365 Days, A few seconds, A few seconds, 3 Days, 62 Days, A few seconds, 90 Days, 364 Days, A few seconds, A few seconds, 365 Days, A few seconds
+</td><td>  .resources.bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/__utmb" target="_blank"> 
+                        __utmb
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__utma" target="_blank"> 
+                        __utma
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gid" target="_blank"> 
+                        _gid
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  A few seconds, 42 Days, 1 Day
+</td><td>  engage.bazaarvoice.com</td><td>  First Party
+</td><td>  180 Days, 184 Days
+</td><td>  .bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/__utmz" target="_blank"> 
+                        __utmz
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_invisit" target="_blank"> 
+                        s_invisit
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/optimizelyEndUserId" target="_blank"> 
+                        optimizelyEndUserId
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_vnum" target="_blank"> 
+                        s_vnum
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/optimizelyPendingLogEvents" target="_blank"> 
+                        optimizelyPendingLogEvents
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_cc" target="_blank"> 
+                        s_cc
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_fid" target="_blank"> 
+                        s_fid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat" target="_blank"> 
+                        _gat
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_sq" target="_blank"> 
+                        s_sq
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/optimizelySegments" target="_blank"> 
+                        optimizelySegments
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_nr" target="_blank"> 
+                        s_nr
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/optimizelyBuckets" target="_blank"> 
+                        optimizelyBuckets
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__utmv" target="_blank"> 
+                        __utmv
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  A few seconds, A few seconds, 2962 Days, A few seconds, A few seconds, Session, 42 Days, A few seconds, Session, 2962 Days, A few seconds, 2962 Days, A few seconds
+</td><td>  __cfruid
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  JSESSIONID
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  __utmli
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  _gid, _ga
+</td><td>  Third Party
+</td><td>  1 Day, A few seconds
+</td><td>  s-9da4, d-a8e6
+</td><td>  Third Party
+</td></div> <td><td>  A few seconds, 364 Days
+</td></td> <div><td>  __cfduid
+</td><td>  Third Party
+</td><td>  30 Days
+</td><td>  s-9da4, d-a8e6
+</td><td>  Third Party
+</td><td>  A few seconds, 365 Days
+</td><td>  __cfduid
+</td><td>  Third Party
+</td><td>  30 Days
+</td><td>  __cfduid
+</td><td>  Third Party
+</td><td>  30 Days
+</td><td>  muc_ads
+</td><td>  Third Party
+</td><td>  729 Days
+</td><td>  JSESSIONID
+</td><td>  Third Party
+</td><td>  Session
+</td></div> <div><h4>  Functional Cookies</h4><p>  These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p><td>  .bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds
+</td><td>  support.bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds
+</td><td>  developer.bazaarvoice.com</td></div> <div><td>  First Party
+</td><td>  Session
+</td><td>  network-eu.bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds, 365 Days
+</td><td>  www.bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/__atuvc" target="_blank"> 
+                        __atuvc
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__atuvs" target="_blank"> 
+                        __atuvs
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__distillery" target="_blank"> 
+                        __distillery
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  A few seconds, A few seconds, 365 Days
+</td><td>  bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/_gd#############" target="_blank"> 
+                        _gd#############
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__tld__" target="_blank"> 
+                        __tld__
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_sp_root_domain_test_xxxxxxxxxxxxx" target="_blank"> 
+                        _sp_root_domain_test_xxxxxxxxxxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_sp_id.xxxx" target="_blank"> 
+                        _sp_id.xxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_sp_ses.xxxx" target="_blank"> 
+                        _sp_ses.xxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/ajs%3Atest" target="_blank"> 
+                        ajs%3Atest
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/ajs%3Acookies" target="_blank"> 
+                        ajs%3Acookies
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  Session, Session, Session, 729 Days, A few seconds, 365 Days, 365 Days
+</td><td>  BX, xb
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds
+</td><td>  player, vuid, __cf_bm
+</td><td>  Third Party
+</td><td>  364 Days, 730 Days, A few seconds
+</td><td>  sp_t, sp_landing
+</td><td>  Third Party
+</td><td>  364 Days, A few seconds
+</td><td>  __cf_bm, __cfduid
+</td><td>  Third Party
+</td><td>  A few seconds, 30 Days
+</td><td>  mv_tokens_eu-v1
+</td><td>  Third Party
+</td></div> <div><td>  13 Days
+</td><td>  _pxhd
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  DRIVE_STREAM
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  GAPS
+</td><td>  Third Party
+</td><td>  A few seconds
+</td></div> <div><h4>  Targeting Cookies</h4><p>  These cookies may be set through our website by our advertising partners. Data may be collected by these companies that enables them to serve up advertisements on other sites that are relevant to your interests.</p><td>  resources.bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds
+</td><td>  .bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/BVBRANDSID" target="_blank"> 
+                        BVBRANDSID
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/BVBRANDID" target="_blank"> 
+                        BVBRANDID
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat_xxxxxxxxxxxxxxxxxxxxxxxxxx" target="_blank"> 
+                        _gat_xxxxxxxxxxxxxxxxxxxxxxxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_fbp" target="_blank"> 
+                        _fbp
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx" target="_blank"> 
+                        _gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  A few seconds, A few seconds, A few seconds, 90 Days, A few seconds
+</td><td>  bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/_hp2_id.##########" target="_blank"> 
+                        _hp2_id.##########
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_hp2_ses_props.##########" target="_blank"> 
+                        _hp2_ses_props.##########
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/NoCookie" target="_blank"> 
+                        NoCookie
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/pt_" target="_blank"> 
+                        pt_
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  394 Days, A few seconds, A few seconds, A few seconds
+</td><td>  www.bazaarvoice.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/drift_aid" target="_blank"> 
+                        drift_aid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/BVImplmain_site" target="_blank"> 
+                        BVImplmain_site
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_an_uid" target="_blank"> 
+                        _an_uid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/awxxxx" target="_blank"> 
+                        awxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/drift_campaign_refresh" target="_blank"> 
+                        drift_campaign_refresh
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/driftt_aid" target="_blank"> 
+                        driftt_aid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/d-a8e6" target="_blank"> 
+                        d-a8e6
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/driftt_sid" target="_blank"> 
+                        driftt_sid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/DFTT_END_USER_PREV_BOOTSTRAPPED" target="_blank"> 
+                        DFTT_END_USER_PREV_BOOTSTRAPPED
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/GoogleAdServingTest" target="_blank"> 
+                        GoogleAdServingTest
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__d_mkto" target="_blank"> 
+                        __d_mkto
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  730 Days, Session, 7 Days, 180 Days, A few seconds, 730 Days, 365 Days, A few seconds, 730 Days, Session, A few seconds
+</td><td>  .network.bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds, A few seconds
+</td><td>  blog.bazaarvoice.com</td><td>  First Party
+</td><td>  A few seconds, A few seconds
+</td><td>  driftt_aid, DFTT_END_USER_PREV_BOOTSTRAPPED, drift_campaign_refresh, __d_mkto, drift_aid, driftt_sid
+</td><td>  Third Party
+</td><td>  730 Days, 730 Days, A few seconds, A few seconds, 730 Days, A few seconds
+</td></div> <div><td>  GoogleAdServingTest
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  ck1, drtn1399496756, rlas3, rtn1-z, drtn1819318137
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds, A few seconds, A few seconds, A few seconds
+</td><td>  _kuid_
+</td><td>  Third Party
+</td><td>  180 Days
+</td><td>  OAID
+</td><td>  Third Party
+</td><td>  30 Days
+</td><td>  __atuvs, __atuvc, __atrfs
+</td><td>  Third Party
+</td><td>  A few seconds, 396 Days, A few seconds
+</td><td>  _gd#############, _an_uid
+</td></div> <div><td>  Third Party
+</td><td>  A few seconds, 7 Days
+</td><td>  TapAd_DID, TapAd_TS, TapAd_TTD_SYNC
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds, A few seconds
+</td><td>  __utmv, __qca, awxxxx, bcookie, lidc, __utma, __utmz
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds, 30 Days, 730 Days, 1 Day, A few seconds, A few seconds
+</td><td>  remember_checked, auth_token, __utma, guest_id, twll, __utmz, secure_session, remember_checked_on
+</td><td>  Third Party
+</td><td>  1280 Days, 4932 Days, A few seconds, A few seconds, 1280 Days, A few seconds, 4932 Days, 1280 Days
+</td></div> <td><td>  IDE, test_cookie, id
+</td></td> <div><td>  Third Party
+</td><td>  390 Days, A few seconds, A few seconds
+</td><td>  _rxuuid
+</td><td>  Third Party
+</td><td>  365 Days
+</td><td>  _cc_cc, _cc_dc, _cc_aud, _cc_id
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds, A few seconds, A few seconds
+</td><td>  SEUNCY
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  IN_HASH
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  ab, u
+</td><td>  Third Party
+</td><td>  365 Days, 365 Days
+</td><td>  awxxxx
+</td><td>  Third Party
+</td></div> <div><td>  A few seconds
+</td><td>  demdex
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  _rxuuid
+</td><td>  Third Party
+</td><td>  365 Days
+</td><td>  __cf_bm, __cfduid
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds
+</td><td>  NID, SID, PREF, SSID, SAPISID, APISID, HSID
+</td><td>  Third Party
+</td><td>  183 Days, A few seconds, A few seconds, A few seconds, A few seconds, A few seconds, A few seconds
+</td><td>  lang
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  APID
+</td></div> <div><td>  Third Party
+</td><td>  366 Days
+</td><td>  lang
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  u2, ActivityInfo2
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds
+</td><td>  uuidc, uuid
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds
+</td><td>  Third Party
+</td><td>  365 Days
+</td><td>  JSESSIONID, BizoUserMatchHistory, lang, awxxxx, BizoData, BizoID
+</td><td>  Third Party
+</td><td>  Session, A few seconds, Session, Session, A few seconds, A few seconds
+</td></div> <td><td>  uuid2, anj
+</td></td> <div><td>  Third Party
+</td><td>  90 Days, 90 Days
+</td><td>  sessionId, UID, uid-bp-xxxxx
+</td><td>  Third Party
+</td><td>  Session, 30 Days, 60 Days
+</td><td>  IDSYNC
+</td><td>  Third Party
+</td><td>  366 Days
+</td><td>  BIGipServersjrtp6_http
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  t_gid
+</td><td>  Third Party
+</td><td>  365 Days
+</td><td>  dpm
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  centro
+</td><td>  Third Party
+</td><td>  13 Days
+</td><td>  TDID, TDCPM
+</td><td>  Third Party
+</td></div> <td><td>  A few seconds, 365 Days
+</td></td> <div><td>  everest_g_v2
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  demdex
+</td><td>  Third Party
+</td><td>  180 Days
+</td><td>  t_gid, taboola_usg
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds
+</td><td>  _cc_aud, _cc_cc, _cc_id, _cc_dc
+</td><td>  Third Party
+</td><td>  270 Days, Session, 270 Days, 270 Days
+</td><td>  UID, UIDR
+</td><td>  Third Party
+</td><td>  720 Days, 720 Days
+</td><td>  loc, uvc, xtc
+</td><td>  Third Party
+</td><td>  396 Days, 396 Days, 396 Days
+</td></div> <td><td>  __181_cid, __ioxxxxxxxxxxxxxx
+</td></td> <div><td>  Third Party
+</td><td>  364 Days, 364 Days
+</td><td>  opt_out
+</td><td>  Third Party
+</td><td>  365 Days
+</td><td>  tluid
+</td><td>  Third Party
+</td><td>  90 Days
+</td><td>  gaCookie
+</td><td>  Third Party
+</td><td>  729 Days
+</td><td>  ld, vid
+</td><td>  Third Party
+</td><td>  24167 Days, 24167 Days
+</td><td>  6suuid
+</td><td>  Third Party
+</td><td>  730 Days
+</td><td>  _rlid, _rlsnc
+</td><td>  Third Party
+</td><td>  180 Days, A few seconds
+</td><td>  uvc, na_tc, mus, vc, na_id, bt2, uid, xtc, di2, loc
+</td></div> <div><td>  Third Party
+</td><td>  397 Days, 42 Days, A few seconds, A few seconds, 42 Days, A few seconds, A few seconds, A few seconds, A few seconds, 397 Days
+</td><td>  TDCPM, TDID
+</td><td>  Third Party
+</td><td>  365 Days, 365 Days
+</td><td>  TestIfCookieP, csync, pid
+</td><td>  Third Party
+</td><td>  395 Days, 395 Days, 395 Days
+</td><td>  _fbp
+</td><td>  Third Party
+</td><td>  90 Days
+</td><td>  INGRESSCOOKIE
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  bku, bkdc
+</td><td>  Third Party
+</td></div> <td><td>  A few seconds, A few seconds
+</td></td> <div><td>  anProfile
+</td><td>  Third Party
+</td><td>  180 Days
+</td><td>  CONSENT, _GRECAPTCHA, NID
+</td><td>  Third Party
+</td><td>  729 Days, 180 Days, 183 Days
+</td><td>  RUN_ID
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  _li_ss
+</td><td>  Third Party
+</td><td>  30 Days
+</td><td>  bscookie, visit
+</td><td>  Third Party
+</td><td>  730 Days, A few seconds
+</td><td>  bitoIsSecure, bito, checkForPermission
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds, A few seconds
+</td></div> <div><td>  Third Party
+</td><td>  Session
+</td><td>  mako_uid
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  fr
+</td><td>  Third Party
+</td><td>  90 Days
+</td><td>  uid
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  ab
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  oktgid, oktsid
+</td><td>  Third Party
+</td><td>  364 Days, Session
+</td><td>  _ljtrtb_16, ljt_reader
+</td><td>  Third Party
+</td><td>  364 Days, 365 Days
+</td><td>  obuid, centro
+</td><td>  Third Party
+</td></div> <td><td>  89 Days, 29 Days
+</td></td> <td><td>  fr, lu, datr
+</td></td> <div><td>  Third Party
+</td><td>  90 Days, A few seconds, A few seconds
+</td><td>  ssi, _ssuma
+</td><td>  Third Party
+</td><td>  365 Days, 30 Days
+</td><td>  _uetsid, IDE, _uetvid, test_cookie
+</td><td>  Third Party
+</td><td>  1 Day, 390 Days, 16 Days, A few seconds
+</td><td>  JSESSIONID, Stats_Session, bbbbbbbbbbbbbbb
+</td><td>  Third Party
+</td><td>  Session, Session, Session
+</td><td>  audience
+</td><td>  Third Party
+</td><td>  365 Days
+</td><td>  _ssc
+</td><td>  Third Party
+</td><td>  1 Day
+</td><td>  dpm
+</td></div> <div><td>  Third Party
+</td><td>  180 Days
+</td><td>  _GRECAPTCHA
+</td><td>  Third Party
+</td><td>  180 Days
+</td><td>  id
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  pxcelPage_c010, pxcelBcnLcy
+</td><td>  Third Party
+</td><td>  A few seconds, Session
+</td><td>  personalization_id
+</td><td>  Third Party
+</td><td>  730 Days
+</td><td>  tuuid, tuuid_lu
+</td><td>  Third Party
+</td><td>  730 Days, 730 Days
+</td><td>  SAPISID, SSID, PREF, SID, NID, HSID, APISID
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds, A few seconds, A few seconds, A few seconds, A few seconds, A few seconds
+</td></div> <div><td>  __stid
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  lang
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  MUID
+</td><td>  Third Party
+</td><td>  390 Days
+</td><td>  MR, BVxxxxxxxxxxxxxxxxxxxxxxxxx
+</td><td>  Third Party
+</td><td>  6 Days, 390 Days
+</td><td>  YSC, GPS, CONSENT, VISITOR_INFO1_LIVE
+</td><td>  Third Party
+</td><td>  Session, A few seconds, 6113 Days, 180 Days
+</td><td>  ljt_reader
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  SERVERID, mako_uid
+</td></div> <div><td>  Third Party
+</td><td>  A few seconds, 364 Days
+</td><td>  KRTBCOOKIE_xxxx, PUBMDCID, PugT
+</td><td>  Third Party
+</td><td>  180 Days, 90 Days, 30 Days
+</td><td>  tuuid, tuuid_lu
+</td><td>  Third Party
+</td><td>  730 Days, 730 Days
+</td><td>  MUID
+</td><td>  Third Party
+</td><td>  390 Days
+</td><td>  _kuid_
+</td><td>  Third Party
+</td><td>  180 Days
+</td><td>  awxxxx
+</td><td>  Third Party
+</td><td>  A few seconds
+</td><td>  CMID, CMTS, CMPS, CMPRO, CMRUM3, CMST
+</td><td>  Third Party
+</td><td>  364 Days, 89 Days, 89 Days, 90 Days, 365 Days, 1 Day
+</td></div> <td><td>  A3, APID, APIDTS, B
+</td></td> <div><td>  Third Party
+</td><td>  365 Days, 268 Days, 1 Day, 365 Days
+</td><td>  UID_EXT_xx
+</td><td>  Third Party
+</td><td>  365 Days
+</td><td>  __cfduid, BIGipServerabaweb_app_https, awxxxx, __cf_bm, BIGipServerabaweb-nginx-app_https
+</td><td>  Third Party
+</td><td>  30 Days, Session, Session, A few seconds, Session
+</td><td>  TapAd_TS, TapAd_3WAY_SYNCS, TapAd_DID
+</td><td>  Third Party
+</td><td>  60 Days, 60 Days, 60 Days
+</td><td>  stx_user_id
+</td><td>  Third Party
+</td><td>  365 Days
+</td><td>  lang, lidc, bcookie, UserMatchHistory, li_gc, AnalyticsSyncHistory, lissc
+</td></div> <div><td>  Third Party
+</td><td>  Session, 1 Day, 730 Days, 30 Days, 723 Days, 30 Days, 365 Days
+</td><td>  bito, bitoIsSecure
+</td><td>  Third Party
+</td><td>  395 Days, 395 Days
+</td><td>  bscookie
+</td><td>  Third Party
+</td><td>  731 Days
+</td><td>  uuid2, anj, sess
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds, A few seconds
+</td><td>  u, tp, pi
+</td><td>  Third Party
+</td><td>  A few seconds, A few seconds, A few seconds
+</td></div> <div><h4>  Social Media Cookies</h4><p>  These cookies track the effectiveness of our marketing campaigns on social media networks.</p><td>  csrf_session_id
+</td><td>  Third Party
+</td><td>  Session
+</td><td>  s_v_web_id, s_xxxx, MONITOR_WEB_ID
+</td><td>  Third Party
+</td><td>  300 Days, Session, 90 Days
+</td><td>  tt_webid, s_v_web_id, bm_sv, msToken, s_xxxx, tt_webid_v2, ttwid, ak_bmsc, tt_csrf_token, _abck, bm_sz
+</td><td>  Third Party
+</td><td>  365 Days, Session, A few seconds, 9 Days, Session, 365 Days, 365 Days, A few seconds, Session, 365 Days, A few seconds
+</td></div> <div><td>  msToken
+</td><td>  Third Party
+</td><td>  10 Days
+</td><td>  R6kq3TV7
+</td><td>  Third Party
+</td><td>  365 Days
+</td><p>  <strong> Third Party Technologies. </strong> The Website and BizApps use cookies or similar technologies of third party providers to assist us with analyzing site traffic and help us determine the effectiveness of content on our site.</p><p>  <strong> Local Storage. </strong> We and our partners use Local Storage Objects (LSOs) such as HTML5 and Flash to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" target="_blank"> here </a>.</p></div> <p><p>  <strong> Combination of Data. </strong> To assist us with our marketing efforts, the personal information of our Clients, such as email address, may be combined with Passively Collected Data. We do not supplement/append the data we collect with additional data received from third party sources.</p></p> <div><h2>  Opting Out</h2><p>  <strong> Opting Out of Data Use by Bazaarvoice. </strong> We make available a Bazaarvoice “opt-out” cookie that we will respect by not collecting Analytics and Tracking Data on that browser across the Bazaarvoice Network. Please click the button below to opt-out. Please note, if you have cookies disabled the following opt-out will not be effective.</p></div> <div><h4>  You have opted out</h4><p>  You are currently opted out of Bazaarvoice collecting Social Commerce Preference data. This means that Bazaarvoice is not tracking your preferences. If you would like to opt back in to the program for transparency and control, click the <strong> Opt In </strong> button below.</p></div> <div><h4>  You have opted in</h4><p>  You are currently opted in to Bazaarvoice collecting Social Commerce Preference data. This means that Bazaarvoice is tracking your preferences. If you would like to opt back out to the program for transparency and control, click the <strong> Opt Out </strong> button above.</p></div> <div><h4>  Something went wrong</h4><p>  We are sorry, but we have not been able to verify your opt-out status at this time. Please refresh the page and try again, or send an email to <a href="mailto:privacy@bazaarvoice.com" target="_blank"> privacy@bazaarvoice.com </a>.</p><p>  <strong> Opting Out of Marketing Communications. </strong> If you receive marketing communications from Bazaarvoice regarding Bazaarvoice products and service offerings and would no longer like to be contacted by us, please use the “unsubscribe” functionality in the marketing email or complete the form <a href="https://resources.bazaarvoice.com/UnsubscribePage.html" target="_blank"> here </a>. If you receive marketing communications from one of our Clients and would no longer like to be contacted by them, please contact that Client directly.</p></div> <div><h3>  Access, Correct or Delete Your Information or Exercise Your Jurisdiction’s Privacy Rights</h3><p>  Bazaarvoice has no direct relationship with the Consumers whose personal data it processes on behalf of our Clients. If you would like to access, correct, amend, or delete Consumer Account Info or User-Generated Content submitted through a Client, please contact that Client directly. If the Client requests Bazaarvoice to remove the data, we will respond to their request within a reasonable timeframe.</p></div> <p><p>  If you have a direct relationship with Bazaarvoice would like to access, correct, amend or delete any of your personally identifiable information collected or held by Bazaarvoice via its Bizapps or Website or exercise the data privacy rights applicable to your jurisdiction, please log into your account or you may email <a href="mailto:privacy@bazaarvoice.com" target="_blank"> privacy@bazaarvoice.com </a>. We will respond to such requests within a reasonable timeframe.</p></p> <p><p>  Please note that in certain circumstances we may be required by law to retain your personal information or to continue providing a service.</p></p> <div><h2>  Do Not Track</h2><p>  Bazaarvoice adheres to the standards of this Privacy Policy and does not currently acknowledge or take action based on Do Not Track headers.</p></div> <div><h2>  Children</h2><p>  We do not knowingly collect information from children less than 13 years of age. If we become aware of any collection of personal information from children, we will delete it immediately.</p></div> <div><h2>  Disclosure of Information</h2><p>  We will share your personal information with third parties only in the ways that are described in this privacy policy, unless we otherwise obtain your consent.</p><p>  Consumer Account Info may be made available to our Clients in certain circumstances. For example, if you submit a question about a product to a website on the Bazaarvoice Network, the question and your email address will be shared with the company that controls the website that the question was submitted to, the product manufacturer, or retailer to help answer the question.</p></div> <p><p>  We disclose User-Generated Content, Consumer Account Info and aggregated and anonymized data to third-party service providers (e.g., email service providers, data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us.</p></p> <p><p>  We disclose User-Generated Content, and aggregated and anonymized data to our partners for use in their products and services. For example, we provide reviews about retailers to Google for use in Google’s products and services.</p></p> <p><p>  We may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government or public authority’s request.</p></p> <p><p>  Finally, any information in our possession or control will be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have.</p></p> <p><p>  We may also disclose your personal information to any third party with your prior consent.</p></p> <div><h2>  Data Retention</h2><p>  Unless consent is withdrawn earlier, we retain all personal information collected by or provided to us through the Bazaarvoice Network, the Website and the BizApps until the information is no longer necessary to: provide our Clients with services; respond to your requests; authenticate your identity across the Bazaarvoice Network (e.g. for use with social authentication); monitor for fraudulent activity; and, comply with our legal obligations, resolve disputes, and enforce our agreements.</p></div> <div><h2>  Security</h2><p>  The security of your personal information is important to us. We follow generally accepted standards to protect personal information and use data security measures that are designed to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information.</p></div> <div><h2>  Bazaarvoice Supplemental Privacy Policy for California Residents</h2><p>  The California Consumer Privacy Act (“CCPA”), which is effective as of January 1, 2020, regulates how we handle personal information of California residents and gives California residents certain rights with respect to their personal information.</p><p>  The following supplemental privacy policy applies to information Bazaarvoice collects in our role as a “business”—which is when we interact directly with you.</p><p>  This supplemental privacy policy shall apply only to residents of California, and may be subject to change. The general privacy policy shall continue to apply to the extent that it applies to you as a resident of California. If you are a resident of California, we are required to disclose certain uses and disclosures in a certain format, as well as to inform you of certain rights you may have. Any capitalized terms used in this supplemental privacy policy shall have the same meaning as in the general privacy policy.</p></div> <p><p>  <strong> Information We May Collect. </strong> We may collect the following categories of personal information:</p></p> <div><td>  Identifiers</td><td>  Yes</td><td>  Name, nickname, postal address, unique personal identifier, online identifier, Internet Protocol address, email address</td><td>  Personal Information</td><td>  Yes</td><td>  Name, physical characteristics or description, address, telephone number</td><td>  Protected classification characteristics</td><td>  Yes</td><td>  Date of birth, race, sex, pregnancy, childbirth</td><td>  Commercial information</td><td>  Yes</td><td>  Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies</td></div> <div><td>  Biometric information</td><td>  No</td><td>  Internet or other similar network activity</td><td>  Yes</td><td>  Consumer’s interaction with a website</td><td>  Geolocation data</td><td>  Yes</td><td>  Physical location</td><td>  Sensory data</td><td>  No</td><td>  Professional or employment-related</td><td>  No</td><td>  Non-public educational</td><td>  No</td><td>  Inferences drawn from other personal information</td><td>  No</td><p>  For each category of information, we collect such information from a variety of sources, including directly from you, from your devices, and/or from third party providers. We collect the information to provide you with services, protect you and our Client, and to improve the services.</p></div> <p><p>  <strong> Business Disclosures by Bazaarvoice. </strong> We have disclosed the following categories of personal information for a business purpose (auditing interactions with consumers, security, debugging/repair, certain short-term uses, performing services, internal research for tech development, and/or quality and safety maintenance and verification) in the 12 months prior to this Policy’s last update:</p></p> <div><td>  Identifiers</td><td>  Yes</td><td>  Name, nickname, postal address, unique personal identifier, online identifier, Internet Protocol address, email address</td><td>  Personal Information</td><td>  Yes</td><td>  Name, physical characteristics or description, address, telephone number</td><td>  Protected classification characteristics</td><td>  Yes</td><td>  Date of birth, race, sex, pregnancy, childbirth</td><td>  Commercial information</td><td>  Yes</td><td>  Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies</td></div> <div><td>  Biometric information</td><td>  No</td><td>  Internet or other similar network activity</td><td>  Yes</td><td>  Consumer’s interaction with a website</td><td>  Geolocation data</td><td>  Yes</td><td>  Physical location</td><td>  Sensory data</td><td>  No</td><td>  Professional or employment-related</td><td>  No</td><td>  Non-public educational</td><td>  No</td><td>  Inferences drawn from other personal information</td><td>  No</td><p>  <strong> Commercial Disclosures or Personal Information Sold by Bazaarvoice. </strong> As of the date of this policy, Bazaarvoice is not selling personal information and has not sold any personal information in the prior 12 months.</p></div> <p><p>  <strong> Aggregated or Deidentified Data. </strong> Please take note, we may aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, deidentified data with third parties.</p></p> <div><p>  <strong> Your Rights as a California Resident: </strong></p><p>  You may have certain rights with respect to your personal information, including:</p><ul>  <li>The right to access, including the right to know the categories and specific pieces of personal information we collect;</li><li>The right to deletion of your personal information, subject to certain limitations under applicable law;</li><li>The right to request disclosure of information collected;</li><li>The right to disclosure of information disclosed for valuable consideration;</li><li>The right to opt out of sales of personal information;</li><li>The right not to be discriminated against for exercising certain rights under California law; and</li></ul></div> <ul><ul>  <li>Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing use. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2020 will receive information regarding 2019 sharing activities). Please be aware that not all sharing activities are covered by the Shine the Light law and only covered information will be included in our response.</li></ul></ul> <div><p>  <strong> Methods to Exercise Your Rights as a California Resident: </strong></p><p>  To exercise any of these rights, please read the Access, Correct or Delete Your Information or Exercise Your Jurisdiction’s Privacy Rights section <a href="/legal/privacy-policy/#access-correct-or-delete-your-information-or-exercise-your-jurisdictions-privacy-rights" target="_blank"> above </a>. Please be as specific as possible in relation to the personal information you wish to access. Once we receive your request, we will review it, determine whether we can verify your identity, and process the request accordingly. If we need additional information to verify your identity, we will let you know. We will respond to your request within 45 days of receipt, or notify you if we require additional time.</p></div> <p><p>  If you would prefer, you may designate an authorized agent to make a request on your behalf.</p></p> <div><h2>  Bazaarvoice Supplemental Privacy Policy for European Economic Area Residents</h2><p>  If the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the General Data Protection Regulations (“GDPR”) is applicable to you, e.g. you are a natural person residing within the European Economic Area or your personal data is processed by us on behalf of a controller residing in European Economic Area (“Data Subject”), the following additional rights are applicable to you:</p></div> <p><p>  <strong> Controller: </strong> When you leave a review for a product, the controller of your personal data is the client of Bazaarvoice. This may be the manufacturer of the product you are reviewing or a retailer to this product; if you want to know who the controller is in these cases, please contact the client directly. However, if you are a member of the TryIt sampling community, Bazaarvoice is the controller of your personal data and you may log into your account to view or delete you data. If you have trouble accessing your account you can contact Bazaarvoice at <a href="mailto:privacy@bazaarvoice.com" target="_blank"> privacy@bazaarvoice.com </a> or by post at Bazaarvoice, Inc 10901 Stonelake Blvd Austin, TX 78759.</p></p> <p><p>  <strong> Personal Data: </strong> For the purposes of this section, “Personal Data” means collectively personal data as defined by Art. 4 Nr. 1 GDPR, which you have provided to, or otherwise collected by, Bazaarvoice when you use and otherwise access the Service, listed above in section “Bazaarvoice Supplemental Privacy Policy for California Residents”, subsection “Information We May Collect”. Please see also sections “Types of Technologies on the Bazaarvoice Network” and “Information We Collect Through the Website” above.</p></p> <p><p>  Purpose of the processing is (i) to provide you with the possibility to view our website and (ii) in case of ratings and reviews, to collect ratings and reviews of products.</p></p> <p><p>  <strong> Legal Basis for Processing Personal Data for our Website: </strong> In case of just viewing our website the legal basis for processing your personal data is our legitimate interest Art. 6 section 1 sentence 1 lit. f GDPR which includes, but is not limited to, providing you with the possibility to view our website, operation of our business and services, improving products and services, analysing performance of our systems, debugging, troubleshooting and providing customer support; in case this includes cookies or other technology to which you have given consent, the legal basis of our processing of your personal data insofar is your consent. You must be at least the age of 16 to consent to the processing of you Personal Data. If you are under the age of 16, you must obtain you parent’s or legal guardian’s permission to consent to the processing. In other occasions, we may process information when we need to do so to fulfill a contract or where it is necessary for compliance with a legal obligation to which we are subject to.</p></p> <p><p>  <strong> Legal Basis for Processing Personal Data for services we perform on behalf of our clients: </strong> If you take part in one of our offerings we provide to clients (e.g. ratings and reviews, vox box, tryIt and others) the legal basis normally is your consent. We may also process personal data on behalf of our clients as it is necessary for compliance with a legal obligation to which the controller is subject to.</p></p> <p><p>  <strong> Recipients in case of viewing our website only: </strong> If you only view our website we are recipients of your personal data.</p></p> <p><p>  <strong> Recipients for services we perform on behalf of our clients: </strong> In case of services we perform for our clients, the recipients are our respective clients and those third parties they provide the information to. Please contact respective client for details. As long as we provide the data to third parties on behalf of our clients and as part of our standard services to them, we only distribute a limited set of information. In case of ratings and reviews this is: username (not your email address, but the nickname you have provided to us), the actual rating and the actual review. In case of tryIt, we will provide on behalf of our clients to companies actually sending the box to you, your postal address. If you rate and review the products sent to you, this rating and review will be handled as described in this paragraph before. Depending on their services to us, our subcontractors can be recipients to your personal data. All of them are bound be respective agreements.</p></p> <p><p>  <strong> Transfer to third countries: </strong> Your data will be transferred to the USA; the primary safeguard is the EU Standard Contractual Clauses with the client.</p></p> <p><p>  <strong> Storage period: </strong> (i) in case of only viewing our webpage, we will delete your personal data during the three weeks after your visit to our website, unless we have legal dispute between you and us, where we reserve the right to process your data during the legal dispute and the respective retention period thereafter; (ii) in case of services we provide to our clients, we store your personal data up to 210 days after contract end between the client and us. If there is any legal dispute between you and our client, the data may be stored for the time of the legal dispute and the retention period thereafter.</p></p> <p><p>  <strong> Access, rectification: </strong> You may access, correct, or modify the Personal Data you provided to Bazaarvoice and associated with your account. You may do so by visiting the Access, Correct or Delete Your Information or Exercise Your Jurisdiction’s Privacy Rights section <a href="/legal/privacy-policy/#access-correct-or-delete-your-information-or-exercise-your-jurisdictions-privacy-rights" target="_blank"> above </a>.</p></p> <p><p>  <strong> Forgotten: </strong> You may request to have your Personal Data erased, or otherwise request that your Personal Data not be processed. Please note that the Service, or parts of the Service, may become inaccessible or otherwise not function properly if you request to have your Personal Data erased or not be processed. You may do so by visiting the Access, Correct or Delete Your Information or Exercise Your Jurisdiction’s Privacy Rights section <a href="/legal/privacy-policy/#access-correct-or-delete-your-information-or-exercise-your-jurisdictions-privacy-rights" target="_blank"> above </a>.</p></p> <p><p>  <strong> Object, Restrict, or Withdraw Consent: </strong> You may withdraw consent you previously provided to Bazaarvoice or otherwise object to or restrict the processing of your Personal Data. Please note that the Service, or parts of the Service, may become inaccessible or otherwise not function properly if you withdraw certain consents or otherwise object to ro restrict the processing of your Personal Data. Your withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal. You may do so by visiting the Access, Correct or Delete Your Information or Exercise Your Jurisdiction’s Privacy Rights section <a href="/legal/privacy-policy/#access-correct-or-delete-your-information-or-exercise-your-jurisdictions-privacy-rights" target="_blank"> above </a>.</p></p> <p><p>  <strong> Portability: </strong> You may request to receive a copy of the Personal Data you have previously provided to us during your use of our Services. You may do so by visiting the Access, Correct or Delete Your Information or Exercise Your Jurisdiction’s Privacy Rights section <a href="/legal/privacy-policy/#access-correct-or-delete-your-information-or-exercise-your-jurisdictions-privacy-rights" target="_blank"> above </a>.</p></p> <p><p>  <strong> Supervisory Authority: </strong> If you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority.</p></p> <p><p>  In case of any rating and review you provide to a client of us via our services, the provision of your personal data is a statutory requirement, as we are required by law to authenticate your rating and review. You are not obliged to provide this data but failing to do so has the consequence that your rating and review will be rejected and deleted.</p></p> <p><p>  There is no automated decision making as described in Art. 22 GDPR to your personal data.</p></p> <div><h2>  Certifications and Codes of Conduct</h2><p>  Bazaarvoice has obtained the following certifications and/or follows these voluntary codes of conduct:</p></div> <div><h3>  EU-U.S. & Swiss-U.S. Privacy Shield</h3><p>  Bazaarvoice is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). Where applicable, Bazaarvoice complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States.  Bazaarvoice has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. In compliance with the Principles of Privacy Shield, Bazaarvoice provides recourse to you if you believe that Bazaarvoice has failed to follow its Principles regarding your personal data. You can contact us with details of your complaint at privacy@bazaarvoice.com.</p></div> <p><p>  Where required, Bazaarvoice uses the Standard Contractual Clauses for transfer of data from the European Economic Area to other countries.</p></p> <div><h2>  Other Information</h2><p>  The Website includes links to other websites whose privacy practices may differ from those of Bazaarvoice. If you submit personal information to any of those sites, their privacy statements govern your information. We encourage you to carefully read the privacy statement of any website you visit.</p></div> <div><h2>  Updates to this Policy</h2><p>  We may update this policy from time to time to reflect changes to our information practices. When we do, we will also revise the “last updated” date at the beginning of the policy. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account, if applicable) or by means of a notice on this website prior to the change becoming effective. We encourage you to review this policy periodically to stay informed on our privacy practices.</p></div> <div><h2>  Contacting Us</h2><p>  You may contact us at any time via email at <a href="mailto:privacy@bazaarvoice.com" target="_blank"> privacy@bazaarvoice.com </a> or by mail to:</p><p>  <strong> <Bazaarvoice, Inc. </strong><strong> 
+ATTN: Legal Dept </strong><strong> 
+10901 Stonelake Blvd </strong><strong> 
+Austin, TX 78759 </strong></p><p>  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank"> https://feedback-form.truste.com/watchdog/request </a>.</p></div> <p><p>  Respond to consumer questions in real-time.</p></p> <p><p>  Receive products from your favorite brands in exchange for honest reviews.</p></p> <div><h4>  Get started</h4><p>   Tell us a little about yourself, and our sales team will be in touch shortly. </p><label>  Business email:</label><label>  Company name:</label><label>  First name:</label><label>  Last name:</label><label>  Job title:</label><label>  Phone number:</label><label>  Country:</label><label>  Please select the product(s) in which you have an interest:</label><label>  Ratings & Reviews</label><label>  Product Sampling</label><label>  Social Commerce</label><label>  Something else</label></div> <p><p>  Respond to consumer questions in real-time.</p></p> <p><p>  Receive products from your favorite brands in exchange for honest reviews.</p></p> <div><h4>  Thank You</h4><p>   Thank you for your interest in Bazaarvoice. A member of our team will be in touch shortly to talk about how Bazaarvoice can help you reach your business goals. </p><ul>  <li>Legal</li></ul><span>  Privacy Policy</span><p>  Platform</p><p>  Resources</p><p>  Company</p><p>  Client services & support</p><p>  This website uses cookies to enhance the user experience, analyze site usage, and assist in our marketing efforts. For more information, read our <a href="https://www.bazaarvoice.com/legal/privacy-policy/" target="_blank"> privacy policy </a>.</p></div> <div><h2>  Cookie Settings Center</h2><ul>  <li>How Bazaarvoice Uses Cookies</li><li>Strictly Necessary Cookies</li><li>Performance Cookies</li><li>Functional Cookies</li><li>Targeting Cookies</li><li>Social Media Cookies</li></ul></div> <div><h4>  How Bazaarvoice Uses Cookies</h4><p>  Cookies give us access to information about your browsing patterns, which we use to personalize your experience and to analyze general user traffic patterns. We do this so that we may determine the usefulness of the information on our website, the effectiveness of our navigational structures, and to support our marketing campaigns. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may limit your use of certain features or functions of our website or services.
+            <a href="https://www.bazaarvoice.com/legal/privacy-policy/" target="_blank"> Our Privacy Policy </a></p></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function. You can set your browser to block or alert you about these cookies, but some parts of the site will not work. These cookies do not store any personally identifiable information.</p></div> <div><h4>  Performance Cookies</h4><label>  Performance Cookies</label><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous.</p></div> <div><h4>  Functional Cookies</h4><label>  Functional Cookies</label><p>  These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div> <div><h4>  Targeting Cookies</h4><label>  Targeting Cookies</label><p>  These cookies may be set through our website by our advertising partners. Data may be collected by these companies that enables them to serve up advertisements on other sites that are relevant to your interests.</p></div> <div><h4>  Social Media Cookies</h4><label>  Social Media Cookies</label><p>  These cookies track the effectiveness of our marketing campaigns on social media networks.</p></div> <div><h3>  Back</h3><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span></div>

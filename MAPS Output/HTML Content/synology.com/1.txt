@@ -1,0 +1,49 @@
+<div><h1>  Your Privacy Matters</h1><p>  We have updated our <a href="/en-us/company/legal/privacy" target="_blank"> Privacy Statement </a> to reflect the requirements of General Data Protection Regulation (GDPR). This page is meant to be a simple explanation on how we collect, use, and share information about you. We hope you'll take a minute to understand the principles of our approach and how you can <a href="/en-us/company/contact_us" target="_blank"> contact us </a> if you have any questions.</p></div> <div><h2>  What is GDPR?
+
+</h2></div> <div><h2>  What is Synology’s approach to the GDPR?
+
+</h2><p>  Synology has taken necessary measures to comply with GDPR. Some of the noticeable changes include Synology Account and payment integration. </p><p>  Synology Account is the central hub for all Synology services. Your technical inquiries and past attendance of Synology events can all be found within. Everything is centralized and easier to keep track of.</p><p>  Synology has also introduced a refined and more user-friendly payment service. You are able to save and remove saved payment methods for license purchases and for other support requests.</p></div> <div><h2>  How we collect and use of your personal information
+
+</h2><ul>  <li>Your e-mail address, which is used as identification for our services and as the primary communication method.</li><li>Your name, address, phone number, and additional contact information are used to provide registration, device shipping, and billing verification services.</li><li>Your payment method, which is used for payment transactions for a service or product.</li><li>Your IP address and unique device identifiers are used for fraud prevention, security purposes, for warranty registration, support services, and for transactions.</li></ul></div> <ul><ul>  <li>Device analytics, which is an opt-in service and used to understand how our users interact with our products and services.</li><li>Single-session information, which include behaviors regarding website browsing, including help articles, to understand which topics are more important and if the content is relevant to our users or potential customers. Read our <a href="/en-us/company/legal/cookie_policy" target="_blank"> Cookie Policy </a>.</li></ul></ul> <div><h2>  How we share your information
+
+</h2></div> <div><h2>  Cross-border Data Transfer
+
+</h2></div> <div><h2>  Your Rights to your Personal Data
+
+</h2></div> <div><h2>  Keeping your personal information secure
+
+</h2></div> <div><h2>  Data from Children
+
+</h2></div> <div><h2>  Changes to this statement
+
+</h2></div> <div><h2>  Read full Privacy Statement</h2><p>  You've gone through the 2-min privacy brief. Would you like to read on? Find out more in our <a href="/en-us/company/legal/privacy" target="_blank"> full version of Privacy Statement </a></p></div> <div><h2>  Contact Us</h2><p>  You can directly contact us through your <a href="https://account.synology.com/" target="_blank"> Synology Account </a>, or by submitting a form <a href="/en-us/company/contact_us" target="_blank"> on our website </a> for privacy related questions or concerns. Synology will respond to your requests within thirty days after receiving it.</p></div> <div><h2>  What can we do for you?</h2><span>  NAS Selector</span><span>  RAID Calculator</span><span>  NVR Selector</span><span>  Knowledge Center</span><span>  Downloads</span><span>  Community</span><span>  NAS Selector</span><span>  RAID Calculator</span><span>  NVR Selector</span><span>  Knowledge Center</span><span>  Downloads</span><span>  Community</span><ul>  <li>About Synology
+</li><li>Blog
+</li><li>Newsroom
+</li><li>Media Coverage
+</li><li>Customer Stories
+</li><li>Office Locations
+</li><li>Where to Buy
+</li><li>Synology Store
+</li><li>Contact Us
+</li><li>Become a Partner
+</li><li>Schedule a demo
+</li><li>HDD/SSD
+</li><li>IP Camera
+</li><li>Router
+</li><li>Network Card
+</li><li>I/O Module & IP Speaker
+</li><li>Other Devices
+</li><li>Products A-Z
+</li><li>Beta Program
+</li><li>Bounty Program
+</li><li>Community
+</li><li>Events
+</li></ul></div> <span><span>  Copyright © 2023 Synology Inc. All rights reserved.</span></span> <div><span>  
+<a href="/en-us/company/legal/terms_conditions" target="_blank"> Terms & Conditions </a>
+							 | <a href="/en-us/privacy" target="_blank"> Privacy </a>
+							 | <a href="#" target="_blank"> Cookie Preference </a>
+</span><p>  Our web services require cookies to operate. For us to provide live chat functionality, we’ll need to enable Functionality Cookies, temporary files that enable us to remember who you are in order to route messages to your browser.</p><p>  
+
+We also use cookies for other purposes, such as for security reasons, to track the performance of our content, and for remarketing. How Synology uses cookies is defined in our <a href="/en-us/company/legal/cookie_policy" target="_blank"> Cookie Policy </a>.</p></div> <p><p>  
+
+You can change your settings through Cookie Preferences, located at the footer of the webpage.</p></p>

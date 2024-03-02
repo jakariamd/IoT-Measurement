@@ -1,0 +1,28 @@
+<div><h1>  ServiceNow Privacy</h1><span>  Back</span></div> <div><h2>  Manage your privacy</h2></div> <div><h3>  Choose your preferences from the options below.</h3><p>  *Required</p><span>  Email* 
+</span><p>  Select your areas of interest (one minimum)* </p><ul>  <li>
+                            Opt-out of Selling/Sharing Personal Information
+                        
+</li><li>
+                            Data Subject Access Request
+                        
+</li><li>
+                            Data Deletion
+                        
+</li><li>Two + 3 = ?
+
+</li></ul><span>  Mobile Phone
+</span><span>  Show
+</span></div> <div><span>  Password
+</span><p>  Safety first. Your password must contain at least:</p><ul>  <li>By submitting this form, I confirm that I have read and agree to the 
+                    <a href="/privacy-statement.html" target="_blank"> Privacy Statement </a>.
+                
+</li></ul></div> <div><h2>  Thank you
+</h2><p>  Your privacy choices have been submitted.
+</p></div> <div><h4>  Opt-out of selling/sharing personal information</h4><p>  You have the right to opt-out of (1) the sale of your personal information, and (2) the sharing of your
+        personal information to serve you cross-contextual behavioral advertisements.</p></div> <div><h4>  Data subject access request</h4><p>  You have the right to know what personal information ServiceNow collects about you. This right also includes
+        the right to request a copy of your personal information. The exercise of this access right may be subject to
+        certain exemptions under applicable law. Requests for data held by our hosted services customers should be
+        directed to them.</p></div> <div><h4>  Data deletion</h4><p>  You have the right to request deletion of the personal information ServiceNow holds about you. Your exercise of
+        this right may be subject to certain exemptions under applicable law. Deletion requests for data held by our
+        hosted services customers should be directed to them.</p></div> <div><h2>  Recovery Email</h2><span>  Secondary E-mail
+</span></div> <div><h3>  The world works with ServiceNow™</h3><ul>  <li>©️</li></ul><span>  2023 ServiceNow. All rights reserved.</span></div>

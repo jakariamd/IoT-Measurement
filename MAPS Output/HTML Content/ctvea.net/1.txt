@@ -1,0 +1,17 @@
+<div><span>   
+				Search: 
+
+</span></div> <div><h3>  Information</h3></div> <div><h3>  
+		How secure is the Internet?</h3><span>  Internet Security</span><p>  
+			A security problem relates to how files and programs are sent and received between web sites and a computer. The Internet works by sending information from computer to computer until the information reaches its destination. So when data is sent from point A to point B, every computer in between has an opportunity to look at what's being sent. Also, with no security protection, a user could run or download files and programs from the Internet that can damage the computer and the information stored on it. Below are ways to increase your Internet security:</p></div> <ul><ul>  <li>
+					To avoid your computer from being vulnerable to threats and viruses, it is important to have the proper protection such as firewalls and anit-virus softwares. For more information on Internet security suites visit <a href="http://internet-security-suite-review.toptenreviews.com/" target="_blank"> Internet Security Suites </a>.
+</li><li>
+					The user can help protect himself by only filling out personal information on secure web sites.  To make sure a server is secure, check the beginning of the web address in the browser's address bar - it should be https:// rather than just http:// (s indicating secure).
+</li></ul></ul> <ul><ul>  <li>
+					When filling in Web forms requiring personal information such as credit card numbers, check the site's privacy policy to ensure it will not be sold or passed on to other companies. There may be a checkbox to opt out of third party mailings. Consider opting out to receive less opt-in e-mail.
+</li></ul></ul> <p><p>  
+			For more ways to avoid Internet security issues visit <a href="http://edudemic.com/2011/11/google-online-safety/" target="_blank"> Best Ways to Stay Safe Online </a>.</p></p> <div><td>  
+
+</td><td>   My Account:   </td><td>   Quick Support:   </td><td>   Support:   </td><td>  
+<font> MyAccount Login </font>
+</td></div>

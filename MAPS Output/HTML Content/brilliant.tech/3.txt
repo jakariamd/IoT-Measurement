@@ -1,0 +1,160 @@
+<div><label>  
+            Smart Home System
+          </label><label>  
+            Builders & Pros
+          </label><label>  
+            Company
+          </label><label>  
+            Help
+          </label><label>  
+            Products
+          </label><label>  
+            Where to Buy
+          </label><label>  
+            Compliance
+          </label><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul></div> <div><h2>  
+      Your Cart
+    </h2><span>  
+      ×
+    </span></div> <div><h2>  
+        SAVE BIG ON BUNDLES
+      </h2></div> <div><h2>  
+        SAVE BIG ON BUNDLES
+      </h2><p>  
+        Get 10% off all Brilliant Starter Packs
+      </p><p>  
+        Get 10% off all Brilliant Starter Packs
+      </p><span>   Hamburger arrow </span><span>   Hamburger arrow </span><p>  
+          Home Builders
+        </p><p>  
+          Production, custom & luxury homes
+        </p><p>  
+          Multifamily Properties
+        </p><p>  
+          Residential apartment communities
+        </p><p>  
+          Integrators & Installers
+        </p></div> <p><p>  
+          Smart home, lighting & automation systems
+        
+</p></p> <div><p>  
+          Home Builders
+        </p><p>  
+          Production, custom & luxury homes
+        </p><p>  
+          Multifamily Properties
+        </p><p>  
+          Residential apartment communities
+        </p><p>  
+          Integrators & Installers
+        </p><p>  
+          Smart home, lighting & automation systems
+        
+</p><p>  
+          Home Builders
+        </p><p>  
+          Production, custom & luxury homes
+        </p><p>  
+          Multifamily properties
+        </p><p>  
+          Residential apartment communities
+        </p></div> <div><p>  
+          Integrators & Installers
+        </p><p>  
+          Smart home, lighting & automation systems
+        
+</p><span>  
+
+</span><span>  
+                Shop All
+              </span><span>  
+                Shop All
+              </span></div> <div><h1>  
+    FAQ
+  </h1></div> <div><h4>  
+          So, how exactly does Brilliant work? Will my family and guests figure this out?
+        </h4><p>  We designed Brilliant so that everyone (family and guests in particular) can quickly understand how it works with no training. Once you install Brilliant, you can swipe your finger up/down on the screen to turn on/off lights, similar to how one does with a toggle switch. For Brilliant Controls made to replace 2-4 switches, just touch the sliders, and the screen will tell you which light you are adjusting. To access other connected smart home products like Sonos, just tap the screen and you'll see icons appear that make it easy to navigate in less than 2 taps.</p></div> <p><p>  If you already have Amazon Alexa or Google Assistant in your home, you will be able to use their voice services to control the lights using voice commands.</p></p> <p><p>  We've spent a lot of time testing this product on people ages 5-75, and they all get it pretty quickly. In fact, 96% of our early customers figured it out in less than three seconds. We think you'll be pleased!</p></p> <div><h4>  
+          How easy is it to install a Brilliant?
+        </h4><p>  If you can install a light switch, you can install a Brilliant. It's really that easy! The Brilliant fits into an existing light switch gang box, with no additional wiring, modifications, or remote hubs required. On average, it takes about 30 minutes to install the device and get it hooked up to your home Wi-Fi.</p><p>  You do have to be comfortable turning off your electricity (via a breaker box) - if that's too much for you, probably best to involve an electrician. But they will love it too - we've made it very simple to install and get going!</p></div> <div><h4>  
+          What are the wiring requirements?
+        </h4><p>  Your home does need to be up to code to use a Brilliant, with load, line, ground, and neutral wires present. Connecting these takes minutes. </p></div> <div><h4>  
+          Does Brilliant support 3-way switching?
+        </h4><p>  Yes, we support 3-way switching. You can set up a Brilliant to work with switches from another manufacturer in a 3-way configuration as long as that other switch is on/off, and not a dimmer. You can also set up multiple Brilliants in a 3-way configuration with dimming.  </p></div> <div><h4>  
+          Does Brilliant support dimming for incandescent or LED lights?
+        </h4><p>  Yes, Brilliant supports dimmable incandescent and LED lights. There are also features to help you perfect the experience, such as auto-sensing your light capabilities, setting your dimmable range, and other adjustments to minimize or eliminate flickering. We have tested this with a wide range of lighting vendors to great success.</p></div> <div><h4>  
+          What smart home products can I connect with?
+        </h4><p>  We support a wide variety of smart home products, and add more regularly. Our primary connection method is to use Wi-Fi for partner products like Sonos, Ecobee, the Honeywell Lyric, Ring, Philips Hue, LIFX, Wemo, Schlage Encode locks, August Locks, and smart plugs, and more. If you would like to connect to Z-Wave or Zigbee products, we also support hubs from SmartThings so you can control them from a Brilliant. Amazon Alexa Voice Services are already built in, so you just need to connect to your Amazon account. You can also use both Google Assistant/Google Home and Amazon Alexa devices to voice control the lights.</p></div> <div><h4>  
+          How does your voice control work? What does it mean that Alexa is "built in"?
+        </h4><p>  Each Brilliant has a microphone and a speaker, allowing you to control it using voice commands. You can access Amazon Alexa Voice Services ("Alexa, what's the weather today?"). We also plan to have Google Assistant capabilities built in once Google publicly releases that capability ("Google, what's the traffic today?"). </p><p>  Having Amazon Alexa "built in" means you can access Alexa without the need for an Amazon Echo or Dot. Brilliant is a great way to have voice capabilities in any room of your home without the need for a plugged in device.  </p></div> <div><h4>  
+          I currently have a Google Home - will I be able to use it to control a Brilliant?
+        </h4><p>  Yes, we have a Google Action that allows you to control the lights with voice commands using Google Assistant and Google Home. </p></div> <div><h4>  
+          Do you support Apple HomeKit?
+        </h4><p>  HomeKit is available on all Brilliant Smart Home Control devices. You can use HomeKit to control your lights using your voice.</p></div> <div><h4>  
+          Can you share other technical specifications about Brilliant?
+        </h4><p>  Sure! Brilliant has the following specifications:</p><p>  - Wi-Fi connected, supporting up to 802.11n- Bluetooth (to connect Brilliant if Wi-Fi is not present, not for smart speakers)- 5" diagonal LCD touch screen with 720x1280 resolution that can display a clock, and customizable scenes. You can upload your own photos to use Brilliant as a digital photo frame. - Over the air software updates happen automatically, using industry standard encryption- Ability to access the Brilliant through the Brilliant Alexa skill, or Google Actions to work with Google Home/Google Assistant, and HomeKit.</p></div> <div><h4>  
+          I currently have an Amazon Echo/Dot - will I be able to use it to control a Brilliant?
+        </h4><p>  Yes, we have an Alexa Skill that allows you to control the lights with voice commands using Alexa. </p></div> <div><h4>  
+          What is that thing on the top of Brilliant? A camera?
+        </h4><p>  At the top of Brilliant is a motion sensor, an ambient light sensor, and a camera with a physical privacy shutter for added peace of mind. The camera can be used to video intercom and Live View with other installed Brilliant Controls.</p></div> <div><h4>  
+          I am a (hotel/real estate developer/builder/apartment owner/retailer/distributor/dealer) interested in pre-purchasing a large amount of Brilliant products. Who should I contact?
+        </h4><p>  Thank you for your interest! We have had many partners contacting us about large orders and getting involved in our dealer program - just email our sales and partner team at <a href="mailto:sales@brilliant.tech" target="_blank"> sales </a><a href="mailto:sales@brilliant.tech" target="_blank"> @brilliant.tech </a>, and be sure to <a href="https://www.brilliant.tech/newsletter" target="_blank"> sign up for on our monthly newsletter </a>! </p></div> <div><h4>  
+          If my Wi-Fi/Internet goes down, will Brilliant still work?
+        </h4><p>  Yes, Brilliant will work without Wi-Fi or an Internet connection. You will need Wi-Fi to use the video intercom, or to connect to other smart home devices in the house. An Internet connection is required to use Alexa, and there are also a few smart home products that also require an Internet connection (you know who you are). But if Wi-Fi isn't present, Brilliants will use Bluetooth to connect with each other. </p></div> <div><h4>  
+          Does Brilliant support ceiling fans?
+        </h4><p>  As long as your ceiling fan has an on/off switch, then yes we can support it. We do not currently support speed-adjusting ceiling fans.  </p></div> <div><h4>  
+          Will this work in the UK or other countries?
+        </h4><p>  No, our initial products are made for 120v, not the 240v standard that is present in the UK and many other countries.</p></div> <div><h4>  
+          How much does it cost to power a Brilliant Control?
+        </h4><p>  On average, our customers save money from installing a Brilliant thanks to motion control and other features that reduce your lighting costs. It typically takes 0.75 KwH per month to run a Brilliant. To put that in perspective, if you turned off one 60W incandescent bulb for one hour, you are already saving money. Typically smart lighting can help you reduce your lighting bills by 5-18%. </p></div> <div><h4>  
+          Are there any monthly fees, or costs to connect to other devices?
+        </h4><p>  There are no monthly fees to use any Brilliant product, and we don't charge for "drivers" or other software to connect to supported partner products. We will eventually offer some optional services (like upgraded photos and display art), if you are interested.</p></div> <div><h4>  
+          Do you have a refund policy if you don't ship the product?
+        </h4><p>  If you purchase a product from Brilliant, and are not completely satisfied, you can return it for a full refund within 30 days (please consult our <a href="/pages/terms-of-service" target="_blank"> Terms of Service </a> for details).</p></div> <div><h4>  
+          Do you have any other questions?
+        </h4><p>  Contact us: <a href="mailto:support@brilliant.tech" target="_blank"> support@brilliant.tech </a></p><span>  
+      ×
+    </span><p>  
+            Sign up to win a free Brilliant Control
+          </p><p>  
+            Win a free Brilliant Control
+          </p><p>  
+            We pick a winner every two weeks. All you need to do is enter to win.
+          </p><p>  
+          " You have been entered to win."
+        </p><p>  
+            Enter to win a free Control
+          </p></div> <div><p>  
+            1 Winner | Every 14 Days!
+          </p><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><span>  
+          Brilliant in Facebook
+        </span><span>  
+          Brilliant in Twitter
+        </span><span>  
+          Brilliant in Instagram
+        </span><span>  
+          Brilliant in LinkedIn
+        </span><span>  
+          Brilliant in YouTube
+        </span></div>

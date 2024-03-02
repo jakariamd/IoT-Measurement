@@ -1,0 +1,132 @@
+<div><h1>  
+  Test your IPv6 connectivity.
+</h1><span>  
+  (Replay)
+
+</span><p>  JavaScript Required</p><p>  This site requires JavaScript, as well as the ability to pull in cross-site scripts, in order to perform the testing.</p><p>  If this message does not go away, it means that JavaScript has been disabled, either by a plugin or extension in your browser, or by explicit browser setting.</p><p>  Do you use NoScript?</p><p>  
+   If you use this Firefox add-on, you'll need to "Temporarily allow all this page". You will need to do this <b> twice </b> for everything to work. Alternately, disable NoScript entirely until you are done with this site.</p></div> <p><p>  You can opt instead to view the <a href="simple_test.html" target="_blank"> simple test </a>, which will give you a quick pass/fail for IPv4, IPv4+IPv6, and IPv6. It will however offer little diagnostic information.</p></p> <td><td>  Your IPv4 address on the public Internet appears to be 152.14.86.234</td></td> <div><td>  Your Internet Service Provider (ISP) appears to be NCSU</td><td>  
+
+</td><td>   3/9 tests run</td><p>  <b> How this test works: </b> Your browser will be instructed to reach a series of URLs. The combination of successes and failures tells a story about how ready you are for when publishers start offering their web sites on IPv6.</p><p>  Click to see
+   <a href="#" target="_blank"> Technical Info </a>
+</p><td>  Test with IPv4 DNS record</td><td>  ok
+</td><td>  Test with IPv6 DNS record</td></div> <div><td>  
+
+</td><td>  Test with Dual Stack DNS record</td><td>  
+
+</td><td>  Test for Dual Stack DNS and large packet</td><td>  
+
+</td><td>  Test IPv6 large packet</td><td>  
+
+</td><td>  Test if your ISP's DNS server uses IPv6</td><td>  
+
+</td><td>  Find IPv4 Service Provider</td><td>  ok
+</td><td>  Find IPv6 Service Provider</td><td>  bad
+</td><td>  Test for buggy DNS</td><td>  
+
+</td><p>  
+  Click to see
+  <a href="#" target="_blank"> Share Results / Contact </a></p><p>  <b> How this test works: </b> Your browser will be instructed to reach a series of URLs. The combination of successes and failures tells a story about how ready you are for when publishers start offering their web sites on IPv6.</p></div> <div><p>  Click to see
+     <a href="#" target="_blank"> Tests Run </a>
+</p><td>  
+
+</td><td>  
+
+</td><td>  
+
+</td><td>  
+
+
+
+</td><td>  <b> If this test fails or times out, you can expect major problems as publishers start offering their sites on IPv6. </b>
+</td><td>  
+
+
+
+</td><td>  
+
+</td><td>  
+
+
+
+</td><td>  
+
+</td><td>  
+
+
+
+
+</td><td>  
+
+</td><td>  
+
+</td><td>  
+
+</td><td>  
+
+</td><td>  
+
+</td><td>  
+
+
+
+</td><td>  
+
+</td><p>   If the summary results indicated problems, you (or your technical support) may be able to use the information above to diagnose the issues. Each of the test urls and their results is shown on the left side. To the right you'll see a description of what that URL was designed to test.</p></div> <div><p>  
+  Click to see
+  <a href="#" target="_blank"> Share Results / Contact </a></p><p>  <b> Your particular configuration is of interest. </b> We are always striving to make the test-ipv6.com code better. Would you be willing to contribute more information about your browser and computer setup? With your help, we can document for others how to repair their systems.</p><p>  This form will let you leave a comment, voice concerns, or ask questions. Your test results will be included automatically.
+      This includes your IP address, which is shared with the site administrator in order to answer your questions.
+      Use of this form implies consent.
+      </p></div> <p><p>   (FAQ) page is available for <b> your </b> exact set of results. Please read it before leaving comments; many questions have already been answered. If you still have questions, comments, or concerns, feel free to use this form.</p></p> <p><p>  If reporting a problem with the test, or requesting help with your results, please fill out all requested information to the best of your ability. If leaving general comments, use your best judgement on how much to report.</p></p> <p><p>  Thanks,</p></p> <div><span>  Marius Sokas<a href="" target="_blank">  < </a></span><span>  marius.sokas@cgates.lt</span><td>  
+<b> Purpose for comment </b>:
+            </td><td>  
+
+</td><p>  Problems relating to your Internet service, should be sent to your Internet Service Provider. Please contact them for support.</p><p>  This web site is not a tool for security or forensic analysis. If you have security concerns, please find a security professional to consult with. They can offer investigation and education that is appropriately matched to your concerns.</p></div> <p><p>  This web site is subject to the policies and technology limitations of the "Great Wall" for the Internet. Because of these limitations, this web site is not reliable for viewing from inside China.</p></p> <td><td>  Email address if you'll permit me to contact you. <i> Required, if you wish a response. </i></td></td> <td><td>  Any information you think I might find useful (what router you're using, or a firewall in the way, or type of proxy you use, etc). This includes general feedback.</td></td> <div><td>  
+
+
+
+
+</td><td>  
+
+</td><td>  
+               I consent to sharing my IP address(es), test results, web browser name and version, operating system name and version, and any other information entered above (including email address), as email transmitted to </td><span>  Marius Sokas<a href="" target="_blank">  < </a></span><span>  marius.sokas@cgates.lt; and that this information may be translated by Google Translate.
+             
+</span><td>  
+
+</td><td>   3/9 tests run</td><p>  Help desk information will follow once the test completes.</p></div> <p><p>  
+More information about this page, including how to bookmark it:
+<a href="/faq_helpdesk.html.en_US" target="_blank"> faq_helpdesk.html </a>.
+</p></p> <p><p>  
+If your Internet help desk asks you to mail the 'results url', copy and paste the following URL.
+Note that this will share your current numeric Internet Protocol address(es).
+We do not recommend posting this link on public web sites such as forums.
+</p></p> <p><p>  
+On most computers, you can right-click the above URL, and select 'Copy'.
+</p></p> <p><p>  <b> Hint </b>: Columns are sortable (click the first row); <a href="#" target="_blank"> click here </a> to re-check reachability from where you are to those mirrors.
+    </p></p> <p><p>  It is real easy to get added to this list for basic checks. Just provide two image URLs (one IPv4-only; one IPv6-only), to Jason Fesler <jfesler@gigo.com>. Also send your general web site address and organization name.
+    </p></p> <p><p>    Copyright (C) 2010, 2022 Jason Fesler. All rights reserved.  Version 1.1.944 (2b22be2)
+<a href="/mirrors.html.en_US" target="_blank"> Mirrors </a> |
+
+<a href="https://github.com/falling-sky/source/wiki" target="_blank"> Source </a> |
+ <a href="mailto:jfesler@test-ipv6.com?subject=test-ipv6.com" target="_blank"> Email </a>
+ -   -
+<a href="/attributions.html.en_US" target="_blank"> Attributions </a>
+</p></p> <div><span>  
+  |  <a href="#" target="_blank"> Debug </a>
+
+
+
+
+
+
+  |
+
+<a href="" target="_blank"> en_US </a>
+</span><span>  
+|  Share on: 
+
+
+
+
+This is a mirror of test-ipv6.com. The views expressed here may or may not reflect the views of the mirror owner.
+
+</span></div>

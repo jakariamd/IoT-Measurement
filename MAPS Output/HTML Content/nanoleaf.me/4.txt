@@ -1,0 +1,100 @@
+<div><h1>  General Data Protection Regulation (GDPR) at Gorgias</h1><p>  __________________________________________________________________________________________________________________________________</p><p>  THESE TERMS WERE APPLICABLE UNTIL MARCH 13 2023.REFER TO <strong> GORGIAS PRIVACY POLICY </strong> AND <a href="https://www.gorgias.com/legal/eu-privacy-notice" target="_blank"> EU GORGIAS PRIVACY POLICY </a> EFFECTIVE AS OF MARCH 14 2023.</p><p>  __________________________________________________________________________________________________________________________________</p></div> <div><h2>  Related links</h2></div> <div><h2>  Transparency and Accountability</h2><td>  
+      Ensure transparent communication with data subjects regarding the processing of their
+      personal data.
+
+      Ensure data subjects are notified of their rights under the GDPR.
+    </td><td>  
+        Gorgias' Terms of Service Agreement, Privacy Policy, and supporting policies provide
+        a transparent notice to inform its customers.
+
+        In addition, Gorgias offers legal mechanisms for cross-border transfers of
+        personal data from the EU.
+      </td></div> <td><td>  
+        A data controller is exempt from these obligations if it cannot identify which personal
+        data in its possession relates to the relevant data subject (i.e., if personal data is
+        anonymized and cannot be re-identified).
+      </td></td> <div><h2>  Access and Rectification</h2><td>  
+      Allow data subjects to require a data controller to rectify any errors in their personal
+      data.
+    </td><td>  Agents have access to their profiles to amend inaccuracies.</td><td>  Provision of this right to a data subject should not adversely affect an organization’s
+        intellectual property (i.e., giving access to a data subject should not require
+        disclosure of trade secrets).
+      </td></div> <div><h2>  Right to be Forgotten</h2><td>  
+      Provide data subjects with the right to delete their personal data if the continued
+      processing is not justified.
+
+      For example, you may need to delete your customer’s personal data to comply with your
+      GDPR obligations.
+    </td><td>  Detailed description in our <a href="/privacy/data-lifecycle" target="_blank"> Data lifecycle </a>
+        page
+      </td><td>  
+        A company is not required to delete data, except when one of the following reasons is
+        present:
+        </td></div> <ul><ul>  <li>The personal data is no longer needed in relation to the purposes for which it
+            was collected or otherwise processed.
+          </li><li>The data subject withdraws consent, and there are no other legal grounds for
+            processing.
+          </li><li>The data subject objects to processing, and there are no overriding legitimate
+            grounds for processing.
+          </li><li>The personal data has been unlawfully processed.</li><li>The personal data has to be erased for compliance with a legal obligation.
+          </li></ul></ul> <ul><ul>  <li>The personal data has been collected in relation to the offer of information
+            society services to a minor under 16 years old.
+          
+</li></ul></ul> <div><h2>  Restriction Processing</h2><td>  Provide data subjects the right to limit the purposes for which the data controller can
+        process personal data.
+
+        For example, your customer has filed a complaint or lawsuit against you, and it is your
+        policy to stop processing while the complaint or lawsuit is pending.
+      </td><td>  
+        The requirement to restrict processing generally applies under the same circumstances as
+        the right to be forgotten and/or when the following circumstances exist:
+        </td></div> <ul><ul>  <li>The accuracy of the personal data is contested (and only for as long as it
+            takes
+            to verify that accuracy).
+          </li><li>The processing is unlawful, and the data subject requests restriction (and the
+            data subject is not exercising the right to be forgotten).
+          </li><li>The data controller no longer needs the personal data for the original purpose
+            but still requires it to establish, exercise, or defend a legal right.
+          </li><li>Verification of overriding ground is pending (in the context of a deletion
+            request).
+          
+</li></ul></ul> <div><h2>  Data Portability</h2><td>  
+      Provide data subjects with the right to transfer their personal data between data
+      controllers.
+
+      For example, your customer requests for you to export and provide them with all
+      associated personal data that you store.
+    </td><td>  
+        Gorgias Helpdesk has an industry standard REST API documented <a href="https://api.gorgias.io/?__hstc=187360119.5aab7e261bd148968070b3ce2a421ca8.1692157463512.1692157463512.1692157463512.1&__hssc=187360119.1.1692157463512&__hsfp=3925178462" target="_blank"> here </a>
+        that can be used to export all the data from Gorgias.
+
+        Gorgias Templates for Chrome has an export to CSV functionality that can export your
+        data. Member data can be exported via our REST API.
+      </td></div> <td><td>  
+        Inferred and derived personal data (e.g., a credit score or health assessment) are not
+        included because they are not “provided by the data subject.”
+        Data controllers are not obligated to retain personal data simply for the purposes of
+        providing a copy of the personal data pursuant to a potential data subject request.
+      </td></td> <div><h2>  Objection to Processing</h2><td>  Provide data subjects with the right to transfer their personal data between
+      controllers.
+    </td><td>  Gorgias has documented and implemented internal mechanisms to:
+        </td><ul>  <li>Cease processing personal data based upon specific data subject requests,
+            confirmed instructions by Gorgias' customer in its capacity of data controller,
+            and
+            the particular reasoning for objecting to processing.
+          </li><li>Cease processing for direct marketing purposes upon request.</li><li>Cease processing of personal data for scientific, historical, or statistical
+            purposes.
+          
+</li></ul></div> <div><td>  
+        Data controller must cease processing upon request unless:
+        </td><ul>  <li>The data controller demonstrates compelling legitimate grounds for processing
+            that
+            override the interests, rights, and freedoms of the data subject.
+          </li><li>The data controller requires the data in order to establish, exercise, or
+            defend
+            legal rights.
+          </li><li>Processing for scientific, historical, or statistical purposes is carried out
+            for
+            reasons of public interest.
+          
+</li></ul></div> <div><h2>  Feedback</h2><p>  If there are any questions regarding this page, please contact us: <strong> support@gorgias.io </strong></p></div> <div><h2>  What’s a Rich Text element?</h2><p>  The rich text element allows you to create and format headings, paragraphs, blockquotes, images, and video all in one place instead of having to add and format them individually. Just double-click and <a href="http://test.com" target="_blank"> easily create content. </a></p></div> <div><h4>  Static and dynamic content editing</h4><p>  A rich text element can be used with static or dynamic content. For static content, just drop it into any page and begin editing. For dynamic content, add a rich text field to any collection and then connect a rich text element to that field in the settings panel. Voila!</p></div> <div><h4>  How to customize formatting for each rich text</h4><p>  Headings, paragraphs, blockquotes, figures, images, and figure captions can all be styled after a class is added to the rich text element using the "When inside of" nested selector system.</p><p>  Helping independent ecommerce brands provide an outstanding customer service experience.</p></div>

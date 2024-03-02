@@ -1,0 +1,390 @@
+<div><h1>  Privacy Policy</h1><p>  The use of the Internet pages of the dresden elektronik
+ingenieurtechnik gmbh is possible without any indication of personal
+data; however, if a data subject wants to use special enterprise
+services via our website, processing of personal data could become
+necessary. If the processing of personal data is necessary and there is
+no statutory basis for such processing, we generally obtain consent from
+the data subject.</p><p>  The processing of personal data, such as the name, address, e-mail
+address, or telephone number of a data subject shall always be in line
+with the General Data Protection Regulation (GDPR), and in accordance
+with the country-specific data protection regulations applicable to the
+dresden elektronik ingenieurtechnik gmbh. By means of this data
+protection declaration, our enterprise would like to inform the general
+public of the nature, scope, and purpose of the personal data we
+collect, use and process. Furthermore, data subjects are informed, by
+means of this data protection declaration, of the rights to which they
+are entitled.</p></div> <p><p>  As the controller, the dresden elektronik ingenieurtechnik gmbh has
+implemented numerous technical and organizational measures to ensure the
+most complete protection of personal data processed through this
+website. However, Internet-based data transmissions may in principle
+have security gaps, so absolute protection may not be guaranteed. For
+this reason, every data subject is free to transfer personal data to us
+via alternative means, e.g. by telephone.</p></p> <div><h2>  Name and Address of the
+controller</h2><p>  Controller for the purposes of the General Data Protection Regulation
+(GDPR), other data protection laws applicable in Member states of the
+European Union and other provisions related to data protection is:</p><p>  dresden elektronik ingenieurtechnik gmbh Enno-Heidebroek-Straße
+12 01217 Dresden Deutschland</p><p>  Phone: 0351 318500 Email: <a href="mailto:info@dresden-elektronik.de" target="_blank"> info@dresden-elektronik.de </a> Website: <a href="http://www.dresden-elektronik.de" target="_blank"> http://www.dresden-elektronik.de </a></p></div> <div><h2>  Cookies</h2><p>  Our website makes use of so-called cookies in order to recognize
+repeat use of our website by the same user/internet connection
+subscriber. Cookies are small text files that your internet browser
+downloads and stores on your computer. They are used to improve our
+website and services. In most cases these are so-called  that are deleted once you leave our website.</p><p>  To an extent, however, these cookies also pass along information used
+to automatically recognize you. Recognition occurs through an IP address
+saved to the cookies. The information thereby obtained is used to
+improve our services and to expedite your access to the website.</p></div> <p><p>  You can prevent cookies from being installed by adjusting the
+settings on your browser software accordingly. You should be aware,
+however, that by doing so you may not be able to make full use of all
+the functions of our website.</p></p> <div><h2>  Collection of
+general data and information</h2><p>  The website of the dresden elektronik ingenieurtechnik gmbh collects
+a series of general data and information when a data subject or
+automated system calls up the website. This general data and information
+are stored in the server log files. Collected may be (1) the browser
+types and versions used, (2) the operating system used by the accessing
+system, (3) the website from which an accessing system reaches our
+website (so-called referrers), (4) the sub-websites, (5) the date and
+time of access to the Internet site, (6) an Internet protocol address
+(IP address), (7) the Internet service provider of the accessing system,
+and (8) any other similar data and information that may be used in the
+event of attacks on our information technology systems.</p></div> <p><p>  When using these general data and information, the dresden elektronik
+ingenieurtechnik gmbh does not draw any conclusions about the data
+subject. Rather, this information is needed to (1) deliver the content
+of our website correctly, (2) optimize the content of our website as
+well as its advertisement, (3) ensure the long-term viability of our
+information technology systems and website technology, and (4) provide
+law enforcement authorities with the information necessary for criminal
+prosecution in case of a cyber-attack. Therefore, the dresden elektronik
+ingenieurtechnik gmbh analyzes anonymously collected data and
+information statistically, with the aim of increasing the data
+protection and data security of our enterprise, and to ensure an optimal
+level of protection for the personal data we process. The anonymous data
+of the server log files are stored separately from all personal data
+provided by a data subject.</p></p> <div><h2>  SSL encryption</h2><p>  This site uses SSL encryption for security reasons and to protect the
+transmission of sensitive content, such as the requests you send to us
+as the site operator. You can recognize an encrypted connection by
+changing the address line of the browser from  to
+ and the lock symbol in your browser line. If SSL
+encryption is enabled, the data you submit to us can not be read by
+third parties.</p></div> <div><h2>  Subscription to our
+newsletters</h2><p>  On the website of the dresden elektronik ingenieurtechnik gmbh, users
+are given the opportunity to subscribe to our enterprise’s newsletter.
+The input mask used for this purpose determines what personal data are
+transmitted, as well as when the newsletter is ordered from the
+controller.</p><p>  The dresden elektronik ingenieurtechnik gmbh informs its customers
+and business partners regularly by means of a newsletter about
+enterprise offers. The enterprise’s newsletter may only be received by
+the data subject if (1) the data subject has a valid e-mail address and
+(2) the data subject registers for the newsletter shipping. A
+confirmation e-mail will be sent to the e-mail address registered by a
+data subject for the first time for newsletter shipping, for legal
+reasons, in the double opt-in procedure. This confirmation e-mail is
+used to prove whether the owner of the e-mail address as the data
+subject is authorized to receive the newsletter.</p></div> <p><p>  During the registration for the newsletter, we also store the IP
+address of the computer system assigned by the Internet service provider
+(ISP) and used by the data subject at the time of the registration, as
+well as the date and time of the registration. The collection of this
+data is necessary in order to understand the (possible) misuse of the
+e-mail address of a data subject at a later date, and it therefore
+serves the aim of the legal protection of the controller.</p></p> <p><p>  The personal data collected as part of a registration for the
+newsletter will only be used to send our newsletter. In addition,
+subscribers to the newsletter may be informed by e-mail, as long as this
+is necessary for the operation of the newsletter service or a
+registration in question, as this could be the case in the event of
+modifications to the newsletter offer, or in the event of a change in
+technical circumstances. There will be no transfer of personal data
+collected by the newsletter service to third parties. The subscription
+to our newsletter may be terminated by the data subject at any time. The
+consent to the storage of personal data, which the data subject has
+given for shipping the newsletter, may be revoked at any time. For the
+purpose of revocation of consent, a corresponding link is found in each
+newsletter. It is also possible to unsubscribe from the newsletter at
+any time directly on the website of the controller, or to communicate
+this to the controller in a different way.</p></p> <div><h2>  Contact possibility via the
+website</h2><p>  The website of the dresden elektronik ingenieurtechnik gmbh contains
+information that enables a quick electronic contact to our enterprise,
+as well as direct communication with us, which also includes a general
+address of the so-called electronic mail (e-mail address). If a data
+subject contacts the controller by e-mail or via a contact form, the
+personal data transmitted by the data subject are automatically stored.
+Such personal data transmitted on a voluntary basis by a data subject to
+the data controller are stored for the purpose of processing or
+contacting the data subject. There is no transfer of this personal data
+to third parties.</p></div> <div><h2>  Data
+protection for applications and the application procedures</h2><p>  The data controller shall collect and process the personal data of
+applicants for the purpose of the processing of the application
+procedure. The processing may also be carried out electronically. This
+is the case, in particular, if an applicant submits corresponding
+application documents by e-mail or by means of a web form on the website
+to the controller. If the data controller concludes an employment
+contract with an applicant, the submitted data will be stored for the
+purpose of processing the employment relationship in compliance with
+legal requirements. If no employment contract is concluded with the
+applicant by the controller, the application documents shall be
+automatically erased two months after notification of the refusal
+decision, provided that no other legitimate interests of the controller
+are opposed to the erasure. Other legitimate interest in this relation
+is, e.g. a burden of proof in a procedure under the General Equal
+Treatment Act (AGG).</p></div> <p><p>  The data controller shall collect and process the personal data of
+applicants for the purpose of the processing of the application
+procedure. The processing may also be carried out electronically. This
+is the case, in particular, if an applicant submits corresponding
+application documents by e-mail or by means of a web form on the website
+to the controller. If the data controller concludes an employment
+contract with an applicant, the submitted data will be stored for the
+purpose of processing the employment relationship in compliance with
+legal requirements. If no employment contract is concluded with the
+applicant by the controller, the application documents shall be
+automatically erased two months after notification of the refusal
+decision, provided that no other legitimate interests of the controller
+are opposed to the erasure. Other legitimate interest in this relation
+is, e.g. a burden of proof in a procedure under the General Equal
+Treatment Act (AGG).</p></p> <div><h2>  Legal basis of processing</h2><p>  Art. 6 I lit. f GDPR serves our company as the legal basis for
+processing operations where we obtain consent for a particular
+processing purpose. If the processing of personal data is necessary to
+fulfill a contract of which the data subject is a party, as is the case,
+for example, in processing operations necessary for the supply of goods
+or the provision of any other service or consideration, processing shall
+be based on Art. 6 I b GDPR. The same applies to processing operations
+that are necessary to carry out pre-contractual measures, for example in
+cases of inquiries regarding our products or services. If our company is
+subject to a legal obligation which requires the processing of personal
+data, such as the fulfillment of tax obligations, the processing is
+based on Art. 6 I lit. c GDPR. In rare cases, the processing of personal
+data may be required to protect the vital interests of the data subject
+or another natural person. This would be the case, for example, if a
+visitor to our premises were injured and his or her name, age, health
+insurance or other vital information would have to be passed on to a
+doctor, hospital or other third party. Then the processing would be
+based on Art. 6 I lit. d GDPR are based. Ultimately, processing
+operations could be based on Art. 6 I lit. f GDPR are based. On this
+legal basis, processing operations that are not covered by any of the
+above legal bases are required if processing is necessary to safeguard
+the legitimate interests of our company or a third party, unless the
+interests, fundamental rights and fundamental freedoms of the person
+concerned prevail. Such processing operations are particularly allowed
+to us because they have been specifically mentioned by the European
+legislator. In that regard, it considered that a legitimate interest
+could be assumed if the data subject is a customer of the controller
+(recital 47, second sentence, GDPR).</p></div> <div><h2>  The
+legitimate interests pursued by the controller or by a third party</h2><p>  Where the processing of personal data is based on Article 6(1) lit. f
+GDPR our legitimate interest is to carry out our business in favor of
+the well-being of all our employees and the shareholders.</p></div> <div><h2>  Period for
+which the personal data will be stored</h2><p>  The criteria used to determine the period of storage of personal data
+is the respective statutory retention period. After expiration of that
+period, the corresponding data is routinely deleted, as long as it is no
+longer necessary for the fulfillment of the contract or the initiation
+of a contract.</p></div> <div><h2>  Provision
+of personal data as statutory or contractual requirement; Requirement
+necessary to enter into a contract; Obligation of the data subject to
+provide the personal data; possible consequences of failure to provide
+such data</h2><p>  We clarify that the provision of personal data is partly required by
+law (e.g. tax regulations) or can also result from contractual
+provisions (e.g. information on the contractual partner). Sometimes it
+may be necessary to conclude a contract that the data subject provides
+us with personal data, which must subsequently be processed by us. The
+data subject is, for example, obliged to provide us with personal data
+when our company signs a contract with him or her. The non-provision of
+the personal data would have the consequence that the contract with the
+data subject could not be concluded. Before personal data is provided by
+the data subject, the data subject must contact any employee. The
+employee clarifies to the data subject whether the provision of the
+personal data is required by law or contract or is necessary for the
+conclusion of the contract, whether there is an obligation to provide
+the personal data and the consequences of non-provision of the personal
+data.</p></div> <div><h2>  Existence of automated
+decision-making</h2><p>  As a responsible company, we do not use automatic decision-making or
+profiling.</p></div> <div><h2>  YouTube</h2><p>  Our website uses plugins from the Google-powered YouTube page.
+Operator of the pages is the YouTube, LLC, 901 Cherry Ave., San Bruno,
+CA 94066, USA. When you visit one of our YouTube plug-in-enabled sites,
+you will be connected to the servers of YouTube. The Youtube server will
+be informed which of our pages you visited.</p><p>  If you’re logged in to your YouTube account, YouTube allows you to
+associate your browsing behavior directly with your personal profile.
+You can prevent this by logging out of your YouTube account. For more
+information on how to handle user data, please refer to the YouTube
+Privacy Policy at https://www.google.com/intl/en/policies/privacy</p></div> <div><h2>  Routine erasure
+and blocking of personal data</h2><p>  The data controller shall process and store the personal data of the
+data subject only for the period necessary to achieve the purpose of
+storage, or as far as this is granted by the European legislator or
+other legislators in laws or regulations to which the controller is
+subject to.</p><p>  If the storage purpose is not applicable, or if a storage period
+prescribed by the European legislator or another competent legislator
+expires, the personal data are routinely blocked or erased in accordance
+with legal requirements.</p></div> <div><h2>  Rights of the data subject</h2><ul>  <li>Right of confirmation
+</li></ul><p>  Each data subject shall have the right granted by the European
+legislator to obtain from the controller the confirmation as to whether
+or not personal data concerning him or her are being processed. If a
+data subject wishes to avail himself of this right of confirmation, he
+or she may, at any time, contact any employee of the
+controller.</p><ul>  <li>Right of access
+</li></ul><p>  Each data subject shall have the right granted by the European
+legislator to obtain from the controller free information about his or
+her personal data stored at any time and a copy of this information.
+Furthermore, the European directives and regulations grant the data
+subject access to the following information:
+</p></div> <ul><ul>  <li>the purposes of the processing;</li><li>the categories of personal data concerned;</li><li>the recipients or categories of recipients to whom the personal data
+have been or will be disclosed, in particular recipients in third
+countries or international organisations;</li><li>where possible, the envisaged period for which the personal data
+will be stored, or, if not possible, the criteria used to determine that
+period;</li><li>the existence of the right to request from the controller
+rectification or erasure of personal data, or restriction of processing
+of personal data concerning the data subject, or to object to such
+processing;</li></ul></ul> <ul><ul>  <li>the existence of the right to lodge a complaint with a supervisory
+authority;</li><li>where the personal data are not collected from the data subject, any
+available information as to their source;</li><li>the existence of automated decision-making, including profiling,
+referred to in Article 22(1) and (4) of the GDPR and, at least in those
+cases, meaningful information about the logic involved, as well as the
+significance and envisaged consequences of such processing for the data
+subject.
+</li></ul></ul> <p><p>  Furthermore, the data subject shall have a right to obtain
+information as to whether personal data are transferred to a third
+country or to an international organisation. Where this is the case, the
+data subject shall have the right to be informed of the appropriate
+safeguards relating to the transfer.
+</p></p> <p><p>  If a data subject wishes to avail himself of this right of access, he
+or she may, at any time, contact any employee of the
+controller.</p></p> <div><ul>  <li>Right to rectification
+</li></ul><p>  Each data subject shall have the right granted by the European
+legislator to obtain from the controller without undue delay the
+rectification of inaccurate personal data concerning him or her. Taking
+into account the purposes of the processing, the data subject shall have
+the right to have incomplete personal data completed, including by means
+of providing a supplementary statement.
+</p><p>  If a data subject wishes to exercise this right to rectification, he
+or she may, at any time, contact any employee of the
+controller.</p></div> <div><ul>  <li>Right to erasure (Right to be forgotten)
+</li></ul><p>  Each data subject shall have the right granted by the European
+legislator to obtain from the controller the erasure of personal data
+concerning him or her without undue delay, and the controller shall have
+the obligation to erase personal data without undue delay where one of
+the following grounds applies, as long as the processing is not
+necessary:
+</p><ul>  <li>The personal data are no longer necessary in relation to the
+purposes for which they were collected or otherwise processed.</li><li>The data subject withdraws consent to which the processing is
+based according to point (a) of Article 6(1) of the GDPR, or point (a)
+of Article 9(2) of the GDPR, and where there is no other legal ground
+for the processing.</li><li>The data subject objects to the processing pursuant to Article
+21(1) of the GDPR and there are no overriding legitimate grounds for the
+processing, or the data subject objects to the processing pursuant to
+Article 21(2) of the GDPR.</li></ul></div> <ul><ul>  <li>The personal data have been unlawfully processed.</li><li>The personal data must be erased for compliance with a legal
+obligation in Union or Member State law to which the controller is
+subject.</li><li>The personal data have been collected in relation to the offer of
+information society services referred to in Article 8(1) of the
+GDPR.
+</li></ul></ul> <p><p>  If one of the aforementioned reasons applies, and a data subject
+wishes to request the erasure of personal data stored by the dresden
+elektronik ingenieurtechnik gmbh, he or she may, at any time, contact
+any employee of the controller. An employee of dresden elektronik
+ingenieurtechnik gmbh shall promptly ensure that the erasure request is
+complied with immediately.
+</p></p> <p><p>  Where the controller has made personal data public and is obliged
+pursuant to Article 17(1) to erase the personal data, the controller,
+taking account of available technology and the cost of implementation,
+shall take reasonable steps, including technical measures, to inform
+other controllers processing the personal data that the data subject has
+requested erasure by such controllers of any links to, or copy or
+replication of, those personal data, as far as processing is not
+required. An employees of the dresden elektronik ingenieurtechnik gmbh
+will arrange the necessary measures in individual cases.</p></p> <div><ul>  <li>Right of restriction of processing
+</li></ul><p>  Each data subject shall have the right granted by the European
+legislator to obtain from the controller restriction of processing where
+one of the following applies:
+</p><ul>  <li>The accuracy of the personal data is contested by the data subject,
+for a period enabling the controller to verify the accuracy of the
+personal data.</li><li>The processing is unlawful and the data subject opposes the erasure
+of the personal data and requests instead the restriction of their use
+instead.</li><li>The controller no longer needs the personal data for the purposes of
+the processing, but they are required by the data subject for the
+establishment, exercise or defence of legal claims.</li></ul></div> <ul><ul>  <li>The data subject has objected to processing pursuant to Article
+21(1) of the GDPR pending the verification whether the legitimate
+grounds of the controller override those of the data subject.
+</li></ul></ul> <p><p>  If one of the aforementioned conditions is met, and a data subject
+wishes to request the restriction of the processing of personal data
+stored by the dresden elektronik ingenieurtechnik gmbh, he or she may at
+any time contact any employee of the controller. The employee of the
+dresden elektronik ingenieurtechnik gmbh will arrange the restriction of
+the processing.</p></p> <div><ul>  <li>Right to data portability
+</li></ul><p>  Each data subject shall have the right granted by the European
+legislator, to receive the personal data concerning him or her, which
+was provided to a controller, in a structured, commonly used and
+machine-readable format. He or she shall have the right to transmit
+those data to another controller without hindrance from the controller
+to which the personal data have been provided, as long as the processing
+is based on consent pursuant to point (a) of Article 6(1) of the GDPR or
+point (a) of Article 9(2) of the GDPR, or on a contract pursuant to
+point (b) of Article 6(1) of the GDPR, and the processing is carried out
+by automated means, as long as the processing is not necessary for the
+performance of a task carried out in the public interest or in the
+exercise of official authority vested in the controller.
+</p></div> <p><p>  Furthermore, in exercising his or her right to data portability
+pursuant to Article 20(1) of the GDPR, the data subject shall have the
+right to have personal data transmitted directly from one controller to
+another, where technically feasible and when doing so does not adversely
+affect the rights and freedoms of others.
+</p></p> <p><p>  In order to assert the right to data portability, the data subject
+may at any time contact any employee of the dresden elektronik
+ingenieurtechnik gmbh.</p></p> <div><ul>  <li>Right to object
+</li></ul><p>  Each data subject shall have the right granted by the European
+legislator to object, on grounds relating to his or her particular
+situation, at any time, to processing of personal data concerning him or
+her, which is based on point (e) or (f) of Article 6(1) of the GDPR.
+This also applies to profiling based on these provisions.
+</p><p>  The dresden elektronik ingenieurtechnik gmbh shall no longer process
+the personal data in the event of the objection, unless we can
+demonstrate compelling legitimate grounds for the processing which
+override the interests, rights and freedoms of the data subject, or for
+the establishment, exercise or defence of legal claims.
+</p></div> <p><p>  If the dresden elektronik ingenieurtechnik gmbh processes personal
+data for direct marketing purposes, the data subject shall have the
+right to object at any time to processing of personal data concerning
+him or her for such marketing. This applies to profiling to the extent
+that it is related to such direct marketing. If the data subject objects
+to the dresden elektronik ingenieurtechnik gmbh to the processing for
+direct marketing purposes, the dresden elektronik ingenieurtechnik gmbh
+will no longer process the personal data for these purposes.
+</p></p> <p><p>  In addition, the data subject has the right, on grounds relating to
+his or her particular situation, to object to processing of personal
+data concerning him or her by the dresden elektronik ingenieurtechnik
+gmbh for scientific or historical research purposes, or for statistical
+purposes pursuant to Article 89(1) of the GDPR, unless the processing is
+necessary for the performance of a task carried out for reasons of
+public interest.
+</p></p> <p><p>  In order to exercise the right to object, the data subject may
+contact any employee of the dresden elektronik ingenieurtechnik gmbh. In
+addition, the data subject is free in the context of the use of
+information society services, and notwithstanding Directive 2002/58/EC,
+to use his or her right to object by automated means using technical
+specifications.</p></p> <ul><ul>  <li>Automated individual decision-making, including profiling
+</li></ul></ul> <p><p>  Each data subject shall have the right granted by the European
+legislator not to be subject to a decision based solely on automated
+processing, including profiling, which produces legal effects concerning
+him or her, or similarly significantly affects him or her, as long as
+the decision (1) is not is necessary for entering into, or the
+performance of, a contract between the data subject and a data
+controller, or (2) is not authorised by Union or Member State law to
+which the controller is subject and which also lays down suitable
+measures to safeguard the data subject’s rights and freedoms and
+legitimate interests, or (3) is not based on the data subject’s explicit
+consent.
+</p></p> <p><p>  If the decision (1) is necessary for entering into, or the
+performance of, a contract between the data subject and a data
+controller, or (2) it is based on the data subject’s explicit consent,
+the dresden elektronik ingenieurtechnik gmbh shall implement suitable
+measures to safeguard the data subject’s rights and freedoms and
+legitimate interests, at least the right to obtain human intervention on
+the part of the controller, to express his or her point of view and
+contest the decision.
+</p></p> <p><p>  If the data subject wishes to exercise the rights concerning
+automated individual decision-making, he or she may, at any time,
+contact any employee of the dresden elektronik ingenieurtechnik
+gmbh.</p></p> <div><ul>  <li>Right to withdraw data protection consent
+</li></ul><p>  Each data subject shall have the right granted by the European
+legislator to withdraw his or her consent to processing of his or her
+personal data at any time. If the data subject wishes to exercise the
+right to withdraw the consent, he or she may, at any time, contact any
+employee of the dresden elektronik ingenieurtechnik gmbh.</p></div> <div><h2>  Contradiction advertising
+emails</h2><p>  The use of all published contact data for sending unsolicited
+advertising and information materials is hereby rejected. The operators
+of the pages expressly reserve the right to take legal action in the
+event of the unsolicited sending of advertising information, for example
+through spam e-mails.</p><p>  <em> Sources: This Privacy Policy has been generated with the help of
+the Privacy Policy Generator of the German Association for Data
+Protection in cooperation with the RC GmbH and the file sharing lawyers
+of WBS-LAW, e-recht24.de. </em></p></div> <div><span>  by dresden elektronik</span></div>

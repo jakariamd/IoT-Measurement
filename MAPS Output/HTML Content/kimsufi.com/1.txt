@@ -1,0 +1,144 @@
+<div><span>  Open menu</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+
+</li><li>
+                  Control Panel
+                                      </li></ul><span>  
+
+</span><ul>  <li>
+                  About Kimsufi
+                                  
+</li><li>
+                  OVHcloud
+                                  
+</li><li>
+      World [$]
+    
+</li><li>
+                                    Deutschland [€]
+            
+      
+</li><li>
+                                    España [€]
+            
+      
+</li><li>
+                                    France [€]
+            
+      
+</li><li>
+                                    Ireland [€]
+            
+      
+</li><li>
+                                    Italia [€]
+            
+      
+</li></ul></div> <div><ul>  <li>
+                                    Nederland [€]
+            
+      
+</li><li>
+                                    Polska [PLN]
+            
+      
+</li><li>
+                                    Portugal [€]
+            
+      
+</li><li>
+                                    United Kingdom [£]
+            
+      
+</li><li>
+                                    Canada (en) [$]
+            
+      
+</li><li>
+                                    Canada (fr) [$]
+            
+      
+</li><li>
+                                    América Latina [$]
+            
+      
+</li></ul></div> <div><ul>  <li>
+                                    Maroc [Dhs]
+            
+      
+</li><li>
+                                    Sénégal [FCFA]
+            
+      
+</li><li>
+                                    Tunisie [DT]
+            
+      
+</li><li>
+                                    Australia [A$]
+            
+      
+</li><li>
+                                    Singapore [S$]
+            
+      
+</li><li>
+                                    Asia [US$]
+            
+      
+</li><li>
+                                    World [$]
+            
+      
+</li></ul></div> <div><ul>  <li>
+                                    World [€]
+            
+      
+
+</li></ul><span>  Open login menu</span><p>  Welcome to OVHcloud.</p><p>  Log in to order, manage your products and services, and track your orders.</p><ul>  <li>
+              Servers
+                
+</li><li>
+              VPS
+                
+</li><li>
+              Web hosting
+                
+</li></ul></div> <div><h1>  Terms & conditions</h1><ul>  <li>
+
+</li><li>Terms & conditions</li></ul></div> <div><h2>  
+          Terms & conditions
+
+      </h2></div> <div><h3>  HEBERGEMENT INC
+ </h3><p>  HEBERGEMENT INC is a subsidiary of OVH Groupe SA, a company registered with the Lille company registry under the number 537 407 926 sise 2, rue Kellermann, 59100 Roubaix.</p><p>  <strong> Personal data </strong></p><p>  Generally, you can visit our website without needing to reveal your identity and provide personal information concerning you. However, we may sometimes request this information from you. For example, we would do this to process an order, establish correspondence, supply a subscription or receive a candidate for a job position. We may supplement this information to complete a transaction, or offer better service.</p></div> <div><p>  <strong> Cookies </strong></p><span>  Back to top</span><ul>  <li>Products</li><li>Useful links</li><li>Control Panel
+</li><li>Social networks</li><li>
+
+
+</li><li>
+
+
+</li><li>
+
+
+</li><li>
+
+
+</li><li>
+
+
+</li><li>
+
+
+</li><li>
+
+
+</li><li>
+
+
+
+
+</li></ul><p>  The Kimsufi trademark and all other OVHcloud trademarks appearing on this website, are registered trademarks held by OVH LTD. All other trademarks appearing on this website are the property of their owners.</p></div> <div><h1>  Protecting your data is our priority.</h1><p>  Our website and partner companies use cookies. Some of these cookies are required for the OVHcloud Group websites to work properly, and cannot be refused. OVHcloud uses other cookies that are optional. <a href="https://www.kimsufi.com/en/legal-documents/cookie-policy/" target="_blank"> More information </a>:</p><ul>  <li>Site performance and customisation cookies</li><li>Targeted advertising cookies</li><li>Sharing cookies on third-party platforms</li></ul></div> <p><p>  If you click "Accept" cookies, all these categories will be enabled to optimise your online experience. To set cookies, click "Set". However, if you choose to opt out, your browsing experience may be limited.</p></p> <p><p>  OVHcloud will save your choice for 13 months.</p></p>

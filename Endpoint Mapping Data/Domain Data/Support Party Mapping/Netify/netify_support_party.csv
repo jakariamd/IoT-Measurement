@@ -1,0 +1,186 @@
+org_name,remote_hostname
+Akamai,akamai.net
+Fastly,fastly.net
+Tuya Smart,tuyaus.com
+AMP Project,ampproject.org
+Limelight Networks,llnwd.net
+Amazon AWS,amazonaws.com
+Edgecast,phicdn.net
+SmartThings,smartthings.com
+CloudFlare,cloudflare.net
+Philips,meethue.com
+Philips,philips.com
+Amazon CloudFront,cloudfront.net
+Ring,ring.com
+Amazon Devices,fireoscaptiveportal.com
+TP-Link,tplinkcloud.com
+Amazon Devices,amcs-tachyon.com
+Akamai,akamaitechnologies.com
+LG Smart TV,lgtvsdp.com
+Akamai,akamaiedge.net
+Akamai,akadns.net
+LG Smart TV,aws-prd.net
+LG Smart TV,lgappstv.com
+Nest,dropcam.com
+Nest,nest.com
+AMP Project,ampproject.net
+Edgecast,edgecastcdn.net
+Bose,bose.io
+Samsung,game-mode.net
+HP,hp.com
+Wyze,wyzecam.com
+QNAP Systems,myqnapcloud.com
+Samsung,samsungiotcloud.com
+Samsung,samsungelectronics.com
+Samsung,samsungnyc.com
+Samsung TV,internetat.tv
+Withings,withings.net
+Akamai,akamaihd.net
+Heroku,herokuapp.com
+Epson,epsonconnect.com
+Sony TV,sony.tv
+Roku,roku.com
+Amazon AWS,elasticbeanstalk.com
+Roku,ravm.tv
+Sonos,sonos.com
+Roku,rokutime.com
+Synology,quickconnect.to
+Synology,synology.com
+Amazon Devices,fos5echocaptiveportal.com
+HP,hpeprint.com
+Arlo,arlo.com
+Amazon AWS,amazon-dss.com
+Google Hosted,appspot.com
+Netatmo,netatmo.net
+Honeywell,honeywell.com
+Edgecast,systemcdn.net
+Edgecast,alphacdn.net
+Ezviz,ezvizlife.com
+Hikvision,hik-connect.com
+Cisco Meraki,meraki.com
+Tuya Smart,tuyaeu.com
+Linode,linode.com
+Hetzner,your-server.de
+CDN77,cdn77.com
+QNAP Systems,qnap.com
+Vultr,vultr.com
+OVHcloud,ovh.net
+Xiaomi,mi.com
+Limelight Networks,llnwi.net
+TP-Link,tplinkra.com
+Netgear,netgear.com
+Lumen CDN,footprint.net
+Samsung,samsungcloudsolution.com
+Samsung,samsungotn.net
+Limelight Networks,llnw.net
+Microsoft Azure,cloudapp.net
+Samsung,samsungqbe.com
+Samsung,pavv.co.kr
+Samsung,samsungcloudcdn.com
+Alibaba Cloud,aliyuncs.com
+Tivo,tivoservice.com
+Tivo,tivo.com
+mydlink,mydlink.com
+Bose,bosecm.com
+Xiaomi,xiaomi.com
+Samsung,samsung.com
+Samsung,samsungcloud.com
+LIFX,lifx.co
+Ubiquiti,ui.com
+Ubiquiti,ubnt.com
+Zayo,zayo.com
+Sonos,sonos.radio
+Samsung,samsungcloudsolution.net
+Limelight Networks,lldns.net
+Logitech,logitech.io
+Samsung,samsungosp.com
+CloudFlare,cloudflare.com
+LG Smart TV,lgsmartad.com
+Xiongmai,secu100.net
+Xiongmai,xmsecu.com
+SiliconDust,hdhomerun.com
+Akamai,edgesuite.net
+Meross,meross.com
+Microsoft Azure,trafficmanager.net
+Microsoft Azure,azure-devices.net
+Akamai,akamaized.net
+Netatmo,netatmo.com
+M247,m247.com
+TP-Link,tp-link.com
+AWS Global Accelerator,awsglobalaccelerator.com
+MIUI OS,miui.com
+Alibaba Cloud,kunlunsl.com
+Resideo,alarmnet.com
+Philips,philips-hue.com
+Amazon Devices,firetvcaptiveportal.com
+Samsung TV,samsungcloud.tv
+TP-Link,tplinknbu.com
+Amazon Devices,acsechocaptiveportal.com
+Azure Front Door,msedge.net
+Microsoft Azure,azure.com
+Brother,brother.com
+MiWiFi,miwifi.com
+VIZIO,vizio.com
+Microsoft Azure,azureedge.net
+Azure Front Door,t-msedge.net
+WP Engine,wpengine.com
+CDN77,cdn77.org
+Bunny.net,b-cdn.net
+Edgio,epsiloncdn.net
+Google Hosted,cloudfunctions.net
+Amazon AWS,aws.dev
+GoDaddy,godaddy.com
+Heroku,herokudns.com
+Ring,rings.solutions
+Wyze,wyze.com
+iRobot,irobotapi.com
+Lorex,lorexservices.com
+Roku,w55c.net
+Akamai,edgekey.net
+VIZIO,tvinteractive.tv
+Samsung,samsungrm.net
+Akamai,akamai.com
+Amazon Devices,mmechocaptiveportal.com
+Microsoft Azure,azurewebsites.net
+Xiaomi,xiaomi.net
+Akamai,akamaistream.net
+Canon,c-ij.com
+Canon,c-wss.com
+StackPath,hwcdn.net
+Wix,wix.com
+Amazon Devices,tabletcaptiveportal.com
+FLIR Systems,flirservices.com
+Bose,bose.com
+Eero,e2ro.com
+Wix,wixapps.net
+Wix,wixstatic.com
+Garmin,garmin.com
+Grandstream,gdms.cloud
+LG Smart TV,lgeapi.com
+KeyCDN,keycdn.com
+Xiaomi,mi-img.com
+Vestel Appliances,vstlsrv.com
+Belkin,belkin.com
+Alibaba Cloud,cdngslb.com
+Samsung,samsungcloudprint.com
+i3D.net,i3d.net
+Amazon AWS,amazonaws.com.cn
+Google Hosted,googlehosted.com
+KeyCDN,kxcdn.com
+Fastly,fastlylb.net
+Samsung,samsungpositioning.com
+Lumen CDN,footprintdns.com
+Amazon AWS,awsstatic.com
+Samsung,secb2b.com
+SnapAV,ovrc.com
+Huawei,hicloud.com
+ASUS,asus.com
+Epson,epson.net
+Logitech,logitech.com
+Azure Front Door,a-msedge.net
+Akamai,akamaitech.net
+Samsung,samsunghealth.com
+Leaseweb,leaseweb.com
+Epson,epson.biz
+Raspberry Pi,raspberrypi.org
+Eero,eero.com

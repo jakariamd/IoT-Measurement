@@ -1,0 +1,163 @@
+<div><div>  
+
+
+
+
+</div><span>  Oracle
+
+</span><span>  Close
+</span><span>  Search
+</span><span>  
+
+</span><span>  
+
+
+</span><span>  Ask "Analyst Reports"
+
+</span><div>  
+
+</div><div>  View Accounts
+</div><span>  Back
+</span><span>  Oracle Account
+</span><span>  Cloud Account
+<a href="/cloud/sign-in.html" target="_blank"> Sign in to  </a></span><span>  Contact Sales
+
+
+
+</span><div>  
+
+</div><div>  No results found
+</div><p>  Your search did not match any results.
+</p><p>  We suggest you try the following to help find what you’re looking for:
+</p></div> <ul><ul>  <li>Check the spelling of your keyword search.</li><li>Use synonyms for the keyword you typed, for example, try “application” instead of “software.”</li><li>Try one of the popular searches shown below.</li><li>Start a new search.
+</li></ul></ul> <div><div>  Trending Questions
+
+
+
+
+</div><ul>  <li>How are customers using Oracle Cloud apps and infrastructure?</li><li>Analyst Reports</li><li>College recruiting</li><li>Working at Oracle</li><li>Can I take advantage of the cloud in my own data center?</li><li>HCM</li><li>Oracle business transformation</li><li>Try Oracle Cloud for free</li><li>How can I create an agile supply chain?</li><li>Blockchain applications</li><li>Oracle vs AWS</li><li>Financials
+
+<a href="#close" target="_blank"> Close </a></li></ul></div> <div><div>  
+
+</div><div>  Products
+</div><div>  Infrastructure
+
+</div><div>  Applications
+
+</div><div>  Industries
+</div><div>  Resources
+</div><div>  Support
+</div><div>  Events
+</div><ul>  <li>Oracle Cloud Events
+<a href="/cx/events/" target="_blank"> Cloud CX </a>
+</li></ul><p>  Join visionaries, experts, and customers as they share insights on the latest CX solutions in this series of 1–2 hour events.
+<a href="/events/virtual-summits/cloud-erp/?source=:ow:evp:cpo:::OcomT1EventIndex&intcmp=:ow:evp:cpo:::OcomT1EventIndex" target="_blank"> Cloud ERP </a>
+</p></div> <p><p>  Listen to industry experts and customers as they share ERP, EPM, and SCM best practices in this series of 1–2 hour events.
+<a href="/events/virtual-summits/cloud-hcm/?source=:ow:evp:cpo:::OcomT1EventIndex&intcmp=:ow:evp:cpo:::OcomT1EventIndex" target="_blank"> Cloud HCM </a>
+</p></p> <p><p>  Experience HR technology solutions best practices and customer successes in this series of 1–2 hour events.
+<a href="/cloud/events/" target="_blank"> Cloud Platform </a>
+</p></p> <p><p>  Explore modern technology solutions through best practices and customer examples in these 1–2 hour events.
+
+
+</p></p> <p><p>  Learn about new products and some of the customers who are using them in these 60-minutes or less announcement events.
+</p></p> <p><p>  Accelerate your application development and join technical sessions, hands-on labs, demos, panels, and live Q&A with experts.
+</p></p> <p><p>  Hear candid conversations with customer executives who rely on Oracle Cloud to help transform their business.
+
+
+</p></p> <p><p>  Not finding what you’re looking for? Search for all Oracle events.
+
+
+</p></p> <div><div>  
+
+
+
+
+</div><div>  Developer
+</div><p>  Find tools, documentation, downloads, reference architectures and sample code to develop on Oracle Cloud Infrastructure.
+</p><div>  Try Oracle Free Tier
+</div><p>  Oracle Cloud Free Tier lets anyone build, test, and deploy applications on Oracle Cloud—for free.
+</p><div>  Partners
+</div><p>  Learn how our partners' differentiated services, combined with Oracle’s technology stack, are critical to our customers’ ongoing success.
+</p><p>  Discover, test, buy, and deploy partner business applications built on, and integrated with, Oracle Cloud.
+</p></div> <p><p>  Search our digital catalog of partners who are ready to assist customers in realizing greater value through expertise-based services.
+
+
+</p></p> <p><p>  See why startups and established ISVs trust Oracle Cloud to meet their customers’ demands.
+</p></p> <p><p>  Understand the opportunities to extend and expand your service offerings with Oracle Cloud.
+</p></p> <p><p>  Learn about Oracle’s global program that helps technology and services partners innovate, collaborate, and grow based on their business needs.
+
+
+</p></p> <div><div>  Interested in partnering? Take our OPN Journey Builder
+</div><p>  Help us get to know your business better so we can guide you on your path to success with Oracle.
+</p><div>  
+<a href="/partnernetwork/journey/employee/" target="_blank"> Let’s get started </a>
+
+
+
+
+
+
+
+
+
+
+
+</div><div>  
+
+
+
+
+
+
+
+
+
+</div></div> <div><h1>  Oracle Legal
+
+</h1><div>  
+
+</div><div>  
+Legal Notices
+
+
+
+
+
+
+
+</div><ul>  <li><b> Privacy Policies </b></li><li><i> More </i> </li></ul><div>  
+
+</div><ul>  <li><a href="/legal/privacy/dyn-privacy-policy.html" target="_blank"> Dyn </a>
+
+
+
+
+
+
+
+
+
+</li></ul></div> <div><h2>  Privacy @ Oracle
+</h2><p>  Oracle respects your preferences concerning the collection and use of your Personal Information. The following Oracle privacy policies are tailored for the different ways your Personal Information may be collected, used, shared and processed by different Oracle lines of business:
+</p><ul>  <li>The <a href="/legal/privacy/privacy-policy.html" target="_blank"> Oracle General Privacy Policy </a> addresses information we collect in connection with your use of Oracle websites, mobile applications, and social media pages that link to the General Privacy Policy, your interactions with Oracle during in-person meetings at Oracle facilities or at Oracle events, and in the context of other online or offline sales and marketing activities.</li><li>The <a href="/legal/privacy/services-privacy-policy.html" target="_blank"> Services Privacy Policy </a> describes our privacy and security practices that apply when handling (i) services personal information in order to perform Consulting, Technical Support, Cloud and other services on behalf of Oracle customers; and (ii) personal information contained in systems operation data generated by the interaction of (end-)users of these services with Oracle systems and networks.</li></ul></div> <ul><ul>  <li>The <a href="/legal/privacy/customer-data-research-development-privacy-policy.html" target="_blank"> Customer Data Research and Development Privacy Policy </a> describes Oracle’s processing of personal information in connection with Oracle’s artificial intelligence and machine learning activities in order to analyze, develop, and improve Oracle products and services, and for security and compliance purposes.</li><li>The <a href="/legal/privacy/recruiting-privacy-policy.html" target="_blank"> Oracle Recruiting Privacy Policy </a> addresses information we may collect in connection with Oracle’s online and offline recruiting efforts.</li></ul></ul> <ul><ul>  <li>The <a href="/legal/privacy/advertising-privacy-policy.html" target="_blank"> Oracle Advertising Privacy Policy </a> addresses how Oracle facilitates the collection and use of marketing and interest-based information to help enable interest-based advertising by our Oracle Advertising customers.</li><li>The <a href="/legal/privacy/addthis-privacy-policy.html" target="_blank"> AddThis Privacy Policy </a> informs consumers about the collection, use and sharing of personal information in connection with Oracle’s provision of the AddThis Tools.</li></ul></ul> <ul><ul>  <li>The <a href="/legal/privacy/dyn-privacy-policy.html" target="_blank"> Dyn Internet Performance Tools Privacy Policy </a> provides information on the collection, use, sharing and processing of personal information by Oracle in connection with Dyn’s Recursive DNS service, Updater Client, Gauge web browser extension, and RUM beacons.
+</li></ul></ul> <p><p>  Pursuant to the E.U. General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and other applicable laws and regulations, individuals may have data subject rights enabling them to request to access, delete, correct, remove or limit the use, or receive a copy of their personal information in Oracle’s possession or for which Oracle is otherwise responsible. If you would like to exercise your rights, please refer to the applicable privacy policy above or visit the <a href="/legal/privacy/privacy-choices.html" target="_blank"> Privacy Choices </a> tab for more information.
+
+
+
+
+
+
+
+
+</p></p> <div><div>  Resources for
+</div><div>  Why Oracle
+</div><div>  Learn
+</div><div>  News and Events
+</div><div>  Contact Us
+</div><div>  
+
+
+</div><ul>  <li>Country/Region</li><li>
+
+
+</li></ul></div>

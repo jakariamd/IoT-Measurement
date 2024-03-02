@@ -1,0 +1,127 @@
+<div><h1>  Privacy Policy</h1><p>  
+                            It is important to distinguish between the personal data that you entrust to us for the use of our services and the security of the data that you host on the Infomaniak technical infrastructure.
+                        </p><p>  
+                    You will find all the current questions concerning the security of the data that you host, as well as their exact scope, in our <a href="https://www.infomaniak.com/en/legal/general-data-protection-regulation" target="_blank"> dedicated area for security questions </a>.
+                </p></div> <p><p>  This privacy policy applies to all our products and services.</p></p> <div><h3>  
+                Commitment to the confidentiality of your personal data
+            </h3><p>  
+                    Infomaniak collects as little information as possible about you. In order to be able to deliver your order, guarantee the security of your data or collect your opinion on specific pages, it may nevertheless happen that we require some personal information.
+                </p><p>  
+                    Infomaniak treats your personal data with care and ensures that your private life is protected. Here are our three commitments regarding the confidentiality of your personal data:
+                </p></div> <div><h5>  
+                    Usage limited as much as possible
+                </h5><p>  
+                    We never share your personal data with third parties without good reason.
+                </p></div> <div><h5>  
+                    Responsible processing
+                </h5><p>  
+                    We protect and treat your personal information as if it were our own.
+                </p></div> <div><h5>  
+                    Transparent use
+                </h5><p>  
+                    We use your personal information solely for the purposes described below.
+                </p></div> <div><h3>  What personal data does Infomaniak save?</h3></div> <div><h4>  
+                            Name address and place of residence
+                        </h4><p>  
+                            Your name is saved because to us, you are more than just a customer number when you contact us for support. We also need your name and address to prepare your invoices, contact you or visit you for a cup of coffee (if you invite us).
+                        </p></div> <div><h4>  
+                            Electronic address
+                        </h4><p>  
+                            We store your email address to send you important messages about your order or account. We also inform you through Infomaniak newsletters on new developments. If necessary, you can choose to unsubscribe from them.
+                        </p></div> <div><h4>  
+                            Telephone number
+                        </h4><p>  
+                            We store your phone number to contact you in case of emergency or ask for your opinion. In addition, we use your number to send you SMS as part of the two-step validation or to authenticate you.
+                        </p></div> <div><h4>  
+                            Connection details and customer number
+                        </h4><p>  
+                            We store your login details to secure access to your account and ensure that only authorised persons can access your personal data. We also generate a unique customer number so we can help you faster and more efficiently.
+                        </p></div> <div><h4>  
+                            IP address
+                        </h4><p>  
+                            We store your IP address to allow you to have an overview of the IP addresses used to connect to your account and check the author of any changes. This information is also used to help protect your account from unauthorised access from other locations.
+                        </p></div> <div><h4>  
+                            Payment details
+                        </h4><p>  
+                            We store payment information such as your PayPal credentials, your credit card, account number and your name as an account holder. The processing of your payments also involves other parties such as companies affiliated with your means of payment or credit cards. When placing an order, we will also generate a unique offer or invoice number, which will then be linked to your account.
+                        </p></div> <div><h4>  
+                            Your use of our Internet site
+                        </h4><p>  
+                            The details mentioned above in combination with cookies let us see how you use our website and our services, and what your interests are. That enables us to improve our site, our services and the targeting of our advertising.
+                            For details of how we use your data, please refer to the "Products, Services & Application" section at the bottom of this page.
+                        </p></div> <div><h3>  When do we share your information with other parties?</h3><p>  Infomaniak develops the majority of its solutions internally and collaborates only with partners that respect our security standards. In addition, your data is only shared with third parties in the following cases:</p><ul>  <li>
+<strong> 
+                                    Provide or perform our services
+                                 </strong></li></ul><p>  
+                                    We use services like Cashout or PayPal to offer various payment options.
+                                
+</p></div> <ul><ul>  <li>
+<strong> 
+                                    Improving our services, our site or our advertising
+                                 </strong></li></ul></ul> <p><p>  
+                                    We use third-party software to determine how much you want a new product page.
+                                
+</p></p> <div><ul>  <li>
+<strong> 
+                                    Get feedback
+                                 </strong></li></ul><p>  
+                                    We sometimes use survey companies to find out how satisfied you are with our services.
+                                
+</p><ul>  <li>
+<strong> 
+                                    Execute a legal obligation
+                                 </strong></li></ul><p>  
+                                    A court order can obligate us to share your information with the police.
+                                
+</p></div> <div><ul>  <li>
+<strong> 
+                                    Register a domain name
+                                 </strong></li></ul><p>  
+                                    ICANN accredited registrars are required to publish domain owner information in the Whois database of the domain name registry. Everyone can see that you are the owner of a domain name. However, thanks to <a href="https://www.infomaniak.com/en/domains/domain-privacy" target="_blank"> Domain Privacy </a>, Infomaniak offers the possibility of preserving the confidentiality of these data when the domain registry authorises it.
+                                
+</p></div> <div><h3>  Infomaniak Data Protection Officer (DPO)</h3><p>  
+                            He is the internal guarantor of the compliance of Infomaniak's data processing activities. He has the necessary resources to exercise his role without conflicts of interest in respect of the obligations and good practices that Infomaniak must implement with regard to the protection of personal data.
+                        </p><p>  <strong> Tiago Pedro </strong>, Data Protection Officer (DPO)</p></div> <div><h3>  Combating fraud</h3><p>  
+                                Your personal information lets us verify your identity when people contact us and try to usurp your identity with false information
+                            </p></div> <div><h3>  Cookies</h3><p>  
+                                Cookies may contain personal information about you, such as your browsing behaviour and interests. Check out our Cookie Policy for more information.
+                            </p></div> <div><h3>  Overview of your personal information</h3><p>  
+                        You can examine and control the majority of your personal information using your Manager.
+                    </p><p>  
+                        If you have any questions, please <a href="https://www.infomaniak.com/en/chatbot" target="_blank"> contact us </a>.
+                    </p></div> <div><h4>  
+                        Legal or contractual provisions for the supply of personal data
+                    </h4><p>  
+                        The provision of personal data may be required by law or by contractual regulations. To conclude a contract, for example, we are obliged to collect and process personal data. Otherwise, no contract can be concluded.
+                    </p></div> <div><h4>  
+                        Existence of a decision-making process and automatic profiling
+                    </h4><p>  
+                        Infomaniak does not accept decision making or automatic profiling.
+                    </p></div> <div><h4>  
+                        Duration of personal data storage
+                    </h4><p>  
+                        We process and store personal data solely for the time needed to achieve the storage objective or for what is required by law. As a general rule, processing is finalised whenever your contract is terminated. </p><ul>  <li> You must modify and delete data that you yourself store in your services. After termination of the contract, we erase your data stored in our corresponding services after the legal conservation period.</li><li>Backup copies in our systems are automatically erased after the time frame set forth in our terms and conditions. For contractual data, processing is limited after termination of the contract; they are erased after the expiration of the legal conservation period.</li><li> The data that you send during the processing of an order will be saved for a maximum period of six months.</li></ul></div> <div><h2>  Your personal data</h2></div> <div><h2>  Personal data about the user:</h2><p>  Contact details</p><ul>  <li>your surname</li><li>your first name</li><li>the name of your company, association or foundation</li><li>your login e-mail address</li><li>a collection e-mail address</li><li>your mobile telephone number</li><li>a postal address</li></ul><p>  Identifiers</p><ul>  <li>Passwords and useful security information allowing authentication and access </li></ul><p>  Interaction data</p><ul>  <li>Details concerning the device </li><li>Device configuration</li><li>IP address(es)</li><li>Regional and language settings</li><li>Access points close to your device </li><li>Geolocalisation data (please consult the 'Products, Services & Applications’ section) </li><li>Personal data relating to payment, such as the billing address or credit card details (for users of paid services)</li><li>Personal data that you include in your communications with us (such as an ID card, a passport or the official corporate registration documents, the articles of association, a certificate of inheritance, a death certificate)</li></ul></div> <p><p>  Collection of your personal data necessarily falls within a specific framework of use. According to the different types of personal data, the information can be used to:</p></p> <div><ul>  <li>Execute a contract or take measures with a view to concluding a contract with you</li><li>Provide and ensure use of Infomaniak products and services</li><li>Ensure continuous improvement of Infomaniak products and services</li><li>Provide our customers with administrative and technical support</li><li>Contact our customers in order to warn them of events affecting the products and services and to send promotional messages</li><li>Facilitate the identification of new customers</li><li>Comply with the laws and regulations in force</li></ul></div> <ul><ul>  <li>Answer a request from the authorities or a legal obligation</li><li>Process applications for job vacancies advertised by Infomaniak</li><li> Add and update information in your account, such as your name, telephone number and invoicing address;</li><li> Consult and update your contact preferences for receiving messages concerning the account and Infomaniak products;</li><li> Display and update Whois information on you names and domains registered through us.</li><li>All products and services must be terminated via your Manager before account closure. If the account still contains active products or services, the account can not be closed;</li></ul></ul> <ul><ul>  <li>The balance of your prepaid account must be zero. If needed, it is possible to make a request for reimbursement to recover the remaining balance to the bank account of your choice;</li><li>The request can only be honored to the extent that your data are no longer necessary for the purchased services, nor required for our legitimate products for business purposes or for legal or contractual requirements for record-keeping</li><li>We encrypt the personal data that you send us via online forms using the latest encryption technology, thereby preventing anyone from intercepting your information.</li></ul></ul> <ul><ul>  <li>We give you the opportunity to strengthen your user account security using <a href="https://www.infomaniak.com/en/support/faq/1940" target="_blank"> two-step validation </a>.</li><li>Our employees are trained every year and regularly made aware of best practices to guarantee the privacy of your personal data. </li><li>We protect our company network using several layers of security.</li><li>We have access to physical protection measures to guarantee the security of our employees and their equipment.</li></ul></ul> <ul><ul>  <li>We use an association of software and equipment to protect our network against possible intrusions or vulnerabilities.</li><li> Use complex and different passwords for each of your services.</li><li> Never share your password.</li><li>. Log off from your user account when you use a computer that you share with other people.</li><li><a href="https://www.infomaniak.com/en/support/faq/2017" target="_blank"> Change your password </a> at least once a year.</li><li><a href="https://www.infomaniak.com/en/support/faq/1940" target="_blank"> Activate two-step validation </a> on your user account.</li></ul></ul> <ul><ul>  <li>Install a reputable antivirus software on your computer.</li></ul></ul> <div><h2>  Infomaniak Sync (kSync)</h2><p>  Infomaniak Sync is a synchronization application which enables the customer to synchronize their calendars and address books on their device by using native or third-party applications.</p></div> <div><h3>  What personal data does Infomaniak collect about me and for what purpose?</h3><p>  When using the application, the following personal data are collected:</p><ul>  <li>Login identifiers </li><li>Login e-mail address</li><li>Login password </li><li> Address books (optional) </li><li> Agendas (optional) </li><li> Localisation (optional) </li></ul></div> <div><h3>  Use of your personal data</h3><p>  The data are used solely in the application as follows:</p><ul>  <li> Login identifiers: they are used to connect to an existing customer account via which a synchronization operation will be performed </li><li> Address books: the customer can synchronize address books recorded on Infomaniak Mail associated with the login identifiers used </li><li> Agendas: the customer can synchronize agendas recorded in the Workspace account associated with the login identifiers used </li><li> Localisation: when the customer activates the 'Synchronization via WiFi only' (account settings in the application) and they want to limit it to one or several WiFi access points (SSID), localisation must be activated. Localisation will make it possible to retrieve the WiFi (SSID) to which the device is connected and to compare it to the list of authorized access points (SSID). If the network used is in the list, the application will synchronize the agenda(s) and / or address book(s) on the device. </li></ul></div> <div><h3>  How are your personal data shared?</h3><p>  Synchronization of the agendas and / or address books means that the events and contacts will be available for consultation on the end device / end application and are thus subject to the conditions of use of the device and the native or third-party applications used.</p></div> <div><h2>  Infomaniak Check (kCheck)</h2><p>  Infomaniak Check is an application which enables the user to send the elements requested in complete security in order to perform security controls. When the user receives an identity verification request (please consult the specific conditions to understand the different reasons), they are asked either to download the application or to use it if it is already installed on the device. All personal data communicated within the framework of an identity verification request will be stored while the request is processed and at most for 72 hours if the request is not finalised by the user, and will be deleted from our servers 24 hours after processing. Once the procedure has been finalised, the user can delete the application.</p></div> <div><h3>  What personal data does Infomaniak collect about me and for what purpose?</h3><p>  The purpose of the personal data collected by the application is to check the identity of the person following the procedure. Depending on the nature of the procedure, the following information may be collected:</p><ul>  <li>Mobile phone number: requested during the procedure</li><li>Geolocalisation: requested during the procedure via the device’s GPS</li><li>Identity documents: passport, identity card or driving licence (depending on the legislation in force in the user’s country) are photographed via the application</li><li>Selfie: the user is asked to take a selfie while holding the identity document close to the face using the application</li></ul></div> <div><h3>  How are your personal data used?</h3><p>  Your personal data are used as follows:</p><ul>  <li>Mobile phone number: used to send a verification code by SMS and the dialling code is used for cross-referencing the data with the geolocalisation data</li><li>Geolocalisation: used for cross-referencing the data with the dialling code of the phone number</li><li>Identity documents: used to check the identity of the user</li><li>Selfie: used to identify the user</li></ul></div> <div><h3>  How are your personal data shared?</h3><p>  These data are never shared with third-parties and are only processed internally.</p></div> <div><h2>  Gmail email migration via OAuth</h2><p>  Infomaniak offers the possibility of importing emails from other providers. In the case of an import from another provider such as Gmail, a connection to the account via OAuth may be necessary. Infomaniak’s use and transfer to any other app of information received from Google APIs will adhere to <a href="https://developers.google.com/terms/api-services-user-data-policy" target="_blank"> Google API Services User Data Policy </a>, including the <a href="https://support.google.com/cloud/answer/9110914#explain-types&zippy=%2Ccould-you-explain-the-limited-use-requirements-from-the-google-api-services-user-data-policy" target="_blank"> Limited Use requirements </a>.</p></div> <div><h3>  How are your personal data used ?</h3><p>  The data is used strictly for migration purposes and no other use (e.g. marketing) is made of the data collected.</p><p>  
+                    This page always shows the latest version of our privacy policy. If you have any questions,please <a href="https://www.infomaniak.com/en/chatbot" target="_blank"> contact us </a>.
+                </p><p>  
+                    This privacy policy was amended on September 1, 2022.
+                </p><p>  
+Infomaniak
+</p></div> <div><p>  
+Support
+</p><p>  
+Partnerships
+</p><p>  
+Ecology
+</p><p>  
+Follow our development
+</p><p>  
+Infomaniak
+</p><p>  
+Support
+</p><p>  
+Partnerships
+</p><p>  
+Ecology
+</p><p>  
+Follow our development
+</p><p>  Managers</p></div>

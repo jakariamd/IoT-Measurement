@@ -1,0 +1,1782 @@
+<div><span>  Open menu</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+
+</li><li>
+
+</li></ul><span>  
+                  My customer account
+                                      </span><span>  
+
+</span><ul>  <li>
+                  Contact Sales
+                                  
+</li><li>
+                  Webmail
+                                  
+</li><li>
+                  Support
+                                  
+</li><li>
+
+</li><li>
+                  Help center
+                                  
+</li><li>
+                  Support Levels
+                                  
+</li><li>
+                  Professional Services
+                                  
+</li><li>
+                  Guides
+                                  
+
+</li></ul></div> <div><ul>  <li>
+                  Communities
+                                  
+</li><li>
+
+</li><li>
+                  OVHcloud Community
+                                  
+</li><li>
+                  Case Studies
+                                  
+</li><li>
+                  OVHcloud Videos
+                                  
+</li><li>
+                  OVHcloud Stories
+                                  
+</li><li>
+                  Tutorials
+                                  
+</li><li>
+                  Use cases
+                                  
+</li></ul></div> <div><ul>  <li>
+                  Learn
+                                  
+</li><li>
+                  Cloud Security
+                                  
+</li><li>
+                  Manifesto
+                                  
+
+</li><li>
+                  OVHcloud Blog
+                                  
+</li><li>
+      United Kingdom [£]
+    
+</li><li>
+                                    Deutschland [€]
+            
+      
+</li><li>
+                                    España [€]
+            
+      
+</li><li>
+                                    France [€]
+            
+      
+</li></ul></div> <div><ul>  <li>
+                                    Ireland [€]
+            
+      
+</li><li>
+                                    Italia [€]
+            
+      
+</li><li>
+                                    Nederland [€]
+            
+      
+</li><li>
+                                    Polska [PLN]
+            
+      
+</li><li>
+                                    Portugal [€]
+            
+      
+</li><li>
+                                    United Kingdom [£]
+            
+      
+</li><li>
+                                    Canada (en) [$]
+            
+      
+</li></ul></div> <div><ul>  <li>
+                                    Canada (fr) [$]
+            
+      
+</li><li>
+                                    América Latina [$]
+            
+      
+</li><li>
+                                    Maroc [Dhs]
+            
+      
+</li><li>
+                                    Sénégal [FCFA]
+            
+      
+</li><li>
+                                    Tunisie [DT]
+            
+      
+</li><li>
+                                    Australia [A$]
+            
+      
+</li><li>
+                                    Singapore [S$]
+            
+      
+</li></ul></div> <div><ul>  <li>
+                                    Asia [US$]
+            
+      
+</li><li>
+                                    World [$]
+            
+      
+</li><li>
+                                    World [€]
+            
+      
+
+</li></ul><span>  Open login menu</span><p>  Welcome to OVHcloud.</p><p>  Log in to order, manage your products and services, and track your orders.</p><ul>  <li>
+              Bare Metal & VPS
+                
+</li><li>
+
+</li><li>
+              Bare Metal & VPS
+                
+</li><li>
+              Dedicated Servers
+                
+</li><li>
+
+</li><li>
+              Dedicated Servers
+                
+</li><li>Products</li></ul></div> <div><span>  
+              Discover our dedicated servers
+                    </span><span>  
+
+</span><ul>  <li>
+              Rise Servers
+                
+</li></ul><span>  
+        The most affordable bare-metal servers offered by OVHcloud.
+      
+</span><ul>  <li>Advance Servers
+</li><li>New in India
+
+
+</li></ul><span>  
+        Versatile servers for small and medium businesses.
+      
+</span><ul>  <li>
+              Game Servers
+                
+</li></ul><span>  
+        For video games and streaming platforms.
+      
+</span></div> <div><ul>  <li>
+              Storage Servers
+                
+</li></ul><span>  
+        Servers for archiving, backup, and distributed storage.
+      
+</span><ul>  <li>Scale Servers
+</li><li>New
+
+
+</li></ul><span>  
+        Specifically designed for complex, high-resilience infrastructures.
+      
+</span><ul>  <li>
+              High Grade Servers
+                
+</li></ul><span>  
+        The most powerful servers, optimised for critical loads.
+      
+</span><ul>  <li>
+              Operating systems and applications
+                
+</li></ul></div> <div><span>  
+        Operating systems and applications adapted to your needs
+      
+
+</span><ul>  <li>
+
+</li><li>SAP HANA
+</li><li>New
+
+
+</li><li>
+              Virtualisation and containerisation
+                
+</li><li>
+              Website Business Application
+                
+</li><li>
+              Hyperconverged Infrastructure
+                
+</li><li>
+              Software-defined Storage
+                
+</li><li>
+              Big Data and Analytics
+                
+</li><li>
+              Archiving and Backup
+                
+</li><li>
+              AI, Machine Learning & Deep Learning
+                
+</li></ul></div> <div><ul>  <li>
+              Confidential Computing
+                
+</li><li>
+              Database
+                
+</li><li>
+              Gaming
+                
+</li><li>
+              High Performance Computing
+                
+
+
+</li><li>
+              Eco Dedicated Servers
+                
+</li><li>
+
+</li><li>
+              Eco Dedicated Servers
+                
+</li><li>Eco Dedicated Servers</li></ul><span>  
+              Explore our Dedicated Servers
+                    </span><span>  
+
+</span></div> <div><ul>  <li>
+              Kimsufi Servers
+                
+</li></ul><span>  
+        Low-cost servers to get you started
+      
+</span><ul>  <li>
+              So you Start Servers
+                
+</li></ul><span>  
+        A range of dedicated servers that are perfect for startups and very small businesses
+      
+</span><ul>  <li>
+              Rise Servers
+                
+</li></ul><span>  
+        Tried-and-tested Intel and AMD platforms for competitive performance and price
+      
+</span><ul>  <li>
+              Operating systems and distributions
+                
+</li></ul></div> <div><span>  
+        Find the versions compatible with your Eco server
+      
+
+
+</span><ul>  <li>
+              VPS - Virtual Private Servers
+                
+</li><li>
+
+</li><li>
+              VPS - Virtual Private Servers
+                
+</li><li>VPS - Virtual Private Servers
+</li><li>
+              All VPS solutions
+                
+</li></ul><span>  
+        View our full range of Virtual Private Servers
+      
+</span><ul>  <li>
+              Distributions and licences
+                
+</li></ul></div> <div><span>  
+        See all our distributions and licences
+      
+</span><ul>  <li>
+              Help
+                
+</li></ul><span>  
+
+
+
+</span><ul>  <li>
+              Managed Bare Metal
+                
+</li><li>
+
+</li><li>
+              Managed Bare Metal
+                
+</li><li>Managed Bare Metal
+</li><li>
+              Managed Bare Metal Essentials powered by VMware®
+                
+</li></ul><span>  
+        Your virtual infrastructure managed by OVHcloud
+      
+
+
+</span><ul>  <li>
+              Storage and backups
+                
+</li><li>
+
+</li><li>
+              Storage and backups
+                
+</li><li>Storage and backup</li></ul></div> <div><span>  
+              Explore all our solutions
+                    </span><span>  
+
+</span><ul>  <li>
+              Enterprise File Storage
+                
+</li></ul><span>  
+        Fully managed file storage based on NetApp ONTAP Select
+      
+</span><ul>  <li>
+              HA-NAS
+                
+</li></ul><span>  
+        Centralised storage or backup space for your file data
+      
+</span><ul>  <li>
+              Veeam Enterprise Plus
+                
+</li></ul><span>  
+        The ultimate solution for protecting your data in a way that fits your needs
+      
+
+</span></div> <div><ul>  <li>
+
+</li><li>
+              Data storage for your Linux servers
+                
+</li><li>
+              Data storage for your virtual machines
+                
+
+
+</li><li>
+              Network
+                
+</li><li>
+
+</li><li>
+              Network
+                
+</li><li>Network
+</li><li>
+              Additional IP
+                
+</li></ul><span>  
+        Assign and move dynamic IP addresses from one service to another
+      
+</span><ul>  <li>
+              OVHcloud Load Balancer
+                
+</li></ul></div> <div><span>  
+        Balance your application load across multiple backend servers
+      
+</span><ul>  <li>
+              Private Network (vRack)
+                
+</li></ul><span>  
+        Connect all your OVHcloud services together with an isolated private network
+      
+</span><ul>  <li>
+              OVHcloud Link Aggregation
+                
+</li></ul><span>  
+        Get a redundant, high-bandwith private network
+      
+</span><ul>  <li>
+              OVHcloud Connect
+                
+</li></ul></div> <div><span>  
+        Connect your datacentre to OVHcloud
+      
+</span><ul>  <li>
+              Public Bandwith
+                
+</li></ul><span>  
+        Upgrade your default guaranteed bandwidth
+      
+</span><ul>  <li>
+              CDN Infrastructure
+                
+</li></ul><span>  
+        A dedicated CDN to complement your OVHcloud products
+      
+</span><ul>  <li>
+              Bring Your Own IP (BYOIP)
+                
+</li></ul><span>  
+        Bring your IP addresses and simplify your migration to OVHcloud
+      
+
+
+</span></div> <div><ul>  <li>
+              Network Security
+                
+</li><li>
+
+</li><li>
+              Network Security
+                
+</li><li>Network Security
+</li><li>
+              Anti DDoS infrastructure
+                
+</li></ul><span>  
+        Keep your infrastructures protected against DDoS attacks
+      
+</span><ul>  <li>
+              Game DDoS Protection
+                
+</li></ul><span>  
+        Protect your gaming and e-sport business with best-in-class security solution
+      
+</span><ul>  <li>
+              DNSSEC
+                
+</li></ul></div> <div><span>  
+        Protect your data from DNS cache poisoning
+      
+</span><ul>  <li>
+              SSL Gateway
+                
+</li></ul><span>  
+        Simplest way to enable security on your webpage. Without any effort!
+      
+
+
+</span><ul>  <li>
+              Identity and Security
+                
+</li><li>
+
+</li><li>
+              Identity and Security
+                
+</li><li>Identity and Security
+</li><li>
+              Identity and Access Management (IAM)
+                
+</li></ul><span>  
+        Secure your access management and enhance your productivity
+      
+
+
+
+</span></div> <div><ul>  <li>
+              Web Hosting & Domains
+                
+</li><li>
+
+</li><li>
+              Web Hosting & Domains
+                
+</li></ul><span>  Web Hosting & Domains
+</span><span>  
+              Discover Web hosting & domains
+                    </span><span>  
+
+</span><ul>  <li>
+              Domain names
+                
+</li></ul><span>  
+        Register and transfer domain names
+      
+</span><ul>  <li>
+              Web Hosting
+                
+</li></ul><span>  
+        Host your website projects easily
+      
+</span></div> <div><ul>  <li>
+              Web Cloud Databases
+                
+</li></ul><span>  
+        Your fully-managed database service
+      
+</span><ul>  <li>
+              Email solutions
+                
+</li></ul><span>  
+        Collaborative messaging and inboxes
+      
+</span><ul>  <li>
+              Web PaaS powered by Platform.sh
+                
+</li></ul><span>  
+        CI/CD collaborative development platform to quickly build websites and applications
+      
+</span><ul>  <li>
+              Additional services
+                
+</li></ul></div> <span><span>  
+        Security and performance for your websites: CDN, SSL certificate, databases
+      
+</span></span> <div><ul>  <li>
+              Collaborative tools
+                
+</li></ul><span>  
+        Microsoft 365 and collaborative solutions
+      
+</span><ul>  <li>
+              SMS
+                
+</li></ul><span>  
+        Communicate quickly, easily, and securely
+      
+</span><ul>  <li>
+              Plesk Web Hosting
+                
+</li></ul><span>  
+        A turn-key solution for resellers and web agencies
+      
+</span><ul>  <li>
+              Network Security
+                
+</li></ul><span>  
+        Protect your services against wide range of cyber attacks
+      
+</span></div> <div><ul>  <li>
+              Identity and Access Management (IAM)
+                
+</li></ul><span>  
+        Secure your access management and enhance your productivity
+      
+
+</span><ul>  <li>
+
+</li><li>
+              Find your domain name
+                
+</li><li>
+              Renew your domain name
+                
+</li><li>
+              Transfer your domain name
+                
+</li><li>
+              Premium Domains
+                
+</li><li>
+              Build a website
+                
+</li><li>
+              Create a WordPress website
+                
+</li><li>
+              Create an SMS Marketing campaign
+                
+</li><li>
+              Send your SMS abroad
+                
+
+
+</li></ul></div> <div><ul>  <li>
+              Public Cloud
+                
+</li><li>
+
+</li><li>
+              Public Cloud
+                
+</li><li>
+              Public Cloud
+                
+</li><li>
+
+</li><li>
+              Public Cloud
+                
+</li><li>Public Cloud</li></ul><span>  
+              Discover Public Cloud
+                    </span><span>  
+
+</span><ul>  <li>
+              Ecosystem of services
+                
+</li></ul><span>  
+        Accelerate your business, automate your infrastructure
+      
+</span></div> <div><ul>  <li>
+              Pricing
+                
+</li></ul><span>  
+        View our simple, accessible pricing
+      
+</span><ul>  <li>
+               The advantages of the Public Cloud solution
+                
+</li></ul><span>  
+        Explore cloud computing solutions to fit your needs 
+      
+</span><ul>  <li>
+              Cloud computing
+                
+</li></ul><span>  
+        Find out more about this growing practice
+      
+</span><ul>  <li>
+              Compliance & Certifications 
+                
+</li></ul></div> <div><span>  
+        Explore how OVHcloud builds trusted solutions 
+      
+</span><ul>  <li>
+              Trusted Zones
+                
+</li></ul><span>  
+        Deploy your critical data in high-security zones
+      
+</span><ul>  <li>
+              Availability by region
+                
+</li></ul><span>  
+        Explore our catalogue coverage by region
+      
+</span><ul>  <li>
+              Our documentation
+                
+</li></ul><span>  
+        Read our guides and tutorials
+      
+
+
+</span></div> <div><ul>  <li>
+              Compute
+                
+</li><li>
+
+</li><li>
+              Compute
+                
+</li><li>Compute</li></ul><span>  
+              Explore all our Compute products
+                    </span><span>  
+
+</span><ul>  <li>
+              Guaranteed resources
+                
+</li></ul><span>  
+        Deploy instances with resources guaranteed 100% of the time 
+      
+</span><ul>  <li>
+              GPU
+                
+</li></ul><span>  
+        Try out our instances that are up to 1,000 times faster than a CPU
+      
+</span></div> <div><ul>  <li>
+              IOPS
+                
+</li></ul><span>  
+        Get ultra-fast IOPS with direct NVMe access
+      
+</span><ul>  <li>
+              Discovery
+                
+</li></ul><span>  
+        Get started with Public Cloud instances with shared resources
+      
+</span><ul>  <li>
+              Metal Instances
+                
+</li></ul><span>  
+        Combine the power of Bare Metal with cloud automation
+      
+</span><ul>  <li>
+              Our documentation
+                
+</li></ul></div> <div><span>  
+        Browse our documentation for the Compute range
+      
+
+
+</span><ul>  <li>
+              Storage
+                
+</li><li>
+
+</li><li>
+              Storage
+                
+</li><li>Storage</li></ul><span>  
+              Explore all our Storage products
+                    </span><span>  
+
+</span><ul>  <li>
+              Block Storage
+                
+</li></ul><span>  
+        Create storage volumes, which can be used as additional disks
+      
+</span><ul>  <li>
+              Object Storage
+                
+</li></ul></div> <span><span>  
+        Get unlimited on-demand storage, accessible via the S3 API
+      
+</span></span> <div><ul>  <li>
+              Cloud Archive
+                
+</li></ul><span>  
+        Archive your data over the long term
+      
+</span><ul>  <li>
+              Cold Archive
+                
+</li></ul><span>  
+        Get long-term archiving at the best price
+      
+</span><ul>  <li>
+              Volume Snapshot 
+                
+</li></ul><span>  
+        Trigger a snapshot on your Block Storage volumes
+      
+</span><ul>  <li>
+              Volume Backup
+                
+</li></ul><span>  
+        Back up your Block Storage volumes. The backed-up data is stored on our Object Storage service
+      
+</span></div> <div><ul>  <li>
+              Instance Backup
+                
+</li></ul><span>  
+        Get a backup service for your instances
+      
+</span><ul>  <li>
+              Our documentation
+                
+</li></ul><span>  
+        Browse our documentation for the Storage range
+      
+
+
+</span><ul>  <li>
+              Network
+                
+</li><li>
+
+</li><li>
+              Network
+                
+</li><li>Network</li></ul><span>  
+              Explore all our Network products
+                    </span></div> <div><span>  
+
+</span><ul>  <li>
+              Private Network
+                
+</li></ul><span>  
+        Deploy private networks via the OVHcloud vRack
+      
+</span><ul>  <li>
+              Load Balancer
+                
+</li></ul><span>  
+        Manage variable traffic by spreading it across multiple resources
+      
+</span><ul>  <li>
+              Floating IP
+                
+</li></ul><span>  
+        Assign and move your public IP from one service to another
+      
+</span><ul>  <li>
+              Gateway
+                
+</li></ul></div> <div><span>  
+        Manage a single connection point between your private network & internet
+      
+</span><ul>  <li>
+              Our documentation
+                
+</li></ul><span>  
+        View our documentation for the Network range
+      
+
+
+</span><ul>  <li>
+              Databases
+                
+</li><li>
+
+</li><li>
+              Databases
+                
+</li><li>Databases</li></ul><span>  
+              Explore all our Databases products
+                    </span><span>  
+
+</span><ul>  <li>
+              MongoDB
+                
+</li></ul></div> <div><span>  
+        Run MongoDB as-a-Service on our trusted cloud
+      
+</span><ul>  <li>
+              MySQL
+                
+</li></ul><span>  
+        Deploy MySQL as a managed service in just a few clicks
+      
+</span><ul>  <li>
+              PostgreSQL
+                
+</li></ul><span>  
+        Create your business applications with PostgreSQL
+      
+</span><ul>  <li>
+              Redis™ 
+                
+</li></ul><span>  
+        Add a cache to your architecture with Redis™
+      
+</span></div> <div><ul>  <li>
+              Kafka
+                
+</li></ul><span>  
+        Develop and deploy an event-driven architecture with Kafka
+      
+</span><ul>  <li>
+              OpenSearch
+                
+</li></ul><span>  
+        NoSQL indexing, content search & analytics engine
+      
+</span><ul>  <li>
+              Kafka MirrorMaker
+                
+</li></ul><span>  
+        Replicate data between your Kafka clusters
+      
+</span><ul>  <li>
+              Kafka Connect
+                
+</li></ul></div> <div><span>  
+        Deploy an extension that simplifies system ingestion & data sources
+      
+</span><ul>  <li>
+              Grafana
+                
+</li></ul><span>  
+        Create dashboards & charts
+      
+</span><ul>  <li>
+              Cassandra
+                
+</li></ul><span>  
+        The NoSQL engine for processing high volumes of data
+      
+</span><ul>  <li>
+              M3DB
+                
+</li></ul><span>  
+        Deploy M3DB, the distributed & open-source metrics platform
+      
+</span></div> <div><ul>  <li>
+              M3 Aggregator
+                
+</li></ul><span>  
+        Deploy M3 Aggregator, a metrics aggregation service
+      
+</span><ul>  <li>
+              Our documentation
+                
+</li></ul><span>  
+        View our documentation for the Databases range
+      
+
+
+</span><ul>  <li>
+              Containers & Orchestration
+                
+</li><li>
+
+</li><li>
+              Containers & Orchestration
+                
+</li><li>Containers & Orchestration</li></ul><span>  
+              Explore all our Containers & Orchestration products
+                    </span></div> <div><span>  
+
+</span><ul>  <li>
+              Managed Kubernetes Service
+                
+</li></ul><span>  
+        Orchestrate your containerised applications with a CNCF-certified Kubernetes cluster
+      
+</span><ul>  <li>
+              Managed Private Registry
+                
+</li></ul><span>  
+        A repository for your software building blocks, in the form of Docker images or Helm charts
+      
+</span><ul>  <li>
+              Private Image Catalog
+                
+</li></ul><span>  
+        Maintain & store custom images of your virtual servers
+      
+</span></div> <div><ul>  <li>
+              Public Image Catalog
+                
+</li></ul><span>  
+        Choose from dozens of cloud images offered & managed by OVHcloud
+      
+</span><ul>  <li>
+              Workflow Management
+                
+</li></ul><span>  
+        Automate tasks to manage your cloud resources
+      
+</span><ul>  <li>
+              Load Balancer for Managed Kubernetes Services
+                
+</li></ul><span>  
+        Manage variations in activity by distributing traffic across multiple resources
+      
+</span></div> <div><ul>  <li>
+              Our documentation
+                
+</li></ul><span>  
+        View our documentation for the Containers & Orchestration range
+      
+
+
+</span><ul>  <li>
+              Data Analytics
+                
+</li><li>
+
+</li><li>
+              Data Analytics
+                
+</li><li>Data Analytics</li></ul><span>  
+              Explore all our Data Analytics products
+                    </span><span>  
+
+</span><ul>  <li>
+              Data Processing
+                
+</li></ul><span>  
+        Launch your Apache Spark processing tasks quickly & easily
+      
+</span></div> <div><ul>  <li>
+              Our documentation
+                
+</li></ul><span>  
+        View our documentation for the Data Analytics range
+      
+
+
+</span><ul>  <li>
+              AI & Machine learning
+                
+</li><li>
+
+</li><li>
+              AI & Machine learning
+                
+</li><li>AI & Machine learning</li></ul><span>  
+              Explore all our AI & Machine learning products
+                    </span><span>  
+
+</span><ul>  <li>
+              AI Notebooks
+                
+</li></ul></div> <div><span>  
+        Launch your Jupyter or VS Code notebooks in the cloud
+      
+</span><ul>  <li>
+              OVHcloud AI Training
+                
+</li></ul><span>  
+        Train your AI models
+      
+</span><ul>  <li>
+              AI Deploy
+                
+</li></ul><span>  
+        Deploy machine learning models & get your predictions
+      
+</span><ul>  <li>
+              NVIDIA NGC Platform
+                
+</li></ul><span>  
+        Launch applications that leverage the power of NVIDIA GPUs
+      
+</span></div> <div><ul>  <li>
+              Our documentation
+                
+</li></ul><span>  
+        Browse our documentation for the AI & Machine Learning range
+      
+
+
+</span><ul>  <li>
+              Logs management
+                
+</li><li>
+
+</li><li>
+              Logs management
+                
+</li><li>Logs management
+</li><li>
+              Logs Data Platform
+                
+</li></ul><span>  
+        Collect, store and view your logs
+      
+
+
+</span><ul>  <li>
+              Identity and security
+                
+</li><li>
+
+</li><li>
+              Identity and security
+                
+</li><li>Identity and security
+</li><li>
+              Identity and Access Management (IAM)
+                
+</li></ul></div> <div><span>  
+        Secure your access management and improve your productivity
+      
+
+
+
+</span><ul>  <li>
+              Hosted Private Cloud
+                
+</li><li>
+
+</li><li>
+              Hosted Private Cloud
+                
+</li><li>
+              VMware
+                
+</li><li>
+
+</li><li>
+              VMware
+                
+</li><li>Hosted Private Cloud</li></ul><span>  
+              Get started with Hosted Private Cloud
+                    </span><span>  
+
+</span><ul>  <li>
+              VMware on OVHcloud
+                
+</li></ul></div> <div><span>  
+        Managed VMware solution for all enterprises
+      
+</span><ul>  <li>
+              SecNumCloud qualified-VMware on OVHcloud
+                
+</li></ul><span>  
+        ANSSI-qualified VMware Trusted Zone solution
+      
+</span><ul>  <li>
+              Veeam option for VMware backup
+                
+</li></ul><span>  
+        The Veeam Managed Backup solution for backing up your virtual machines
+      
+</span><ul>  <li>
+              Zerto option for your VMware Disaster Recovery Plan
+                
+</li></ul></div> <div><span>  
+        Multi-site Disaster Recovery Plan solution for your VMware clusters
+      
+</span><ul>  <li>
+              Veeam Enterprise option for all your backups
+                
+</li></ul><span>  
+        A dedicated Veeam Backup Replication solution for all your backups
+      
+
+</span><ul>  <li>
+
+</li><li>
+              Datacentre extension and migration
+                
+</li><li>
+              Hybrid and Multi-Cloud Solutions
+                
+</li><li>
+              Disaster recovery solutions
+                
+</li><li>
+              European Trusted Zone Solutions
+                
+</li><li>
+              View all solutions
+                
+
+
+</li><li>
+              Nutanix
+                
+</li><li>
+
+</li><li>
+              Nutanix
+                
+</li><li>Hosted Private Cloud
+</li></ul></div> <div><ul>  <li>
+              Nutanix on OVHcloud
+                
+</li></ul><span>  
+        Our scalable, hyperconverged platform (HCI), ready-to-use in just a few hours
+      
+
+</span><ul>  <li>
+
+</li><li>
+              Migrate and manage your data
+                
+</li><li>
+              Disaster Recovery Plan (DRP)
+                
+</li><li>
+              Hyperconvergence, savings and ecology
+                
+
+
+</li><li>
+              Compliance and certifications
+                
+</li><li>
+
+</li><li>
+              Compliance and certifications
+                
+</li><li>Compliance and certifications</li></ul></div> <div><span>  
+               Full list of standards and regulations
+                    </span><span>  
+
+</span><ul>  <li>
+              GDPR
+                
+</li></ul><span>  
+        Compliance with the General Data Protection Regulation (EU) 2016/679
+      
+</span><ul>  <li>
+              SecNumCloud
+                
+</li></ul><span>  
+        ANSSI Security Visa Qualification
+      
+</span><ul>  <li>
+              HDS and healthcare data hosting
+                
+</li></ul><span>  
+        Hosting healthcare data in the UK and across Europe
+      
+</span></div> <div><ul>  <li>
+              HIPAA and HITECH
+                
+</li></ul><span>  
+        Hosting healthcare data in the US
+      
+</span><ul>  <li>
+              PCI DSS
+                
+</li></ul><span>  
+        Financial data hosting
+      
+</span><ul>  <li>
+              ISO/IEC 27001, 27017 and 27018
+                
+</li></ul><span>  
+        Information Security Management
+      
+</span><ul>  <li>
+              ISO/IEC 27701
+                
+</li></ul><span>  
+        Managing the security of personal data processing
+      
+</span></div> <ul><ul>  <li>
+              SOC 1, 2 and 3
+                
+</li></ul></ul> <div><span>  
+        AICPA SSAE 16/ISAE 3402 type II attestation and reports
+      
+</span><ul>  <li>
+              EBA and ACPR
+                
+</li></ul><span>  
+        Compliance for financial services operators in Europe
+      
+</span><ul>  <li>
+              G-Cloud
+                
+</li></ul><span>  
+        Public sector cloud service delivery in the UK
+      
+
+
+</span><ul>  <li>
+              Network
+                
+</li><li>
+
+</li><li>
+              Network
+                
+</li><li>Network
+</li><li>
+              Additional IP
+                
+</li></ul></div> <div><span>  
+        Assign and move dynamic IP addresses from one service to another
+      
+</span><ul>  <li>
+              OVHcloud Load Balancer
+                
+</li></ul><span>  
+        Balance your application load across multiple backend servers
+      
+</span><ul>  <li>
+              Private Network (vRack)
+                
+</li></ul><span>  
+        Connect all your OVHcloud services together with an isolated private network
+      
+</span><ul>  <li>
+              OVHcloud Connect
+                
+</li></ul></div> <div><span>  
+        Connect your datacentre to OVHcloud
+      
+</span><ul>  <li>
+              CDN Infrastructure
+                
+</li></ul><span>  
+        A dedicated CDN to complement your OVHcloud products
+      
+</span><ul>  <li>
+              Bring Your Own IP (BYOIP)
+                
+</li></ul><span>  
+        Bring your IP addresses and simplify your migration to OVHcloud
+      
+
+
+</span><ul>  <li>
+              Network Security
+                
+</li><li>
+
+</li><li>
+              Network Security
+                
+</li><li>Network Security
+</li><li>
+              Anti-DDoS infrastructure
+                
+</li></ul></div> <div><span>  
+        Keep your infrastructures protected against DDoS attacks
+      
+</span><ul>  <li>
+              DNSSEC
+                
+</li></ul><span>  
+        Protect your data from DNS cache poisoning
+      
+</span><ul>  <li>
+              SSL Gateway
+                
+</li></ul><span>  
+        Simplest way to enable security on your webpage. Without any effort!
+      
+
+
+</span><ul>  <li>
+              Identity and Security
+                
+</li><li>
+
+</li><li>
+              Identity and Security
+                
+</li><li>Identity and Security
+</li><li>
+              Identity and Access Management (IAM)
+                
+</li></ul></div> <div><span>  
+        Secure your access management and enhance your productivity
+      
+
+
+
+</span><ul>  <li>
+              Enterprise
+                
+</li><li>
+
+</li><li>
+              Enterprise
+                
+</li><li>
+              Solutions by industry
+                
+</li><li>
+
+</li><li>Solutions by industry
+</li><li>Solutions by industry</li></ul><span>  
+              Explore our solutions
+                    </span><span>  
+
+</span><ul>  <li>
+              Industrial sensitive data
+                
+</li></ul></div> <div><span>  
+        The trusted cloud solution for European manufacturers
+      
+</span><ul>  <li>
+              Public sector
+                
+</li></ul><span>  
+        The trusted cloud solution for local authorities and governments
+      
+</span><ul>  <li>
+              Healthcare sector
+                
+</li></ul><span>  
+        The trusted cloud solution for healthcare professionals
+      
+</span><ul>  <li>
+              Financial services sector
+                
+</li></ul><span>  
+        The trusted cloud solution for banks and fintech companies
+      
+
+</span></div> <div><ul>  <li>
+
+</li><li>
+              HDS and healthcare data
+                
+</li><li>
+              PCI DSS: banking data
+                
+</li><li>
+              SecNumCloud Security Visa
+                
+</li><li>
+              More Information about OVHcloud
+                
+
+
+</li><li>
+              Support and services
+                
+</li><li>
+
+</li><li>Support and services
+</li><li>Support and services</li></ul><span>  
+              Compare our support levels
+                    </span></div> <div><span>  
+
+</span><ul>  <li>
+              OVHcloud support levels
+                
+</li></ul><span>  
+        Technical support to fit your needs
+      
+</span><ul>  <li>
+              Business Support
+                
+</li></ul><span>  
+        The right level of support for production environments
+      
+</span><ul>  <li>
+              Enterprise Support
+                
+</li></ul><span>  
+        Key account experience for critical production environments
+      
+</span><ul>  <li>
+              Professional Services
+                
+</li></ul></div> <div><span>  
+        Consulting and training services for your business transformation
+      
+
+
+</span><ul>  <li>
+              Trusted Zone and SecNumCloud
+                
+</li><li>
+
+</li><li>Trusted Zone and SecNumCloud
+</li><li>Trusted zone</li></ul><span>  
+              Find out more about Trusted Zones
+                    </span><span>  
+
+</span><ul>  <li>
+              SecNumCloud-qualified Hosted Private Cloud powered by VMware
+                
+</li></ul><span>  
+        The VMware platform in a trusted zone with the ANSSI security visa
+      
+</span></div> <div><ul>  <li>
+              Veeam Backup option for VMware - SecNumCloud certified
+                
+</li></ul><span>  
+        The Veeam Managed Backup solution for backing up your VMware VMs
+      
+</span><ul>  <li>
+              Dedicated Servers in Trusted Zones
+                
+</li></ul><span>  
+        Scale and High Grade servers with enhanced security to protect your most critical data
+      
+
+</span><ul>  <li>
+
+</li><li>
+              The ANSSI SecNumCloud qualification
+                
+</li><li>
+              Datacentre extension and migration
+                
+</li><li>
+              Hybrid and Multi-Cloud Solutions
+                
+</li><li>
+              Disaster recovery solutions
+                
+</li><li>
+              View all solutions
+                
+
+
+</li><li>
+              Compliance and certifications
+                
+</li><li>
+
+</li><li>Compliance and certifications
+</li><li>Compliance and certifications</li></ul></div> <div><span>  
+              Full list of standards and regulations
+                    </span><span>  
+
+</span><ul>  <li>
+              GDPR
+                
+</li></ul><span>  
+        Compliance with the General Data Protection Regulation (EU) 2016/679
+      
+</span><ul>  <li>
+              SecNumCloud
+                
+</li></ul><span>  
+        ANSSI Security Visa Qualification
+      
+</span><ul>  <li>
+              HDS and healthcare data hosting
+                
+</li></ul><span>  
+        Hosting healthcare data in the UK and across Europe
+      
+</span></div> <div><ul>  <li>
+              HIPAA and HITECH
+                
+</li></ul><span>  
+        Hosting healthcare data in the US
+      
+</span><ul>  <li>
+              PCI DSS
+                
+</li></ul><span>  
+        Financial data hosting
+      
+</span><ul>  <li>
+              ISO/IEC 27001, 27017 and 27018
+                
+</li></ul><span>  
+        Information Security Management
+      
+</span><ul>  <li>
+              ISO/IEC 27701
+                
+</li></ul><span>  
+        Managing the security of personal data processing
+      
+</span></div> <ul><ul>  <li>
+              SOC 1, 2 and 3
+                
+</li></ul></ul> <div><span>  
+        AICPA SSAE 16/ISAE 3402 type II attestation and reports
+      
+</span><ul>  <li>
+              EBA and ACPR
+                
+</li></ul><span>  
+        Compliance for financial services operators in Europe
+      
+</span><ul>  <li>
+              G-Cloud
+                
+</li></ul><span>  
+        Public sector cloud service delivery in the UK
+      
+</span><ul>  <li>
+              C5
+                
+</li></ul><span>  
+        Cloud Computing Compliance Criteria Catalogue
+      
+
+
+
+</span></div> <div><ul>  <li>
+              Ecosystem
+                
+</li><li>
+
+</li><li>
+              Ecosystem
+                
+</li></ul><span>  Ecosystem
+</span><span>  
+              Discover the OVHcloud partner ecosystem
+                    </span><span>  
+
+</span><ul>  <li>
+              Partner Program
+                
+</li></ul><span>  
+        An initiative dedicated to our reseller partners, integrators, administrators and consultants.
+      
+</span><ul>  <li>
+              Open Trusted Cloud
+                
+</li></ul></div> <span><span>  
+        An ecosystem of labelled SaaS and PaaS solutions, hosted in our open, reversible and reliable cloud
+      
+</span></span> <div><ul>  <li>
+              Startup Program
+                
+</li></ul><span>  
+        A support program for startups and scaleups to accelerate their growth
+      
+</span><ul>  <li>
+              OVHcloud Labs
+                
+</li></ul><span>  
+        The innovation zone to test our cutting-edge technologies before they are officially launched on the market
+      
+</span><ul>  <li>
+              Our Ecosystem events
+                
+</li></ul><span>  
+        Find all the events dedicated to our partner ecosystem: webinars, conferences, and more
+      
+</span></div> <div><ul>  <li>
+              Training & Certification
+                
+</li></ul><span>  
+        Develop your expertise with the training and certifications available to OVHcloud Partner Program members.
+      
+
+</span><ul>  <li>
+
+</li><li>
+              Find a partner
+                
+</li><li>
+              Sign up to the OVHcloud Partner Program
+                
+</li><li>
+              Sign up to the OVHcloud Startup Program
+                
+</li><li>
+              Price comparison
+                
+</li><li>
+              Partner Portal
+                
+</li><li>
+              FAQ Partner Program
+                
+
+
+</li><li>
+              About
+                
+</li><li>
+
+</li><li>
+              About
+                
+</li></ul></div> <div><span>  About
+</span><ul>  <li>
+              Who we are
+                
+</li><li>
+              Newsroom
+                
+</li><li>
+              Our datacenters
+                
+</li><li>
+              Join the OVHcloud adventure
+                
+</li><li>
+              Patent Pledge
+                
+</li><li>
+              Legal
+                
+</li><li>
+              GDPR - Personal data protection
+                
+</li><li>
+              Our commitments
+                
+</li><li>
+              Innovation
+                
+</li></ul></div> <div><ul>  <li>
+              Sustainable cloud
+                
+</li><li>
+              Trusted cloud
+                
+</li><li>
+              Investor Relations
+                
+
+
+</li></ul><span>  Open search bar</span><span>  Close search bar</span><p>  Products</p><p>  Solutions</p><p>  Partners</p><p>  Documentation</p><p>  Articles</p></div> <div><h1>  OVHcloud Partner Program FAQ</h1><ul>  <li>
+
+</li><li>OVHcloud Partner Program FAQ</li></ul></div> <div><h2>  
+          OVHcloud Partner Program FAQ
+
+      </h2><p>  Get answers to frequently asked questions about the OVHcloud Partner Program.</p></div> <div><h2>  
+                Your questions answered
+
+            </h2><td>  Whatever your business model, our Partner Program delivers the technical and business support you need to succeed. Got questions about the tools and resources we offer? Take a look at our FAQ. Once you become a partner, you can contact OVHcloud experts directly, who will answer questions about our products and services.</td></div> <div><h3>  
+          Who is the OVHcloud Partner Program for?
+
+      </h3><span>  The OVHcloud Partner Program is designed for profiles like value-added resellers, system integrators, managed service providers, and consultancy and training companies. Its goal is to help them build, market and sell their solutions through joint sales and marketing activities, while facilitating product training and technical assistance.</span><span>  
+        Get started
+      </span></div> <div><h3>  
+          What is the OVHcloud Partner Directory, and how can I be listed on it?
+
+      </h3><span>  The OVHcloud Partner Directory offers customers a centralised place to search, discover and connect with OVHcloud partners. Customers can find partners who meet their company's specific needs by choosing the specialisms, keywords, business types and/or geographic location they are looking for.</span><p>  Once you have registered for the OVHcloud Partner Program, go to the partner portal and complete your form. Once it has been submitted, your request will be reviewed and validated by the OVHcloud team.</p></div> <div><span>  
+        Complete your OVHcloud Partner profile
+      </span></div> <div><h3>  
+          How do I get training on OVHcloud solutions?
+
+      </h3><p>  OVHcloud training is designed to help your teams identify and win new business opportunities, while learning how OVHcloud solutions meet your customers’ needs. With this knowledge at your disposal, you can deliver the best service.</p><p>  Your sales and technical teams can learn more about OVHcloud solutions through the training sessions available online, on the OVHcloud Partner Training Portal.</p><p>  In addition to this, you can take training and receive a certificate for passing the exam.</p></div> <div><p>  <u> How do I access the training platform? How do I create an account? </u></p><p>  Each employee can create an individual account using <strong> their business email address </strong>.</p><p>  To do this, simply go to the OVHcloud Partner Training Portal and fill in the information requested in the form.</p><p>  The account creation request will then be sent to OVHcloud for validation.</p><span>  
+        Sign up for training
+      </span></div> <div><h3>  
+          What is the OVHcloud Partner Portal, and what is it used for?
+
+      </h3><p>  As an OVHcloud partner, you have access to the partner portal. It provides you with the tools and resources you need to succeed, such as:</p><ul>  <li>A communication file to guide you with essential brand information.</li><li>Training and webinar recordings to help you stay up-to-date on our technologies.</li><li>Information on product and sales material to help you understand how our solutions meet your customers’ needs.</li><li>Reports and white papers to provide you with the latest market and technology trends and information.</li><li>Transaction registration assistance to help you seize larger and more complex sales opportunities.</li></ul></div> <span><span>  The Partner Portal is accessible to all OVHcloud partners via the OVHcloud Partner Program website.</span></span> <div><span>  
+        Access the OVHcloud Partner Portal
+      </span></div> <div><h3>  
+          How do I protect my customers?
+
+      </h3><p>  To ensure continuity for cloud services, OVHcloud has set up different support levels for partners.</p><p>  <strong> Premium </strong>: Custom support with all the features of the lower support levels, and more.<strong> Business </strong>: 24/7 year-round access to support for incident management, and other professional services available on catalogue.<strong> Enterprise </strong>: A support level with an expert resource dedicated to the highest-level business needs.</p></div> <div><p>  <strong> Premium for Advanced Partners </strong>:</p><ul>  <li>This team is specially trained to support partners and their requirements, and can deliver optimal responsiveness in the event of incidents.</li><li>Dedicated lines and direct telephone access for partners, with prioritised responses for tickets and chat.</li><li>Customer support for OVHcloud products and the OVHcloud Control Panel.</li></ul><span>  
+        Get started
+      </span></div> <div><h3>  
+          OVHcloud Partner Program guide
+
+      </h3><p>  What to know more? Download the OVHcloud Partner Program guide.</p><span>  Guide content:</span><ul>  <li>Why become an OVHcloud Partner?</li><li>Three OVHcloud partner profiles</li><li>Three levels of partnership</li><li>Advantages of the OVHcloud Partner Program:
+	</li><li>OVHcloud Partner Portal</li><li>OVHcloud Partner Directory</li><li>OVHcloud Partner Blog</li><li>Training and certifications</li><li>Technical Support</li><li>Increase your profit</li><li>Financial advantages</li></ul></div> <div><span>  
+        Download the OVHcloud Partner Program guide
+      </span><span>  Back to top</span><ul>  <li>Tools</li><li>My customer account
+</li><li>Webmail
+</li><li>API
+</li><li>Procedure
+</li><li>Mailing lists
+</li><li>Status
+</li><li>Domain contact
+</li><li>Report abuse (abuse@ovh.net)
+</li><li>Support</li><li>Support levels
+
+</li><li>Contact us</li></ul><p>  <strong> OVHcloud Customer Service </strong>
+Monday to Friday, 9am to 6pm<strong> 0333 370 0425 </strong>
+Local call rate
+</p><ul>  <li>News</li><li>Press
+</li><li>Blog
+</li><li>Ecosystem Experience
+
+</li><li>Social networks</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+
+</li><li>
+
+
+</li><li>
+
+
+</li><li>
+
+
+
+</li><li>Terms & conditions
+</li><li>Contracts
+</li><li>Data protection
+</li><li>Rights and obligations of domain name holders
+</li><li>ICANN documentation for domain name holders
+</li><li>Payments
+</li><li>Sitemap
+</li><li>About OVHcloud
+</li><li>OVHcloud Careers
+</li></ul></div> <p><p>  In accordance with the 2006/112/CE Directive, modified on 01/01/2015, prices incl. VAT may vary according to the customer's country of residence
+(by default, the prices displayed are inclusive of the UK VAT in force).</p></p> <div><h1>  Protecting your data is our priority.</h1><p>  Our website and partner companies use cookies. Some of these cookies are required for the OVHcloud Group websites to work properly, and cannot be refused. OVHcloud uses other cookies that are optional. <a href="https://www.ovhcloud.com/en-gb/terms-and-conditions/cookies-policy/" target="_blank"> More information </a>:</p><ul>  <li>Site performance and customisation cookies</li><li>Targeted advertising cookies</li><li>Sharing cookies on third-party platforms</li></ul></div> <p><p>  If you click "Accept" cookies, all these categories will be enabled to optimise your online experience. To set cookies, click "Set". However, if you choose to opt out, your browsing experience may be limited.</p></p> <p><p>  OVHcloud will save your choice for 13 months. You can change your mind at any time by clicking on <a href="https://www.ovh.co.uk/personal-data-protection/exercise-your-rights/" target="_blank"> this link </a>.</p></p>

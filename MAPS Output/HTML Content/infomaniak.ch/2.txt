@@ -1,0 +1,532 @@
+<div><ul>  <li>×
+</li><li>Products</li><li>
+                                            Our best-sellers
+                                        
+</li><li>
+                                            I would like
+                                        
+</li><li>
+                                            Domain name
+                                        
+</li><li>
+                                            Hosting and Cloud
+                                        
+</li><li>
+
+
+</li><li>
+                                            Backup & storage
+                                        
+</li></ul></div> <ul><ul>  <li>
+                                            Marketing
+                                        
+</li><li>
+                                            Ticketing solution
+                                        
+</li><li>
+                                            Multimedia
+                                        
+</li><li>Search for a product, a keyword
+</li></ul></ul> <div><h5>  Our flagship products :</h5><span>  
+                Our current flagship products
+            </span><ul>  <li>
+                kDrive
+            
+</li></ul><span>  
+        Store, collaborate and share your files
+     </span><ul>  <li>
+                Email Service
+            
+</li></ul><span>  
+        The mailbox that respects your privacy
+    
+</span><ul>  <li>
+                kChat
+            </li></ul><span>  
+                Beta
+            
+</span><span>  
+        Communicate live with your team
+     </span></div> <div><ul>  <li>
+                Domain name
+            
+</li></ul><span>  
+        Reserve your domain name at the best price
+    
+</span><ul>  <li>
+
+                Web Hosting
+            
+</li></ul><span>  
+        Create your websites (WordPress + 100 CMS)
+    
+</span><ul>  <li>
+                Wordpress hosting
+            
+</li></ul><span>  
+        Create your website easily with WordPress
+    
+</span><ul>  <li>
+                Site Creator
+            
+</li></ul><span>  
+        Build your website step by step
+     </span></div> <div><ul>  <li>
+                VPS Cloud
+            
+</li></ul><span>  
+        Create a Windows or Linux server
+    
+</span><ul>  <li>
+                Public cloud
+            
+</li></ul><span>  
+        High-Performance Cloud Infrastructure
+    
+</span><ul>  <li>
+                Jelastic Cloud (PaaS)
+            
+</li></ul><span>  
+        Your custom development environments
+    
+</span><ul>  <li>
+                Swiss Backup
+            
+</li></ul><span>  
+        Back up all your devices in Switzerland
+    
+</span></div> <div><span>  
+        What would you like to do?
+    </span><span>  
+                    Create a website
+                </span><span>  
+                    Manage my domain name
+                </span><span>  
+
+                    Collaborate online
+                </span><span>  
+                    Store my data
+                </span><span>  
+                    Manage my organisation
+                </span><span>  
+                All you need to ensure your presence on the internet.
+            </span></div> <div><ul>  <li>
+                Domain name
+            
+</li></ul><span>  
+        Reserve your domain name at the best price
+    
+</span><ul>  <li>
+                Renewal Warranty
+            
+</li></ul><span>  
+        Secure your domains against loss and theft
+    
+</span><ul>  <li>
+                Domain Privacy
+            
+</li></ul><span>  
+        Protect your domains’ private data
+    
+</span><ul>  <li>
+                FastAnycast DNS
+            
+</li></ul><span>  
+        Boostez le temps d’acces de vos sites
+     </span></div> <div><ul>  <li>
+                SSL certificates
+            
+</li></ul><span>  
+        Secure your websites with an EV or DV certificate
+    
+</span><ul>  <li>
+                DynDNS
+            
+</li></ul><span>  
+        Easily access your devices remotely
+    
+</span><ul>  <li>
+
+
+</li></ul><span>  
+                                    Find the solution best suited to my needs
+                                
+
+</span><span>  Web</span><span>  Cloud</span><ul>  <li>
+
+                Web Hosting
+            
+</li></ul></div> <div><span>  
+        Create your websites (WordPress + 100 CMS)
+    
+</span><ul>  <li>
+                Wordpress hosting
+            
+</li></ul><span>  
+        Create your website easily with WordPress
+    
+</span><ul>  <li>
+                Site Creator
+            
+</li></ul><span>  
+        Build your website step by step
+     </span><ul>  <li>
+                Managed Cloud Server
+            
+</li></ul><span>  
+        Create your websites using 100% dedicated resources
+    
+</span><ul>  <li>
+                Very High Availability
+            
+</li></ul></div> <div><span>  
+        Cloud infrastructure with custom SLA contract
+    
+</span><ul>  <li>
+                VPS Cloud
+            
+</li></ul><span>  
+        Create a Windows or Linux server
+    
+</span><ul>  <li>
+                Jelastic Cloud (PaaS)
+            
+</li></ul><span>  
+        Your custom development environments
+    
+</span><ul>  <li>
+                Public Cloud (IaaS)
+            
+</li></ul><span>  
+        High-Performance Cloud Infrastructure
+     
+</span><ul>  <li>
+
+
+</li></ul><span>  
+                                Discover the kSuite
+                                
+
+</span></div> <div><span>  Included with kSuite</span><ul>  <li>
+                kDrive
+            
+</li></ul><span>  
+        Store, collaborate and share your files
+     </span><ul>  <li>
+                kPaste
+            
+</li></ul><span>  
+        Share and encrypt your sensitive information
+     </span><ul>  <li>
+                Custom Brand
+            
+</li></ul><span>  
+        Control the brand image of your products
+     </span><ul>  <li>
+                Email Service
+            
+</li></ul><span>  
+        The mailbox that respects your privacy
+    
+</span></div> <div><ul>  <li>
+                SwissTransfer
+            
+</li></ul><span>  
+        Send your files up to 50 GB free of charge.
+    
+</span><ul>  <li>
+                kChat
+            </li></ul><span>  
+                Beta
+            
+</span><span>  
+        Communicate live with your team
+     </span><ul>  <li>
+                kMeet
+            
+</li></ul><span>  
+        Organise your meetings online in complete security
+    
+
+</span><span>  
+                Backup and send your documents securely
+            </span></div> <div><ul>  <li>
+                Swiss Backup
+            
+</li></ul><span>  
+        Back up all your devices in Switzerland
+    
+</span><ul>  <li>
+                kDrive
+            
+</li></ul><span>  
+        Store, collaborate and share your files
+     </span><ul>  <li>
+                Synology NAS
+            
+</li></ul><span>  
+        Hire a NAS in Switzerland with a fixed IP
+     </span><span>  
+                Keep in touch and communicate easily with your audience
+            </span><ul>  <li>
+                Newsletter
+            
+</li></ul></div> <div><span>  
+        Send your newsletters at favourable rates
+    
+</span><ul>  <li>
+                Guest manager
+            
+</li></ul><span>  
+        Manage invitations to your events easily
+     </span><span>  
+                Organise your events with an approved ticketing system
+            </span><ul>  <li>
+                Ticketing
+            
+</li></ul><span>  
+        Create your ticketing service and sell tickets.
+    
+</span><ul>  <li>
+                Access Control
+            
+</li></ul></div> <span><span>  
+        Easily control access to your events.
+     </span></span> <div><ul>  <li>
+                Events portal
+            
+</li></ul><span>  
+                Broadcast your programmes and videos on a large scale
+            </span><ul>  <li>
+                Streaming radio
+            
+</li></ul><span>  
+        Create your online radio and monetise your live content
+    
+</span><ul>  <li>
+                Streaming Video
+            
+</li></ul><span>  
+        Create your online TV and monetise your webcasts
+     </span><ul>  <li>
+                VOD & AOD service
+            
+</li></ul></div> <div><span>  
+        Host and monetise your videos and podcasts
+    
+</span><ul>  <li>About us</li><li>
+                                            Vision and values
+                                        </li></ul><span>  
+                                            Our vision, our commitments
+                                        
+</span><ul>  <li>
+                                            The team
+                                        </li></ul><span>  
+                                            The teams behind our products
+                                        
+</span></div> <div><ul>  <li>
+                                            Infomaniak and the environment
+                                        </li></ul><span>  
+                                            Our environmental commitments
+                                        
+</span><ul>  <li>
+                                            Infomaniak is recruiting
+                                        </li></ul><span>  
+                                            Want to join us? Apply now!
+                                        
+</span></div> <div><ul>  <li>
+                                            Press and communication
+                                        </li></ul><span>  
+                                            All our resources at your disposal
+                                        
+</span><ul>  <li>
+                                            Blog & news
+                                        </li></ul><span>  
+                                            Follow and share our news
+                                        
+</span></div> <div><ul>  <li>
+                                            Partners
+                                        </li></ul><span>  
+                                            Search for or become an Infomaniak partner
+                                        
+</span><p>  
+            Choosing Infomaniak means being committed to the economy of tomorrow. Private life, local and sustainable are the values of Infomaniak since 29 years.
+        </p><p>  
+            Boris Siegenthaler, Co-Founder and CSO
+        </p></div> <p><p>  
+            We cannot save the world by complying with the current rules because the rules need to be changed. Everything must change and this needs to start today.
+        </p></p> <p><p>  
+            Alexandre Patti, Energy Manager
+        </p></p> <p><p>  
+            Don’t come and work here... you’ll never be able to leave!
+        </p></p> <p><p>  
+            Thibaut, front-end developer
+        </p></p> <p><p>  
+            Infomaniak is an independent company committed to ecology, a sustainable economy and a privacy-friendly internet. We design and develop our infrastructures and cloud solutions from start to finish.
+        </p></p> <p><p>  
+            The best place to follow the continuous development of our products and our ethical and ecological vision of digital transformation.
+        </p></p> <div><p>  Partner programme</p><p>  Benefit from our know-how and grow your clientele</p><span>  Become a partner<a href="" target="_blank">  →
+     </a></span><p>  The Infomaniak partners</p><p>  Search among more than 1000 partners</p><span>  See the partners<a href="" target="_blank">  →
+     </a></span><p>  Call for tenders</p><p>  Call on our partners to help you with your project</p><span>  Create a call for tenders<a href="" target="_blank">  →
+     </a></span><p>  Sales contact</p><p>  For companies, NGOs and public authorities</p></div> <div><span>  Contactez notre service commercial<a href="" target="_blank">  →
+     </a>
+</span><ul>  <li>Support</li><li>
+                                                FAQs
+                                            </li></ul><span>  
+                                                1000 FAQs, 500 tutorials and instructional videos
+                                            
+</span><ul>  <li>
+                                                Documentation for developers
+                                            </li></ul></div> <div><span>  
+                                                Free access to our APIs for your projects
+                                            
+</span><ul>  <li>
+                                                About the support service
+                                            </li></ul><span>  
+                                                Close and attentive to our customers
+                                            
+</span><ul>  <li>
+                                                Premium Support offer
+                                            </li></ul></div> <div><span>  
+                                                Support dedicated to your needs
+                                            
+
+</span><span>  
+
+</span><span>  All prices are now displayed <b> excluding taxes </b>
+</span><span>  All prices are now displayed <b> including taxes </b>
+
+</span><span>  
+                        Language
+                    </span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+
+</li></ul><span>  Create an account</span><span>  Sign in</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+
+</li></ul></div> <div><span>  
+
+</span><span>  All prices are now displayed <b> excluding taxes </b>
+</span><span>  All prices are now displayed <b> including taxes </b>
+
+</span><ul>  <li>
+                                Sign up
+                            
+
+</li><li>Sign in
+</li><li>Workspace</li></ul><p>  
+                    Webmail, contacts, calendar
+                
+</p><ul>  <li>Manager</li></ul><p>  
+                    Managing Infomaniak products
+                
+
+</p></div> <div><h1>  Domain Privacy</h1></div> <div><h4>  The ultimate solution for protecting your private information in the WHOIS directory</h4></div> <div><h4>  -20%
+</h4></div> <div><h4>  3,00 €
+</h4><span>  
+                                from
+                                </span><span>  2,40 €
+                                / year
+                            
+</span></div> <div><h3>  Protect the confidentiality of your personal information</h3><p>  Domain Privacy protects the contact information of the owner of a domain name in the WHOIS directory. Normally, this public database is used to verify the availability of a domain name and who it belongs to, but marketing companies and scammers can also exploit it for other purposes, like sending spam or identity theft.</p></div> <div><h2>  Without</h2></div> <div><h5>  Domain Privacy</h5></div> <div><h2>  With</h2></div> <div><h5>  Domain Privacy</h5></div> <div><h3>  WHOIS</h3><ul>  <li>Domain name</li><li>Address</li><li>Email</li><li>Telephone</li><li>mydomain.ch</li><li>Case postale 1314</li><li>1211 Genève 26</li><li>Switzerland</li><li>privacy@­domainprivacytrustee.ch</li></ul></div> <div><h3>  WHOIS</h3><ul>  <li>Domain name</li><li>Address</li><li>Email</li><li>Telephone</li><li>mydomain.ch</li><li>John Martins</li><li>Rue de la mairie 1</li><li>CH-1207 Genève</li><li>Switzerland</li><li>jean.dumond@­infomaniak.com</li><li>+41 12 345 67 89</li><li>Without Domain Privacy, your data will be visible to everyone
+</li><li>Your email is vulnerable to SPAM
+</li><li>Your personal information is visible publicly (name, address, phone number)
+</li><li>You may be bothered without your permission
+</li><li>Your identity can be stolen by malicious people
+</li></ul></div> <ul><ul>  <li>With Domain Privacy, your information is protected
+</li><li>Protection for your identity and your personal information
+</li><li>Protection against SPAM
+</li><li>Protection against data abuse
+</li><li>Professionals can contact you safely
+</li></ul></ul> <div><h3>  
+                Why protect your identity?
+            </h3></div> <div><h5>  
+                        Protect against hackers
+                    </h5><p>  
+                        Domain Privacy prevents your identity being stolen and used for commercial or unlawful purposes.
+                    </p></div> <div><h5>  
+                        Block unsolicited email
+                    </h5><p>  
+                        Spammers and bots will no longer be able to harvest your email address in the public WHOIS directory.
+                    </p></div> <div><h5>  
+                        Make your identity anonymous
+                    </h5><p>  
+                        Domain Privacy replaces your personal information (name, email address, telephone number, mailing address) with a neutral representative.
+                    </p><p>  Tiago Pedro | Data Protection Officer</p><p>  With Domain Privacy, Infomaniak offers an easy, attractive solution for protecting the privacy of your personal information.</p></div> <div><h3>  This is how Domain Privacy protects your private information</h3><p>  Domain Privacy replaces your private contact information with a neutral representative in the WHOIS directory. This way, you are totally protected against hackers, spammers, hijackers, domain name thieves, and identity thieves. Of course, official bodies and professionals can still contact you using a secure form that protects your privacy.</p><p>  1 - Domain Privacy protection can be enabled in just one click in the Manager for only </p></div> <span><span>  2,40 € / year</span></span> <p><p>  2 - <a href="https://domainprivacytrustee.ch" target="_blank"> Domain Privacy Trustee SA </a> makes your private details anonymous.</p></p> <p><p>  3 - You are protected against SPAM and the unauthorised use of your private information.</p></p> <div><h4>  -20%
+</h4></div> <div><h4>  3,00 €
+                                        from
+                    </h4><span>  2,40 €
+                    / year
+                </span></div> <div><h2>  Do you already have domain?</h2><ul>  <li>1. Log in to the Manager.</li><li>2. Go to "Domains".</li><li>3. Click on the domain that you want to protect.</li><li>
+                                                                    4. Enable Domain Privacy in the domain dashboard.
+                                                            
+</li></ul></div> <div><h2>  No domain yet?</h2></div> <div><h4>  A single cost-effective price</h4><p>  
+                            Domain Privacy costs just </p><span>  2,40 € / year, regardless of your domain extension. Thanks to our competitive rates, your domain with Domain Privacy is still very cost effective.
+                        </span></div> <div><h4>  You remain accessible</h4><p>  Professionals such as business owners or journalists can still contact you using a secure form which blocks SPAM and protects your privacy.</p></div> <div><h4>  Everyone can take advantage of it</h4><p>  Most of domains managed with Infomaniak can have this coverage. You can easily transfer your domain to Infomaniak.</p></div> <div><h2>  Domain Privacy - Frequently Asked Questions</h2><span>  2,40 €</span><p>  
+                                                                from
+                                </p><span>  2,50 €
+                                / year
+                            </span><ul>  <li>
+                                    Speed up access to your site
+                                
+</li><li>
+                                Fast Anycast DNS speeds up website access by up to 50% and reinforces its availability in case of a DoS attack.
+                                
+
+<a href="https://www.infomaniak.com/en/domains/dns-anycast" target="_blank"> 
+                                    Discover Fast Anycast DNS
+                                 </a>
+</li></ul></div> <div><p>  -20%
+</p><p>  3,40 €
+                                                                from
+                                </p><span>  2,72 €
+                                / year
+                            </span><ul>  <li>
+                                    Protect your domain against theft
+                                
+</li><li>
+                                If your domain name is important for your activities, Renewal Warranty guarantees that you will never lose it.
+                                
+
+<a href="https://www.infomaniak.com/en/renewal-warranty" target="_blank"> 
+                                    Discover Renewal Warranty
+                                 </a>
+</li></ul></div> <div><p>  
+Infomaniak
+</p><p>  
+Support
+</p><p>  
+Partnerships
+</p><p>  
+Ecology
+</p><p>  
+Follow our development
+</p><label>  
+
+
+</label><p>  
+Infomaniak
+</p><p>  
+Support
+</p><p>  
+Partnerships
+</p><p>  
+Ecology
+</p><p>  
+Follow our development
+</p><label>  
+
+
+</label><p>  Managers</p></div>

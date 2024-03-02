@@ -1,0 +1,61 @@
+device_category,generic_category,comments,generic categories,examples
+unknown,Other,,Computer,Laptop/computer
+camera,Surveillance,,Router,"Any networking device for e.g. router, access point, extender, mesh router, Internet Gateway"
+phone,Mobile Device ,,Mobile Device ,"Phone, Tablet, E-readers"
+thermostat,Home Automation,,Wearable,"Smartwatch, hand ring, or band"
+printer,Work Appliance,,Game Console,"Xbox, Play station"
+nas,Storage,,Home Automation,"Anything related to smart lights, switches, plugs, strips, window sensors, weather sensor, thermostat, garage door opener, smart lock, air purifier, vacuum etc"
+vacuum,Home Automation,,Storage,"NAS, or anything that could store media which could be streamed somewhere over the network
+DLNA DMS (Digital Media Server)"
+gaming,Game Console,,Surveillance,"Any smart/IP camera, or smart doorbell"
+pc,Computer,,Work Appliance,"Printer, fax"
+hub,Home Automation,,Voice Assistant,"Any speaker based voice assistant, Nest Hub and Echo show,"
+tv,Media/TV,,Vehicle,"Cars, and other vehicles"
+plug,Home Automation,,Media/TV,"Streamers, smart TVs, and voice assistant with display for e.g. DLNA DMR (Digital Media Renderer), also the case of both DMS and DMR, and any Receiver, smart speakers, and audio streamers, Internet radio device"
+light,Home Automation,,Home Appliance ,"Smart refridgerator, coffe maker, AC, purifier, fan, etc."
+switch,Home Automation,,Generic IoT,"toothbrush, medical devices, and anything that doesn't fit in the above categories but it's and IoT."
+voip,Work Appliance,,Other,Can't say if it's IoT
+voice assistant,Voice Assistant,,,
+router,Router,,,
+avr,Media/TV,,,
+sensor,Home Automation,,,
+stb,Media/TV,,,
+speaker,Media/TV,,,
+sprinkler,Generic IoT,,,
+weather station,Home Automation,,,
+dvr,Media/TV,,,
+appliance,Home Appliance ,,,
+energy meter,Home Automation,,,
+doorbell,Surveillance,,,
+lock,Home Automation,,,
+energy monitor,Home Automation,,,
+raspberry,Computer,,,
+alarm,Home Automation,,,
+avr/dvr,Media/TV,,,
+car power,Vehicle,,,
+nvr,Media/TV,,,
+car charger,Vehicle,,,
+universal remote,Home Automation,,,
+smoke detector,Home Automation,,,
+server,Computer,,,
+irrigation,Generic IoT,,,
+health,Generic IoT,,,
+industrial automation,Other,,,
+water sensor,Home Appliance ,,,
+bulb,Home Automation,,,
+car,Vehicle,,,
+voice assistance,Voice Assistant,,,
+video conference,Other,,,
+audio,Media/TV,,,
+energy,Home Automation,,,
+assistance,Voice Assistant,,,
+smoke,Home Automation,,,
+misc,Other,,,
+clock,Generic IoT,,,
+assistant,Voice Assistant,,,
+fan,Home Appliance ,,,
+arduino,Computer,,,
+home automation,Home Automation,,,
+generic iot,Generic IoT,,,
+air purifier,Generic IoT,,,
+scale,Generic IoT,,,

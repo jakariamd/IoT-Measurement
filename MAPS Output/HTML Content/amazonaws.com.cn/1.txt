@@ -1,0 +1,1433 @@
+<div><h2>  Select your cookie preferences</h2><p>  We use essential cookies and similar tools that are necessary to provide our site and services. We use performance cookies to collect anonymous statistics so we can understand how customers use our site and make improvements. Essential cookies cannot be deactivated, but you can click “Customize cookies” to decline performance cookies.  If you agree, AWS and approved third parties will also use cookies to provide useful site features, remember your preferences, and display relevant content, including relevant advertising. To continue without accepting these cookies, click “Continue without accepting.” To make more detailed choices or learn more, click “Customize cookies.”</p></div> <div><span>  Accept all cookies</span><span>  Continue without accepting</span><span>  Customize cookies</span></div> <div><h2>  Customize cookie preferences</h2><span>  We use cookies and similar tools (collectively, "cookies") for the following purposes.</span></div> <div><h3>  Essential</h3><p>  Essential cookies are necessary to provide our site and services and cannot be deactivated. They are usually set in response to your actions on the site, such as setting your privacy preferences, signing in, or filling in forms. </p></div> <div><h3>  Performance</h3><p>  Performance cookies provide anonymous statistics about how customers navigate our site so we can improve site experience and performance. Approved third parties may perform analytics on our behalf, but they cannot use the data for their own purposes.</p><label>  Allow performance category</label><span>  Allowed</span></div> <div><h3>  Functional</h3><p>  Functional cookies help us provide useful site features, remember your preferences, and display relevant content. Approved third parties may set these cookies to provide certain site features. If you do not allow these cookies, then some or all of these services may not function properly.</p><label>  Allow functional category</label><span>  Allowed</span></div> <div><h3>  Advertising</h3><p>  Advertising cookies may be set through our site by us or our advertising partners and help us deliver relevant marketing content. If you do not allow these cookies, you will experience less relevant advertising.</p><label>  Allow advertising category</label><span>  Allowed</span><p>  Blocking some types of cookies may impact your experience of our sites. You may review and change your choices at any time by clicking Cookie preferences in the footer of this site. We and selected third-parties use cookies or similar technologies as specified in the </p></div> <div><span>  AWS Cookie Notice</span><span>  Cancel</span><span>  Save preferences</span></div> <div><h2>  Unable to save cookie preferences</h2><p>  We will only store essential cookies at this time, because we were unable to save your cookie preferences.If you want to change your cookie preferences, try again later using the link in the AWS console footer, or contact support if the problem persists.</p><span>  Dismiss</span><span>  Click here to return to the Amazon Web Services China homepage
+
+
+<a href="https://aws.amazon.com/?nc2=h_ql_cn" target="_blank"> Global Website </a><a href="/en/contact-us/?nc2=h_l2_su" target="_blank"> Contact Us </a><a href="https://docs.amazonaws.cn/?nc2=h_l2_su" target="_blank"> Documentation </a><a href="/en/support/icp/?nc2=h_l2_icp" target="_blank"> ICP Record </a><a href="#" target="_blank"> English  </a><a href="#" target="_blank"> My Account  </a></span></div> <div><span>   Create a Free Account
+
+
+</span><div>  
+
+
+
+</div><div>  
+
+
+
+
+</div><div>  
+
+</div><div>  
+
+
+</div><div>  
+       An overall introduction about Amazon Web Services globally 
+     
+</div><div>  
+
+
+</div><div>  
+       Learn about Amazon Web Services China regions 
+     
+</div><div>  
+
+
+</div><div>  
+
+
+</div><span>  Virtual servers in the Cloud
+
+</span><span>  Run code without thinking about servers
+
+</span><span>  Scale compute capacity to meet demand
+
+</span><span>  Fully managed batch processing at any scale
+
+</span></div> <div><span>  Amazon Web Services application container
+
+</span><span>  Discover, deploy, and publish serverless applications
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div></div> <div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  The most trusted way to run Kubernetes 
+
+</span><span>  Run and manage Docker containers
+
+</span><span>  Run containers without managing servers or clusters
+
+</span></div> <div><span>  Store and manage Docker images
+
+</span><span>  Run containers on customer-managed infrastructure
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div></div> <div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Scalable storage in the Cloud
+
+</span><span>  EC2 block storage volumes
+
+</span><span>  Low-cost archive storage in the Cloud
+
+</span></div> <div><span>  Petabyte-scale data Transport
+
+</span><span>  Fully managed file system for EC2
+
+</span><span>  Fully managed Windows native file system
+
+</span><span>  High-performance file system integrated with S3
+
+</span><span>  Centralized backup across Amazon Web Services services
+
+</span><span>  Integrates on-premises IT environments with Cloud storage
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div></div> <div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div></div> <div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  High performance managed relational database
+
+</span><span>  Managed relational database service for MySQL, Postgres, Oracle, SQL Server, and Amazon Aurora
+
+</span><span>  Fast, flexible, highly scalable NoSQL Database Service
+
+</span><span>  Fast, scalable, highly available MongoDB-compatible database service
+
+</span><span>  In-memory caching service
+
+</span><span>  Migrate databases with minimal downtime
+
+</span></div> <span><span>  Redis-compatible, durable, in-memory database service for ultra-fast performance
+
+</span></span> <span><span>  Fast, simple, cost-effective data warehousing
+
+</span></span> <div><span>  Managed Cassandra-compatible database
+
+</span><span>  Fast, reliable graph database built for the Cloud
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div></div> <div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Query data in S3 using SQL
+
+</span><span>  The industry-leading cloud big data platform
+
+</span><span>  Search, visualize, and analyze up to petabytes of text and unstructured data
+
+</span></div> <div><span>  Real-time data stream processing
+
+</span><span>  Fast, simple, cost-effective data warehousing
+
+</span><span>  Prepare and load data
+
+</span><span>  Fully managed Apache Kafka service
+
+</span><span>  Build a secure data lake in days
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div></div> <div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Isolated cloud resources
+
+</span></div> <div><span>  Distribute incoming traffic across multiple targets
+
+</span><span>  Build, publish, and manage APIs
+
+</span><span>  Fast, highly secure and programmable content delivery network (CDN)
+
+</span><span>  Dedicated network connection to Amazon Web Services
+
+</span><span>  Securely access services hosted on Amazon Web Services
+
+</span><span>  Easily scale VPC and account connections
+
+</span><span>  Scalable domain name system (DNS)
+
+</span><span>  Service discovery for cloud resources
+
+</span><span>  Application-level networking for all your services
+
+
+</span></div> <div><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div></div> <div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Resource and application monitoring
+
+</span><span>  Configure and manage EC2 instances and on-premises servers
+
+</span><span>  Templates for Amazon Web Services resource creation
+
+</span><span>  User activity and change tracking
+
+</span><span>  Track resource inventory and changes
+
+</span></div> <div><span>  Identify optimal Amazon Web Services Compute resources
+
+</span><span>  Central governance and management across Amazon accounts
+
+</span><span>  Web-based user interface
+
+</span><span>  Track, manage and control licenses
+
+</span><span>  Personalized view of Amazon Web Services service health
+
+</span><span>  Create, organize, and govern your curated catalog of Amazon Web Services products
+
+</span><span>  Easily size, configure, and deploy third party applications on Amazon Web Services
+
+
+</span></div> <div><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div></div> <div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  User identity and app data synchronization
+
+</span><span>  Host and manage active directory
+
+</span><span>  Manage user access and encryption key
+
+</span><span>  Managed creation and control of encryption keys
+
+</span><span>  Rotate, manage, and retrieve secrets
+
+</span></div> <span><span>  Provision, manage, and deploy SSL/TLS certificates
+
+</span></span> <div><span>  Unified security and compliance center
+
+</span><span>  Simple, secure service to share Amazon Web Services resources
+
+</span><span>  Managed threat detection service
+
+</span><span>  Filter malicious web traffic
+
+</span><span>  Central management of firewall rules
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div></div> <div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div></div> <div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Pre-configured environments to quickly build deep learning applications
+
+</span><span>  Turn text into life-like speech
+
+</span><span>  Automatically convert speech to text
+
+</span><span>  Build, train, and deploy machine learning models at scale
+
+</span><span>  Create real-time personalized user experiences faster at scale
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div></div> <div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div></div> <div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Migrate databases with minimal downtime
+
+</span><span>  Fully managed SFTP, FTPS, and FTP service
+
+</span><span>  Simplify and accelerate secure data migrations
+
+</span><span>  Petabyte-scale data transport
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div></div> <div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div></div> <div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Onboard, organize, monitor, and remotely manage connected services
+
+</span><span>  Connect devices to the cloud
+
+</span><span>  Bring local compute, messaging, data caching, sync, and ML inference capabilities to edge devices
+
+</span><span>  IoT operating system for microcontrollers
+
+</span><span>  Security management for IoT devices
+
+</span><span>  IoT event detection and response
+
+</span></div> <div><span>  Analytics for IoT devices
+
+</span><span>  IoT data collector and interpreter
+
+</span><span>  Process and analyze video streams
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div></div> <div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         IOT Free Package 
+       </div><div>  
+         Click the link to get the free package for IOT 
+       
+
+
+
+
+</div><span>  Build and test code
+
+</span></div> <div><span>  Automate code deployments
+
+</span><span>  Analyze and debug your applications
+
+</span><span>  Store code in private Git repositories
+
+</span><span>  Automate continuous delivery pipelines for fast and reliable updates
+
+</span><span>  Manage Amazon Web Services cloud infrastructure with consistent APIs
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div></div> <div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div></div> <div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Coordination for distributed applications
+
+</span><span>  Workflow service for coordinating application components
+
+</span><span>  Serverless event bus for SaaS apps and Amazon Web Services services
+
+</span><span>  Power your apps with the right data from many sources at scale
+
+</span><span>  Managed message broker service for ActiveMQ and RabbitMQ
+
+</span><span>  Managed message queues
+
+</span><span>  Send notifications, updates, and promotions across platforms
+
+</span></div> <div><span>  Secure and highly available managed workflow orchestration for Apache Airflow
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div></div> <div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Virtual desktops in the Cloud
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div></div> <div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div></div> <div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Simple, fast, cost-effective dedicated game server hosting
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div></div> <div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div></div> <div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Analyze your Amazon Web Services cost and usage
+
+</span><span>  Set custom cost and usage budgets
+
+</span><span>  Access comprehensive cost and usage information
+
+</span><span>  Manage and monitor your instance reservations
+
+</span><span>  Automated cost anomaly detection and root cause analysis
+
+</span><span>  Benefit from significant cost savings of up to 84% compared to On-Demand prices
+
+
+</span><div>  
+      Resources 
+    
+</div></div> <div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div></div> <div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Convert file-based video content
+
+</span><span>  Process and analyze video streams
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div></div> <div><div>  
+         Pricing Calculator 
+       </div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div></div> <div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Build, publish, and manage APIs
+
+</span><span>  Power your apps with the right data from many sources at scale
+
+</span><span>  Fast, flexible, highly scalable NoSQL Database Service
+
+</span><span>  Serverless event bus for SaaS apps and Amazon Web Services services
+
+</span><span>  Run containers without managing servers or clusters
+
+</span><span>  Run code without thinking about servers
+
+</span></div> <div><span>  Scalable storage in the Cloud
+
+</span><span>  Coordination for distributed applications
+
+</span><span>  Managed message queues
+
+</span><span>  Send notifications, updates, and promotions across platforms
+
+</span><span>  Managed message broker service for ActiveMQ and RabbitMQ
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div></div> <div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div></div> <div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  For experimenting with Amazon Web Services
+
+</span><span>  For production use of Amazon Web Services
+
+</span><span>  For business critical use of Amazon Web Services
+
+</span><span>  For business critical use of Amazon Web Services
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Pricing Calculator 
+       </div></div> <div><div>  
+         Estimate the cost for your services or architect solutions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Free Tier 
+       </div><div>  
+         Learn about Amazon Web Services China Region Free Tier 
+       
+
+</div><div>  
+         Special Offers 
+       </div></div> <div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+
+</div><span>  Explore the Amazon Web Services solutions library
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Products 
+       </div><div>  
+         Check all products available in Amazon Web Services China regions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div></div> <div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Optimize production and speed time-to-market
+
+</span><span>  Drive the digital transformation for the entire mobility value chain
+
+</span><span>  Develop secure and innovative solutions to increase customer and shareholder value
+
+</span><span>  Accelerate cross-border e-commerce overseas operations
+
+</span><span>  Speed up innovation in the Retail and CPG areas. Create an excellent customer experience
+
+</span></div> <span><span>  Solutions for increasing the pace of innovation, data lifecycle management, incorporating new technology into care delivery, and improving security and compliance
+
+</span></span> <span><span>  Facilitates teaching, learning, student engagement, and better learning outcomes as well as modernize enterprise wide IT operations
+
+</span></span> <div><span>  Revamp legacy operations and accelerate the development of innovative renewable energy business models
+
+</span><span>  Transform media & entertainment with the most purpose-built capabilities and partner solutions of any cloud
+
+</span><span>  Services to enable game development across all genres and platforms, from AAA games to small independent studios
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Solutions 
+       </div><div>  
+         View all industry and technology solutions available in China regions 
+       
+
+</div></div> <div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div><span>  Comprehensive, secure, scalable, and cost-effective analytics solutions
+
+</span><span>  Rapidly and reliably build and deliver products using DevOps practices
+
+</span></div> <span><span>  Make web-scale computing easier for developers, run your workloads using the high throughput and low latency cloud network
+
+</span></span> <div><span>  Move data processing and analysis as close to the end user as necessary
+
+</span><span>  Modernize your data infrastructure with fully managed, purpose-built databases
+
+</span><span>  Build with powerful services and platforms, and the broadest machine learning framework support anywhere
+
+</span><span>  Enable, provision, and operate your environment for both business agility and governance control
+
+</span><span>  Easily migrate apps and data to Amazon Web Services
+
+</span><span>  Secure your workloads and applications in the cloud
+
+</span></div> <span><span>  Durable, cost-effective options for storage, backup and disaster recovery
+
+</span></span> <span><span>  Deploy, operate and govern workloads on the cloud efficiently, and make them available for business production fast
+
+
+</span></span> <div><div>  
+      Resources 
+    
+</div><div>  
+         All Solutions 
+       </div><div>  
+         View all industry and technology solutions available in China regions 
+       
+
+</div><div>  
+         Documentation 
+       </div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+</div></div> <div><span>  Help you efficiently migrate to the cloud and get business results faster
+
+</span><span>  Collect enterprise energy consumption data, automatically calculate greenhouse gas emissions, and forecast future energy consumption
+
+</span><span>  Work with ISVs to serve customers around the world and accelerate the digital transformation of enterprise customers
+
+</span><span>  Identify and private data as defined by laws and regulations in different countries/regions
+
+</span><span>  Listmonk-based email marketing solutions can be used to send marketing emails
+
+</span></div> <div><span>  Lightweight 5G Private Network Solution Based on Amazon Web Services
+
+</span><span>  Make web-scale computing easier for developers, run your workloads using the high throughput and low latency cloud
+
+</span><span>  Easily migrate SAP workloads to Amazon Web Services
+
+
+</span><div>  
+      Resources 
+    
+</div><div>  
+         All Solutions 
+       </div><div>  
+         View all industry and technology solutions available in China regions 
+       
+
+</div><div>  
+         Documentation 
+       </div></div> <div><div>  
+         Find products documentation 
+       
+
+</div><div>  
+         Getting Started 
+       </div><div>  
+         The information you need to start building on Amazon Web Services 
+       
+
+</div><div>  
+         Special Offers 
+       </div><div>  
+         Check most recent special offers 
+       
+
+
+
+
+
+</div><div>  
+
+
+</div><div>  
+       Pay only for the individual services you need for as long as you use them without requiring long-term contracts or complex licensing 
+     
+
+</div></div> <div><div>  
+
+
+</div><div>  
+       Estimate the cost for your services or architecture solutions 
+     
+
+
+
+</div><div>  
+
+
+</div><div>  
+       Access to Amazon Web Services Free Tier for China Region services 
+     
+
+</div><div>  
+
+
+</div><div>  
+       Check the most recent special offers 
+     
+
+
+
+
+</div><div>  
+       Provide a unique combination of tools and expertise to help you do amazing things with Amazon Web Services 
+     
+</div><div>  
+       Get started with easy-to-use free learning resources like tutorials, projects, and more 
+     
+</div></div> <div><div>  
+       Build skills and validate expertise 
+     
+</div><div>  
+       General cloud computing knowledge and articles 
+     
+</div><div>  
+       Amazon Web Services Marketplace is a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on Amazon Web Services. 
+     
+
+</div><div>  
+
+
+
+
+</div><div>  
+       Developer Community provides a one-stop platform for developers to learn, grow and communicate, while linking global technical resources to help developer being more successful with Amazon Web Services. 
+     
+
+</div></div> <div><div>  
+
+
+
+
+</div></div> <div><h3>   Flagship Events
+</h3><div>  
+
+
+
+
+
+
+</div><span>  Click here to return to Amazon Web Services homepage
+
+</span><div>  
+
+
+
+</div><span>   Create a Free Account
+
+</span><span>   Contact Us
+
+
+
+</span><div>  
+
+
+</div><p>  <a href="/en/agreement/beijing/" target="_blank"> Sinnet Customer Agreement for Amazon Web Services (Beijing Region) </a> - this agreement governs your use of our services
+</p><p>  <a href="/en/serviceterms/beijing/" target="_blank"> Sinnet Service Terms for Amazon Web Services (Beijing Region) </a> - these additional terms apply to your use of specific services
+</p></div> <div><p>  <b> Acceptable Use Policy for Amazon Web Services (Beijing Region) </b> - this policy describes prohibited uses of our services
+</p><p>  <a href="/en/trademark-guidelines/" target="_blank"> Amazon Web Services Trademark Guidelines </a> - this page describes the guidelines for using certain of our trademarks and other designations
+</p><p>  <b> Sinnet Privacy Policy for Amazon Web Services (Beijing Region) </b> - this policy describes how information about you is used and shared
+</p><p>  <a href="/en/promotional-terms/" target="_blank"> Amazon Web Services Promotional Credit Terms & Conditions </a> - these terms apply to any Amazon Web Services promotional credits you receive
+</p></div> <div><p>  <b> Service Level Agreements for Amazon Web Services (Beijing Region) </b> - these service level agreements apply to your use of specific services 
+
+</p><p>  <a href="/en/agreement/ningxia/" target="_blank"> Western Cloud Data Customer Agreement for Amazon Web Services (Ningxia Region) </a> - this agreement governs your use of our services
+</p><p>  <a href="/en/serviceterms/ningxia/" target="_blank"> Western Cloud Data Service Terms for Amazon Web Services (Ningxia Region) </a> - these additional terms apply to your use of specific services
+</p></div> <div><p>  <b> Acceptable Use Policy for Amazon Web Services (Ningxia Region) </b> - this policy describes prohibited uses of our services
+</p><p>  <a href="/en/trademark-guidelines/" target="_blank"> Amazon Web Services Trademark Guidelines </a> - this page describes the guidelines for using certain of our trademarks and other designations
+</p><p>  <b> Amazon Web Services Site Terms </b> - these terms govern your use of the Amazon Web Services website
+</p><p>  <b> Western Cloud Data Privacy Policy for Amazon Web Services (Ningxia Region) </b> - this policy describes how information about you is used and shared
+</p></div> <div><p>  <a href="/en/promotional-terms/" target="_blank"> Amazon Web Services Promotional Credit Terms & Conditions </a> - these terms apply to any Amazon Web Services promotional credits you receive
+</p><p>  <b> Service Level Agreements for Amazon Web Services (Ningxia Region) </b> - these service level agreements apply to your use of specific services 
+
+
+
+
+</p><ul>  <li> | </li><li> | </li><li> | </li></ul><div>  
+
+</div><div>  
+
+</div><div>  
+
+</div><div>  
+
+</div><span>   Create a Free Account
+
+
+
+</span></div> <div><h3>   About Us
+</h3></div> <div><h3>   Products & Solutions
+</h3></div> <div><h3>   Resources & Support
+</h3></div> <div><h3>   Manage Your Account
+</h3></div> <div><h3>   Amazon Web Services in China
+</h3><p>  We're committed to providing Chinese software developers and enterprises with secure, flexible, reliable, and low-cost IT infrastructure resources to innovate and rapidly scale their businesses.
+</p><p>  "AWS" is an abbreviation of "Amazon Web Services", and is not displayed herein as a trademark. 
+</p><ul>  <li>Language</li></ul></div> <div><h4>   Ending Support for Internet Explorer
+</h4><span>  Got it
+
+</span><div>  
+       Our support for Internet Explorer ends on 07/31/2022. Supported browsers are Chrome, Firefox, Edge, and Safari. 
+     
+</div><div>  
+<a href="" target="_blank"> Got it </a>
+
+
+
+</div><span>  Close
+</span><span>  Close
+</span><div>  </div></div>

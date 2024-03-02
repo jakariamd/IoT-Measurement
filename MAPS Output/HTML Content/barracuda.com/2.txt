@@ -1,0 +1,206 @@
+<div><span>  MENU</span><span>  HOME</span><span>  PRODUCTS</span><span>  SOLUTIONS</span><span>  SUPPORT</span><span>  PARTNERS</span><span>  COMPANY</span><span>  13 Threat Types e-book</span><span>  Build your Ransomware Protection</span><span>  EMAIL PROTECTION</span><span>  APPLICATION PROTECTION</span><span>  NETWORK PROTECTION</span><span>  DATA PROTECTION</span><span>  MANAGED XDR</span><span>  DEPLOYMENTS</span><span>  INDUSTRIES</span><span>  TECHNOLOGIES</span><span>  SERVICES</span><span>  TECHNICAL INFORMATION</span></div> <div><span>  QUICK LINKS</span><span>  WHO WE ARE</span><span>  NEWS AND EVENTS</span><span>  LEGAL</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+
+</li></ul></div> <div><span>  EMAIL PROTECTION</span><span>  APPLICATION PROTECTION</span><span>  NETWORK PROTECTION</span><span>  DATA PROTECTION</span><span>  MANAGED XDR</span><span>  Barracuda Email Protection</span><span>  Complete security that stops all 13 email threat types and protects Microsoft 365 data. Get started in minutes.</span><span>  THREAT PREVENTION</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><span>  Email Threat Scan</span><span>  POST-DELIVERY DETECTION AND RESPONSE</span></div> <div><ul>  <li>
+
+</li><li>
+
+</li></ul><span>  DATA PROTECTION AND COMPLIANCE</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><span>  Application Protection</span><span>  Protect all your web apps and APIs with one comprehensive platform.</span><span>  USE CASES</span><span>  Web Application Protection</span><span>  API Protection</span><span>  Full Spectrum DDoS Protection</span><span>  Advanced Bot Protection</span><span>  Secure App Delivery</span><span>  Reporting & Analytics</span><span>  Free Website Vulnerability Scan</span></div> <div><span>  DEPLOYMENT OPTIONS</span><span>  Web Application Firewall</span><span>  WAF-as-a-Service</span><span>  Barracuda Network Protection</span><span>  Protect and optimize your network.</span><span>  USE CASES</span><span>  Secure Access Service Edge</span><span>  Next-Generation Security</span><span>  Secure SD-WAN</span><span>  Zero Trust Access</span><span>  Web Security</span><span>  Industrial Security</span><span>  PRODUCTS</span><span>  SecureEdge</span><span>  New</span><span>  Build and Price</span></div> <div><span>  CloudGen Firewall</span><span>  Build and Price</span><span>  CloudGen Access</span><span>  Web Security Gateway</span><span>  Backup</span><span>  Protect data to minimize downtime and prevent data loss.</span><span>  Build and Price</span><span>  Cloud-to-Cloud Backup</span><span>  Get SaaS backup for your Microsoft 365 data with unlimited storage.</span><span>  Build and Price</span><span>  Data Inspector</span><span>  Scan your Microsoft 365 for sensitive data and malware.</span><span>  Free Scan</span></div> <div><span>  Barracuda Managed XDR</span><span>  New</span><span>  Rapidly mature your cybersecurity posture with comprehensive cybersecurity-as-a-service.</span><span>  13 Email Threat Types e-book</span><span>  Build your Ransomware Protection</span><span>  DEPLOYMENTS</span><span>  INDUSTRIES</span><span>  TECHNOLOGIES</span><span>  On-Premises Deployment Options</span><span>  Protect your physical locations with cloud-connected appliances and software that can be deployed on premises or in the cloud.</span></div> <div><span>  SaaS Deployments</span><span>  Deploy simple and scalable security with no software or hardware to install.</span><span>  Amazon Web Services (AWS)</span><span>  Browse our security and network solutions designed specifically for AWS.</span><span>  Microsoft Azure</span><span>  Get security and networking solutions that are deployed natively in Microsoft Azure.</span><span>  Google Cloud Platform (GCP)</span><span>  Check out our security products for Google Cloud Platform.</span><span>  Healthcare</span></div> <span><span>  Protect patient data and avoid disruptions that could affect patient care.</span></span> <div><span>  Retail</span><span>  Protect your customers and brand from advanced cyber threats.</span><span>  Financial Services</span><span>  Financial services are a prime target for cyber attacks. Learn how Barracuda can help.</span><span>  Education</span><span>  Protect students and faculty from ransomware and other cyber attacks. Ensure compliance with safe learning regulations.</span><span>  State and Local Government</span><span>  Explore how Barracuda protects state and local government websites and data.</span></div> <div><span>  Barracuda Security Insights</span><span>  Check out our real-time view of global cyber threats, collected from millions of data points.</span><span>  Top 13 Email Threat Types</span><span>  Learn how to protect your organization from all 13 types of email attacks.</span><span>  Advanced Threat Protection</span><span>  Stop zero-hour and advanced attacks that evade traditional detection techniques.</span><span>  Ransomware</span><span>  Protect your business and users from ransomware attacks in three easy steps.</span></div> <div><span>  Microsoft 365</span><span>  Protect all your email, SharePoint, OneDrive, and Teams data with protection that goes far beyond what is built into Microsoft 365.</span><span>  Cyber Liability Insurance</span><span>  Protect your business and support your cyber insurance policy.</span><span>  13 Email Threat Types e-book</span><span>  Build your Ransomware Protection</span><span>  SERVICES</span><span>  TECHNICAL INFORMATION</span><span>  QUICK LINKS</span><span>  Barracuda values partnership. We’re here to help you protect and support your customers for life with enterprise-grade, cloud-ready security solutions.</span></div> <div><span>  PARTNER PORTAL</span><span>  BECOME A PARTNER</span><span>  Partners</span><span>  WHO WE ARE</span><span>  NEWS AND EVENTS</span><span>  LEGAL</span><p>  Take full control of your data.</p><p>  PROTECT
+</p><span>  YOUR PEOPLE, 
+</span><span>  YOUR DATA,
+</span><span>  YOUR REPUTATION.</span><span>  FIND OUT HOW</span><p>  Threats evolve. Your email security should, too.</p><p>  Deploy enterprise-grade security in minutes.</p><p>  Modernize your network.</p><p>  Take full control of your data.</p></div> <div><p>  PROTECT
+</p><span>  YOUR PEOPLE, 
+</span><span>  YOUR DATA,
+</span><span>  YOUR REPUTATION.</span><span>  FIND OUT HOW</span><ul>  <li>Email Protection
+</li><li>Application Protection
+</li><li>Network Protection
+</li><li>Data Protection
+</li></ul></div> <div><h2>  Barracuda named a Strong Performer in the Forrester Wave<sup> TM </sup>:</h2><p>  Enterprise Email Security Q2 2023</p><span>  GET THE REPORT</span></div> <div><h2>  Enterprise-grade SASE protection for your business</h2><p>  Introducing Barracuda SecureEdge</p><span>  FIND OUT MORE</span></div> <div><h2>  24x7 Cybersecurity-as-a-service
+</h2><p>  Introducing Barracuda Managed XDR</p><span>  Find out more</span></div> <div><h2>  Application Protection just got easier
+</h2><p>  Introducing Barracuda Application Protection plans</p><span>  See the new plans</span></div> <div><h3>  Featured news</h3><span>  Aug. 8, 2023</span><span>  Press Release</span></div> <div><h2>  
+          Barracuda partners with Cork to offer cyber warranty created exclusively for customers of MSPs
+        </h2><p>  
+        New cyber warranty offers customers financial protection from the costs of cyberattacks.</p><span>  Aug. 2, 2023</span><span>  Blog</span></div> <div><h2>  
+          Threat Spotlight: Reported ransomware attacks double as AI tactics take hold
+        </h2><p>  
+        Barracuda researchers analyzed 175 publicly reported successful ransomware attacks across the world between August 2022 and July 2023.</p><span>  Jul. 12, 2023</span><span>  Blog</span></div> <div><h2>  
+          Threat spotlight: Extortion attacks
+        </h2><p>  
+        To get a better understanding of the financial infrastructure attackers use in extortion emails, Barracuda recently teamed up with researchers from Columbia to analyze over 300,000 emails.</p><span>  Jun. 21, 2023</span><span>  Press Release</span></div> <div><h2>  
+          Barracuda welcomes Siroui Mushegian as CIO
+        </h2><p>  
+        Barracuda Networks today announced Siroui Mushegian as its new Chief Information Officer (CIO). </p><span>  Jun. 14, 2023</span><span>  Press Release</span></div> <div><h2>  
+          Barracuda honored by Comparably for Best Leadership Teams and Best CEO for Diversity
+        </h2><p>  
+        Winners were chosen based on 16 core metrics, including innovation, growth, and workplace experience.</p><span>  Jun. 13, 2023</span><span>  Press Release</span></div> <div><h2>  
+          Barracuda wins in the 2023 Cloud Security Awards
+        </h2><p>  
+        Awards recognize Barracuda CloudGen Firewall and Barracuda Email Protection as outstanding cloud security solutions. </p></div> <div><h2>  Featured webinars</h2><span>  Aug 23</span><span>  
+        10:00 AM (PST)
+      </span></div> <div><h2>  Get the most from Barracuda Email Protection for Microsoft 365</h2><p>  REGISTER FOR WEBINAR</p><span>  Aug 29</span><span>  
+        10:00 AM (PST)
+      </span></div> <div><h2>  State & Local Gov’t Ransomware Crisis: How to Fight Back—and How to Pay for It </h2><p>  REGISTER FOR WEBINAR</p><span>  Sep 7</span><span>  
+        10:00 AM (PST)
+      </span></div> <div><h2>  Leverage E-Rate funding to boost your cybersecurity</h2><p>  REGISTER FOR WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Beyond VPN: Securing your network with ZTNA</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  This Changes Everything: Ransomware in the Age of Artificial Intelligence</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Your Guide to meeting Cyber Insurance requirements</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Understanding SASE—and how to implement it quickly and easily</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Latest 2023 phishing trends: Insights from Barracuda and Forrester</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  The OWASP API Security Top 10 - What's changing and how this affects you</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  2023 Ransomware Insights report: A global perspective</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  How DMARC helps combat domain-spoofing phishing attacks</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  [Webinar] Stopping malicious bots from causing data breaches</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Securing everyone: Zero Trust 101</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Using AI to shut down sophisticated new phishing threats</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Protect your Microsoft 365 Environment with BCPi and Barracuda</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  {Webinar] 2023 Email Security Trends</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Protecting your data in Microsoft 365: It’s your responsibility</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  App-based ransomware attacks on the rise: Protecting AWS deployments</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Cybersecurity Predictions for 2023 and Beyond</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Simplify Zero Trust deployment with Barracuda and AWS</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Building a security-aware culture: Security Awareness Training in 2023</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  24 hours of Log4J within Barracuda's Security Operation Center (SOC)</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  How to stop malicious bots from causing malicious data breaches</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Protect your Microsoft 365 Environment and Applications with Barracuda and JensenIT</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  A look back at high-impact application vulnerabilities from 2022</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Industrial Security: How to level up in today’s IIoT Threat Landscape</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Extending Zero Trust to your Saas Applications</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Reducing Ransomware Risk: Waco  Texas CIO Shares Proven Strategies</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Hardening Microsoft 365 Against New Account Takeover Attacks</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Cyber Insurance: Why it pays to be prepared</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  The State of Ransomware: 2022 Threat Spotlight</h2><p>  WATCH WEBINAR</p><span>  ON-DEMAND</span></div> <div><h2>  Application Supply-Chain Threats: Advanced Strategies to Defeat Them</h2><p>  WATCH WEBINAR</p><span>  Aug 23</span><span>  
+        10:00 AM (PST)
+      </span></div> <div><h2>  Get the most from Barracuda Email Protection for Microsoft 365</h2><p>  REGISTER FOR WEBINAR</p><span>  Aug 29</span><span>  
+        10:00 AM (PST)
+      </span></div> <div><h2>  State & Local Gov’t Ransomware Crisis: How to Fight Back—and How to Pay for It </h2><p>  REGISTER FOR WEBINAR</p><span>  Sep 7</span><span>  
+        10:00 AM (PST)
+      </span></div> <div><h2>  Leverage E-Rate funding to boost your cybersecurity</h2><p>  REGISTER FOR WEBINAR</p></div> <div><h2>  Get a partner in security.</h2><p>  Backed by the best customer support in the business, Barracuda security solutions are highly-effective, easy to buy, and easy to use.</p><p>  Trusted by over 200,000 businesses worldwide.</p></div> <div><h3>  Quick links</h3></div> <div><h4>  Free trials</h4><p>  Get started</p></div> <div><h4>  Downloads</h4><p>  Virtual products</p></div> <div><h4>  24x7 support</h4><p>  Contact support</p><p>  © 2003 - 2023 Barracuda Networks, Inc.</p><p>  All rights reserved.</p><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><p>  © 2003 - 2023 Barracuda Networks, Inc. All rights reserved.</p><span>  Site Map</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul><span>  Our Websites</span><ul>  <li>
+
+</li><li>
+
+</li></ul><span>  Contact Us</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Facebook
+</li><li>Twitter
+</li><li>YouTube
+</li><li>LinkedIn
+</li><li>Instagram
+</li><li>Corporate Blog
+</li></ul></div> <div><p>  $hl</p></div> <div><h2>  How Barracuda Uses Cookies</h2></div> <div><h3>  Your Privacy</h3></div> <div><h3>  Your Privacy</h3><p>  Barracuda Sites may request cookies to be set on your device. We use cookies to let us know when you visit our Barracuda Sites, to understand how you interact with us, to enrich and personalize your user experience, to enable social media functionality and to customize your relationship with Barracuda, including providing you with more relevant advertising. Note that blocking some types of cookies may impact your experience on our Barracuda Sites and the services we are able to offer.</p></div> <div><ul>  <li>Strictly Necessary Cookies</li></ul></div> <div><h3>  Strictly Necessary Cookies</h3><ul>  <li>Strictly Necessary Cookies</li></ul><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p><ul>  <li>Performance Cookies</li></ul></div> <div><h3>  Performance Cookies</h3><ul>  <li>Performance Cookies</li></ul><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p><ul>  <li>Functional Cookies</li></ul></div> <div><h3>  Functional Cookies</h3><ul>  <li>Functional Cookies</li></ul><p>  These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p><ul>  <li>Targeting Cookies</li></ul></div> <div><h3>  Targeting Cookies</h3><ul>  <li>Targeting Cookies</li></ul><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not directly identify you, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p><ul>  <li>Analytics Cookies</li></ul></div> <div><h3>  Analytics Cookies</h3><ul>  <li>Analytics Cookies</li></ul><p>  These cookies help Barracuda to understand how visitors to our pages engage within their session. Analytics Cookies assist in generating reporting site usage statistics which do not personally identify individual users.</p></div> <div><h3>  Advertising Cookies</h3><span>  Consent</span><span>  Leg.Interest</span><label>  Select All Vendors</label><label>  Select All Vendors</label><label>  Select All Hosts</label><p>  Select All</p><ul>  <li>REPLACE-WITH-DYANMIC-HOST-ID</li></ul></div> <div><h3>  33Across</h3><ul>  <li>REPLACE-WITH-DYANMIC-VENDOR-ID</li></ul></div> <div><h3>  33Across</h3><p>  3 Purposes<a href="#" target="_blank"> View Privacy Notice </a></p></div> <div><h3>  33Across</h3><p>  3 Purposes<a href="#" target="_blank"> View Privacy Notice </a></p><ul>  <li>REPLACE-WITH-DYANMIC-VENDOR-ID</li></ul><p>  Consent Purposes</p><p>  Location Based Ads</p><p>  Consent Allowed</p><p>  Legitimate Interest Purposes</p><p>  Personalize</p><span>  Require Opt-Out</span><p>  Special Purposes</p><p>  Location Based Ads</p><p>  Features</p><p>  Location Based Ads</p><p>  Special Features</p><p>  Location Based Ads</p><p>  Clear Filters</p><label>  Information storage and access</label></div> <p><p>  To enhance your experience, this site uses cookies. Continued use of the site constitutes your consent.<a href="https://www.barracuda.com/company/legal/trust-center/data-privacy/privacy-policy" target="_blank"> Privacy Statement </a></p></p>

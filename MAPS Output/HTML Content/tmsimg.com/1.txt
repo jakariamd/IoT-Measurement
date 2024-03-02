@@ -1,0 +1,89 @@
+<div><span>  Skip to main content</span><span>  Enable accessibility for visually impaired</span><span>  Open the accessibility menu</span><span>  Open the Accessible Navigation Menu</span><p>  Media is more complex than ever. Discover the future of cross-media measurement with Nielsen ONE.</p></div> <div><h4>  <strong> Type </strong></h4></div> <div><h4>  <strong> Topic </strong></h4><p>  Explore what consumers are watching, playing and listening to around the world.</p><p>  Solutions</p><p>  Insights</p><p>  About</p><label>  Search</label><p>  Client Login</p></div> <div><h1>  Global Video Data</h1><p>  Overview</p></div> <div><h2>  Powering TV & video guide, search and discovery experiences</h2><p>  Today, we are experiencing an explosion of video content with more playback mediums than ever before. As the number of ways to enjoy TV shows, movies, live sports and news programs around the world continues to increase, it is more important than ever to promote TV and video content in engaging and informative ways to viewers. Access to local TV schedules and descriptive data for movies and shows on a global scale is critical for today’s entertainment providers to power their platforms and expand their international footprints.</p></div> <p><p>  Gracenote Global Video Data is the definitive collection of aggregated, normalized international video data, imagery and IDs. That’s why top entertainment brands and platforms around the world rely on Gracenote to power their guide, search and discovery experiences, empowering audiences to find and enjoy their favorite shows.</p></p> <p><p>  Gracenote Global Video Data includes aggregate, normalized information and imagery for millions of programs across linear and streaming around the globe. Gracenote’s editorial teams adhere to rigorous guidelines to ensure the highest standards in data quality and reliability worldwide. A standard data format and Gracenote IDs (TMS) enable connections between TV schedule and on-demand content, turbo-charging content search and discovery experiences for viewers.</p></p> <div><p>  Features</p></div> <div><h2>  Empower viewers to find content they love</h2></div> <div><h4>  <strong> In-depth data </strong></h4><p>  Power interfaces and discovery engines with aggregated global  <a href="https://www.nielsen.com/solutions/content-metadata/tv-listings/" target="_blank"> TV Listings </a> and editorially-crafted TV and Movie Data-  program details for shows and movies, including series, seasons and episode-level details.</p></div> <div><h4>  <strong> Unique IDs </strong></h4><p>  Link content catalogs and TV listings with <a href="https://www.nielsen.com/insights/2022/how-to-get-your-content-discovered/" target="_blank"> Gracenote IDs </a> (TMS), making DVR recordings and universal searches easier.</p></div> <div><h4>  <strong> Rich imagery </strong></h4><p>  Help viewers instantly recognize old favorites and find new programs with <a href="https://www.nielsen.com/solutions/content-metadata/personalized-imagery/" target="_blank"> stunning images </a> for TV shows, movies, celebrities and channels.</p></div> <div><h4>  <strong> Global coverage </strong></h4><p>  The leading trusted source for standardized worldwide TV listings and video metadata, Gracenote’s Global Video Data coverage spans 85 countries and 35 languages.</p><p>  Use cases</p></div> <div><h2>  Create informative and visually rich  TV & video guide and discovery experiences for audiences</h2></div> <div><h4>  <strong> TV & video platforms </strong></h4><p>  Create informationally rich and visually stunning TV and video guides and interfaces and power search, discovery and recommendations for viewers around the world.</p><p>  • Develop EPGs and video guides to drive viewer tune-in to programming.• Enable viewers to more easily search for their favorite shows across streaming and linear sources, as well as browse and discover new content to enjoy.• Engage audiences with content, keeping them on your platform and reducing subscriber churn.• Expand your platform to new markets, leveraging a unified, normalized video data set with robust local coverage.• Leverage a foundational Gracenote video data set, facilitating ease of integrating additional Gracenote entertainment data sets to further enrich search and discovery.</p></div> <div><h4>  <strong> Automakers </strong></h4><p>  Give passengers the ability to search for, discover, and enjoy TV, movies, and other video content while in the car.</p><p>  • Integrate TV show and movie information into front and rear-seat entertainment systems.• Help passengers easily find the specific TV shows and movies they want to watch, with descriptive program details and rich imagery.• Curate carousels based on trip, charging times, or who is in the car.</p></div> <div><h4>  <strong> Broadcasters </strong></h4><p>  Allow drivers and passengers to discover and enjoy your station’s programming.</p><p>  <strong> Answers critical questions like: </strong></p><p>  • How do I keep listeners connected to my station when they are out of my broadcast reach?• Can categories help new listeners find my station?• How can radio compete with other streaming audio services in the car today?• How can I increase my impressions, time listening and advertising revenue?</p></div> <div><h4>  <strong> Broadcasters </strong></h4><p>  Allow drivers and passengers to discover and enjoy your station’s programming.</p><p>  <strong> Answers critical questions like: </strong></p><p>  • How do I keep listeners connected to my station when they are out of my broadcast reach?• Can categories help new listeners find my station?• How can radio compete with other streaming audio services in the car today?• How can I increase my impressions, time listening and advertising revenue?</p><p>  Coverage</p></div> <div><h2>  Unparalleled coverage for all of your content metadata needs</h2><p>  Gracenote provides global and local content solutions in key regions across the Americas, Asia-Pacific, Europe, the Middle East and Africa.</p><p>  Gracenote Global Video Data coverage spans 85+ countries/territories globally in 35+ applicable languages.</p></div> <div><h4>  Our products can help you and your business</h4><p>  Enhance viewer engagement with TV show and movie video data sets powering the next generation of guides, recommendation… <a href="https://www.nielsen.com/solutions/content-metadata/advanced-discovery/" target="_blank"> Read more </a></p><span>  : Advanced Discovery Suite
+</span><p>  Deliver in-depth sports data, including schedules, scores, statistics and team and player information for the world’s… <a href="https://www.nielsen.com/solutions/content-metadata/global-sports-data/" target="_blank"> Read more </a></p></div> <div><span>  : Global Sports Data
+</span><p>  Give entertainment providers the power to let audiences seamlessly discover and access the programs they love –… <a href="https://www.nielsen.com/solutions/content-metadata/streaming-video-suite/" target="_blank"> Read more </a></p><span>  : Streaming Video Suite
+</span><p>  Let’s discuss your business needs</p></div> <div><h2>  Empty heading</h2></div> <div><h2>  Contact us</h2><label>  
+						postid  
+						
+			</label><label>  
+						How can we help? </label><span>  *
+</span><label>  
+						First name </label><span>  *
+</span><label>  
+						Last name </label><span>  *
+</span><label>  
+						Business email address </label><span>  *
+</span><label>  
+						Job title </label><span>  *
+</span><label>  
+						Company </label><span>  *
+</span><label>  
+						Location </label><span>  *
+</span><label>  
+						Industry </label><span>  *
+</span><label>  
+						Comments:  
+						
+			</label></div> <div><span>  
+					Newsletter Opt-in  
+					
+			</span><ul>  <li>
+
+</li></ul><label>  Yes! Sign me up for insights and news that count in Nielsen's weekly newsletter.
+</label><span>  
+					Marketing communications opt-in  
+					
+			</span><ul>  <li>
+
+</li></ul><label>  Sign me up! I want to stay ahead of media's evolution with emails on the latest trends and insights, Nielsen/Gracenote content, products, events, and more!
+</label><label>  
+						newsletter  
+						
+			</label><p>  By clicking or tapping the button and sharing your contact information with us, you acknowledge that you have read our <a href="https://www.nielsen.com/global/en/legal/privacy-statement/" target="_blank"> Privacy Statement </a> and that you consent to receiving communications about Nielsen's business, products/services, and events that may be of interest to you. However, if you ever change your mind, you can unsubscribe from our communications by following the instructions within the email that you receive from us.</p></div> <label><label>  
+		If you are a human seeing this field, please leave it empty.
+		
+</label></label> <div><h2>  Stay in the </h2><span>  loop</span><p>  Keep up-to-date with our weekly newsletter, Media Pulse.</p><label>  
+						email </label><span>  *
+</span><p>  By clicking on 'Subscribe', I agree to Nielsen's <a href="https://www.nielsen.com/legal/privacy-principles/" target="_blank"> Privacy Notice </a> and <a href="https://www.nielsen.com/us/en/legal/terms-of-use/" target="_blank"> Terms of Use </a>.</p><span>    </span><label>  
+		If you are a human seeing this field, please leave it empty.
+		
+</label></div> <p><p>  Copyright © 2023 The Nielsen Company (US), LLC. All Rights Reserved.</p></p> <p><p>  <a href="https://beian.miit.gov.cn/" target="_blank"> 粤ICP备17078252号 </a> | <a href="https://beian.miit.gov.cn/" target="_blank"> 粤公网安备44010402001179号 </a> | 上海尼尔森市场研究有限公司广州分公司</p></p> <div><p>  Contact us</p></div> <div><h3>  Find the right solution for your business</h3><p>  In an ever-changing world, we’re here to help you stay ahead of what’s to come with the tools to measure, connect with, and engage your audiences.</p></div> <div><h5>  How can we help?</h5><label>  
+						postid  
+						
+			</label><label>  
+						How can we help? </label><span>  *
+</span><label>  
+						First name </label><span>  *
+</span><label>  
+						Last name </label><span>  *
+</span><label>  
+						Business email address </label><span>  *
+</span><label>  
+						Job title </label><span>  *
+</span><label>  
+						Company </label><span>  *
+</span><label>  
+						Location </label><span>  *
+</span><label>  
+						Industry </label><span>  *
+</span><label>  
+						Comments:  
+						
+			</label></div> <div><span>  
+					Newsletter Opt-in  
+					
+			</span><ul>  <li>
+
+</li></ul><label>  Yes! Sign me up for insights and news that count in Nielsen's weekly newsletter.
+</label><span>  
+					Marketing communications opt-in  
+					
+			</span><ul>  <li>
+
+</li></ul><label>  Sign me up! I want to stay ahead of media's evolution with emails on the latest trends and insights, Nielsen/Gracenote content, products, events, and more!
+</label><label>  
+						newsletter  
+						
+			</label><p>  By clicking or tapping the button and sharing your contact information with us, you acknowledge that you have read our <a href="https://www.nielsen.com/global/en/legal/privacy-statement/" target="_blank"> Privacy Statement </a> and that you consent to receiving communications about Nielsen's business, products/services, and events that may be of interest to you. However, if you ever change your mind, you can unsubscribe from our communications by following the instructions within the email that you receive from us.</p></div> <label><label>  
+		If you are a human seeing this field, please leave it empty.
+		
+</label></label> <div><h3>  Cookie Settings</h3></div> <div><h3>   Manage Consent Preferences</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div> <div><h4>  Performance Cookies</h4><label>  Performance Cookies</label><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div> <div><h4>  Functional Cookies</h4><label>  Functional Cookies</label><p>  These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages.    If you do not allow these cookies then some or all of these services may not function properly.</p></div> <div><h4>  Personalized Advertising Cookies</h4><label>  Personalized Advertising Cookies</label><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div> <div><h4>  Social Media Cookies</h4><label>  Social Media Cookies</label><p>  These cookies are set by a range of social media services that we have added to the site to enable you to share our content with your friends and networks. They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit.    If you do not allow these cookies you may not be able to use or see these sharing tools.</p></div> <div><h3>  Performance Cookies</h3><label>  Vendor Search</label><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><ul>  <li>33Across</li></ul></div> <div><h4>  host description</h4></div> <div><h4>  View Cookies</h4><ul>  <li>33Across<a href="#" target="_blank"> View Privacy Notice </a></li></ul><span>  </span></div>

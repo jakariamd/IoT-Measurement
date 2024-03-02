@@ -1,0 +1,386 @@
+<div><ul>  <li>
+
+</li><li>Explore</li></ul></div> <div><h2>  Explore Azure</h2><p>  Discover secure, future-ready cloud solutions—on-premises, hybrid, multicloud, or at the edge
+</p><p>  Learn about sustainable, trusted cloud infrastructure with more regions than any other provider
+</p><p>  Build your business case for the cloud with key financial and technical guidance from Azure
+</p><p>  Plan a clear path forward for your cloud journey with proven tools, guidance, and resources
+</p><p>  See examples of innovation from successful companies of all sizes and from all industries
+
+</p></div> <ul><ul>  <li>
+
+</li><li>Results will display instantly<a href="https://azure.microsoft.com/en-us/products/" target="_blank"> 
+        View all products (200+)
+     </a></li><li>Products</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Popular</li></ul></ul> <div><h2>  Popular</h2><p>  Explore some of the most popular Azure products</p><p>  Provision Windows and Linux VMs in seconds
+</p><p>  Enable a secure, remote desktop experience from anywhere
+</p><p>  Migrate, modernize, and innovate on the modern SQL family of cloud databases
+</p><p>  Build or modernize scalable, high-performance apps
+</p><p>  Deploy and scale containers on managed Kubernetes
+</p><p>  Add cognitive capabilities to apps with APIs and AI services
+</p><p>  Quickly create powerful cloud apps for web and mobile
+</p></div> <div><p>  Everything you need to build and operate a live game on one platform
+</p><p>  Execute event-driven serverless code functions with an end-to-end development experience
+</p><p>  Jump in and explore a diverse selection of today's quantum hardware, software, and solutions
+</p><p>  Secure, develop, and operate infrastructure, apps, and Azure services anywhere
+</p><p>  Remove data silos and deliver business insights from massive datasets
+</p><ul>  <li>AI + machine learning</li></ul></div> <div><h2>  AI + machine learning</h2><p>  Create the next generation of applications using artificial intelligence capabilities for any developer and any scenario</p><p>  Add cognitive capabilities to apps with APIs and AI services
+</p><p>  Accelerate information extraction from documents
+</p><p>  Build, train, and deploy models from the cloud to the edge
+</p><p>  Enterprise scale search for app development
+</p><p>  Create bots and connect them across channels
+</p><p>  Design AI with Apache Spark™-based analytics 
+</p></div> <div><p>  Build for mixed reality using AI sensors
+</p><p>  Apply advanced coding and language models to a variety of use cases
+</p><ul>  <li>Analytics</li></ul></div> <div><h2>  Analytics</h2><p>  Gather, store, process, analyze, and visualize data of any variety, volume, or velocity</p><p>  Limitless analytics with unmatched time to insight
+</p><p>  Design AI with Apache Spark™-based analytics 
+</p><p>  Govern, protect, and manage your data estate
+</p><p>  Hybrid data integration at enterprise scale, made easy
+</p><p>  Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters
+</p><p>  Real-time analytics on fast-moving streaming data
+</p><p>  Build, train, and deploy models from the cloud to the edge
+</p></div> <div><p>  Enterprise-grade analytics engine as a service
+</p><p>  Scalable, secure data lake for high-performance analytics
+</p><p>  Fast and highly scalable data exploration service
+</p><ul>  <li>Compute</li></ul></div> <div><h2>  Compute</h2><p>  Access cloud compute capacity and scale on demand—and only pay for the resources you use</p><p>  Provision Windows and Linux VMs in seconds
+</p><p>  Manage and scale up to thousands of Linux and Windows VMs
+</p><p>  Deploy and scale containers on managed Kubernetes
+</p><p>  Build and deploy Spring Boot applications with a fully managed service from Microsoft and VMware
+</p><p>  Quickly create powerful cloud apps for web and mobile
+</p><p>  Execute event-driven serverless code functions with an end-to-end development experience
+</p></div> <div><p>  A dedicated physical server to host your Azure VMs for Windows and Linux
+</p><p>  Cloud-scale job scheduling and compute management
+</p><p>  Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO)
+</p><p>  Provision unused compute capacity at deep discounts to run interruptible workloads
+</p><p>  Build and deploy modern apps and microservices using serverless containers
+</p><ul>  <li>Containers</li></ul></div> <div><h2>  Containers</h2><p>  Develop and manage your containerized applications faster with integrated tools</p><p>  Deploy and scale containers on managed Kubernetes
+</p><p>  Deploy and scale containers on managed Red Hat OpenShift
+</p><p>  Build and deploy modern apps and microservices using serverless containers
+</p><p>  Execute event-driven serverless code functions with an end-to-end development experience
+</p><p>  Run containerized web apps on Windows and Linux
+</p><p>  Launch containers with hypervisor isolation
+</p></div> <p><p>  Deploy and operate always-on, scalable, distributed apps
+</p></p> <p><p>  Build, store, secure, and replicate container images and artifacts
+</p></p> <div><p>  Seamlessly manage Kubernetes clusters at scale
+</p><p>  Azure Kubernetes Service Edge Essentials is an on-premises Kubernetes implementation of Azure Kubernetes Service (AKS) that automates running containerized applications at scale.
+</p><ul>  <li>Databases</li></ul></div> <div><h2>  Databases</h2><p>  Support rapid growth and innovate faster with secure, enterprise-grade, and fully managed database services</p><p>  Migrate, modernize, and innovate on the modern SQL family of cloud databases
+</p><p>  Build or modernize scalable, high-performance apps
+</p><p>  Build apps that scale with managed and intelligent SQL database in the cloud
+</p><p>  Fully managed, intelligent, and scalable PostgreSQL
+</p><p>  Modernize SQL Server applications with a managed, always-up-to-date SQL instance in the cloud
+</p></div> <p><p>  Fully managed, scalable MySQL Database
+</p></p> <div><p>  Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO)
+</p><p>  Accelerate apps with high-throughput, low-latency data caching
+</p><p>  Accelerate your data migration to Azure
+</p><p>  Modernize Cassandra data clusters with a managed instance in the cloud
+</p><p>  Deploy applications to the cloud with enterprise-ready, fully managed community MariaDB
+</p><ul>  <li>DevOps</li></ul></div> <div><h2>  DevOps</h2><p>  Deliver innovation faster with simple, reliable tools for continuous delivery</p><p>  Services for teams to share code, track work, and ship software
+</p><p>  Continuously build, test, and deploy to any platform and cloud
+</p><p>  Plan, track, and discuss work across your teams
+</p><p>  Get unlimited, cloud-hosted private Git repos for your project
+</p><p>  Create, host, and share packages with your team
+</p><p>  Test and ship confidently with an exploratory test toolkit
+</p></div> <div><p>  Quickly create environments using reusable templates and artifacts
+</p><p>  Use your favorite DevOps tools with Azure
+</p><p>  Full observability into your applications, infrastructure, and network
+</p><p>  Optimize app performance with high-scale load testing
+</p><p>  Streamline development with secure, ready-to-code workstations in the cloud
+</p><ul>  <li>Developer tools</li></ul></div> <div><h2>  Developer tools</h2><p>  Build, manage, and continuously deliver cloud applications—using any platform or language</p><p>  Powerful and flexible environment to develop apps in the cloud
+</p><p>  A powerful, lightweight code editor for cloud development
+</p><p>  World’s leading developer platform, seamlessly integrated with Azure
+</p><p>  Comprehensive set of resources to create, deploy, and manage apps
+</p><p>  A powerful, low-code platform for building apps quickly
+</p><p>  Get the SDKs and command-line tools you need
+</p></div> <p><p>  Build, test, release, and monitor your mobile and desktop apps
+</p></p> <p><p>  Full observability into your applications, infrastructure, and network
+</p></p> <div><p>  Optimize app performance with high-scale load testing
+</p><p>  Streamline development with secure, ready-to-code workstations in the cloud
+</p><p>  Quickly spin up app infrastructure environments with project-based templates
+</p><ul>  <li>Hybrid + multicloud</li></ul></div> <div><h2>  Hybrid + multicloud</h2><p>  Get Azure innovation everywhere—bring the agility and innovation of cloud computing to your on-premises workloads</p><p>  Secure, develop, and operate infrastructure, apps, and Azure services anywhere
+</p><p>  Cloud-native SIEM and intelligent security analytics
+</p><p>  Build and run innovative hybrid apps across cloud boundaries
+</p><p>  Experience a fast, reliable, and private connection to Azure
+</p><p>  Synchronize on-premises directories and enable single sign-on
+</p></div> <p><p>  Migrate, modernize, and innovate on the modern SQL family of cloud databases
+</p></p> <p><p>  Services for teams to share code, track work, and ship software
+</p></p> <p><p>  Fully managed, intelligent, and scalable PostgreSQL
+</p></p> <div><p>  Extend cloud intelligence and analytics to edge devices
+</p><ul>  <li>Identity</li></ul></div> <div><h2>  Identity</h2><p>  Manage user identities and access to protect against advanced threats across devices, data, apps, and infrastructure</p><p>  Synchronize on-premises directories and enable single sign-on
+</p><p>  Consumer identity and access management in the cloud
+</p><p>  Manage your domain controllers in the cloud
+</p><ul>  <li>Integration</li></ul></div> <div><h2>  Integration</h2><p>  Seamlessly integrate on-premises and cloud-based applications, data, and processes across your enterprise</p><p>  Automate the access and use of data across clouds
+</p><p>  Connect across private and public cloud environments
+</p><p>  Publish APIs to developers, partners, and employees securely and at scale
+</p><p>  Reliable event delivery at massive scale
+</p><p>  Reduce time, risk, and cost of energy exploration and production
+</p><p>  Azure Data Manager for Agriculture extends the Microsoft Intelligent Data Platform with industry-specific data connectors and capabilities to bring together farm data from disparate sources, enabling organizations to leverage high quality datasets and accelerate the development of digital agriculture solutions
+</p></div> <div><ul>  <li>Internet of Things</li></ul></div> <div><h2>  Internet of Things</h2><p>  Connect assets or environments, discover insights, and drive informed actions to transform your business</p><p>  Connect, monitor, and manage billions of IoT assets
+</p><p>  Use IoT spatial intelligence to create models of physical environments
+</p><p>  Extend cloud intelligence and analytics to edge devices
+</p><p>  Go from proof of concept to proof of value
+</p><p>  Create, connect, and maintain secured intelligent IoT devices from the edge to the cloud
+</p><p>  Build intelligent edge solutions with world-class developer tools, long-term support, and enterprise-grade security.
+</p></div> <div><p>  Making embedded IoT development and connectivity easy
+</p><p>  Use an enterprise-grade service for the end-to-end machine learning lifecycle
+</p><p>  Add location data and mapping visuals to business applications and solutions
+</p><ul>  <li>Management and governance</li></ul></div> <div><h2>  Management and governance</h2><p>  Simplify, automate, and optimize the management and compliance of your cloud resources</p><p>  Build, manage, and monitor all Azure products in a single, unified console
+</p><p>  Govern, protect, and manage your data estate
+</p><p>  Stay connected to your Azure resources—anytime, anywhere
+</p><p>  Streamline Azure administration with a browser-based shell
+</p><p>  Your personalized Azure best practices recommendation engine
+</p><p>  Simplify data protection with built-in backup management at scale
+</p></div> <p><p>  Monitor, allocate, and optimize cloud costs with transparency, accuracy, and efficiency
+</p></p> <div><p>  Implement corporate governance and standards at scale
+</p><p>  Keep your business running with built-in disaster recovery service
+</p><p>  Improve application resilience by introducing faults and simulating outages
+</p><p>  Full observability into your applications, infrastructure, and network
+</p><p>  Deploy Grafana dashboards as a fully managed Azure service
+</p><ul>  <li>Media</li></ul></div> <div><h2>  Media</h2><p>  Deliver high-quality video content anywhere, any time, and on any device</p><p>  Encode, store, and stream video and audio at scale
+</p><p>  Studio grade encoding at cloud scale
+</p><p>  A single player for all your playback needs
+</p><p>  Deliver content to virtually all devices with ability to scale
+</p><p>  Securely deliver content using AES, PlayReady, Widevine, and Fairplay
+</p><p>  Fast, reliable content delivery network with global reach
+</p><ul>  <li>Migration</li></ul></div> <div><h2>  Migration</h2><p>  Simplify and accelerate your migration to the cloud with guidance, tools, and resources</p><p>  Simplify migration and modernization with a unified platform
+</p><p>  Keep your business running with built-in disaster recovery service
+</p><p>  Accelerate your data migration to Azure
+</p><p>  Appliances and solutions for data transfer to Azure and edge compute
+</p><p>  Monitor, allocate, and optimize cloud costs with transparency, accuracy, and efficiency
+</p><ul>  <li>Mixed reality</li></ul></div> <div><h2>  Mixed reality</h2><p>  Blend your physical and digital worlds to create immersive, collaborative experiences</p><p>  Create multi-user, spatially aware mixed reality experiences
+</p><p>  Render high-quality, interactive 3D content with real-time streaming
+</p><p>  Use IoT spatial intelligence to create models of physical environments
+</p><p>  Build for mixed reality using AI sensors
+</p><p>  Automatically align and anchor 3D content to objects in the physical world
+</p><ul>  <li>Mobile</li></ul></div> <div><h2>  Mobile</h2><p>  Build and deploy cross-platform and native apps for any mobile device</p><p>  Send push notifications to any platform from any back end
+</p><p>  Build, test, release, and monitor your mobile and desktop apps
+</p><p>  Create cloud-powered mobile apps faster
+</p><p>  Add location data and mapping visuals to business applications and solutions
+</p><p>  Publish APIs to developers, partners, and employees securely and at scale
+</p><p>  Enterprise scale search for app development
+</p></div> <div><p>  Add cognitive capabilities to apps with APIs and AI services
+</p><p>  Create multi-user, spatially aware mixed reality experiences
+</p><p>  Quickly create powerful cloud apps for web and mobile
+</p><p>  Build multichannel communication experiences
+</p><ul>  <li>Networking</li></ul></div> <div><h2>  Networking</h2><p>  Connect cloud and on-premises infrastructure and services to provide your customers and users the best possible experience</p><p>  Create your own private network infrastructure in the cloud
+</p><p>  Deliver high availability and network performance to your apps
+</p><p>  Build secure, scalable, highly available web front ends in Azure
+</p><p>  Establish secure, cross-premises connectivity
+</p><p>  Host your Domain Name System (DNS) domain in Azure
+</p><p>  Fast, reliable content delivery network with global reach
+</p></div> <div><p>  Protect your Azure resources from distributed denial-of-service (DDoS) attacks
+</p><p>  Rapidly ingest data from space into the cloud with a satellite ground station service
+</p><p>  Experience a fast, reliable, and private connection to Azure
+</p><p>  Extend Azure management for deploying 5G and SD-WAN network functions on edge devices
+</p><p>  Centrally manage virtual networks in Azure from a single pane of glass
+</p><p>  Private access to services hosted on the Azure platform, keeping your data on the Microsoft network
+</p></div> <div><ul>  <li>Security</li></ul></div> <div><h2>  Security</h2><p>  Protect your enterprise from advanced threats across hybrid cloud workloads</p><p>  Cloud-native SIEM and intelligent security analytics
+</p><p>  Build secure, scalable, highly available web front ends in Azure
+</p><p>  Safeguard and maintain control of keys and other secrets
+</p><p>  Establish secure, cross-premises connectivity
+</p><p>  Protect your Azure resources from distributed denial-of-service (DDoS) attacks
+</p><p>  Fully managed service that helps secure remote access to your virtual machines
+</p></div> <div><p>  A cloud-native web application firewall (WAF) service that provides powerful protection for web apps
+</p><p>  Protect your Azure Virtual Network resources with cloud-native network security
+</p><p>  Central network security policy and route management for globally distributed, software-defined perimeters
+</p><ul>  <li>Storage</li></ul></div> <div><h2>  Storage</h2><p>  Get secure, massively scalable cloud storage for your data, apps, and workloads</p><p>  High-performance, highly durable block storage
+</p><p>  Scalable, secure data lake for high-performance analytics
+</p><p>  Simple, secure and serverless enterprise-grade cloud file shares
+</p><p>  Enterprise-grade Azure file shares, powered by NetApp
+</p><p>  Simplify data protection with built-in backup management at scale
+</p><p>  Massively scalable and secure object storage
+</p><p>  Appliances and solutions for data transfer to Azure and edge compute
+</p></div> <div><p>  Industry leading price point for storing rarely accessed data
+</p><p>  Elastic SAN is a cloud-native storage area network (SAN) service built on Azure. Gain access to an end-to-end experience like your on-premises SAN
+</p><p>  Manage persistent volumes for stateful container applications
+</p><p>  Azure Managed Lustre is a fully managed, cloud based parallel file system that enables customers to run their high performance computing (HPC) workloads in the cloud
+</p><ul>  <li>Web</li></ul></div> <div><h2>  Web</h2><p>  Build, deploy, and scale powerful web applications quickly and efficiently</p><p>  Quickly create and deploy mission-critical web apps at scale
+</p><p>  Publish APIs to developers, partners, and employees securely and at scale
+</p><p>  Fast, reliable content delivery network with global reach
+</p><p>  Enterprise scale search for app development
+</p><p>  Add real-time web functionalities easily
+</p><p>  Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern
+</p></div> <div><p>  Add location data and mapping visuals to business applications and solutions
+</p><p>  Streamlined full-stack development from source code to global high availability
+</p><p>  Build multichannel communication experiences
+</p><p>  Optimize app performance with high-scale load testing
+</p><p>  Easily add real-time collaborative experiences to your apps with Fluid Framework
+</p><p>  Build and deploy modern apps and microservices using serverless containers
+</p><ul>  <li>Virtual desktop infrastructure</li></ul></div> <div><h2>  Virtual desktop infrastructure</h2><p>  Empower employees to work securely from anywhere with a cloud-based virtual desktop infrastructure</p><p>  Enable a secure, remote desktop experience from anywhere
+</p><p>  Provision Windows desktops and apps with VMware and Azure Virtual Desktop
+</p><p>  Provision Windows desktops and apps on Azure with Citrix and Azure Virtual Desktop
+</p><p>  Set up virtual labs for classes, training, hackathons, and other related scenarios
+</p><p>  Streamline development with secure, ready-to-code workstations in the cloud
+
+</p></div> <div><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li><li>Use cases</li></ul></div> <div><h2>  Use cases</h2><ul>  <li>
+
+</li></ul><p>  Build, manage, and continuously deliver cloud apps—with any platform or language
+</p><ul>  <li>
+
+</li></ul><p>  Analyze images, comprehend speech, and make predictions using data
+</p><ul>  <li>
+
+</li></ul><p>  Simplify and accelerate your migration and modernization with guidance, tools, and resources
+</p><ul>  <li>
+
+</li></ul><p>  Gather, store, process, analyze, and visualize data of any variety, volume, or velocity
+</p><ul>  <li>
+
+</li></ul><p>  Bring the agility and innovation of the cloud to your on-premises workloads
+</p></div> <div><ul>  <li>
+
+</li></ul><p>  Connect, monitor, and control devices with secure, scalable, and open edge-to-cloud solutions
+</p><ul>  <li>
+
+</li></ul><p>  Help protect data, apps, and infrastructure with trusted security services
+</p><ul>  <li>Application development</li><li>Application development</li></ul><p>  Simplify and accelerate development and testing (dev/test) across any platform.
+</p><p>  Bring together people, processes, and products to continuously deliver value to customers and coworkers.
+</p></div> <p><p>  Build secure apps on a trusted platform. Embed security in your developer workflow and foster collaboration between developers, security practitioners, and IT operators.
+</p></p> <p><p>  Give customers what they want with a personalized, scalable, and secure shopping experience.
+</p></p> <p><p>  Turn your ideas into applications faster using the right tools for the job.
+</p></p> <p><p>  Create reliable apps and functionalities at scale and bring them to market faster.
+</p></p> <p><p>  Reach your customers everywhere, on any device, with a single mobile app build.
+</p></p> <p><p>  Respond to changes faster, optimize costs, and ship confidently.
+</p></p> <p><p>  Build apps faster by not having to manage infrastructure.
+</p></p> <p><p>  Connect modern applications with a comprehensive set of messaging services on Azure.
+</p></p> <p><p>  Accelerate time to market, deliver innovative experiences, and improve security with Azure application and data modernization.
+</p></p> <div><p>  Use business insights and intelligence from Azure to build software as a service (SaaS) apps
+</p><p>  Move to a SaaS model faster with a kit of prebuilt code, templates, and modular resources.
+</p><p>  Explore services to help you develop and run Web3 applications.
+</p><ul>  <li>AI</li><li>AI</li></ul><p>  Build mission-critical solutions to analyze images, comprehend speech, and make predictions using data.
+</p><p>  Uncover latent insights from across all of your business data with AI.
+</p></div> <p><p>  Protect your data and code while the data is in use in the cloud.
+</p></p> <p><p>  Build machine learning models faster with Hugging Face on Azure.
+</p></p> <div><ul>  <li>Cloud migration and modernization</li><li>Cloud migration and modernization</li></ul><p>  Save money and improve efficiency by migrating and modernizing your workloads to Azure with proven tools and guidance.
+</p><p>  Optimize costs, operate confidently, and ship features faster by migrating your ASP.NET web apps to Azure.
+</p><p>  Simplify and accelerate development and testing (dev/test) across any platform.
+</p><p>  Enhanced security and hybrid capabilities for your mission-critical Linux workloads.
+</p></div> <p><p>  Reduce infrastructure costs by moving your mainframe and midrange apps to Azure.
+</p></p> <p><p>  Extend SAP applications and innovate in the cloud trusted by SAP.
+</p></p> <p><p>  Move your SQL Server databases to Azure with few or no application code changes.
+</p></p> <p><p>  Migrate your Windows Server workloads to Azure for unparalleled innovation and security.
+</p></p> <p><p>  Protect your data and code while the data is in use in the cloud.
+</p></p> <p><p>  Accelerate time to market, deliver innovative experiences, and improve security with Azure application and data modernization.
+</p></p> <p><p>  Seamlessly integrate applications, systems, and data for your enterprise.
+</p></p> <p><p>  Run your Oracle database and enterprise applications on Azure.
+</p></p> <p><p>  Migrate MongoDB workloads to the cloud and modernize data infrastructure with MongoDB Atlas on Azure.
+</p></p> <div><ul>  <li>Data and analytics</li><li>Data and analytics</li></ul><p>  Drive faster, more efficient decision making by drawing deeper insights from your analytics.
+</p><p>  Accelerate time to insights with an end-to-end cloud analytics solution.
+</p><ul>  <li>Hybrid cloud and infrastructure</li><li>Hybrid cloud and infrastructure</li></ul><p>  Minimize disruption to your business with cost-effective backup and disaster recovery solutions.
+</p><p>  Get fully managed, single tenancy supercomputers with high-performance storage and no data movement.
+</p></div> <p><p>  Bring innovation anywhere to your hybrid environment across on-premises, multicloud, and the edge.
+</p></p> <p><p>  Deliver ultra-low-latency networking, applications and services at the enterprise edge.
+</p></p> <p><p>  Run your mission-critical applications on Azure for increased operational agility and security.
+</p></p> <p><p>  Experience quantum impact today with the world's first full-stack, quantum computing cloud ecosystem.
+</p></p> <p><p>  Deliver ultra-low-latency networking, applications, and services at the mobile operator edge.
+</p></p> <p><p>  Explore services to help you develop and run Web3 applications.
+</p></p> <p><p>  Bring Azure to the edge with seamless network integration and connectivity to deploy modern connected apps.
+</p></p> <p><p>  Migrate your Windows Server workloads to Azure for unparalleled innovation and security.
+</p></p> <div><ul>  <li>Internet of Things</li><li>Internet of Things</li></ul><p>  Connect devices, analyze data, and automate processes with secure, scalable, and open edge-to-cloud solutions.
+</p><p>  Build open, interoperable IoT solutions that secure and modernize industrial systems.
+</p><p>  Help safeguard physical work environments with scalable IoT solutions designed for rapid deployment.
+</p><p>  Strengthen your security posture with end-to-end security for your IoT solutions.
+</p><p>  Meet environmental sustainability goals and accelerate conservation projects with IoT technologies.
+</p></div> <div><ul>  <li>Security and governance</li><li>Security and governance</li></ul><p>  Ensure compliance using built-in cloud governance capabilities.
+</p><p>  Minimize disruption to your business with cost-effective backup and disaster recovery solutions.
+</p><p>  Protect your data and code while the data is in use in the cloud.
+</p><p>  Cloud-native network security for protecting your applications, network, and workloads.
+</p><p>  Explore services to help you develop and run Web3 applications.
+</p><ul>  <li>Industry solutions</li></ul></div> <div><h2>  Industry solutions</h2><p>  Modernize operations to speed response rates, boost efficiency, and reduce costs
+</p><p>  Transform customer experience, build trust, and optimize risk management
+</p><p>  Build, quickly launch, and reliably scale your games across platforms
+</p><p>  Implement remote government access, empower collaboration, and deliver secure services
+</p><p>  Boost patient engagement, empower provider collaboration, and improve operations
+</p><p>  Improve operational efficiencies, reduce costs, and generate new revenue opportunities
+</p></div> <p><p>  Create content nimbly, collaborate remotely, and deliver seamless customer experiences
+</p></p> <p><p>  Personalize customer experiences, empower your employees, and optimize supply chains
+</p></p> <div><ul>  <li>Organization type</li></ul></div> <div><h2>  Organization type</h2><p>  Get started easily, run lean, stay agile, and grow fast with Azure for startups
+</p><p>  Accelerate mission impact, increase innovation, and optimize efficiency—with world-class security
+</p><ul>  <li>Resources</li></ul></div> <div><h2>  Resources</h2><p>  Find reference architectures, example scenarios, and solutions for common workloads on Azure
+</p><p>  Do more with less—explore resources for increasing efficiency, reducing costs, and driving innovation
+</p><p>  Search from a rich catalog of more than 17,000 certified apps and services
+</p><p>  Plan a clear path forward for your cloud journey with proven tools, guidance, and resources
+
+</p><ul>  <li>
+
+</li><li>Pricing</li></ul></div> <div><h2>  How to buy</h2><p>  Get the best value at every stage of your cloud journey
+</p><p>  See which services offer free monthly amounts
+</p><p>  Only pay for what you use, plus get free services
+</p><p>  Find the options that work best for you
+</p><p>  Explore special offers, benefits, and incentives
+</p></div> <div><h2>  Pricing tools and resources</h2><p>  Estimate the costs for Azure products and services
+</p><p>  Estimate your total cost of ownership and cost savings
+</p><p>  Learn how to manage and optimize your cloud spend
+</p><p>  Understand the value and economics of moving to Azure
+
+</p><ul>  <li>
+
+</li><li>Partners</li></ul></div> <div><h2>  Find a partner</h2><p>  Find, try, and buy trusted apps and services
+</p><p>  Get up and running in the cloud with help from an experienced partner
+</p></div> <div><h2>  Become a partner</h2><p>  Find the latest content, news, and guidance to lead customers to the cloud
+</p><p>  Build, extend, and scale your apps on a trusted cloud platform
+</p><p>  Reach more customers—sell directly to over 4M users a month in the commercial marketplace
+
+</p><ul>  <li>
+
+</li><li>Resources</li></ul></div> <div><h2>  Learning</h2></div> <div><h2>  Technical resources</h2></div> <div><h2>  Community</h2></div> <div><h2>  What's new</h2></div> <div><h1>  Privacy data management</h1><p>  The Azure website (azure.microsoft.com) uses your provided information,  along with your browsing activity, to improve your experience and personalize the content. You can export and delete your information using the options below.</p></div> <div><h2>  Data associated with your Microsoft account</h2><p>  Export and delete the azure.microsoft.com data that’s associated with your Microsoft account. If you have questions or need help managing your information, visit the Service Trust portal.</p></div> <div><h2>  Third-party tools and services</h2><p>  Azure.microsoft.com might use third-party tools and services to help deliver and optimize your website experience. You can export and delete your data from these tools and services, using the links to the provider’s websites below.</p></div> <div><h3>  LivePerson</h3><p>  Chat with an Azure representative to ask questions and get help.</p></div> <div><h2>  Additional Navigation</h2><span>  Get the Azure mobile app</span><ul>  <li>
+
+</li><li>
+
+</li><li>
+
+</li><li>
+
+</li></ul></div> <div><h3>  Explore Azure</h3></div> <div><h3>  Products and pricing</h3></div> <div><h3>  Solutions and support</h3></div> <div><h3>  Partners</h3></div> <div><h3>  Resources</h3></div> <div><h3>  Cloud computing</h3><label>  Change language</label><span>  Your Privacy Choices</span><ul>  <li>Privacy & Cookies</li><li>
+
+</li><li>© Microsoft 2023
+</li></ul></div>

@@ -1,0 +1,83 @@
+<div><h2>  Cookie Policy</h2><p>  Mapbox uses cookies to improve the website experience for visitors and to improve communication. “Cookies” are small pieces of text information that a website stores on a computer/device for future use. A cookie will typically contain the name of the domain the cookie comes from, the “lifetime” of the cookie, and a randomly generated unique number or other value. Cookies can be deleted from a computer/device at any time and browser settings can be changed to not allow cookies at all. Please note that where login is required on the Mapbox website(s), cookies are required so that Mapbox knows whether an individual is logged in or not. </p></div> <div><h2>  Types of Cookies</h2></div> <div><h3>  Cookie List</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div> <td><td>  .www.mapbox.com</td></td> <div><td>  First Party
+</td><td>  go.mapbox.com</td><td>  First Party
+</td><td>  __cf_bm, BIGipServerab22web-nginx-app_https
+</td><td>  Third Party
+</td></div> <div><h4>  Performance Cookies</h4><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p><td>  mapbox.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/_ga" target="_blank"> 
+                        _ga
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gid" target="_blank"> 
+                        _gid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_mkto_trk" target="_blank"> 
+                        _mkto_trk
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/mkjs%3Acookies" target="_blank"> 
+                        mkjs%3Acookies
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/mkjs%3Atest" target="_blank"> 
+                        mkjs%3Atest
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/mkjs_group_id" target="_blank"> 
+                        mkjs_group_id
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/mkjs_user_id" target="_blank"> 
+                        mkjs_user_id
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  rack.session
+</td><td>  Third Party
+</td><td>  _gh_sess
+</td><td>  Third Party
+</td></div> <div><h4>  Functional Cookies</h4><p>  These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p><td>  mapbox.com</td><td>  First Party
+</td><td>  www.mapbox.com</td><td>  First Party
+</td><td>  _octo, logged_in
+</td><td>  Third Party
+</td><td>  __cf_bm, player, vuid
+</td><td>  Third Party
+</td></div> <div><h4>  Targeting Cookies</h4><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p><td>  www.mapbox.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/drift_aid" target="_blank"> 
+                        drift_aid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/drift_campaign_refresh" target="_blank"> 
+                        drift_campaign_refresh
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/driftt_aid" target="_blank"> 
+                        driftt_aid
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  mapbox.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/_fbp" target="_blank"> 
+                        _fbp
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx" target="_blank"> 
+                        _gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_uetsid" target="_blank"> 
+                        _uetsid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_uetvid" target="_blank"> 
+                        _uetvid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/ajs_user_id" target="_blank"> 
+                        ajs_user_id
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  AnalyticsSyncHistory, bcookie, lang, li_gc, li_sugr, lidc, UserMatchHistory
+</td><td>  Third Party
+</td><td>  drift_aid, drift_campaign_refresh, driftt_aid
+</td><td>  Third Party
+</td><td>  personalization_id
+</td><td>  Third Party
+</td><td>  lang
+</td><td>  Third Party
+</td><td>  api_token, experiment_overrides, referrer_url, server_session_id, twitch.lohp.countryCode, unique_id, unique_id_durable
+</td><td>  Third Party
+</td><td>  MUID
+</td><td>  Third Party
+</td><td>  CONSENT, VISITOR_INFO1_LIVE, YSC
+</td></div> <div><td>  Third Party
+</td><td>  bscookie
+</td><td>  Third Party
+</td><td>  Third Party
+</td></div> <div><h2>  Privacy & Security FAQ</h2><p>  Last Updated:  December 2022</p></div> <div><h4>  1. Is Mapbox a Software-as-a-Service (SaaS) company?</h4><p>  <strong> No. </strong> Mapbox is an API and SDK platform company. Mapbox customer end user applications send structured requests to Mapbox and then receive (from Mapbox) the requested information (e.g., a specific map tile or route from A to B).</p></div> <div><h4>  2. Is Mapbox a hosting company?</h4><p>  <strong> No. </strong> However, some customers do choose to upload map data to Mapbox for distribution to their end users. Customers may elect to use Mapbox Upload APIs (currently, Uploads, Tilesets and Datasets), although customers may also technically restrict their developers from using the Upload APIs through token scoping.</p></div> <div><h4>  3. Is Mapbox a Data Controller or a Data Processor?</h4><p>  <strong> Data Processor.  </strong>Mapbox’s Data Processing Addendum (“<a href="https://www.mapbox.com/legal/dpa" target="_blank"> DPA </a>”) is incorporated into any applicable agreement with its customers and scoped broadly enough to encompass many global privacy laws. Mapbox's goal is to provide transparency about the data entrusted to it, how such data is used, and the technical and organizational measures designed to protect such data.</p></div> <div><h4>  4. Does Mapbox have information security credentials?</h4><p>  <strong> Yes </strong>. Mapbox is SOC2 Type 2 certified and its <a href="https://www.mapbox.com/platform/security" target="_blank"> summary SOC3 report is available for customer review. </a> Upon request and execution of an NDA, Mapbox may share a copy of its latest SOC2 report.</p></div> <div><h4>  5. How does Mapbox comply with privacy laws?</h4><p>  <strong> Mapbox takes privacy and data security very seriously and implements processes designed to operate in compliance with: VCDPA </strong> (Virginia, USA), <strong> UK-GDPR </strong> (UK), <strong> GDPR </strong> (Europe), <strong> CTDPA </strong> (Connecticut, USA), <strong> CCPA </strong> and its implementing regulations including <strong> CPRA </strong> (California, USA, and <strong> APPI  </strong>(Japan), among many other important jurisdictions.</p></div> <div><h4>  6. How does Mapbox manage compliance with global privacy laws?</h4><p>  <strong> Mapbox runs a global data protection program, based on privacy by design, </strong> which includes monitoring for upcoming privacy laws and regulations to assess whether its practices may need to be adjusted to maintain compliance; product/service privacy reviews; data breach response processes;and operationalized technical and organizational measures designed to ensure the security of the personal data it receives including: security audits and SOC2 certification; encryption of IP addresses in transit and at rest; pseudonymization of personal data (where applicable); strict access control with logging; limited data retention periods.</p></div> <div><h4>  7. Is consent required to collect and process location data?</h4><p>  In some jurisdictions consent from the end user may be required to collect and process location based data (<em> e.g. </em>, <strong> Virginia and Connecticut) </strong>. To the extent customer’s end users are in such locations and customer’s application is implicated by these laws, customer shall obtain end users' affirmative express consent before making available to such end users Mapbox products/services within the customer’s licensed application that collects or processes location data. Additionally, customers shall at all times allow end users to opt out of location data sharing using one of the methods described in Mapbox’s developer documentation.</p></div> <div><h4>  8. What types of personal data does Mapbox collect from end users and why?</h4><p>  Please see <a href="https://www.mapbox.com/legal/dpa" target="_blank"> Mapbox DPA, Schedule B </a> to learn what personal data may be collected and how it is used. Mapbox applies the principle of data minimization to product development and operations in an effort to ensure the least amount of personal data is collected from the outset. Regarding the limited personal dataset that Mapbox processes, it has implemented a number of technical and organization measures designed to ensure data protection, including prompt deletion of raw log files that contain IP addresses and billing IDs. For billing IDs, which need to be retained for accounting and billing purposes, Mapbox deploys regular ID rotation and 1-way hashing to minimize the ability to track user requests over time. In addition, Mapbox operates strict de-identification procedures, such as clipping traces, for telemetry events that send location data.</p></div> <div><h4>  9. Why do Mapbox products/services collect the end users’ IP address?</h4><p>  Transmission of information across the Internet requires the presence of IP addresses, which define where information will be sent  and where such data is coming from. When end users engage with applications that access Mapbox products/services over the Internet, the end user necessarily discloses their current IP address to one or more Mapbox servers.</p></div> <div><h4>  10. Where (geographically) is personal data that Mapbox receives processed?</h4><p>  <strong> The United States.  </strong>However, for performance purposes, Mapbox regularly caches content on its AWS CDN network located in various regions. When content is unavailable in the CDN cache or where the API service requires custom calculations, the requests are routed to the US for processing. Mapbox also utilizes the services of employees who work for Mapbox wholly-owned subsidiaries in order  to support, develop and provide its products/services.</p></div> <div><h4>  11. Can Mapbox limit its geographic processing to Europe (or another specific region)?</h4><p>  <strong> No </strong>. Mapbox’s products/services store and serve source data from an AWS primary region in the US. Data is sometimes cached and served out of various regions outside the US for performance reasons, as described in the questions/response above, but Mapbox cannot serve its data from one limited geographic region. To safeguard such transfers to the US and other regions, please see <a href="https://www.mapbox.com/legal/dpa" target="_blank"> Mapbox's DPA, Schedule C </a>, which includes the Standard Contractual Clauses released in 2021 by the European Commission.</p></div> <div><h4>  12. Does Mapbox sell personal data?</h4><p>  <strong> No.  </strong>Mapbox does not sell personal data or build targeted profiles with personal data processed through its products/services.</p></div> <div><h4>  13. Does Mapbox track end users or build end user profiles?</h4><p>  <strong> No. </strong> For customers on a monthly active user (“MAU”) billing model, Mapbox maintains counts of such MAUs for billing purposes only. Mapbox does not (and cannot) track an end user’s activity across such 30 day billing cycles.</p></div> <div><h4>  14. More questions?</h4><p>  Mapbox welcomes any further questions you may have regarding its ongoing commitment to privacy and data security. Please contact  Mapbox’s privacy office at privacy@mapbox.com.</p></div> <div><h3>  Want to receive updates on our sub-processors?</h3><p>  Please subscribe below:</p></div> <div><h3>  PRODUCTS</h3></div> <div><h3>  Maps</h3></div> <div><h3>  Search</h3></div> <div><h3>  Automotive</h3></div> <div><h3>  Navigation</h3></div> <div><h3>  Logistics</h3></div> <div><h3>  Data</h3></div> <div><h3>  Other</h3></div> <div><h3>  solutions</h3></div> <div><h3>  use cases</h3></div> <div><h3>  Company</h3></div> <div><h3>  Developers</h3><label>  Name</label><label>  Radio Label</label><label>  Checkbox</label></div> <div><h2>  We care about your privacy</h2><p>  By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. </p></div> <div><h2>  Privacy Preference Center</h2></div> <div><h3>   Manage Consent Preferences</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div> <div><h4>  Performance Cookies</h4><label>  Performance Cookies</label><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div> <div><h4>  Functional Cookies</h4><label>  Functional Cookies</label><p>  These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div> <div><h4>  Targeting Cookies</h4><label>  Targeting Cookies</label><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div> <div><h3>  Performance Cookies</h3><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span></div>

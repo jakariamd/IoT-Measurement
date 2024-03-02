@@ -1,0 +1,126 @@
+<div><ul>  <li>English
+</li><li>Русский
+</li><li>Español
+</li><li>Português
+</li><li>日本語
+</li><li>简体中文
+</li><li>Français
+</li><li>Deutsch
+</li><li>Proxies
+</li><li>Proxy services
+</li><li>Residential Proxies</li></ul><span>  72 million+ IPs rotated from real-peer devices in 195 countries</span><ul>  <li>ISP Proxies</li></ul><span>  700,000+ real home IPs across the globe, for long-term use</span><ul>  <li>Datacenter Proxies</li></ul><span>  770,000+ shared datacenter IPs from any geolocation</span><ul>  <li>Mobile Proxies</li></ul></div> <span><span>  7,000,000+ IPs forming the largest real-peer 3G/4G mobile network
+</span></span> <div><ul>  <li>Tools
+</li><li>Proxy Manager</li></ul><span>  Manage all proxies using one open-source interface</span><ul>  <li>Proxy Browser Extension</li></ul><span>  Change location to collect Web data
+
+</span><ul>  <li>Scraping Solutions
+</li><li>Scraping Browser </li></ul><span>  New!</span><span>  Playwright/Puppeteer-compatible scraping browser with built-in website unlocking actions</span><ul>  <li>Web Scraper IDE</li></ul><span>  Use Javascript functions and existing code templates to build web scrapers</span></div> <div><ul>  <li>SERP API</li></ul><span>  Collect parsed search engine results</span><ul>  <li>Web Unlocker</li></ul><span>  Automate unlocking of the toughest websites with unprecedented success rates
+</span><ul>  <li>Web Data
+</li><li>Datasets</li></ul><span>  Get fresh, ready-to-use datasets or subsets</span><ul>  <li>Bright Insights</li></ul><span>  Get actionable market intelligence powered by machine learning
+</span><ul>  <li>Resources
+</li><li>Documentation
+</li><li>API documentation</li><li>FAQ</li><li>Integrations</li><li>SERP API start guide
+</li><li>Company
+</li><li>About</li><li>Data for good</li><li>Blog</li><li>Testimonials</li><li>Ethical usage</li><li>Proxy IP locations</li><li>Affiliate program</li><li>The Bright Initiative</li><li>Enterprise</li><li>Rebranding from Luminati</li><li>Web Data Masterclass
+</li><li>Data
+</li><li>Data Methodology</li><li>Bright VPN
+
+</li><li>Pricing
+</li><li>Proxy Networks
+</li></ul></div> <div><ul>  <li>Residential Proxies</li><li>Datacenter Proxies</li><li>ISP Proxies</li><li>Mobile Proxies
+</li><li>Scraping Solutions
+</li><li>Web Scraper IDE</li><li>Scraping Browser </li></ul><span>  New!</span><ul>  <li>SERP API</li><li>Web Unlocker
+</li><li>Web data
+</li><li>Datasets</li><li>Bright Insights </li></ul><span>  New!
+
+</span><ul>  <li>Products
+</li><li>wrapper 1
+</li><li>Proxy networks
+</li><li>Residential Proxies</li></ul><span>  72 million+ IPs rotated from real-peer devices in 195 countries</span></div> <div><ul>  <li>ISP Proxies</li></ul><span>  700,000+ real home IPs across the globe, for long-term use</span><ul>  <li>Datacenter Proxies</li></ul><span>  770,000+ shared datacenter IPs from any geolocation</span><ul>  <li>Mobile Proxies</li></ul><span>  7,000,000+ IPs forming the largest real-peer 3G/4G mobile network
+</span><ul>  <li>Proxy TOOLS
+</li><li>Proxy Manager</li></ul><span>  Manage all proxies using one open-source interface</span><ul>  <li>Proxy Browser Extension</li></ul><span>  Change location to collect Web data
+
+</span></div> <div><ul>  <li>wrapper 2
+</li><li>Scraping Solutions
+</li><li>Web Scraper IDE</li></ul><span>  Scrape public web data in real-time or in batches</span><ul>  <li>Scraping Browser</li></ul><span>  Playwright/Puppeteer-compatible scraping browser with built-in website unlocking actions</span><ul>  <li>SERP API</li></ul><span>  Collect parsed search engine results</span><ul>  <li>Web Unlocker</li></ul><span>  Automate unlocking of the toughest websites with unprecedented success rates
+</span><ul>  <li>Web Data Solutions
+</li><li>Datasets</li></ul></div> <span><span>  Get fresh, ready-to-use datasets or subsets</span></span> <div><ul>  <li>Bright Insights</li></ul><span>  Get actionable market intelligence powered by machine learning
+
+
+</span><ul>  <li>Solutions
+</li><li>wrapper 1
+</li><li>By use case
+</li><li>eCommerce</li><li>Social Media</li><li>SERP & SEO</li><li>Ad Tech</li><li>Market Research</li><li>Travel</li><li>Financial Services</li><li>Healthcare</li><li>Real Estate</li><li>Data for Good
+
+</li><li>wrapper 2 col_25
+</li><li>By Target
+</li><li>Amazon</li><li>LinkedIn</li><li>Instagram</li><li>Zillow</li><li>View all
+
+</li><li>wrapper 3 col_25
+</li><li>By solution type
+</li><li>For developers</li><li>No-code
+</li><li>By company type
+</li></ul></div> <div><ul>  <li>Enterprise</li><li>Non profit
+
+
+</li><li>Resources
+</li><li>wrapper 1
+</li><li>Documentation
+</li><li>API documentation</li><li>FAQ</li><li>Integrations
+
+</li><li>wrapper 2
+</li><li>Company
+</li><li>About</li><li>Blog</li><li>News</li><li>Testimonials</li><li>Ethical usage</li><li>Proxy IP locations</li><li>Affiliate program</li><li>The Bright Initiative</li><li>Web Data Masterclass
+
+</li><li>wrapper 3
+</li><li>Data
+</li><li>Data Methodology</li><li>Bright VPN
+
+
+</li><li>Pricing
+</li><li>wrapper 1
+</li></ul></div> <div><ul>  <li>Proxy Networks
+</li><li>Residential Proxies</li><li>Datacenter Proxies</li><li>ISP Proxies</li><li>Mobile Proxies
+
+</li><li>wrapper 2
+</li><li>Scraping Solutions
+</li><li>Web Scraper IDE</li><li>Scraping Browser </li></ul><span>  New!</span><ul>  <li>SERP API</li><li>Web Unlocker
+
+</li><li>wrapper 3
+</li><li>Web data
+</li><li>Datasets</li><li>Bright Insights </li></ul><span>  New!
+
+
+</span><ul>  <li>Sign out
+
+</li></ul></div> <div><h1>  Contact us</h1></div> <div><h2>  We’re here to support you, and get you the data you need. Fast.</h2></div> <div><h2>  24/7 Live Support</h2><p>  Contact our attuned support agents with any questions.</p><span>  Get support 
+</span></div> <div><h2>  Sales Inquiries</h2><p>  Contact Sales to find the right plan that best fits your needs</p><span>  Contact sales 
+</span></div> <div><h2>  Report Suspected Abuse</h2><p>  Protect other customers and the Bright Data network by reporting suspicious activity.</p><span>  Report here 
+</span></div> <div><h2>  Join the Affiliate Program</h2><p>  Promote Bright Data on your website or social media, and earn commission. </p><span>  Learn more 
+</span></div> <div><h2>  Work with Us</h2><p>  Explore our job opportunities, and create a better internet. </p><span>   Discover positions 
+</span></div> <div><h2>  The Bright Initiative</h2><p>  Learn about our work with universities, research institutions, and governments. </p><span>  Visit the Bright Initiative 
+</span></div> <div><h2>  Media Inquiries</h2><p>  Contact our public relations team. This is the fastest way to get a response for anyone on deadline.</p><span>  Contact PR 
+</span></div> <div><h2>  Our global sales team</h2></div> <div><h2>  Our offices</h2></div> <div><h3>  New York:</h3><p>  <strong> Bright Data Inc. </strong></p><p>  229 W 36th St., New York, NY 10018, United States</p><p>  Building Front Desk (US): +1 917-473-2601</p></div> <div><h3>  Israel:</h3><p>  <strong> Bright Data Ltd. </strong></p><p>  4 Hamahshev St., Netanya 4250714,Israel (POB 8025)</p><p>  Beit Ilan, Poleg Industrial Center Parking: There’s a parking lot behind (south of) our building (entrance from HaTsoran st.)</p><p>  Main Office Tel: +972-9-8355993</p><p>  Fax: +972-9-8355003</p></div> <div><h2>  Let's get social
+</h2><span>  Bright Data Blog
+</span><ul>  <li>Products
+</li><li>Datasets</li><li>Web Scraper IDE</li><li>Scraping Browser</li><li>SERP API</li><li>Bright Insights</li><li>Web Unlocker</li><li>Proxy Manager</li><li>Proxy Browser Extension</li><li>Proxy API
+</li><li>Proxy Services
+</li><li>Residential Proxies</li><li>Mobile Proxies</li><li>ISP Proxies</li><li>Datacenter Proxies</li><li>Proxy Servers</li><li>Proxy IP Locations</li><li>Proxy Solutions
+</li><li>Pricing
+</li><li>Proxy Network</li><li>Web Scraper IDE</li><li>Scraping Browser</li></ul></div> <div><ul>  <li>SERP API</li><li>Datasets
+</li><li>Programs
+</li><li>Impact Report 2023</li><li>Affiliate Program</li><li>Partners</li><li>SDK</li><li>Security Vulnerabilities
+</li><li>Learning Center
+</li><li>Data Documentary</li><li>Iron Analyst</li><li>Web Data Masterclass</li><li>FAQ</li><li>Webinars
+</li><li>Legal
+</li><li>Patents</li><li>Legal Governance</li><li>Privacy Policy</li><li>Don’t Sell My Personal Info
+</li><li>Company
+</li><li>About</li><li>Blog</li><li>Use Cases</li><li>Bright Data for Enterprise</li></ul></div> <div><ul>  <li>Case Studies</li><li>Trust Center</li><li>Testimonials</li><li>Careers</li><li>Career Journeys</li><li>Contact</li><li>Press Kit</li><li>Network Status
+</li></ul><span>  
+Start Free Trial 
+</span></div> <div><h4>  Contact Us</h4></div> <div><h4>  Follow Us</h4><ul>  <li>Cloud partnerships
+</li><li>AWS</li><li>Snowflake
+</li><li>Customer excellence partnerships
+</li><li>Capterra</li><li>GetApp</li><li>Software Advice
+</li><li>Partnerships
+</li><li>WIPO Alert</li><li>BDV</li><li>MRS</li><li>Gartner</li><li>ISO certified</li><li>GDPR ready</li><li>Tag
+</li></ul><span>  </span></div>

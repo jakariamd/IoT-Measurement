@@ -1,0 +1,41 @@
+ip,dhcp_response
+0.0.0.0,"C100F1601154, HK Invoke_C229BE, Google-Home, August-Doorbell-Cam-D2GTH00390, amazon-9a21b7585, Roku 4 - 132, TCL Roku TV - 344, guam, Bobbys-iPad, Koogeek-LB1-77354D, LIFX Color 1000, Galaxy-Tab-S3, LB130, HomePod, australia, chaz, SonosZP, Roomba-3147C60410440780, LIFX_Color_1000_1284d1_AJ, Samsung, RingDoorbell, SoundTouch-10, Astra-Lagos, MyQ-139, LogiCircle, android-f60e487207ea9a18, Piper, HS105, wemo, NetCamHD, 07AA01AD501706SQ"
+192.168.0.1,"Ambarella, HubPro, SonosZP, Piper, C100F1601154, LogiCircle, st-D052A8634A920001, Philips-hue, WBP02-A534, August-Doorbell-Cam-D2GTH00390, DCS-5009L, cujo, Roomba-3147C60410440780, MyQ-139, HarmonyHub, Samsung, lutron-027128f7, SoundTouch-10, thing-buddy, Koogeek-LB1-77354D, wemo, NetCamHD, 07AA01AD501706SQ, Nest-03E4"
+192.168.0.12,wemo
+192.168.0.13,"LIFX_Color_1000_1284d1_AJ, LIFX Color 1000"
+192.168.0.130,SoundTouch-10
+192.168.0.14,wemo
+192.168.0.141,thing-buddy
+192.168.0.147,chaz
+192.168.0.151,Galaxy-Tab-S3
+192.168.0.159,Bobbys-iPad
+192.168.0.18,NetCamHD
+192.168.0.24,android-f60e487207ea9a18
+192.168.0.25,Astra-Lagos
+192.168.0.26,wemo
+192.168.0.28,DCS-5009L
+192.168.0.29,LogiCircle
+192.168.0.30,"Ambarella, C100F1601154"
+192.168.0.31,Piper
+192.168.0.32,WBP02-A534
+192.168.0.36,August-Doorbell-Cam-D2GTH00390
+192.168.0.37,HS105
+192.168.0.38,MyQ-139
+192.168.0.39,HarmonyHub
+192.168.0.4,st-D052A8634A920001
+192.168.0.41,lutron-027128f7
+192.168.0.42,Google-Home
+192.168.0.43,Google-Home
+192.168.0.44,SoundTouch-10
+192.168.0.45,HK Invoke_C229BE
+192.168.0.46,cujo
+192.168.0.47,Living-Room
+192.168.0.48,Roomba-3147C60410440780
+192.168.0.49,Samsung
+192.168.0.5,Philips-hue
+192.168.0.50,Koogeek-LB1-77354D
+192.168.0.51,LB130
+192.168.0.53,Nest-03E4
+192.168.0.54,07AA01AD501706SQ
+192.168.0.6,HubPro
+192.168.0.7,SonosZP

@@ -1,0 +1,1 @@
+Sectigo Order Status Checker To check the status of your Sectigo Certificate order, please select one of the options below: Choose ... Purchased an SSL certificate Purchased a code signing certificate Purchased a SMIME certificate Sectigo Order Number: Domain Name: Email Address: © Copyright 2023. All rights reserved.

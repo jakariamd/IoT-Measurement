@@ -1,0 +1,65 @@
+<span><span>  We use Cookies to optimize and analyze your experience on our Services, and serve ads relevant to your interests. By selecting Accept all, you consent to our use of Cookies. Learn more in our </span></span> <div><span>  Cookie Policy</span><span>  Cookie preferences</span><span>  subNavShow</span><span>  Menu</span></div> <div><h2>  Comcast Xfinity Cookies Notice</h2><p>  Effective December 8, 2022</p><p>  This Cookie Notice (“Notice”) explains how we and our partners, including advertisers and vendors, use cookies and similar tracking technologies when you use the <a href="#/privacy/overlays/Xfinity-products" target="_blank"> products, services, websites, mobile apps, and platforms that link to it </a>. We’ll refer to these as our “Services.” This Notice provides more information about these technologies, your choices, and is part of the <a href="/privacy/policy" target="_blank"> Comcast Xfinity Privacy Policy. </a> You should read the Privacy Policy and this Notice for a full picture of our collection and use of your information.</p></div> <div><p>  What are cookies?</p><p>  Like many companies, we use cookies (small files placed on your computer or device) and other common tracking technologies on the Services, including HTTP cookies, HTML5 and Flash local storage/flash cookies, web beacons/GIFs, embedded scripts, ETags/cache browsers, and software development kits (referred to together from this point forward as “Cookies,” unless otherwise stated).</p><p>  
+<strong> First-party Cookies </strong></p><p>  
+First-party Cookies are those that we place directly on the Services (including through the use of service providers) and we use them to enable the Services and their features and to assist in analytics activities. </p></div> <div><p>  
+<strong> Third-party Cookies </strong></p><p>  Certain third parties may place their Cookies on your device and use them to recognize your device when you visit the Services and when you visit other websites or online services. These third parties collect and use this information pursuant to their own privacy policies. Third-party Cookies enable certain features or functionalities, and advertising, provided on and off the Services.</p><p>  <strong> Types of Cookies </strong></p><p>  The Services use the following types of first and third-party Cookies for these purposes:</p></div> <div><p>  Cookie management</p><p>  You can use the methods described below to manage Cookies. You must take these steps on each browser or device that you use. If you replace, change, or upgrade your browser or device, or delete your Cookies, you may need to use these opt-out tools again.</p><p>  <strong> Cookie preferences  </strong>
+To opt out of our use of certain Cookies, go to the Cookie preferences footer link on our sites. You can opt out of most Cookies, including Cookies used to deliver personalized advertising, but you will not be able to opt out of strictly necessary cookies. Please review the Cookie preferences across Comcast web domains section below to see which of our sites have been grouped together for the purpose of Cookie preferences.</p></div> <p><p>  <strong> Browser controls </strong>
+You may be able to disable and manage some Cookies through your browser settings. If you use multiple browsers on the same device, you will need to manage your settings for each browser. Please click on any of the below browser links for instructions:
+
+<strong> Google Chrome </strong></p></p> <div><p>  
+<strong> Apple Safari </strong></p><p>  
+<strong> Mozilla Firefox </strong></p><p>  
+<strong> Microsoft Internet Explorer </strong></p><p>  
+If the browser you use is not listed above, please refer to your browser’s help menu for information on how to manage Cookies. Please be aware that disabling Cookies will not disable other analytics tools we may use to collect information about you or your use of our Services.
+
+<strong> Analytics provider opt-outs </strong>
+To disable analytics Cookies you can use the browser controls discussed above or, for some of our providers, you can use their individual opt-out mechanisms. Please visit the <a href="/privacy/your-privacy-choices" target="_blank"> Your Privacy Choices </a> to learn more.
+
+<strong> Flash local storage </strong>
+These Cookies are also known as local shared objects and may be used to store your preferences or display content by us, advertisers, and other third-parties. Flash Cookies need to be deleted in the storage section of your Flash Player Settings Manager.  <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html" target="_blank"> Learn more about deleting these Cookies </a>.
+
+<strong> Personalized advertising </strong>
+Most third-party advertisers offer a way to opt out of their personalized advertising. For more information or to opt out of receiving personalized advertising from participating third-party advertisers, please visit  <a href="/privacy/your-privacy-choices" target="_blank"> Your Privacy Choices </a>.
+
+You can also opt out of some of our advertising network providers by visiting their opt-out pages:
+
+<strong> Google Privacy Policy </strong>
+
+<strong> Google Opt-Out page </strong>
+
+<strong> Facebook Privacy Policy </strong>
+
+<strong> Facebook Opt-Out page </strong>
+
+<strong> Twitter Privacy Policy </strong>
+
+<strong> Twitter Opt-Out page </strong>
+
+These are examples of our advertising providers, but the list is not exhaustive. In addition, we are not responsible for the effectiveness of any of these providers’ opt-out mechanisms.
+
+After you opt out, you will still see advertisements, but they may not be as relevant to you.
+
+<strong> Mobile settings </strong>
+You may manage the collection of information for personalized advertising purposes in mobile apps via the device’s settings, including managing the collection of location data. To opt out of mobile ad tracking from third parties, you can do so by selecting “Limit Ad Tracking” (for iOS devices) or “Opt out of Ads Personalization” (for Android devices) option in your device’s settings.
+
+<strong> Consequences of deactivation of Cookies </strong>
+If you disable or remove Cookies, some parts of the Services may not function properly. Information may still be collected and used for other purposes, such as research, online services analytics or internal operations, and to remember your opt-out preferences.</p></div> <div><p>  Cookie preferences across Comcast web domains</p><p>  Your Cookie preferences will be shared across the following Comcast web domain families. If you wish to adjust your Cookie preferences for any of these domain families at any time, simply visit the Cookie preferences link in the footer of any one of the domain family sites.</p><p>   
+<strong> Xfinity </strong>
+Xfinity.com/privacy, xfinity.com/learn, xfinity.com/shop, xfinity.com/buy, xfinity.com/support, digital.xfinity.com, approval.cws.com, customer.xfinity.com, my.xfinity.com, payments.xfinity.com, www.xfinity.com/stream, www.xfinity.com/mobile/shop, www.xfinity.com/mobile/learn, internetsecurity.xfinity.com, carriers.xfinity.com, login.xfinity.com, es.xfinity.com, es-payments.xfinity.com, referafriend.xfinity.com, military.xfinity.com, locations.xfinity.com</p></div> <p><p>  
+<strong> Xfinity on Campus </strong>
+www.xfinityoncampus.com</p></p> <p><p>  
+<strong> Xfinity Forums  </strong>
+forums.xfinity.com</p></p> <p><p>  
+<strong> Internet Essentials </strong>
+apply.internetessentials.com, es-apply.internetessentials.com, internetessentials.com</p></p> <p><p>   
+<strong> Xfinity Incentive Tracker </strong>
+xfinityincentivetracker.com</p></p> <p><p>  
+<strong> Comcast Business </strong>
+business.comcast.com, business.comcast.com/learn/mobile, business.comcast.com/support/home, activecore.comcast.com</p></p> <p><p>  
+<strong> Developer - Comcast  </strong>
+developer.comcast.com</p></p> <p><p>  
+<strong> Prepaid </strong>
+my.xfinityprepaid.com, Xfinityprepaid.com</p></p> <div><h2>  
+
+
+
+</h2><p>  Contact us</p><p>  Changes to this Notice</p></div> <div><h1>  <strong> Want to learn more? </strong></h1></div> <div><h1>  <strong> Review your privacy preferences </strong></h1><span>  More </span><span>  Less</span></div> <div><h3>  I Want To</h3><span>  More </span><span>  Less</span></div> <div><h3>  Shop</h3><span>  More </span><span>  Less</span></div> <div><h3>  About Comcast</h3><ul>  <li>Web Terms of Service</li><li>CA Notice at Collection</li><li>Privacy Policy</li><li>Your Privacy Choices</li><li>Ad Choices</li><li>Cookie Preferences</li></ul></div>

@@ -1,0 +1,88 @@
+<div><h1>  Your
+California Privacy Rights</h1><p>  To view the
+Daily Burn Privacy Policy in full, </p><span>  click
+here</span></div> <div><h1>  8.</h1><span>   Information for Residents of
+California: Your California Privacy Rights</span><p>  If you are a California resident,
+the California Consumer Privacy Act (“CCPA”) may provide you with notice and
+other rights regarding our use of your personal information that are in
+addition to those set forth elsewhere in this Privacy Policy. The CCPA Notice
+applies to “Consumers” as defined by the law. This section describes your CCPA
+rights as a California Consumer and explains how to exercise those rights. </p></div> <span><span>  See Sections 1 - 4 in our
+Privacy Policy to learn what information we collect from you and how it is
+collected, used and shared.</span></span> <div><span>  Access to Information and Data Portability Rights</span><p>  You have the
+right to send us a request, no more than twice in a twelve-month period, for any
+of the following for the period that is twelve months prior to the request
+date:</p><span>  The categories of personal information we have
+collected about you.</span><span>  The categories of sources from which we
+collected your personal information.</span><span>  The business or commercial purposes for our
+collecting or selling your personal information.</span></div> <span><span>  The categories of third parties to whom we have
+shared your personal information.</span></span> <span><span>  The specific pieces of personal information we
+have collected about you.</span></span> <span><span>  A list of the categories of personal information
+disclosed for a business purpose in the prior 12 months, or that no disclosure
+occurred.</span></span> <span><span>  A list of the categories of personal information
+sold about you in the prior 12 months, or that no sale occurred.</span></span> <span><span>   If we sold your personal information, we will
+explain:</span></span> <span><span>  The categories of your personal information we
+have sold.</span></span> <span><span>  The categories of third parties to which we sold
+personal information, by categories of personal information sold for each third
+party.</span></span> <p><p>  You have the
+right to make or obtain a transportable copy, no more than twice in a
+twelve-month period, of your personal information that we have collected in the
+period that is 12 months prior to the request date and are maintaining.</p></p> <div><span>  Data Deletion Rights</span><p>  Except to the
+extent we have a basis for retention under CCPA, you may request that we delete
+your personal information that we have collected directly from you and are
+maintaining.</p><span>   Note also that we are not
+required to delete your personal information that we did not collect directly
+from you.</span><span>  Exercising Your Rights</span><p>  To make a request for access, portability or
+deletion according to your rights under CCPA, click </p><span>  here</span></div> <span><span>   or mail your request to
+Daily Burn, Inc., 47-10 Austell Place, Suite #303
+Long Island City NY 11101, Attn: Legal
+Department.</span></span> <span><span>   California Consumers may
+exercise these rights via an authorized agent who meets the agency requirements
+of the CCPA.</span></span> <span><span>   We cannot respond to your
+request or provide you with personal information if we cannot verify your
+identity or authority to make the request and confirm that the personal
+information relates to you. Any request you submit to us is subject to an
+identification and residency verification process (“Verifiable Consumer
+Request”).</span></span> <div><p>  The Verifiable Consumer Request must:</p><span>  Provide sufficient information that
+allows us to reasonably verify you are the person about whom we collected
+personal information or an authorized representative; and</span><span>  Describe your request with
+sufficient detail that allows us to properly understand, evaluate, and respond
+to it.</span><p>  Some personal information we maintain about
+Consumers is not sufficiently associated with enough personal information about
+the Consumer for us to be able to verify that it is a particular Consumer’s
+personal information (e.g., clickstream data tied only to a pseudonymous
+browser ID).</p></div> <span><span>   As required by the CCPA, we
+do not include that personal information in response to Verifiable Consumer
+Requests.</span></span> <span><span>   If we cannot comply with a
+request, we will explain the reasons in our response.</span></span> <p><p>  We will make commercially reasonable efforts to
+identify Consumer personal information that we collect, process, store,
+disclose, and otherwise use and to respond to your California Consumer privacy
+rights requests.</p></p> <div><span>   We will </span><span>  typically not charge a fee to fully respond to your
+requests, but we may charge a reasonable fee, or refuse to act upon a request,
+if your request is excessive, repetitive, unfounded, or overly burdensome.</span><p>  We do not knowingly “sell” personal information
+that we collect from you, in accordance with the definition of “sell” in the
+CCPA, and will treat personal information we collect from you as subject to a
+do not sell request.</p><span>   There is not yet a
+consensus as to whether our use of certain tracking technologies may constitute
+a “sale” of your PI as defined by the CCPA. See our </span></div> <div><span>  Cookie Policy</span><span>   and </span><span>  Section 9 <i> Online Privacy Choices
+and Rights </i></span><p>  to learn more about your choices.</p><p>  We will not discriminate against you in a manner
+prohibited by the CCPA because you exercise your CCPA rights.</p><span>   However, we may charge a different price or
+rate, or offer a different level or quality of good or service, to the extent
+that doing so is reasonably related to the value of the applicable data.</span><span>   In addition, we may offer you financial
+incentives for the collection, sale and retention and use of your personal
+information as permitted by the CCPA that can, without limitation, result in
+reasonably different prices, rates, or quality levels.</span></div> <span><span>   The material aspects of any financial
+incentive will be explained and described in its program terms.</span></span> <span><span>   We may add or change incentive programs
+and/or their terms by posting notice on the program descriptions and terms
+linked to above so check them regularly.</span></span> <p><p>  California's "Shine the Light" law,
+Civil Code section 1798.83, requires certain businesses to respond to requests
+from California customers asking about the businesses' practices related to
+disclosing personal information to third parties for the third parties' direct
+marketing purposes. </p></p> <span><span>  We do not currently engage in
+the type of sharing covered by that law and so no such list exists. We do not
+make any representations concerning third parties that do not collect personal
+information directly through our Services. </span></span> <p><p>  To find out more about our “do not track”
+practices under Cal. </p></p> <span><span>  Bus. & Prof. Code §
+22575, see the “</span></span> <span><span>  Do Not Track Disclosures” section
+of this Privacy Policy. </span></span> <p><p>  For additional information on your privacy
+choices and rights, see Section 9 of this Privacy Policy. </p></p>

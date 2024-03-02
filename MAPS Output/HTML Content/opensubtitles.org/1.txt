@@ -1,0 +1,447 @@
+<div><div>  
+
+</div><div>  
+
+</div><div>  
+
+
+</div><ul>  <li>Login</li><li>Register
+
+
+
+
+
+</li><li>
+
+</li><li>OpenSubtitles.org
+</li><li>Forum
+</li><li>English
+</li><li>Off-topic talk
+
+
+</li></ul><div>  
+<strong> Forum rules </strong>
+Under no circumstances is spamming or advertising of any kind allowed. Do not post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-orientated or any other material that may violate others security. Profanity or any kind of insolent behavior to other members (regardless of rank) will not be tolerated. Remember, what you don’t find offensive can be offensive to other members. Please treat each other with the kind of reverence you’d expect from other members. 
+Failure to comply with any of the above will result in users being banned without notice. If any further details are needed, contact: “The team” using the link at the bottom of the forum page. Thank you.
+
+
+</div></div> <div><div>  
+
+
+</div><div>  
+19 posts
+</div><ul>  <li>
+
+
+</li></ul><div>  
+<a href="./memberlist.php?mode=viewprofile&u=170255&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> class123 </a><strong> Posts: </strong><strong> Joined: </strong>
+</div><ul>  <li>Quote
+
+</li></ul><div>  Admin M_I_S keeps removing my uploaded subtitles and replacing them with his or her own duplicates, claiming that my subtitles are duplicates, which is not true. And the reasoning is really weak, like semidupes, and as I have not seen any rules that say semidupes are not allowed, and what that even means, duplicates are 100% identical. My subs have been different sizes, and they have different hash. M_I_S are doing the same thing that Explosiveskull did and being like a judge dread. I know things will not change as long admins have power like dictators. class123
+
+
+
+
+
+</div></div> <div><div>  
+ <a href="./memberlist.php?mode=viewprofile&u=45279&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> SmallBrother </a><strong> Posts: </strong><a href="./search.php?author_id=45279&sr=posts&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> 3648 </a><strong> Joined: </strong><strong> Location: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  I don't know about the actual subs and neither about the general policy of M_I_S, but just for now:
+"Semi duplicates" are subs which are not 100% exact duplicate, but practically duplicate, with not really significant differences. For example:
+- different character encoding (UTF8 vs CP1252)
+- space or no space after dialog hyphen
+- small difference in timing
+- with or without {\an8} positioning encoding
+- with/without italics
+etc.
+Those kind of semi-dupes would be able to create 2x2x2x2x2x2x2 different versions, without actually serving any purpose. 
+
+That being said, please provide examples (exact URL) of what you uploaded and was deleted, so we can have a look.
+</div></div> <span><span>  Nowadays a VPN is a must for everyone. A VPN allows you safe surfing and protects you against spying governments and companies.
+<strong> I advise AirVPN </strong> - from € 2,75 per month. Click the below banner for more info.
+
+
+
+
+
+
+
+</span></span> <div><div>  
+<a href="./memberlist.php?mode=viewprofile&u=170255&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> class123 </a><strong> Posts: </strong><strong> Joined: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  links
+<a href="https://subscene.com/subtitles/justified-city-primeval-first-season/english/3131482" target="_blank"> https://subscene.com/subtitles/justifie ... sh/3131482 </a>
+<a href="https://subscene.com/subtitles/justified-city-primeval-first-season/english/3131484" target="_blank"> https://subscene.com/subtitles/justifie ... sh/3131484 </a>
+these were deleted and I was the first to upload them.
+What comes those so called semi dupes that's a problem because opensubtitleuploaders won't know what is semi dupes. And then admins send angry emails and, set limits for uploders. If you try to explain this, then admins get angry and gives warnings. It's not right that one person makes the ruling to give warnings or set limits.
+
+
+
+
+
+</div></div> <div><div>  
+ <a href="./memberlist.php?mode=viewprofile&u=45279&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> SmallBrother </a><strong> Posts: </strong><a href="./search.php?author_id=45279&sr=posts&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> 3648 </a><strong> Joined: </strong><strong> Location: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  
+<a href="https://subscene.com/subtitles/justified-city-primeval-first-season/english/3131482" target="_blank"> https://subscene.com/subtitles/justifie ... sh/3131482 </a>
+<a href="https://subscene.com/subtitles/justified-city-primeval-first-season/english/3131484" target="_blank"> https://subscene.com/subtitles/justifie ... sh/3131484 </a>
+these were deleted and I was the first to upload them.
+I haven't found your deleted subs for episode 1, but I did find your deleted subs for episode 2:
+<a href="https://www.opensubtitles.org/en/search/sublanguageid-all/idmovie-1255422/disabled-on" target="_blank"> https://www.opensubtitles.org/en/search ... isabled-on </a>
+and yes, you were first, before M_I_S:
+<a href="https://www.opensubtitles.org/en/subtitles/9643818/justified-city-primeval-the-oklahoma-wildman-en" target="_blank"> https://www.opensubtitles.org/en/subtit ... wildman-en </a>
+
+Unfortunatley, M_I_S doesn't state any reason, so I can only guess why it was deleted.
+If they are (semi-)duplicate, your subtitle shouldn't be deleted, because you were first. But I compared the two subs, and there are some differences:
+- You subs are a bit off-sync. Not dramatically, only 200-400 ms, but the subs of M_I_S are a bit better in this.
+- The subs of M_I_S are missing some dialog hyphens in dialogs and have a dialog hyphen where there is no dialog. For this, your subs are better.
+- The subs of M_I_S also writes voice sounds like "uh" and "Mm". According to Dutch standards, this is not good, but this may be different for English standards, I don't know.
+- The same for song lyrics: the subs of M_I_S have them included, your subs don't.
+- And there are some insignificant differences in line breaks and line merges.
+
+Now the question is: is one subtitle significantly better than the other? And which one would that be?
+I don't know.
+</div></div> <div><div>  
+What comes those so called semi dupes that's a problem because opensubtitleuploaders won't know what is semi dupes. And then admins send angry emails and, set limits for uploders. If you try to explain this, then admins get angry and gives warnings. It's not right that one person makes the ruling to give warnings or set limits.
+I agree, there should be some communication and this should be fair, respectful and clear, from both sides. And warnings and limitations should be reasonable. That being said, it IS the admin task and to run their language section to their own discretion, within certain limits of common sense and reasonability.
+
+Maybe M_I_S can shine a light on what is going on.
+</div></div> <span><span>  Nowadays a VPN is a must for everyone. A VPN allows you safe surfing and protects you against spying governments and companies.
+<strong> I advise AirVPN </strong> - from € 2,75 per month. Click the below banner for more info.
+
+
+
+
+
+
+
+</span></span> <div><div>  
+<a href="./memberlist.php?mode=viewprofile&u=170255&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> class123 </a><strong> Posts: </strong><strong> Joined: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  Questions: Can admins delete comments that are given to them because M_I_S has deleted my comments on his or her profile and uploaded subtitles? Normal users can't. my comment wasn't vulgar or anything like that.Secondly, is it normal to say this about M_I_S in my profile? (We're down with you Any especially popular or blockbuster's sub-upload in the English section will be deleted.)You can see all the comments on my profile. I don't think that I have used vulgar words. PS: I would like to hear comments from uploaders and administrators. Of course, M_I_S should explain his or her actions too.
+
+
+
+
+
+</div></div> <div><div>  
+ <a href="./memberlist.php?mode=viewprofile&u=45279&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> SmallBrother </a><strong> Posts: </strong><a href="./search.php?author_id=45279&sr=posts&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> 3648 </a><strong> Joined: </strong><strong> Location: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  Questions: Can admins delete comments that are given to them because M_I_S has deleted my comments on his or her profile and uploaded subtitles? Normal users can't. my comment wasn't vulgar or anything like that.
+Yes, technically, admins can delete comments. It depends on the actual comment if they should.
+</div><div>  Secondly, is it normal to say this about M_I_S in my profile? (We're down with you Any especially popular or blockbuster's sub-upload in the English section will be deleted.)You can see all the comments on my profile. I don't think that I have used vulgar words. PS: I would like to hear comments from uploaders and administrators. Of course, M_I_S should explain his or her actions too.
+Once again, I don't know what is going on exactly between you and M_I_S. And yes, it would be nice if M_I_S would comment on this.
+
+But reading back the comments on your profile, I assume you have uploaded SEMI(!) duplicates in the past and with this causing some trouble for admins. On the other hand, it looks like nobody ever explained you what SEMI-duplicates are, like I did in this topic a few posts ago. Altogether I have the impression everything could be solved with good communication.
+
+Let's wait for a reaction by M_I_S.
+</div></div> <span><span>  Nowadays a VPN is a must for everyone. A VPN allows you safe surfing and protects you against spying governments and companies.
+<strong> I advise AirVPN </strong> - from € 2,75 per month. Click the below banner for more info.
+
+
+
+
+
+
+
+</span></span> <div><div>  
+<a href="./memberlist.php?mode=viewprofile&u=170255&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> class123 </a><strong> Posts: </strong><strong> Joined: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  Okay, SmallBrother, you have been fair so far. Thank you. Little Moore information about my warnings: I have been given a tree warnings . The first one was when I was starting to upload subtitles, and I didn't really know what I was doing, which is fine with me. I don't have any problem with that. second warning, and the third warning is totally wrong and an abuse of power. ps The comment that was deleted by M_I_S was something like this. (Your uploaded subtitles is duplicate of my subtitles that you deleted.) totally normal words. I don't remember the comment in his or her profile.
+
+
+
+
+
+</div></div> <div><div>  
+<a href="./memberlist.php?mode=viewprofile&u=161439&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> M_I_S </a><strong> Posts: </strong><a href="./search.php?author_id=161439&sr=posts&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> 56 </a><strong> Joined: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  Hi dear SB  
+His performance is clear and does not need any explanation.
+He was given many chances, but the same way and the same words.
+Dear Master EXP explaind to him before, 
+but which good uploader that don't knows diffrence between dupe and semi dupe ?
+He referred to dear OSS and ....?
+I could ban his account, but I didn't like to do that because he is an old uploader and has 3 stars.and I always prefer limitation for these stuff.
+but behavior rude never tolerant.
+So I only just a bit limited him and he is free to upload whatever he likes, even in the English section but In Eng Section he is currently a bit limited.
+He must be patient.
+I hope I have conveyed my message well  
+Kind Regards
+
+
+
+
+
+</div></div> <div><div>  
+<a href="./memberlist.php?mode=viewprofile&u=170255&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> class123 </a><strong> Posts: </strong><strong> Joined: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  What was that? I didn't get anything out of that explanation of why M_I_Se deleted my comment; there was nothing against the rules.
+
+
+M_I_S comment after the warning says that I have disturbed the section. commenting on his or her wrongdoing. Is that against the rules?
+
+
+Referring to another tyrant, Explosiveskall, in my opinion, very sad. Deleiting my uploads, then say they are duplicates and then uploads hes or shes own duplicates it's like a slap in the face, then say f--k you. and M_I_S says, I'm rude. Are you kidding me?
+
+
+Another admins has deleted my sub a few times, which has been fine.
+
+M_I_S has given answer. What now?. I want all warnings and  limitations removed. The reason is simple: I haven't broken any rules.
+Can you help me? with this. 
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+</div></div> <div><div>  
+ <a href="./memberlist.php?mode=viewprofile&u=45279&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> SmallBrother </a><strong> Posts: </strong><a href="./search.php?author_id=45279&sr=posts&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> 3648 </a><strong> Joined: </strong><strong> Location: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  His performance is clear and does not need any explanation.
+He was given many chances, but the same way and the same words.
+Dear Master EXP explaind to him before, 
+I don't think Explosiveskull explained. Already from the very first two comments in the discussion <a href="https://www.opensubtitles.org/en/profile/iduser-3457702" target="_blank"> on the profile page of Class123 </a>, it is clear for me that Class123 did not understand:
+
+explosiveskull @ 2020-03-19 23:56:17
+<em> Hi. Please do everyone a favor and check if the subtitle you're about to upload is already here. It's turning into a kind of routine having to remove your duplicates. </em>
+class123 @ 2020-03-21 23:34:00
+<em> I'm using the mx player to upload subtitles and as far I know it won't a laud duplicates I think that the warning is totally overkill to problems that isn't in my control </em>
+
+Explosiveskull talks about "duplicates" and Class123 takes this as 100% exact duplicates, which is understandable, that's the meaning of the word "duplicate". In the messages after that, both keep on talking in circles. But Class123 was never told about SEMI duplicates, neither by Explosiveskull nor by M_I_S.
+</div></div> <div><div>  but which good uploader that don't knows diffrence between dupe and semi dupe ?
+I think it's bad practice to assume and expect that users know and understand what admins know and understand. A good admin explains well and clear. Only AFTER THAT, we can assume the user knows and expect a change in behavior from the uploader. 
+</div></div> <div><div>  but behavior rude never tolerant.
+Saying things like <em> "you don't have the balls to correct it" </em> and <em> "What a hell is wrong whit you." </em> is not very sweet. But I understand the frustration of Class123. He feels treated unfairly by admins in a power position, who refuse to explain, but rigidly stick to their statements and avoid an adult discussion. I would get upset, too. I think if Class123 was explained WELL about semi-duplicates, he would have understood and no rude behavior would have occurred.
+
+M_I_S @ 2023-05-18 09:20:46
+<em> Please don't disturbance in the section & don't put comment in my subs.put your comment in my profile. </em>
+
+"Disturbance" is a bit vague. I think it should be explained what is the disturbance and why it is disturbing.
+I think there is nothing wrong with posting a specific comment on a subtitle on that specific subtitle page? That's the whole purpose of the comment feature. If a subtitle was deleted without giving a reason and a new similar upload appears, I think that comment was totally reasonable and a reply would be appropriate.
+</div></div> <div><div>  So I only just a bit limited him and he is free to upload whatever he likes, even in the English section but In Eng Section he is currently a bit limited.
+With "limited", do you mean <em> "any especially popular and blockbusters' s sub upload in English section will be deleted." </em>?
+This doesn't make sense to me. Semi-dupes are a problem, so Class123 should not upload semi-dupes. But Class123 should be able to upload subs which are not semi-duplicate. It is not relevant for which movie or tv show.
+</div></div> <div><div>  I didn't get anything out of that explanation of why M_I_Se deleted my comment; there was nothing against the rules.
+I agree.
+</div></div> <div><div>  M_I_S comment after the warning says that I have disturbed the section. commenting on his or her wrongdoing. Is that against the rules?
+I am not sure if that's what M_I_S meant with "disturbance". I'm also not sure if M_I_S did something WRONG by replacing your version with his. If this is about the subtitle you referred to before, it was not a (semi-)duplicate but apparently an improved version.
+But instead of just deleting the comment, he could have replied to your comment. Or better, he could have given a reason when deleting yours in the first place. I think that would have avoided any misunderstanding and any impression of some kind of 'censorship' afterwards. 
+</div></div> <div><div>  Deleiting my uploads, then say they are duplicates and then uploads hes or shes own duplicates it's like a slap in the face
+I agree: if users should not upload semi-duplicates, admins shouldn't do that neither. But only if those are semi-duplicates, not significantly improved subs.
+</div></div> <div><div>  M_I_S has given answer. What now?. I want all warnings and  limitations removed. The reason is simple: I haven't broken any rules.
+Can you help me? with this.
+I am trying 
+
+<strong> What now? </strong>
+
+For Class123:
+- I think NOW you understand about semi-duplicates and why they are unwanted, just like 100% duplicates.
+- I think now you also understand that using MX Player to upload will avoid 100% duplicates, but it does *NOT* avoid uploading semi-duplicates.
+- So you would have to check manually before you upload if a 'comparable' subtitle doesn't already exist.
+- An occasional human mistake may happen, but if uploading semi-duplicates will be structural, this may result in appropriate penalties, with blocking the account as last resort.
+
+For M_I_S:
+- Class123 uploading semi-dupes and the admin-warning was coming from a misunderstanding. The misunderstanding is resolved now, so the warning can be removed.
+- When deleting subs, give a clear reason why (semi-duplicate, off-sync, an improved version is uploaded, etc.)
+- If any other problem, communicate what is the problem and why.
+- As long as no semi-duplicate, Class123 can upload any subtitle for any movie or tv show.
+
+<strong> If both of you agree, then we can shake hands, close this case, and move on. </strong>
+</div></div> <span><span>  Nowadays a VPN is a must for everyone. A VPN allows you safe surfing and protects you against spying governments and companies.
+<strong> I advise AirVPN </strong> - from € 2,75 per month. Click the below banner for more info.
+
+
+
+
+
+
+
+</span></span> <div><div>  
+<a href="./memberlist.php?mode=viewprofile&u=161439&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> M_I_S </a><strong> Posts: </strong><a href="./search.php?author_id=161439&sr=posts&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> 56 </a><strong> Joined: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  Hi dear SB  
+
+
+there is nothing to agree or disagree.  
+My decision remains firm, and if he insists that I delete the warning, he should be patient and avoid the dupe, as well as rude words and rude comments in my subtitles and profile, which confuse the downloaders and disrupt the order of the site.and learn to be good uploader too. we must respect to our thousands downloader.English section more important than other sections.
+Unfortunately, I deleted some of his comments.
+As I said before, he referred to the dear OSS and I have full permission in these cases. All the important work that is done in the English sec is done with the coordination of the head of the section(Dear Scooby 007) and in the next step with the coordination of the Dear OSS.
+And please don't continue this discussion, Trust me we can handle it.  
+Thank you for your attention, dear SB  
+Have a good weekend
+Kind Regards
+
+
+
+
+
+</div></div> <div><div>  
+<a href="./memberlist.php?mode=viewprofile&u=170255&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> class123 </a><strong> Posts: </strong><strong> Joined: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  I agree, but I already saw that M_I_S does not. I asked for help from Oss, and he told me to come right here. I was thinking for a long time because I did have high hopes of justice, as I said in the first section. If I continue to upload on this site, I have to always check the site to see if subs already exist. Is this rule now in effect? The grey area with semi-dupes still exists, and there should be some compassion when given warnings and not get angry if this happens. PS: is there a link to the rules?
+
+
+
+
+
+</div></div> <div><div>  
+ <a href="./memberlist.php?mode=viewprofile&u=27642&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> scooby007 </a><strong> Posts: </strong><a href="./search.php?author_id=27642&sr=posts&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> 806 </a><strong> Joined: </strong><strong> Location: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  All the important work that is done in the English sec is done with the coordination of the head of the section(Dear Scooby 007) and in the next step with the coordination of the Dear OSS.
+
+Guys, I'm away and really busy to respond and deal with anything. I have never agreed to users subs being deleted without comments nor for them to be deleted to be replaced by a "regular uploader!"
+
+In this case from what mrtinkles investigated, he advised the sync of MIS' subs were better so for this particular case, this should have been stated for the deletion of the sub of class123.
+
+<strong> In future, I reiterate, we cannot delete users subs without comments nor for them to be deleted for them to be replaced by a "regular uploader" unless the replacement subs are actually better. Simple.  </strong>
+
+No time for anything else, please resolve this yourselves, but when I am busy or not here, SB has always been my right hand and me his. Nothing corny.  
+I can't remember a day when I have disagreed with his logic. He reminds me of my wife. Or maybe he has the same whip my wife does.  
+Jokes aside, he can always do what I do or can in the English section. I think after over 10 years of admin service he has earned that right.
+
+For any other personal emails sent to me, I will reply when I can. 
+@ all:
+Enjoy your weekend. 
+</div></div> <div><div>  Nowadays a VPN is a must for everyone. A VPN allows you safe surfing and protects you against spying governments and companies who collect your data. Click below image for more details and reduce your online digital footprint. 
+
+
+
+
+
+
+
+</div></div> <div><div>  
+ <a href="./memberlist.php?mode=viewprofile&u=45279&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> SmallBrother </a><strong> Posts: </strong><a href="./search.php?author_id=45279&sr=posts&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> 3648 </a><strong> Joined: </strong><strong> Location: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  <strong> @M_I_S </strong>
+</div><div>  there is nothing to agree or disagree.  
+I think there is. I tried to mediate, create mutual understanding, give arguments, and come to a reasonable solution which I think both could live with.
+</div><div>  Trust me we can handle it. 
+Apparently not 
+
+In short, my solution for a better future, in favor of all, is that from now on Class123 will be a good uploader and stick to uploading rules and common sense. And from now on, you will be a good admin and stick to admin rules and common sense. That sounds fair and reasonable to me.
+Class123 agreed.
+You didn't.
+What is the problem?
+
+<strong> @Class123 </strong>
+</div></div> <div><div>  If I continue to upload on this site, I have to always check the site to see if subs already exist. Is this rule now in effect?
+This was already in effect, for a long time, for everyone 
+</div></div> <div><div>   PS: is there a link to the rules?
+You mean rules about what is a semi-dupe and what is not?
+
+We do not have a summary of exact rules and limits, this is 1. not possible and 2. not practical. But with just some common sense you will get pretty far. In my first reply post I already gave some examples. Adding a missing comma may be a valid correction, but this would be a semi-dupe. Correcting 643 OCR errors would justify a second upload. A difference in sync should be 'significant' and fit to a different release with different timing. For me personally, I use a difference of 400 ms as rough guideline, but other admins may prefer a higher or lower value.
+
+In your case, to avoid more unpleasant discussions, I would not 'search borders', but stay on the safe side and upload only if differences are very significant. If in doubt, better not upload.
+</div></div> <span><span>  Nowadays a VPN is a must for everyone. A VPN allows you safe surfing and protects you against spying governments and companies.
+<strong> I advise AirVPN </strong> - from € 2,75 per month. Click the below banner for more info.
+
+
+
+
+
+
+
+</span></span> <div><div>  
+<a href="./memberlist.php?mode=viewprofile&u=170255&sid=4aa17ce4f71393c4a240b6fb4d78852f" target="_blank"> class123 </a><strong> Posts: </strong><strong> Joined: </strong>
+</div></div> <div><ul>  <li>Quote
+
+</li></ul><div>  I'm still a little confused about my profile status; the warning is still there, as is the limitation.
+
+
+little corrections for my uploads. I haven't used MX Player in three years. At the time, I was using all Android methods to upload and edit. mxplayer upload won't work any more, at least not for me.
+
+
+suggestions to opensubtitles: admins should give uploaders the opportunity to correct uploaded subtitles if there is something wrong with them before deleting or replacing them. maybe up to a week.
+
+
+Before admis gives a warning, there should be a clear email or another contact to uploaders and explain what they are doing wrong. And if this is not working, there must be at least two admins consensus when giving warnings.
+
+
+I know this is at first more work for admins, but it's going to pay off later.
+
+Thank you for your help and time. class123
+
+
+
+
+
+</div></div> <div><label>  Display posts from previous:</label><label>  All posts</label><label>  Sort by</label><label>  Post time</label><label>  Ascending</label><div>  
+19 posts
+</div><ul>  <li>
+
+</li></ul><div>  
+
+</div><span>  
+Jump to 
+</span></div> <div><h3>  Who is online
+</h3><p>  Users browsing this forum: No registered users and 0 guests
+
+
+
+</p><ul>  <li>All times are </li></ul><span>  UTC+02:00</span></div> <div><h5>  OpenSubtitles.org Forum
+</h5><p>  Subtitles forum, problems with OpenSubtitles.org site, suggestions and development.
+
+</p></div> <div><h5>  Contact
+</h5></div> <div><h5>  All Open Subtitles
+</h5></div> <div><h5>  Social Links
+</h5><p>   You Can Find Us There:
+</p><ul>  <li>
+
+</li><li>
+
+
+
+
+
+</li></ul><div>  
+© Open Subtitles
+
+
+</div><div>   
+
+</div><div>  
+
+</div><p>  
+
+</p><div>  
+
+</div><div>  
+
+</div><div>  
+
+
+
+
+
+
+
+
+
+</div></div>

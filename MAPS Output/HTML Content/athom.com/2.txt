@@ -1,0 +1,2486 @@
+<div><div>  Cookie Policy</div><span>  This website uses cookies to ensure you get the best experience on our website. <a href="https://legal.athom.com" target="_blank"> Learn more </a></span><div>  
+
+</div><span>  
+
+</span><span>  Homey
+</span><div>  
+
+</div><div>  
+
+</div></div> <div><h3>  
+        Homey
+      
+</h3><p>  
+        A better smart home starts with Homey.
+      
+</p><span>  
+          Start for Free
+        
+</span><span>  
+          Browse apps
+        
+</span><span>  
+            Homey Bridge
+          
+</span><div>  
+            Extend Homey with local smart home technologies.
+          
+
+
+
+
+</div></div> <div><h3>  
+        Homey Pro
+      
+</h3><p>  
+        The world's most advanced smart home platform.
+      
+</p><span>  
+          Explore Homey Pro
+        
+</span><span>  
+          Browse apps
+        
+
+
+
+</span></div> <div><h4>  
+        Support
+      
+</h4><span>  
+          Need Help?
+        
+</span><span>  
+          Knowledge Base
+        
+
+
+
+
+</span><div>  
+
+</div></div> <div><h3>  
+        Homey
+      
+</h3><p>  
+        A better smart home starts with Homey.
+      
+</p><span>  
+          Start for Free
+        
+</span><div>  
+          No hardware required.
+        
+</div><span>  
+          Homey Bridge
+        
+</span><div>  
+          Extend Homey with local smart home technologies.
+        
+
+
+
+</div></div> <div><h3>  
+        Homey Pro
+      
+</h3><p>  
+        The world's most advanced smart home platform.
+      
+</p><span>  
+          Explore Homey Pro
+        
+</span><div>  
+          Upgrade your smart home.
+        
+</div><span>  
+          Buy Homey Pro
+        
+</span><div>  
+          Order now.
+        
+
+
+
+</div></div> <div><h3>  
+        Apps
+      
+</h3><p>  
+        Extend your Homey.
+      
+</p><span>  
+          Apps for Homey
+        
+</span><div>  
+          Official apps.
+        
+</div><span>  
+          Apps for Homey Pro
+        
+</span><div>  
+          Official & Community apps.
+        
+</div><label>  
+          Search
+        
+
+
+
+</label><div>  
+
+</div></div> <div><h3>  
+        Support
+      
+</h3><p>  
+        We’re here to help.
+      
+</p><span>  
+          Knowledge Base
+        
+</span><div>  
+          Everything you need to know.
+        
+</div><span>  
+          Need Help?
+        
+</span><div>  
+          Let us guide you to the answer.
+        
+
+
+
+</div></div> <div><h3>  
+          News
+        
+</h3><p>  
+          Stay up to date.
+        
+</p><span>  
+
+</span><span>  
+                    Mid June Development Blog — Homey Pro (Early 2023)
+                  
+</span><div>  
+                2 months ago
+                
+              
+
+</div><span>  
+
+</span><span>  
+                    Start of May Development Blog — Homey Pro (Early 2023) 
+                  
+</span><div>  
+                3 months ago
+                
+              
+
+</div><span>  
+
+</span></div> <div><span>  
+                    Start of April Development Blog — Homey Pro (Early 2023)
+                  
+</span><div>  
+                4 months ago
+                
+              
+
+</div><span>  All articles</span><span>  
+
+
+
+
+
+</span><span>  
+
+</span><div>  
+
+
+</div><span>  Your cart
+
+</span><p>  Let's get shopping!
+</p><span>  Browse store
+
+</span><div>  
+
+</div><div>  Shipping
+</div><div>  Free
+
+</div><div>  Total
+</div><div>  Free
+
+</div><div>  Ship to:
+
+
+
+</div><span>  Checkout
+
+
+
+
+</span><div>  
+
+
+</div></div> <div><div>  
+
+</div><span>  
+
+
+</span></div> <div><h3>  Europe
+</h3><span>  Österreich
+</span><span>  Belgique
+</span><span>  België
+</span><span>  Schweiz
+</span><span>  Suisse
+</span><span>  Svizzera
+</span><span>  Deutschland
+</span><span>  Danmark
+</span><span>  España
+</span><span>  France
+</span><span>  United Kingdom
+</span><span>  Grønland
+</span><span>  Ireland
+</span><span>  Italia
+</span><span>  Nederland
+</span><span>  Norge
+</span><span>  Polska
+</span><span>  Sverige
+
+
+</span></div> <div><h3>  North America
+</h3><span>  Canada (English)
+</span><span>  Canada (Français)
+</span><span>  México
+</span><span>  United States
+
+</span></div> <div><h3>  Oceania
+</h3><span>  Australia
+</span><span>  New Zealand
+
+
+
+
+
+
+</span><span>  Buy
+
+</span><div>  
+
+
+
+</div><div>  
+
+
+</div><div>  
+        Welcome </div><span>  !
+      
+</span><span>  My account
+</span><span>  My orders
+</span><span>  My subscriptions
+</span><span>  My backups
+</span><span>  My devices
+
+
+
+
+</span><span>  Web App</span><span>  Mobile App</span><span>  Logout
+
+
+
+
+</span><div>  
+
+
+</div><div>  No search results were found.
+</div><div>  
+
+
+
+
+
+</div><ul>  <li>Intro</li><li>Devices</li><li>Flow</li><li>Apps</li><li>Energy</li><li>Insights</li><li>Privacy</li><li>Family</li><li>Voice Assistants</li><li>Widgets</li><li>Reviews</li><li>Compare
+</li></ul></div> <div><div>  
+
+</div></div> <div><h1>  
+            Homey
+          
+</h1><p>  Control, automate and monitoryour entire smart home in one app.
+</p><p>  Discover the world's most easy to use,privacy-first smart home platform.
+<a href="" target="_blank"> 
+            Start for Free
+           </a>
+
+</p><div>  
+
+
+
+
+</div><div>  
+
+</div></div> <div><h4>  Homey
+</h4><p>  
+                Free up to 5 devicesThen </p><span>  $ 2.99/mo
+
+
+
+</span><div>  
+
+</div></div> <div><h4>  Homey Bridge
+</h4><p>  
+                Sold separately for </p><span>  $ 69
+
+
+
+
+
+
+
+
+</span></div> <div><h1>  
+            Homey Pro
+          
+</h1><p>  
+            The world's most advancedsmart home platform.
+          
+</p><p>  Everything local. No subscriptions.Uncompromised performance.
+<a href="https://homey.app/en-us/homey-pro/" target="_blank"> 
+            Buy Homey Pro
+           </a>
+
+</p><div>  
+
+
+
+
+</div><div>  
+
+</div></div> <div><h4>  
+                Homey Pro
+              
+</h4><p>  
+                One-time </p><span>  $ 399
+
+
+
+
+
+
+
+</span><div>  
+
+
+</div><div>  
+
+</div><span>  Compare</span><span>  
+
+
+</span><div>  
+
+
+
+
+</div><div>  
+
+</div></div> <div><h1>  Homey
+</h1><p>  Control, automate and monitoryour entire smart home in one app.
+</p><p>  
+          Start for free. Upgrade to Premium for </p><span>  $ 2.99/mo. Extend with Homey Bridge for </span><span>  $ 69.
+        
+<a href="" target="_blank"> 
+          Get the App
+         </a>
+
+
+</span><div>  
+
+
+
+
+</div><div>  
+
+</div></div> <div><h1>  Homey Pro
+</h1><p>  The world's most advancedsmart home platform.
+</p><p>  
+          Everything local. No subscriptions.One-time purchase at </p><span>  $ 399. 
+        
+<a href="https://homey.app/en-us/homey-pro/" target="_blank"> 
+          Explore Homey Pro
+         </a>
+
+
+
+
+</span><div>  
+
+</div><p>  
+      Scroll to discover all about Homey.
+    
+</p><div>  
+
+</div><p>  Got three minutes?
+</p><span>  
+        Watch the video</span><span>  
+
+
+
+</span></div> <div><h2>  
+      Control all your devices from your phone, tablet or desktop.
+
+</h2></div> <div><h3>  Your entire smart home in one place.
+</h3><p>  Access Homey from anywhere in the world and control all your devices from one central place.
+</p><div>  
+
+</div><div>  Philips Hue Go
+
+
+</div><div>  
+
+</div><div>  Fibaro Motion Sensor
+
+
+</div><div>  
+
+</div><div>  Plugwise Energy Monitor
+
+
+</div><div>  
+
+</div><div>  Sonos One
+
+
+</div><div>  
+
+</div><div>  IKEA Trådfri E27
+
+
+</div><div>  
+
+</div><div>  Rituals Perfume Genie
+
+
+</div><div>  
+
+</div><div>  Honeywell Thermostat
+
+
+</div><div>  
+
+</div></div> <div><div>  Netatmo Home Coach
+
+
+</div><div>  
+
+</div><div>  Nuki Smart Lock
+
+
+
+
+
+
+
+
+</div></div> <div><h3>  Beautiful controls for any device.
+</h3><p>  Great looking controls for all devices, no matter the brand. Make it a joy to play with your smart home.
+
+</p><span>  
+
+</span><div>  
+
+
+</div><div>  
+
+
+</div><div>  Thermostat
+</div><span>  
+
+
+</span><span>  17.0º
+</span><span>  Cooling down towards
+</span><span>  Heating towards
+
+
+</span><span>  19.5º
+</span><span>  Current temperature
+
+
+
+
+
+</span><div>  
+
+
+</div><div>   Light
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div></div> <div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+
+
+
+
+
+</div><div>  
+
+
+</div><div>   Sensors
+</div><div>  21.6 ºC
+</div><div>  Temperature
+
+</div><div>  498 ppm
+</div><div>  CO2
+
+</div><div>  57 %
+</div><div>  Humidity
+
+</div><div>  43 dB
+</div><div>  Noise
+
+</div><div>  1006 mbar
+</div><div>  Pressure
+
+</div><div>  Yes
+</div><div>  Motion Alarm
+
+
+
+
+
+
+</div><div>  
+
+
+</div><div>   Lock
+
+
+
+
+
+</div><div>  
+
+</div><div>  Media
+</div><div>  Nelis Young
+</div><div>  Better Together
+</div><span>  
+
+
+
+
+
+
+</span></div> <div><div>  
+
+
+</div><div>   Plugs
+
+
+
+
+
+</div><div>  
+
+
+</div><div>   Blinds
+</div><div>  
+
+
+
+
+
+
+
+
+
+
+</div><ul>  <li>
+
+
+
+
+</li></ul></div> <div><h3>  Pair and Play.
+</h3><p>  Homey automatically detects most of your devices at home. Simply search for your brand, press a button or two — and you're ready to play.
+</p><div>  
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div></div> <div><div>  
+
+
+
+
+
+
+
+
+
+
+
+</div><div>  
+
+</div></div> <div><h2>  Automate just about anything with Flow.
+</h2></div> <div><h3>  Your home.Your rules.
+</h3><p>  Flows are your superpower to automate your entire home. Simply mix and match the right Flow cards to create something new.
+
+</p><div>  
+
+</div><span>  When...
+</span><div>  
+
+</div><div>  Xiaomi Door Sensor
+</div><div>  The door opens
+
+</div><div>  
+
+
+</div><span>  And...
+</span><div>  
+
+</div><div>  Date & Time
+</div><div>  It's after sunset
+
+</div><div>  
+
+
+</div><span>  Then...
+</span><div>  
+
+</div><div>  Philips Hue Light
+</div><div>  Turn on
+
+</div><div>  
+
+
+</div></div> <div><span>  
+
+</span><div>  
+
+
+
+
+
+</div></div> <div><h3>  There’s a Flow card for that.
+</h3><p>  Every device and app adds new Flow cards to the mix. All it takes to automate your home is selecting the right cards for your use case.
+
+</p><div>  
+
+
+
+</div></div> <div><h3>  Customize your Flow cards.
+</h3><p>  Your home is unique, and so are your Flows. Customize any Flow card to fit your exact needs.
+
+</p><div>  
+
+</div><div>  
+
+</div><div>  
+
+</div><div>  Spotify 
+</div><div>  Play a playlist  
+        </div><span>  ...
+</span><span>  Playlist
+</span><div>  
+
+</div><span>  
+
+</span><span>  Easy on Sunday
+
+</span><div>  
+
+</div><span>  Today’s hits
+
+</span><div>  
+
+</div><span>  Songs to sing in the car
+
+</span><div>  
+
+</div><span>  Tropical vibes
+
+
+
+
+
+</span></div> <div><span>  
+
+
+</span><div>  
+
+
+
+
+</div><div>  
+
+</div><div>  Speech
+</div><div>  Say 
+        </div><span>  text
+</span><span>  
+
+</span><span>  
+
+
+</span><span>  Local Tags
+</span><span>  Name</span><span>  e.g. John Doe
+</span><div>  Weather
+</div><span>  Weather</span><span>  Clouds
+</span><span>  Temperature (Cº)</span><span>  21,5
+</span><span>  Humidity (%)</span><span>  86
+</span><span>  Pressure (bar)</span><span>  1021
+
+
+
+</span><span>  
+
+
+</span><div>  
+
+
+
+
+</div><div>  
+
+</div><div>  Philips Hue Bloom
+</div></div> <div><div>  Set the brightness to  
+        </div><span>  Brightness
+</span><span>  Brightness
+
+
+
+</span><span>  
+
+
+</span><div>  
+
+
+
+
+
+
+</div></div> <div><h3>  Everyday Flows from Homey users.
+</h3><div>  
+
+</div><div>  
+
+</div></div> <div><h2>  My Sonos does more than play music.
+</h2><div>  
+
+</div><span>  Story by Victor H.
+
+
+
+
+
+</span><div>  
+
+</div></div> <div><h2>  Just a simple Flow for my peace of mind.
+</h2><div>  
+
+</div><span>  Story by Alexander S.
+
+
+
+
+
+</span><div>  
+
+</div></div> <div><h2>  Yep, I’m in a wheelchair.
+</h2><div>  
+
+</div><span>  Story by Véronique R.
+
+
+
+
+
+</span><div>  
+
+</div></div> <div><h2>  For me saving energy is just another extra.
+</h2><div>  
+
+</div><span>  Story by Janny R.
+
+
+
+
+
+</span><div>  
+
+</div></div> <div><h2>  I have a Flow called Sexy Time.
+</h2><div>  
+
+</div><span>  Story by Anonymous
+
+
+
+
+
+
+</span><ul>  <li>
+
+</li></ul><div>  
+
+
+
+
+
+
+</div><span>  
+
+</span><div>  
+
+</div><div>  
+
+
+</div></div> <div><h3>  My Sonos does more than play music.
+</h3><p>  “I work upstairs, so I created a Flow to play a doorbell sound on my Sonos speakers when the doorbell rings. My LIFX also blinks shortly, for when I'm listening with headphones.”</p><div>  
+<strong> Victor H. </strong>
+</div><span>  Denmark
+
+
+</span><span>  When...
+</span><div>  
+
+</div><div>  Netatmo — Front Door
+</div><div>  The doorbell rings
+
+</div><div>  
+
+</div><span>  Then...
+</span><div>  
+
+</div><div>  Sonos — Office
+</div><div>  Play <strong> doorbell </strong> sound
+
+</div></div> <div><div>  
+
+</div><div>  
+
+</div><div>  LIFX Candle — Office
+</div><div>  Blink the lights
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+</div></div> <div><h3>  Just a simple Flow for my peace of mind.
+</h3><p>  “As a filmmaker, I’ve got a lot of valuable stuff at home. Although it’s safely stored, I still want to receive a message when someone enters my home when I’m not there.”</p><div>  
+<strong> Alexander S. </strong>
+</div><span>  Sweden
+
+
+</span><span>  When...
+</span><div>  
+
+</div><div>  Fibaro Motion Sensor - Hallway
+</div><div>  Motion is detected
+
+</div><div>  
+
+</div><span>  And...
+</span><div>  
+
+</div><div>  Presence
+</div><div>  Nobody is home
+
+</div></div> <div><div>  
+
+</div><span>  Then...
+</span><div>  
+
+</div><div>  Push Notification
+</div><div>  Send <strong> suspicious movement detected! </strong> to  
+    
+<strong> Alexander </strong>
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+</div></div> <div><h3>  Yep, I’m in a wheelchair.
+</h3><p>  “After my car accident, many daily tasks became quite challenging. Being able to control everything in and around the house from my phone is a lifesaver for me. One of many everyday examples, is that I don’t struggle anymore to open the curtains.”</p><div>  
+<strong> Véronique R. </strong>
+</div><span>  France
+
+
+</span><span>  When...
+</span><div>  
+
+</div><div>  Date & Time
+</div><div>  It's after sunrise
+
+</div><div>  
+
+</div><span>  Then...
+</span><div>  
+
+</div></div> <div><div>  Somfy Smart Curtains — Living Room
+</div><div>  Open the curtains
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+</div></div> <div><h3>  For me saving energy is just another extra
+</h3><p>  “I bought Homey to create cozy moods for when my friends come over. But now that I have it, I’m discovering more possibilities every day. With just a simple Flow I’m always sure that my devices are turned off when I leave home.”</p><div>  
+<strong> Janny R. </strong>
+</div><span>  United Kingdom
+
+
+</span><span>  When...
+</span><div>  
+
+</div><div>  Presence
+</div><div>  The last person leaves home
+
+</div><div>  
+
+</div><span>  Then...
+</span></div> <div><div>  
+
+</div><div>  Home
+</div><div>  Turn <strong> All Devices </strong> off
+
+</div><div>  
+
+</div><div>  
+
+</div><div>  Anna Thermostat
+</div><div>  Set the temperature to <strong> 16ºC </strong>
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+</div></div> <div><h3>  I have a Flow called Sexy Time.
+</h3><p>  “Does this really need an explanation?”</p><div>  
+<strong> Anonymous </strong>
+</div><span>  The Netherlands
+
+
+</span><span>  When...
+</span><div>  
+
+</div><div>  Aqara Wireless Mini Switch — Bedroom
+</div><div>  The button is pushed
+
+</div><div>  
+
+</div><span>  Then...
+</span><div>  
+
+</div><div>  Sonos One — Bedroom
+</div><div>  Play <strong> You Can Leave Your Hat On </strong>
+
+</div><div>  
+
+</div><div>  
+
+</div><div>  Philips Hue GU10 — Bedroom
+</div></div> <div><div>  Set color to  </div><span>  
+
+</span><div>  
+
+</div><div>  
+
+</div><div>  Rituals Perfume Diffuser — Bedroom
+</div><div>  Turn on
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+</div><span>  
+
+
+
+
+</span><div>  
+
+</div><div>  
+
+</div></div> <div><h2>  Start Today.
+</h2></div> <div><h4>  It's Free!
+</h4><div>  
+
+</div><p>  Download the app and experience Homey for yourself. You can start for free, after all.
+</p><div>  
+
+
+
+</div><div>  
+
+
+
+
+
+</div><div>  
+
+</div></div> <div><h2>  750+ apps let you do more with Homey.
+</h2><div>  
+
+</div><div>  line
+</div><div>  app
+</div><div>  line
+</div><div>  flow
+
+</div><div>  line
+</div><div>  device
+</div><div>  line
+</div><div>  flow
+
+</div><div>  line
+</div><div>  device
+</div><div>  line
+</div><div>  flow
+
+
+
+
+
+
+</div><div>  line
+</div><div>  app
+</div><div>  line
+</div><div>  flow
+
+
+
+
+
+
+</div><div>  line
+</div><div>  app
+</div><div>  line
+</div><div>  device
+</div><div>  line
+</div><div>  flow
+
+</div><div>  line
+</div><div>  device
+</div></div> <div><div>  line
+</div><div>  flow
+
+</div><div>  line
+</div><div>  device
+</div><div>  line
+</div><div>  flow
+
+
+
+
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+
+</div><div>  586 W
+
+</div><div>  Fibaro Wall Plug
+
+
+</div><span>  
+
+</span><div>  Fibaro Motion Sensor
+
+
+</div><span>  
+
+</span><div>  Fibaro Smoke Sensor
+
+
+</div><span>  
+
+</span><div>  Philips Hue Bloom
+
+
+</div><span>  
+
+</span><div>  Philips Hue White & Color
+
+
+
+</div><div>  
+
+</div><div>  Fibaro Wall Plug
+</div><div>  The power changed
+
+</div></div> <div><div>  
+
+
+</div><div>  
+
+</div><div>  Fibaro Motion Sensor
+</div><div>  The luminance changed
+
+</div><div>  
+
+
+</div><div>  
+
+</div><div>  Fibaro Smoke Sensor
+</div><div>  The smoke alarm turned on
+
+</div><div>  
+
+
+</div><div>  
+
+</div><div>  Twitter
+</div><div>  Tweet 
+        </div><span>  Status
+</span><span>  
+
+
+</span><div>  
+
+
+</div><div>  
+
+</div><div>  Philips Hue Bloom
+</div><div>  Set the color to 
+        </div><span>  ...
+</span><span>  
+
+
+</span><div>  
+
+
+</div><div>  
+
+</div><div>  Philips Hue White & Color
+</div></div> <div><div>  Blink the light
+
+</div><div>  
+
+
+</div><div>  
+
+</div><div>  Philips Hue
+</div><div>  Set the scene to 
+        </div><span>  Scene
+</span><span>  
+
+
+</span><div>  
+
+
+
+
+
+
+</div><div>  
+
+</div></div> <div><h3>  Extend Homey by installing apps.
+</h3><p>  Apps can be installed on Homey, just like you do on a smartphone.
+
+</p><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div></div> <div><h3>  Every brand has its own app.
+</h3><p>  Apps teach Homey how to talk to the devices of that brand. Apps also add Flow cards for new functionality.
+
+</p><span>  
+
+</span><div>  Philips Hue Iris
+
+
+</div><span>  
+
+</span><div>  Philips Hue White & Color
+
+
+</div><div>  
+
+</div><div>  Philips Hue Motion Sensor
+
+
+
+</div></div> <div><h3>  New Apps.New functionality.
+</h3><p>  Apps are updated often, and new apps ensure a future full of new functionality.
+</p><div>  
+
+</div><div>  Philips Hue Iris — Living Room
+</div><div>  Dim to <strong> 80% </strong>
+
+</div><div>  
+
+</div><div>  
+
+</div><div>  Philips Hue Iris — Living Room
+</div><div>  Blink the lights
+
+</div><div>  
+
+</div><div>  
+
+</div><div>  Philips Hue Iris — Living Room
+</div><div>  Set color to 
+        </div><span>  
+
+
+</span><div>  
+
+
+
+
+</div></div> <div><h3>  Find all apps in the Homey App Store
+</h3><p>  The Homey App Store offers apps for all the brands you love. Not only for your smart home devices, but also services like Twitter and Discord.
+</p><span>  Store
+              </span><div>  Popular apps
+</div><ul>  <li>
+
+</li><li>Philips Hue
+</li></ul><div>  Transform the way you experience light
+
+</div><ul>  <li>
+
+</li><li>Fibaro
+</li></ul><div>  Your home is your castle
+
+</div><ul>  <li>
+
+</li><li>IKEA Trådfri
+</li></ul><div>  Create the right atmosphere for every mood
+
+</div></div> <div><ul>  <li>
+
+</li><li>Sonos
+</li></ul><div>  A Better Way to Listen
+
+</div><ul>  <li>
+
+</li><li>HomeyScript
+</li></ul><div>  Script your Home
+
+
+
+</div><div>  Top 5 security
+</div><ul>  <li>
+
+</li><li>Nuki
+</li></ul><div>  Keyless electronic door lock for smart access
+
+</div><ul>  <li>
+
+</li><li>Danalock
+</li></ul><div>  Let Homey control your Danalock locks
+
+</div><ul>  <li>
+
+</li><li>Eufy Security
+</li></ul><div>  Smart Home Simplified
+
+</div><ul>  <li>
+
+</li><li>Frient
+</li></ul><div>  High-quality sensors, alarms, and smart plugs
+
+</div></div> <div><ul>  <li>
+
+</li><li>Foscam
+</li></ul><div>  Away from home, close to home
+
+
+
+
+</div><div>  Staff picks
+</div><ul>  <li>
+
+</li><li>Spotify
+</li></ul><div>  Listening is everything
+
+</div><ul>  <li>
+
+</li><li>Tibber
+</li></ul><div>  Be in charge of your household energy
+
+</div><ul>  <li>
+
+</li><li>INNR
+</li></ul><div>  Anyone can be smart with Innr - The Comfort of Smart lighting for Everyone.
+
+</div><ul>  <li>
+
+</li><li>Aqara & Xiaomi
+</li></ul><div>  A different kind of Smart Home solution
+
+</div></div> <div><ul>  <li>
+
+</li><li>Google Chromecast
+</li></ul><div>  A smart way to stream your content
+
+
+
+</div><div>  Top 5 Climate
+</div><ul>  <li>
+
+</li><li>Netatmo
+</li></ul><div>  Same home, just smarter.
+
+</div><ul>  <li>
+
+</li><li>tado°
+</li></ul><div>  Adds support for tado°
+
+</div><ul>  <li>
+
+</li><li>Rituals...
+</li></ul><div>  Your home never smelled smarter.
+
+</div><ul>  <li>
+
+</li><li>Heatit Z-Wave
+</li></ul><div>  Innovative range of heating control products for smart homes.
+
+</div><ul>  <li>
+
+</li><li>Danfoss
+</li></ul></div> <div><div>  Danfoss products support for Homey
+
+
+
+
+
+
+
+</div><ul>  <li>
+
+
+
+
+
+</li></ul><div>  
+
+</div></div> <div><h2>  Real-time insight into your energy usage.
+</h2></div> <div><h2>  
+          Save energy without changing habits.
+        
+</h2><p>  With Homey's detailed energy monitoring, you can save money on your electricity bill and live more sustainably in one go. Combine with Flow to automatically turn off all devices when the last person left the house.
+</p></div> <div><h5>  Solar Panels</h5><p>  When you have solar panels, the outer ring shows their energy yield, relative to your home's usage.
+</p></div> <div><h5>  Smart Meter</h5><p>  When you have a smart meter, Homey calculates what you're not measuring yet. Very useful to find all standby consumers.
+
+
+</p><div>  
+
+</div><div>  
+
+
+</div><span>  241<sup>  W </sup>
+</span><span>  Living Room
+</span><span>  600<sup>  W </sup>
+
+
+
+
+</span><ul>  <li>Solar Panels
+</li></ul><span>  195
+
+
+</span><ul>  <li>Living Room
+</li></ul><span>  241
+</span><ul>  <li>Kitchen
+</li></ul><span>  193
+</span><ul>  <li>Utilities
+</li></ul><span>  87
+</span><ul>  <li>Dining
+</li></ul></div> <div><span>  54
+</span><ul>  <li>Hallway
+</li></ul><span>  25
+
+
+</span><ul>  <li>Other
+</li></ul><span>  325
+
+
+
+
+
+
+</span><div>  
+
+</div></div> <div><h3>  Measuring your energy usage.
+
+
+</h3></div> <div><h4>  Smart Plugs
+</h4><p>  Smart plugs measure any device’s energy usage by placing it between the power socket and the device. Smart plugs can be used for single devices or device groups.
+
+
+</p><div>  
+
+</div><div>  
+
+</div><div>  Fibaro Smart plug
+
+
+
+
+
+</div><div>  
+
+
+
+
+
+</div></div> <div><h4>  Approximations
+</h4><p>  Homey knows in realtime when a device is turned on and off. When it also knows the device's standby- and on-usage, Homey can approximate the energy usage through interpolation.
+
+</p><div>  
+
+</div><span>  6.5
+
+</span><small>  off
+                  0.5
+
+</small><span>  
+
+</span><div>  Philips Hue Iris
+
+
+</div><small>  on
+                  12.5
+
+
+
+
+
+
+</small><div>  
+
+
+
+</div><div>  
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+
+
+</div></div> <div><h3>  Never run out of batteries again.
+</h3><p>  All battery-powered devices are listed with their realtime status and battery model in the Homey app. Automatically get notified when your device almost runs out of batteries, and know which ones to get.
+
+</p><div>  Fibaro Keyfob
+</div><div>  1x CR2450 
+
+</div><div>  
+                10%
+               </div><div>  
+
+
+</div><div>  Fibaro Motion Sensor
+</div><div>  1x CR123A 
+
+</div><div>  
+                42%
+               </div><div>  
+
+
+</div><div>  Ikea Dimmmer
+</div></div> <div><div>  1x CR2032 
+
+</div><div>  
+                86%
+               </div><div>  
+
+
+</div><div>  Spirit Thermostat
+</div><div>  2x AA 
+
+</div><div>  
+                100%
+               </div><div>  
+
+
+
+
+
+
+
+</div><div>  
+
+</div></div> <div><h2>  Monitor your home with Homey Insights.
+
+</h2></div> <div><h3>  Your home in charts.
+</h3><p>  Your devices gather a lot of valuable information. Homey Insights collects this data and beautifully presents it in one place.
+</p><span>  Netatmo Station
+
+</span><span>  Weather Outside
+
+
+</span><div>  
+
+
+
+</div><div>  15 Aug 2023 9:08
+</div><span>  22.1
+</span><span>  Netatmo Station
+
+</span><span>  20.9
+</span><span>  Weather Outside
+
+
+</span><div>  
+
+
+</div><div>  Netatmo Station </div><span>  Living Room
+</span><span>   Temperature
+            
+</span><div>  Weather Outside
+</div></div> <div><span>   Temperature
+            
+
+
+
+
+
+
+</span></div> <div><h3>  Knowledge is power.
+</h3><p>  Use Insights to save energy, improve the air quality, or even to nurture your plants better.However you plan to use Insights, you'll know you've got all the data.
+</p><div>  
+
+</div><span>  Thermostat </span><span>  Kitchen
+</span><ul>  <li>Battery</li><li>Luminance</li><li>Temperature
+
+
+</li></ul><span>  Motion Sensor </span><span>  Hallway
+</span><ul>  <li>Air pressure</li><li>Humidity</li><li>Temperature
+
+
+</li></ul><span>  Netatmo </span><span>  Living Room
+</span></div> <div><ul>  <li>CO2</li><li>Humidity</li><li>Noise</li><li>Pressure</li><li>Temperature</li><li>Power Usage
+
+
+
+
+</li><li>
+
+
+
+
+</li><li>Temperature
+</li><li>UV Strength
+</li><li>CO
+</li><li>Power
+</li><li>Luminance
+</li><li>Heat
+</li><li>Impact
+</li><li>Noise
+</li><li>Pressure
+</li><li>CO2
+</li><li>Smoke
+</li><li>Gas
+</li><li>Battery
+</li><li>Humidity
+</li><li>Wind Angle
+</li><li>Wind Strength
+</li><li>Rain
+
+</li><li>Temperature
+</li><li>UV Strength
+</li><li>CO
+</li><li>Power
+</li><li>Luminance
+</li><li>Heat
+</li></ul></div> <div><ul>  <li>Impact
+</li><li>Noise
+</li><li>Pressure
+</li><li>CO2
+</li><li>Smoke
+</li><li>Gas
+</li><li>Battery
+</li><li>Humidity
+</li><li>Wind Angle
+</li><li>Wind Strength
+</li><li>Rain
+
+
+
+
+
+
+
+</li></ul></div> <div><h2>  Privacy is built in. Secure by design.
+</h2><span>  1
+</span></div> <div><h4>  Your data is not our business.
+</h4><p>  We don’t sell data nor serve ads. Your data is yours. Always.
+
+
+</p><span>  2
+</span></div> <div><h4>  Intruders are kept outside.
+</h4><p>  Sandboxed Apps, Penetration Tests and Bug Bounties help ensure your home’s security.
+
+
+</p><span>  3
+</span></div> <div><h4>  Simply an honest purchase.
+</h4><p>  Asking money challenges us to create the best product for you. It's that simple.
+
+
+
+
+
+
+
+</p></div> <div><h2>  A Full House. With Family Sharing.
+</h2></div> <div><h3>  Users & Roles.
+</h3><p>  Assign family members and friends as manager, user or guest to determine who controls what — and when.You can even create Flows to grant temporary access to guests — for example when you're on holiday, or for a cleaner.
+</p><div>  
+
+
+</div><div>  Dad
+</div><div>  Owner
+
+</div><div>  
+
+
+</div><div>  Mom
+</div><div>  Manager
+
+</div><div>  
+
+
+</div><div>  Daughter
+</div><div>  User
+
+</div><div>  
+
+
+</div><div>  Son
+</div><div>  User
+
+</div><div>  
+
+
+</div><div>  Housemaid
+</div></div> <div><div>  Guest
+
+
+
+
+
+
+
+</div><div>  
+
+</div></div> <div><h2>  Start Flows from anywhere. Anytime. Anyplace.
+
+
+</h2></div> <div><h3>  Upgrade your voice assistant.
+</h3><p>  Voice assistants are great, but they can be limited. Connecting Homey lets you start Flows, and control many more devices.
+</p><div>  
+
+</div><div>  
+
+
+
+</div><span>  
+
+
+
+</span><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+</div><div>  
+
+
+
+
+
+
+
+</div></div> <div><h3>  Widgets for iOS and Android.
+</h3><p>  Your favorite Flows in widgets on both Android and iOS. You can even use Siri Shortcuts to start favorite Flows through HomePod with your voice.
+</p><div>  
+
+</div><div>  Security mode 👾
+
+</div><div>  
+
+</div><div>  BBQ
+
+</div><div>  
+
+</div><div>  
+
+</div><div>  Cocktail time 🍹
+
+</div><div>  
+
+</div><div>  
+
+</div><div>  
+
+
+</div><div>  
+
+  
+                Favorite flows
+              
+</div><div>  
+
+</div><div>  Movie time 🍿
+</div><div>  
+
+</div><div>  Cozy mood ✨
+</div></div> <div><div>  
+
+</div><div>  Good morning 🌅
+</div><div>  
+
+</div><div>  Good night 🌙
+
+
+
+
+
+
+
+</div></div> <div><h3>  Start favorite Flows with Apple Watch.
+</h3><p>  Your favorite Flows are just a tap away on Apple Watch. James Bond would be jealous.
+</p><div>  
+
+</div><div>  
+          Homey
+        
+</div><div>  
+          15:00
+         
+
+</div><div>  Party time 🎉
+</div><div>  Movie time 🍿
+</div><div>  Cozy mood ✨
+</div><div>  Good morning 🌅
+</div><div>  Good night 🌙
+</div><div>  Security mode 👾
+
+
+
+
+
+
+
+
+
+</div><div>  
+
+</div></div> <div><h2>  Proud to be in 200.000+ happy homes.
+</h2></div> <div><h3>  Pure delight</h3><p>  Coming from Home Assistant, this is pure delight. No more corrupt SD cards or endless fiddling with my Raspberry Pi to get it right.</p><span>  — Peter P.</span><span>  
+
+              Reviewed on App Store
+            
+</span></div> <div><h3>  Very satisfied</h3><p>  I've had Homey Pro for almost a year now and I'm very satisfied! Simply great, many devices are integrated and easy to use. I'm not the great programmer, so at this point a big thank you to EVERYONE who is involved and who keep everything up to date. Thank you !!!</p><span>  — Spirit12</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Good compatibility</h3><p>  Very good compatibility of the Homey Pro with the different protocols.</p><span>  — Cyril Frostat</span><span>  
+
+              Reviewed on Trustpilot
+            
+</span></div> <div><h3>  Simple & Advanced</h3><p>  Simple and easy-to-use home automation. Despite the simplicity, the possibility of advanced control has not been missed. Can be used to turn on/off lamps as well as to optimise electricity use and heating.</p><span>  — Anonymous</span><span>  
+
+              Reviewed on Trustpilot
+            
+</span></div> <div><h3>  Saved my basement</h3><p>  Homey and Fibaro Flood Sensor saved my basement this weekend when the washing machine was not correctly closed. Got the alarm on Homey.</p><span>  — Carsten S.</span><span>  
+
+              Reviewed on App Store
+            
+</span></div> <div><h3>  Works fantastic</h3><p>  Works absolutely fantastically well and in general I am super happy with both the app and Homey Pro Well done 👍</p><span>  — Jan German</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Connects all systems</h3><p>  Great when it comes to connecting all systems (KNX, Philips Hue, Ikea, Daiking etc.)</p><span>  — Harald Wurzer</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Very easy</h3><p>  Very easy to add devices and Flows, 5 stars from me.</p><span>  — Chris Gullvang</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Reliable System</h3><p>  Reliable System, almost 3 years of running time now, without any hick-ups or bugs. It controls/monitors approx. 50 led-lights and 30 pc of other hardware (switches, sensors, thermostats etc.)</p><span>  — Simen Ringstad</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Perfect</h3><p>  Perfect product for controlling the home.</p><span>  — Gunnar Mosling</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Homey is King</h3><p>  Had Homey for a week or so, and gotta say - this is the king, the champion and industry-leader of smart home systems. Beats both my previous systems (Norwegian Company Futurehome, and Smartthings) in reliability, responsiveness and general user experience. Even at 125 units (and counting) it just works… and the ‘death star’ is even a centrepiece on my tv-shelf.</p><span>  — Ørjan A Nielsen</span><span>  
+
+              Reviewed on App Store
+            
+</span></div> <div><h3>  Addicted</h3><p>  Homey really got me addicted to smart home. Always on the lookout for new smart home products since I bought Homey.</p><span>  — Kyle P.</span><span>  
+
+              Reviewed on Play Store
+            
+
+</span></div> <div><h3>  Pure delight</h3><p>  Coming from Home Assistant, this is pure delight. No more corrupt SD cards or endless fiddling with my Raspberry Pi to get it right.</p><span>  — Peter P.</span><span>  
+
+              Reviewed on App Store
+            
+</span></div> <div><h3>  Very satisfied</h3><p>  I've had Homey Pro for almost a year now and I'm very satisfied! Simply great, many devices are integrated and easy to use. I'm not the great programmer, so at this point a big thank you to EVERYONE who is involved and who keep everything up to date. Thank you !!!</p><span>  — Spirit12</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Good compatibility</h3><p>  Very good compatibility of the Homey Pro with the different protocols.</p><span>  — Cyril Frostat</span><span>  
+
+              Reviewed on Trustpilot
+            
+</span></div> <div><h3>  Simple & Advanced</h3><p>  Simple and easy-to-use home automation. Despite the simplicity, the possibility of advanced control has not been missed. Can be used to turn on/off lamps as well as to optimise electricity use and heating.</p><span>  — Anonymous</span><span>  
+
+              Reviewed on Trustpilot
+            
+</span></div> <div><h3>  Saved my basement</h3><p>  Homey and Fibaro Flood Sensor saved my basement this weekend when the washing machine was not correctly closed. Got the alarm on Homey.</p><span>  — Carsten S.</span><span>  
+
+              Reviewed on App Store
+            
+</span></div> <div><h3>  Works fantastic</h3><p>  Works absolutely fantastically well and in general I am super happy with both the app and Homey Pro Well done 👍</p><span>  — Jan German</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Connects all systems</h3><p>  Great when it comes to connecting all systems (KNX, Philips Hue, Ikea, Daiking etc.)</p><span>  — Harald Wurzer</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Very easy</h3><p>  Very easy to add devices and Flows, 5 stars from me.</p><span>  — Chris Gullvang</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Reliable System</h3><p>  Reliable System, almost 3 years of running time now, without any hick-ups or bugs. It controls/monitors approx. 50 led-lights and 30 pc of other hardware (switches, sensors, thermostats etc.)</p><span>  — Simen Ringstad</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Perfect</h3><p>  Perfect product for controlling the home.</p><span>  — Gunnar Mosling</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Homey is King</h3><p>  Had Homey for a week or so, and gotta say - this is the king, the champion and industry-leader of smart home systems. Beats both my previous systems (Norwegian Company Futurehome, and Smartthings) in reliability, responsiveness and general user experience. Even at 125 units (and counting) it just works… and the ‘death star’ is even a centrepiece on my tv-shelf.</p><span>  — Ørjan A Nielsen</span><span>  
+
+              Reviewed on App Store
+            
+</span></div> <div><h3>  Addicted</h3><p>  Homey really got me addicted to smart home. Always on the lookout for new smart home products since I bought Homey.</p><span>  — Kyle P.</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Pure delight</h3><p>  Coming from Home Assistant, this is pure delight. No more corrupt SD cards or endless fiddling with my Raspberry Pi to get it right.</p><span>  — Peter P.</span><span>  
+
+              Reviewed on App Store
+            
+</span></div> <div><h3>  Very satisfied</h3><p>  I've had Homey Pro for almost a year now and I'm very satisfied! Simply great, many devices are integrated and easy to use. I'm not the great programmer, so at this point a big thank you to EVERYONE who is involved and who keep everything up to date. Thank you !!!</p><span>  — Spirit12</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Good compatibility</h3><p>  Very good compatibility of the Homey Pro with the different protocols.</p><span>  — Cyril Frostat</span><span>  
+
+              Reviewed on Trustpilot
+            
+</span></div> <div><h3>  Simple & Advanced</h3><p>  Simple and easy-to-use home automation. Despite the simplicity, the possibility of advanced control has not been missed. Can be used to turn on/off lamps as well as to optimise electricity use and heating.</p><span>  — Anonymous</span><span>  
+
+              Reviewed on Trustpilot
+            
+</span></div> <div><h3>  Saved my basement</h3><p>  Homey and Fibaro Flood Sensor saved my basement this weekend when the washing machine was not correctly closed. Got the alarm on Homey.</p><span>  — Carsten S.</span><span>  
+
+              Reviewed on App Store
+            
+</span></div> <div><h3>  Works fantastic</h3><p>  Works absolutely fantastically well and in general I am super happy with both the app and Homey Pro Well done 👍</p><span>  — Jan German</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Connects all systems</h3><p>  Great when it comes to connecting all systems (KNX, Philips Hue, Ikea, Daiking etc.)</p><span>  — Harald Wurzer</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Very easy</h3><p>  Very easy to add devices and Flows, 5 stars from me.</p><span>  — Chris Gullvang</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Reliable System</h3><p>  Reliable System, almost 3 years of running time now, without any hick-ups or bugs. It controls/monitors approx. 50 led-lights and 30 pc of other hardware (switches, sensors, thermostats etc.)</p><span>  — Simen Ringstad</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Perfect</h3><p>  Perfect product for controlling the home.</p><span>  — Gunnar Mosling</span><span>  
+
+              Reviewed on Play Store
+            
+</span></div> <div><h3>  Homey is King</h3><p>  Had Homey for a week or so, and gotta say - this is the king, the champion and industry-leader of smart home systems. Beats both my previous systems (Norwegian Company Futurehome, and Smartthings) in reliability, responsiveness and general user experience. Even at 125 units (and counting) it just works… and the ‘death star’ is even a centrepiece on my tv-shelf.</p><span>  — Ørjan A Nielsen</span><span>  
+
+              Reviewed on App Store
+            
+</span></div> <div><h3>  Addicted</h3><p>  Homey really got me addicted to smart home. Always on the lookout for new smart home products since I bought Homey.</p><span>  — Kyle P.</span><span>  
+
+              Reviewed on Play Store
+            
+
+
+</span><span>  
+
+
+
+</span></div> <div><h2>  Choose your Homey.
+</h2><p>  Whether you prefer a subscription or a one-time purchase,there's always a Homey for you.
+</p></div> <div><h3>  Homey
+
+</h3><span>  $ 2.99/mo
+
+</span></div> <div><h3>  Homey Pro
+
+</h3><span>  $ 399
+
+
+</span><span>  Connect 50.000+ devices
+
+</span><span>  Connect 50.000+ devices
+
+
+</span><span>  Mobile App
+
+</span><span>  Mobile App
+
+
+</span><span>  Web App
+
+</span><span>  Web App
+
+
+</span><span>  Google Assistant
+
+</span><span>  Google Assistant
+
+
+</span><span>  Amazon Alexa
+
+</span><span>  Amazon Alexa
+
+
+</span><span>  Flow
+
+</span><span>  Flow
+
+
+</span><span>  Advanced Flow
+
+</span><span>  Advanced Flow
+
+
+</span><span>  Energy
+
+</span><span>  Energy
+
+</span></div> <div><span>  Insights
+
+</span><span>  Insights
+
+
+
+</span><span>  Logic & Variables
+
+</span><span>  Logic & Variables
+
+
+</span><span>  Bluetooth
+</span><span>  With Homey Bridge
+
+</span><span>  Bluetooth
+</span><span>  Built-in
+
+
+</span><span>  Zigbee
+</span><span>  With Homey Bridge
+
+</span><span>  Zigbee
+</span><span>  Built-in
+
+
+</span><span>  Z-Wave
+</span><span>  With Homey Bridge
+
+</span><span>  Z-Wave
+</span><span>  Built-in
+
+
+</span><span>  Infrared
+</span><span>  With Homey Bridge
+
+</span><span>  Infrared
+</span></div> <div><span>  Built-in
+
+
+</span><span>  433 MHz
+</span><span>  With Homey Bridge
+
+</span><span>  433 MHz
+</span><span>  Built-in
+
+
+</span><span>  —
+
+</span><span>  Thread
+</span><span>  Built-in
+
+
+</span><span>  —
+
+</span><span>  Matter
+</span><span>  Built-in
+
+
+</span><span>  —
+
+</span><span>  Experiments
+
+
+</span><span>  —
+
+</span><span>  Local Wi-Fi
+
+
+</span><span>  —
+
+</span><span>  HomeyScript
+
+
+</span><span>  —
+
+</span><span>  Community Apps
+
+
+</span><span>  Explore Homey Pro
+</span><span>  Start for free
+
+
+</span></div> <div><h3>  Homey
+</h3></div> <div><h3>  Homey Pro</h3><span>  $ 2.99/mo</span><span>  $ 399</span><td>  
+        = With Homey Bridge</td><td>  Start for free
+</td><td>  Explore Homey Pro
+
+
+
+
+
+
+
+</td></div> <div><h2>  Get started.
+</h2><p>  A world of smart home awesomeness lies ahead. Get Homey Pro now.
+
+</p><ul>  <li> Connect unlimited devices with Homey
+          </li><li> Automate your home with Flow
+          </li><li> Monitor your home
+          
+
+
+
+
+
+
+
+</li></ul><div>  
+
+</div></div> <div><h2>  Choose your Homey.
+</h2><p>  Whether you prefer a subscription or a one-time purchase,there's always a Homey for you.
+</p></div> <div><h3>  Homey
+
+</h3><span>  $ 2.99/mo
+
+</span></div> <div><h3>  Homey Pro
+
+</h3><span>  $ 399
+
+
+</span><span>  Connect 50.000+ devices
+
+</span><span>  Connect 50.000+ devices
+
+
+</span><span>  Mobile App
+
+</span><span>  Mobile App
+
+
+</span><span>  Web App
+
+</span><span>  Web App
+
+
+</span><span>  Google Assistant
+
+</span><span>  Google Assistant
+
+
+</span><span>  Amazon Alexa
+
+</span><span>  Amazon Alexa
+
+
+</span><span>  Flow
+
+</span><span>  Flow
+
+
+</span><span>  Advanced Flow
+
+</span><span>  Advanced Flow
+
+
+</span><span>  Energy
+
+</span><span>  Energy
+
+</span></div> <div><span>  Insights
+
+</span><span>  Insights
+
+
+
+</span><span>  Logic & Variables
+
+</span><span>  Logic & Variables
+
+
+</span><span>  Bluetooth
+</span><span>  With Homey Bridge
+
+</span><span>  Bluetooth
+</span><span>  Built-in
+
+
+</span><span>  Zigbee
+</span><span>  With Homey Bridge
+
+</span><span>  Zigbee
+</span><span>  Built-in
+
+
+</span><span>  Z-Wave
+</span><span>  With Homey Bridge
+
+</span><span>  Z-Wave
+</span><span>  Built-in
+
+
+</span><span>  Infrared
+</span><span>  With Homey Bridge
+
+</span><span>  Infrared
+</span></div> <div><span>  Built-in
+
+
+</span><span>  433 MHz
+</span><span>  With Homey Bridge
+
+</span><span>  433 MHz
+</span><span>  Built-in
+
+
+</span><span>  —
+
+</span><span>  Thread
+</span><span>  Built-in
+
+
+</span><span>  —
+
+</span><span>  Matter
+</span><span>  Built-in
+
+
+</span><span>  —
+
+</span><span>  Experiments
+
+
+</span><span>  —
+
+</span><span>  Local Wi-Fi
+
+
+</span><span>  —
+
+</span><span>  HomeyScript
+
+
+</span><span>  —
+
+</span><span>  Community Apps
+
+
+</span><span>  Explore Homey Pro
+</span><span>  Start for free
+
+
+</span></div> <div><h3>  Homey
+</h3></div> <div><h3>  Homey Pro</h3><span>  $ 2.99/mo</span><span>  $ 399</span><td>  
+        = With Homey Bridge</td><td>  Start for free
+</td><td>  Explore Homey Pro
+
+
+
+
+
+
+
+</td><div>  
+
+
+
+
+
+
+
+</div><div>  
+
+</div></div> <div><h2>  Start today for free
+
+</h2><div>  
+
+
+</div><span>  https://get.homey.app
+</span></div> <div><h2>  Start today for free
+
+</h2><div>  
+
+</div></div> <div><h3>  1. Get the app
+</h3><p>  Go to the App/Play Store to download the Homey app.
+</p><p>  Use your mobile device to scan the QR-code above and download the Homey app.
+
+
+</p><div>  
+
+</div></div> <div><h3>  2. Create account
+</h3><p>  Ensure you’re logged in or create a new account.
+
+
+
+</p><div>  
+
+
+
+
+
+
+
+
+</div><div>  
+
+
+
+</div></div> <div><h5>  Brands
+</h5></div> <div><h5>  Company
+</h5></div> <div><h5>  Developers
+</h5></div> <div><h5>  Partners
+</h5></div> <div><h5>  Community
+</h5></div> <div><h5>  Learn
+</h5></div> <div><h5>  Sign up for the Homey newsletter
+
+
+</h5></div> <div><h5>  Follow us on social media
+</h5><span>  
+
+
+
+
+
+
+
+</span><p>  Copyright © 2023 Athom B.V. – All rights reserved
+<a href="https://legal.athom.com/?document=privacy-policy&language=en" target="_blank"> Privacy and Cookie Notice </a> | <a href="https://legal.athom.com/?document=terms-and-conditions&language=en" target="_blank"> Terms and Conditions </a>
+
+
+
+
+
+</p></div>

@@ -1,0 +1,7 @@
+<td><td>  To opt-out of aggregation and analysis of data about your visit to this site, it is necessary to install a cookie on your browser. This cookie identifies that you have opted-out.
+</td></td> <p><p>  If you delete the opt-out cookie, or if you change computers or Web browsers, you will need to opt-out again.
+</p></p> <p><p>  Opt-out - Exclude me from visitor session aggregation and analysis (install the schindlerwebsiteglobalstage.112.2o7.net opt-out cookie) - <a href="/optout.html?popup=1&locale=en_US&optout=1&confirm_change=1" target="_blank"> Click Here </a>
+</p></p> <p><p>  Opt-in - Include me in visitor session aggregation and analysis (do not install the schindlerwebsiteglobalstage.112.2o7.net opt-out cookie) - <a href="/optout.html?popup=1&locale=en_US&optin=1&confirm_change=1" target="_blank"> Click Here </a>
+</p></p> <div><td>  
+
+</td><td>  </td></div>

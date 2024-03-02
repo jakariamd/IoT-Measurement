@@ -1,0 +1,5 @@
+<div><td>  
+
+</td></div> <div><h1>  Страница по подразбиране</h1><ul>  <li>Ако току-що сте добавили домейна в cPanel, е необходимо да изчакате 10 минути.</li><li>Уверете се, че изписвате домейна правилно.</li><li>Изчистете натрупания 
+						<a href="http://help.superhosting.bg/clear-local-dns-cache.html?utm_source=DefaultWebsitePage&utm_medium=link&utm_campaign=DefaultWebsitePage" target="_blank"> DNS кеш </a> и 
+						<a href="https://help.superhosting.bg/clear-the-cache-ie-firefox-chrome.html?utm_source=DefaultWebsitePage&utm_medium=link&utm_campaign=DefaultWebsitePage" target="_blank"> браузър кеш </a> и опитайте отново.</li></ul></div> <div><h1>  Default WebSite Page</h1><ul>  <li> If you have just added the domain to cPanel, you need to wait 10 minutes.</li><li> Make sure you are writing the domain correctly.</li><li> Clear your DNS cache and browser cache and try again.</li></ul></div>

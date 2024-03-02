@@ -1,0 +1,100 @@
+<div><ul>  <li>en</li></ul><label>  Search for:
+
+</label></div> <div><h1>  Code of Conduct</h1><span>  Company</span><span>  Code of Conduct</span></div> <div><h3>  Legal compliance</h3><ul>  <li>to comply with the statutory requirements of the applicable legal system,</li><li>to comply with recognized international standards of ethical conduct (see footnotes).</li></ul></div> <div><h3>  Prohibition of corruption and bribery</h3><ul>  <li>to tolerate no form of and not to engage in any form of corruption or bribery, including any payment or other form of benefit conferred on any government official for the purpose of influencing decision making in violation of law.</li></ul></div> <div><h3>  Respect for the basic human Rights of employees¹</h3><ul>  <li>to promote equal opportunities for their employees irrespective of skin colour, race, nationality, social background, possible disability, sexual orientation, political or religious conviction, sex or age,</li><li>to respect the personal dignity, privacy and rights of each individual,</li><li>not to employ anyone against their will or make anyone work against their will,</li><li>not to tolerate any unacceptable treatment of employees, such as mental cruelty, sexual harassment or discrimination,</li></ul></div> <ul><ul>  <li>to provide adequate remuneration, to pay the same money for the same work and to guarantee the national statutory minimum wage,</li><li>to comply with the maximum number of working hours laid down in the respective state or, if there is no such regulation, with a maximum of 60 regular working hours per week,</li><li>as far as legally possible, to recognize the right of employees of free association and neither to favor nor to disadvantage members of employee organizations or trade unions.</li></ul></ul> <div><h3>  Prohibition of child labour ²</h3><ul>  <li>to recognize and respect the rights of Children,</li><li>to comply with the Conventions 138 and 182 of the International Labor Organization (ILO) on the restriction of child labor.</li></ul></div> <div><h3>  Safety of employees</h3><ul>  <li>to take responsibility for their employees,</li><li>to take the best possible precautionary measures against accidents,</li><li>to provide regular training on health and safety issues.</li></ul></div> <div><h3>  Environmental protection</h3><ul>  <li>to act in accordance with the applicable statutory and international standards regarding environmental protection,</li><li>to avoid environmental pollution and to make constant improvements in environmental protection,</li><li>to set up or use an environmental management system according to ISO 14001.</li></ul><p>  (1) Declaration of Human Rights in Resolution 217 A (III) dated 10.12.1948,
+<a href="https://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=eng" target="_blank"> https://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID=eng </a></p></div> <p><p>  (2) Declaration of the International Labour Organisation on basic labour principles and rights,
+<a href="http://www.ilo.org/public/english/standards/index.htm" target="_blank"> www.ilo.org/public/english/standards/index.htm </a></p></p> <div><label>  Search for:
+
+</label><span>  Privacy Preference</span><p>  We use cookies on our website. Some of them are essential, while others help us to improve this website and your experience.</p><ul>  <li>
+                                                        Necessary Technical Cookies                                                        
+</li></ul><span>  
+
+</span><ul>  <li>
+                                                        Anonymized User Statistics                                                         
+</li></ul></div> <div><span>  
+
+</span><ul>  <li>
+                                                        External Media	                                                        
+</li></ul><span>  
+
+</span><span>  Cookie settings</span><p>  
+                            We use cookies to provide you with a better user experience on this website. They serve technical and statistical purposes and also enable us to address you again.
+Please click on ‘Accept’ if you agree with the respective use of cookies.
+You can change these settings at any time under the ‘Cookie settings’ menu item at the bottom of the page.                        </p></div> <div><label>  Necessary Technical Cookies (2)
+</label><p>  We use cookies to remember your preferred cookie settings. We also use cookies to provide the service you have requested. They are necessary to be able to use the website. Examples of these include “session cookies,” which are only used during a session and are deleted as soon as you close your browser. You cannot disable these types of cookies.
+</p><p>  
+                                                    Display Cookie Information                                                </p></div> <div><span>  
+                                                    Hide Cookie Information                                                
+</span><label>  
+                                                            Borlabs Cookie                                                        
+</label><td>  Eigentümer dieser Website</td><td>  Stores the settings chosen by visitors in the Borlabs Cookie box.
+</td><td>  borlabs-cookie</td><td>  1 Jahr</td><label>  
+                                                            pll_language                                                        
+</label></div> <div><td>  Wordpress</td><td>  This cookie allows you to conveniently select your preferred language.</td><td>  mentor.de.com</td><td>  pll_language</td><td>  1 year</td><label>  Anonymized User Statistics  (1)
+</label><label>  
+
+</label><label>  
+
+</label><p>  This website uses Google Analytics, a web analytics service provided by Google Inc. (“Google”). We use this data to provide a better user experience and to improve our evaluations of the use of advertising. You can find a detailed description in our Privacy Policy.
+</p></div> <div><p>  
+                                                    Display Cookie Information                                                </p><span>  
+                                                    Hide Cookie Information                                                
+</span><label>  
+
+</label><label>  
+
+
+</label><label>  
+                                                            Google Analytics                                                        
+</label><td>  Google LLC</td><td>  Cookie from Google to manage advanced script and event handling.
+</td></div> <td><td>  _ga,_gat,_gid</td></td> <div><td>  2 Jahre</td><label>  External Media	 (6)
+</label><label>  
+
+</label><label>  
+
+</label><p>  Content from video and social media platforms is blocked by default. When cookies are accepted from external media, access to this content no longer requires manual consent.
+</p><p>  
+                                                    Display Cookie Information                                                </p><span>  
+                                                    Hide Cookie Information                                                
+</span></div> <div><label>  
+
+</label><label>  
+
+
+</label><label>  
+                                                            Facebook                                                        
+</label><td>  Facebook</td><td>  Wird verwendet, um Facebook-Inhalte zu entsperren.</td><td>  .facebook.com</td><label>  
+
+</label><label>  
+
+
+</label><label>  
+                                                            Google Maps                                                        
+</label><td>  Google</td><td>  Used to block content from Google-Maps.</td></div> <td><td>  .google.com</td></td> <div><td>  NID</td><td>  6 Monate</td><label>  
+
+</label><label>  
+
+
+</label><label>  
+                                                            YouTube                                                        
+</label><td>  YouTube</td><td>  Used to block content from YouTube.</td><td>  google.com</td><td>  NID</td><td>  6 Monate</td><label>  
+
+</label><label>  
+
+
+</label><label>  
+                                                            TraceParts                                                        
+</label></div> <div><td>  TraceParts</td><td>  Used to unlock TraceParts content.</td><td>  www.traceparts.com</td><label>  
+
+</label><label>  
+
+
+</label><label>  
+                                                            360 Up                                                        
+</label><td>  360 UP</td><td>  Used to display content from 360-Up</td><td>  360-up.com</td><label>  
+
+</label><label>  
+
+
+</label><label>  
+                                                            Taggbox                                                        
+</label></div> <div><td>  Taggbox</td><td>  Used to display content from Taggbox</td><td>  taggbox.com</td></div>

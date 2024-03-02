@@ -1,0 +1,5 @@
+<div><h1>  Bloomberg</h1></div> <div><h2>  We've detected unusual activity from your computer network</h2><p>  To continue, please click the box below to let us know you're not a robot.</p></div> <div><h3>  Why did this happen?</h3><p>  Please make sure your browser supports JavaScript and cookies and that you are not
+            blocking them from loading.
+            For more information you can review our <a href="/notices/tos" target="_blank"> Terms of
+                Service </a> and <a href="/notices/tos" target="_blank"> Cookie Policy </a>.</p></div> <div><h3>  Need Help?</h3><p>  For inquiries related to this message please <a href="/feedback" target="_blank"> contact
+            our support team </a> and provide the reference ID below.</p></div>

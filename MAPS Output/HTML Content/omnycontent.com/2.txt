@@ -1,0 +1,543 @@
+<div><h1>  Privacy Policy</h1><p>  Effective Date: May 14, 2020</p></div> <div><h3>  Introduction</h3><p>  
+					Welcome to Omny Studio’s Privacy Policy (“<strong> Policy </strong>”). In this Policy, the
+					use of the terms “<strong> Omny Studio </strong>”, “<strong> our </strong>”,
+					“<strong> us </strong>” and “<strong> we </strong>” refers to 121cast Pty Ltd.
+				</p><p>  
+					We take data protection and privacy responsibilities very seriously. As such, we are
+					committed to protecting the privacy of individuals (“<strong> you </strong>” or
+					“<strong> your </strong>”), when they subscribe to our advertising and hosting services (the
+					“<strong> Services </strong>”), when they visit our websites at
+					<a href="https://omnystudio.com" target="_blank"> https://omnystudio.com </a> and
+					<a href="https://omny.fm/" target="_blank"> https://omny.fm/ </a> (the “<strong> Websites </strong>”) and when
+					they listen to podcast that we host. As such, when you use our Services, visit our
+					Websites or listen to a podcast hosted by Omny Studio, you do so with the knowledge that
+					your data will be collected and processed in accordance with the terms set out in this
+					policy. If you do not agree with our policies and practices as to how your data will be
+					collected and processed, please do not use our Services, visit our Websites or listen to
+					any podcast hosted by Omny Studio.
+				</p></div> <p><p>  
+					In case you’re in a hurry, we’ve compiled a quick overview of our Policy in the below
+					table for easy reading. From there, you can click through the specific sections of our
+					Table of Contents that may be of interest for you.
+				</p></p> <div><h3>  Briefly Put:</h3><td>  <strong> Who we are: </strong></td><td>  121cast Pty Ltd (dba Omny Studio)
+</td><td>  Our offices:
+</td><address>  
+                                    3/29 Stewart St
+                                    
+                                    Richmond, Victoria 3121
+                                    
+                                    AUSTRALIA
+                                
+</address><p>  
+									Email:
+									<a href="mailto:privacy@tritondigital.com" target="_blank"> privacy@tritondigital.com </a>
+
+</p></div> <div><td>  <strong> When and how we collect data: </strong></td><ul>  <li>You use our Services</li><li>We call you</li><li>You receive emails from us</li><li>You chat with us for customer support</li><li>You browse any page of our Websites</li><li>You listen to our clients’ podcasts
+</li></ul><td>  <strong> Types of data we collect and process: </strong></td><td>  From <u> our clients </u>:
+</td><ul>  <li>
+<strong> Identifiers </strong>: name, e-mail address, postal address,
+										telephone number, account username and password, IP address
+									</li><li>
+<strong> Customer record information </strong>: any correspondence or
+										information that you send us, record of products or services
+										purchased, obtained or considered and payment information, such as
+										bank information, credit card number and expiration date
+									</li><li>
+<strong> Geolocation data </strong>: location derived from IP address
+									</li></ul></div> <ul><ul>  <li>
+<strong> Internet or other electronic network activity information </strong>: Internet Service Provider, operating system, browser type, device
+										type, settings, language URLs, titles and content of the web pages and
+										other information you access through the Services and information
+										related to the manner in which you access the Services
+									</li><li>
+<strong> Inferences </strong>: we may analyze the information that we
+										collect to understand your website.
+									
+</li></ul></ul> <div><p>  From <u> visitors of our Websites </u>:
+</p><ul>  <li>
+<strong> Identifiers </strong>: IP address, unique identifiers,
+										including mobile device identification
+									</li><li>
+<strong> Internet or other electronic network activity information </strong>: Internet Service Provider, operating system, browser type, device
+										type, settings, language, URLs, titles and content of the web pages
+										and other information you access through the Services and information
+										related to the manner in which you access the Services.
+									
+</li></ul></div> <div><p>  
+									From <u> listeners of podcasts </u> by our clients that leverage the
+									Services
+								
+</p><ul>  <li>
+<strong> Identifiers </strong>: IP address, user agent, unique device
+										identifiers, including mobile device identification
+									
+</li></ul><td>  <strong> How we use your data: </strong></td><td>  We process data both on our behalf and on behalf of our clients to:
+</td><ul>  <li>provide our Services in accordance</li><li>
+										for our legitimate business interests such as securing and protecting
+										the integrity of our Websites, and improving our Services; and
+									</li><li>as permitted to meet applicable legal requirements
+</li></ul></div> <div><td>  <strong> Sharing your data with third parties: </strong></td><td>  We may share your data with third parties such as:
+</td><ul>  <li>Corporate Parents, Affiliates and Subsidiaries</li><li>
+										Service providers that perform certain functions or services on our
+										behalf
+									</li><li>Advertising, marketing and analytics partners; or</li><li>
+										Other third parties when required by law or as necessary to protect
+										the safety of our website and/or the Omny Studio services
+									
+</li></ul></div> <div><td>  <strong> Securing your data: </strong></td><td>  
+									We maintain generally accepted security standards to protect the data that
+									we collect.
+								
+</td><td>  <strong> Your rights: </strong></td><td>  
+									You can exercise your rights as it relates to your personal information by
+									sending us an email at
+									<a href="mailto:privacy@tritondigital.com" target="_blank"> privacy@tritondigital.com </a>.
+								
+</td></div> <div><h3>  1. Important information</h3></div> <div><h4>  About Us</h4><p>  
+					Omny Studio provides a complete audio management solution for podcasters and radio
+					stations around the world, including podcast hosting and advertising services.
+				</p><p>  
+					We typically do not directly interact with the owners of information, unless the owner of
+					the information is our client. Rather, we process the information (including personal
+					information, if any) provided by our clients when using our Services.
+				</p><p>  
+					When we process your personal information in the context of managing our customer
+					relationship, operating our Websites and performing our marketing activities, the
+					controller of your personal information is 121cast Pty Ltd. When we process your personal
+					information on behalf of our clients as part of the Services, the controller of your
+					personal information is our client.
+				</p></div> <div><h4>  How to contact us</h4><p>  
+					If you have any questions about this Policy, including any request to exercise your legal
+					rights, please contact us as follows:
+				</p><ul>  <li>
+						By email to <a href="mailto:privacy@tritondigital.com" target="_blank"> privacy@tritondigital.com </a>
+</li><li>
+                        By post to 121cast Pty Ltd, Attn: Privacy, 3/29 Stewart St, Richmond, Victoria 3121, AUSTRALIA
+                    </li><li>By phone at +1 (800) 860-8318</li></ul><p>  
+					You have the right to lodge any complaints you have regarding our processing of your
+					personal information with a regulatory authority. We care about your privacy, and we
+					appreciate the chance to address your concern before you do so.
+				</p></div> <div><h4>  This Policy</h4><p>  
+					This Policy sets out how Omny Studio collects, uses, and shares the information, including
+					personal data, personal information, or the equivalent terminology in your jurisdiction,
+					that we may obtain from (i) our clients using our Services, (ii) podcast listeners, and/or
+					(iii) visitors to our Websites.
+				</p><p>  
+					You should read this Policy carefully so that you are fully aware of how and why we are
+					using your information.
+				</p></div> <div><h4>  Links, other websites and other third parties</h4><p>  
+					Our clients and/or our clients’ contractors may use and operate the Services using their
+					tags, pixels, cookies or other similar technologies for their business activities. We are
+					not responsible for our clients’ and/or our clients’ contractors use of your personal
+					information or any sort of tracking technologies and this Policy is not intended to
+					describe the privacy policy of our clients and/or our clients’ contractors. To learn about
+					their privacy practices, please refer to the privacy policy of the website or app where
+					the audio content is accessed. Furthermore, our Websites may contain links to other
+					websites or online services that are operated and maintained by third parties and that are
+					not under the control of or maintained by Omny Studio. This Policy does not apply to such
+					third-party content. We encourage you to review the privacy policies of these third-party
+					websites or services.
+				</p></div> <div><h4>  Changes to this Policy</h4><p>  
+					We may update this Policy from time to time to keep it up to date with legal requirements
+					and the way we operate our business. Please make sure to regularly check our Privacy
+					Policy page to ensure that you agree with any applicable change.
+				</p></div> <div><h4>  Children</h4><p>  
+					The Websites and the Services are not directed to persons under 13. If you become aware
+					that your child has provided us with personal information without your consent, please
+					contact us at <a href="mailto:privacy@tritondigital.com" target="_blank"> privacy@tritondigital.com </a>. We
+					do not knowingly collect personal information from children under 13. If we become aware
+					that a child under 13 has provided us with personal information, we take steps to remove
+					such information and terminate the child’s account.
+				</p></div> <div><h3>  2. How we collect your information</h3><p>  
+					From the first moment you interact with Omny Studio, we are collecting information.
+					Sometimes you provide us with information, sometimes information about you is collected
+					automatically.
+				</p><p>  Here’s when and how we do this:</p><ul>  <li>You use our Services</li><li>We call you</li><li>You receive emails from us</li><li>You chat with us for customer support</li><li>You browse any page of our Websites</li><li>You listen to the podcast of one of our clients</li></ul></div> <div><h3>  3. What type information we collect</h3><p>  
+					The information we are collecting and processing from you, or have collected and processed
+					during the past 12 months, varies depending on how you interact with Omny Studio (i.e.,
+					whether you are a content owner/podcaster, a visitor of our Websites or a listener of a
+					podcast hosted by us).
+				</p><p>  3.1. From <u> our clients </u> that use the Services</p><ul>  <li>
+<strong> Identifiers </strong>: name, e-mail address, postal address, telephone number,
+						account username and password, IP address
+					</li><li>
+<strong> Customer record information </strong>: any correspondence or information that
+						you send us, record of products or services purchased, obtained or considered and
+						payment information, such as bank information, credit card number and expiration date
+					</li><li><strong> Geolocation data </strong>: location derived from IP address</li></ul></div> <ul><ul>  <li>
+<strong> Internet or other electronic network activity information </strong>: Internet
+						Service Provider, operating system, browser type, device type, settings, language
+						URLs, titles and content of the web pages and other information you access through the
+						Services and information related to the manner in which you access the Services
+					</li><li>
+<strong> Inferences </strong>: we may analyze the information that we collect to
+						understand your website.
+					</li></ul></ul> <p><p>  3.2. From <u> visitors of our Websites </u>:</p></p> <ul><ul>  <li>
+<strong> Identifiers </strong>: IP address, unique identifiers, including mobile device
+						identification
+					</li><li>
+<strong> Internet or other electronic network activity information </strong>: Internet
+						Service Provider, operating system, browser type, device type, settings, language,
+						URLs, titles and content of the web pages and other information you access through the
+						Services and information related to the manner in which you access the Services.
+					</li></ul></ul> <p><p>  3.3. From <u> listeners of podcasts </u> by our clients that leverage the Services</p></p> <ul><ul>  <li>
+<strong> Identifiers </strong>: IP address, user agent, unique device identifiers,
+						including mobile device identification
+					</li></ul></ul> <p><p>  
+					The information we collect may include “personal information”, which means information
+					that identifies, relates to, describes, is reasonably capable of being associated with, or
+					could reasonably be linked, directly or indirectly, with a particular individual or
+					household. Personal information, once “de-identified” so that it cannot be linked back to
+					you, is not subject to this Policy and we may treat such information as non-personal
+					information and use it without obligation to you, except where prohibited by applicable
+					law. We may also combine personal information with information that does not directly
+					identify you; if we do so, we will consider the combined information to be personal
+					information.
+				</p></p> <div><h3>  4. How and why we use your information</h3><p>  
+					Data protection law means that we can only use your information for certain reasons and
+					where we have a legal basis to do so.
+				</p></div> <div><h4>  Purposes of Processing</h4><p>  
+					We process personal information to (i) provide our Services in accordance with the
+					agreement with you; (ii) for our legitimate business interests such as securing and
+					protecting the integrity of our website, and improving our Services; and (iii) as
+					permitted to meet applicable legal requirements.
+				</p></div> <div><h4>  Use of Information</h4><p>  
+					For information collected by our audio management platform located at
+					<a href="https://www.omnystudio.com" target="_blank"> www.omnystudio.com </a>, we use the information we
+					collect about you (including personal information to the extent applicable) to:
+				</p><ul>  <li>Provide, operate, maintain, improve, and promote the Services;</li><li>
+						Enable you to access and use the Services, including uploading, downloading,
+						collaborating on and sharing content;
+					</li><li>
+						Process and complete transactions, and send you related information, including
+						invoices;
+					</li><li>
+						Communicate with you, including responding to your comments, questions, and requests
+						and providing customer service and support;
+					</li><li>
+						Providing you with information about services, features, surveys, newsletters, offers,
+						promotions, contests and events;
+					</li></ul></div> <ul><ul>  <li>
+						Providing you with news or information about us and our select partners; and sending
+						you technical notices, updates, security alerts, and support and administrative
+						messages;
+					</li><li>
+						Monitor and analyze trends, usage, and activities in connection with the Services and
+						for marketing or advertising purpose;
+					</li><li>
+						Investigate and prevent fraudulent transactions, unauthorized access to the Services,
+						and other illegal activities;
+					</li></ul></ul> <ul><ul>  <li>
+						Personalize the Services, including by providing content, features, or advertisements
+						that match your interests and preferences;
+					</li><li>
+						Enable you to communicate, collaborate, and share content with users you designate;
+						and
+					</li><li>For other purposes about which we may notify you from time to time.</li></ul></ul> <p><p>  
+					For information collected by our audio content servers, players and apps powered by the
+					Services located at <a href="https://omny.fm" target="_blank"> omny.fm </a>, we use the information we
+					collect about you (including personal information to the extent applicable) to:
+				</p></p> <ul><ul>  <li>
+						Enable you to access and use the Services to view, stream, download and share content;
+					</li><li>Provide, operate, maintain, improve, and promote the Services;</li><li>Deliver and measure advertising on behalf of our clients and advertisers;</li><li>
+						Monitor and analyze trends, usage, and activities in connections with accessing audio
+						content for reporting and analytics purposes for our clients;
+					</li><li>
+						Investigate and prevent fraudulent transactions, unauthorized access to the Services,
+						and other illegal activities;
+					</li></ul></ul> <ul><ul>  <li>
+						Personalize the Services, including by providing content, or advertisements that match
+						your interests
+					</li></ul></ul> <p><p>  
+					We also may use the information we collect about you in an aggregate form to conduct
+					analysis or research, such as research about customer demographics, internet use, and
+					interests and behavior. Aggregate data does not include personal information
+				</p></p> <div><h4>  Direct Marketing</h4><p>  
+					We may use personal information to let you know about our products and services that we
+					believe will be of interest to you. We may contact you by email, post, or telephone or
+					through other communication channels that we think you may find helpful. In all cases, we
+					will respect your preferences for how you would like us to manage marketing activity with
+					you.
+				</p><p>  
+					To protect your privacy rights and to ensure you have control over how we manage marketing
+					with you:
+				</p></div> <ul><ul>  <li>
+						we will take steps to limit direct marketing to a reasonable and proportionate level
+						and only send you communications which we believe may be of interest or relevance to
+						you;
+					</li><li>
+						if your business has an online account with us, the easiest way to make updates to
+						your marketing preferences and/or change your personal details is to log onto your
+						account. You can also click the "unsubscribe" link that you find on any online
+						newsletters you receive or contact us; and
+					</li></ul></ul> <ul><ul>  <li>
+						we recommend you routinely review the privacy notices and preference settings that are
+						available to you on any social media platforms as well as your preferences within your
+						account with us.
+					</li></ul></ul> <div><h3>  5. Third parties who process your personal information</h3><p>  
+					We may share your personal information to third parties for the business purposes outlined
+					in Section 4 above. When we disclose personal information to a third party for a business
+					purpose, we enter into an agreement with the third party, which describes the purpose of
+					the sharing and requires the recipient of the personal information to (a) keep the
+					information confidential, and (b) not use it for any other purpose than performing the
+					relevant contract and fulfilling the stated purpose.
+				</p></div> <div><p>  We may share your personal information with the following categories of third parties:</p><ul>  <li>
+<strong> Corporate Parents, Affiliates and Subsidiaries </strong>: We may share the
+						information we collect about you with our corporate parents, affiliates and
+						subsidiaries for a variety of purposes, including business, operational and marketing
+						purposes.
+					</li><li>
+<strong> Service Providers </strong>: We may share the information we collect about you
+						with our service providers that perform certain functions or services on our behalf,
+						such as installation, maintenance and repair services, operations, billing and
+						debt-recovery services, information technology and network services and market
+						research and marketing services. We use the following categories of service providers:
+					</li></ul></div> <ul><ul>  <li>
+							Billing and collection providers, such as payment processors and organizations
+							that that assist us in assessing your credit and payment status;
+						</li><li>
+							Professional services consultants, such as auditing and accounting firms, law
+							firms or other firms providing project-based resources and assistance;
+						</li><li>Advertising and marketing services; and</li><li>
+							IT vendors, such as entities that assist with website design, hosting and
+							maintenance, data and software storage, and network operations.
+						</li></ul></ul> <ul><ul>  <li>
+<strong> Advertisers </strong>: We may share your information with select advertising,
+						marketing and analytics partners so that they can personalize the advertisements
+						inserted into our clients’ podcasts on behalf of our clients. However, Omny Studio is
+						not responsible for the privacy practices of these business partners, which may use
+						your information for their own purposes
+					</li><li>
+<strong> Other third parties when required by law or as necessary to protect the safety of
+							our website and/or the Omny Studio services </strong>: We may share your information to third parties as necessary to comply with
+						applicable laws or to protect the security of Omny Studio, its corporate parents,
+						affiliates and subsidiaries, our website and/or the Services.
+					</li></ul></ul> <ul><ul>  <li>
+<strong> In connection with a transfer of assets </strong>: If we sell all or part of
+						our business, or make a sale or transfer of assets, or are otherwise involved in a
+						merger or business transfer, or in the event of a bankruptcy, we may transfer your
+						information to a third party as a result of that transaction.
+					</li><li>
+<strong> Other third parties with your consent </strong>: We may share your information
+						with other third parties if you consent to such sharing.
+					</li></ul></ul> <ul><ul>  <li>
+<strong> Aggregate data </strong>. We may disclose to third parties aggregate data that
+						does not describe or identify an individual, such as aggregate website usage data or
+						demographic reports.
+					</li></ul></ul> <p><p>  
+					For a full list of the third parties we engage with, please refer to:
+					<a href="https://omnystudio.com/policies/subprocessors" target="_blank"> https://omnystudio.com/policies/subprocessors </a>.
+				</p></p> <div><h3>  6. Cookies</h3><p>  
+					We use “cookies”, “pixel tags” and other technologies from time to time for the following
+					purposes:
+				</p><ul>  <li>
+<strong> Website Operations/Essential Cookies </strong>: To enable features that are
+						necessary for providing you the services on our site, such as identifying you as being
+						signed in, tracking content views, and remembering your preferences.
+					</li><li>
+<strong> Analytics </strong>: To allow us to understand how our services are being used,
+						track site performance and make improvements.
+					</li><li>
+<strong> Personalized Advertising </strong>: To deliver personalized advertising based
+						on your preferences or interests and to measure the effectiveness of ads.
+					</li></ul></div> <p><p>  
+					Cookies are small bits of information that are stored by your computer’s web browser. You
+					can decide if and how your computer will accept a cookie by configuring your preferences
+					or options in your browser. However, if you choose to reject cookies, you may not be able
+					to use certain features of our website.
+				</p></p> <p><p>  
+					Pixel tags are very small images or small pieces of data embedded in images, also known as
+					“web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is
+					viewed, a description of the page where the pixel tag is placed, and similar information
+					from your computer or device.
+				</p></p> <p><p>  
+					You can block cookies by activating a setting on your browser allowing you to refuse the
+					setting of cookies. You can also delete cookies through your browser settings. If you use
+					your browser settings to disable, reject, or block cookies (including essential cookies),
+					certain parts of our Websites will not function fully. In some cases, our Websites may not
+					be accessible at all. Please note that where third parties use cookies, we have no control
+					over how those third parties use those cookies.
+				</p></p> <p><p>  
+					For a full list of the specific cookies that we use, please refer to our Cookie Policy:
+					<a href="https://omnystudio.com/policies/cookies" target="_blank"> https://omnystudio.com/policies/cookies </a>.
+				</p></p> <div><h3>  7. Third Party Analytics</h3><p>  
+					We may allow third parties to place and read their own cookies, pixel tags, and other
+					technologies to collect information through out website.
+				</p><p>  
+					Our third-party service providers may use these technologies to collect information (i)
+					that helps us with traffic measurement, research, and analytics, and (ii) that is used to
+					serve personalized advertisements to you across the Internet tailored to your apparent
+					interests. To the extent we combine information from third party services with personal
+					information we collect directly from you, we will treat the combined information as
+					personal information under this Privacy Policy. Otherwise, the information collected and
+					stored by third parties remains subject to their policies and practices, including whether
+					they continue to share information with us, the types of information shared, and your
+					choices on what is visible to others on third party services.
+				</p></div> <p><p>  
+					You may exercise choices regarding the use of cookies from Google Analytics by going to
+					<a href="https://tools.google.com/dlpage/gaoptout" target="_blank"> https://tools.google.com/dlpage/gaoptout </a>
+					or downloading the Google Analytics Opt-out Browser Add-on.
+				</p></p> <p><p>  
+					We advise you that our website collects information, including personal information, for
+					purposes of online behavioral advertising. Accordingly, we adhere to the Digital
+					Advertising Alliance’s (“<strong> DAA </strong>”) Self-Regulatory Principles for Online
+					Behavioral Advertising (“<strong> DAA Principles </strong>”), and we require the advertisers
+					and service providers that perform advertising-related services for us to similarly adhere
+					to the DAA Principles. To learn more about how you can exercise certain choices regarding
+					Online Behavioral Advertising, visit
+					<a href="https://www.aboutads.info/choices" target="_blank"> https://www.aboutads.info/choices </a>, and
+					<a href="https://www.aboutads.info/appchoices" target="_blank"> https://www.aboutads.info/appchoices </a>
+					for information on the DAA’s opt-out program for mobile apps. Some of these companies may
+					also be members of the Network Advertising Initiative (“<strong> NAI </strong>”). To learn
+					more about the NAI and your opt-out options for their members, see
+					<a href="https://www.networkadvertising.org/choices/" target="_blank"> https://www.networkadvertising.org/choices/ </a>.
+				</p></p> <p><p>  
+					Please be aware that, even if you are able to opt out of certain kinds of online
+					behavioral advertising, you may continue to receive other types of ads. Opting out only
+					means that those selected members should no longer deliver certain interest-based
+					advertising to you but does not mean you will no longer receive any targeted content
+					and/or ads (e.g., from other ad networks). Omny Studio is not responsible for
+					effectiveness of, or compliance with, any third-parties’ opt-out options or programs or
+					the accuracy of their statements regarding their programs.
+				</p></p> <div><h3>  8. Data Security</h3><p>  
+					We take all reasonable steps to protect all personal information we may collect from
+					misuse, interference, loss and unauthorized access, modification and disclosure, including
+					through ensuring that our service providers and advertisers have agreed to confidentiality
+					restrictions and use any personal information that we share with them or which they
+					collect on our behalf solely for the purpose of providing the contracted service to us.
+				</p></div> <p><p>  
+					We have implemented and maintain appropriate technical and organizational security
+					measures, policies and procedures designed to reduce the risk of accidental destruction or
+					loss, or the unauthorized disclosure or access to personal information appropriate to the
+					nature of the information concerned. Measures we take include:
+				</p></p> <ul><ul>  <li>
+						placing confidentiality requirements on our staff members, service providers and
+						advertisers;
+					</li><li>
+						destroying or permanently anonymizing personal information if it is no longer needed
+						for the purposes for which it was collected;
+					</li><li>
+						following strict security procedures in the storage and disclosure of your personal
+						information to prevent unauthorized access to it; and
+					</li><li>
+						using secure communication transmission software (known as "secure sockets layer" or
+						"SSL") that encrypts all information you input on our website before it is sent to us.
+						SSL is an industry standard encryption protocol and this ensure that the information
+						is reasonably protected against unauthorized interception.
+					</li></ul></ul> <p><p>  
+					As the security of information depends in part on the security of the computer you use to
+					communicate with us and the security you use to protect User IDs and passwords, please
+					take appropriate measures to protect this information.
+				</p></p> <div><h3>  9. Data Storage and Retention</h3><p>  
+					Omny Studio hosts data with hosting service providers in numerous locations including the
+					United States, Europe and Australia. We may disclose your information to our hosting
+					service providers or any other service providers in those countries or any other country
+					in which we may conduct our business from time to time. If you're located in the European
+					Union (including the UK), your personal information may be transferred and stored in
+					countries outside the European Union, including to the United States and Australia, that
+					are subject to different standards of data protection. We will take reasonable steps to
+					ensure that transfers of personal information are in accordance with applicable laws.
+				</p></div> <p><p>  
+					We will store your personal information for as long as is reasonably necessary for the
+					purposes for which it was collected, as explained in this privacy policy. Where your
+					information is no longer needed, we will ensure that it is disposed of in a secure manner.
+					In some circumstances we may store your personal information for longer periods of time,
+					for instance where we are required to do so in accordance with legal, regulatory, tax,
+					accounting requirements. We may also store your personal information for longer periods of
+					time so that we have an accurate record of your dealings with us in the event of any
+					complaints or challenges, or if we reasonably believe there is a prospect of litigation
+					relating to your personal information or dealings. We do not process, store or host any
+					personal information on an indefinite basis.
+				</p></p> <div><h3>  10. Your Right in Connection with Your Personal Information</h3><p>  
+					Under certain circumstances and in accordance with applicable laws, you have the right to:
+				</p><ul>  <li>
+						Right of Access - the right to be informed of and request access to the personal data
+						we process about you;
+					</li><li>
+						Right to Rectification - the right to request that we amend or update your personal
+						data where it is inaccurate or incomplete;
+					</li><li>Right to Erasure - the right to request that we delete your personal data;</li><li>
+						Right to Restrict - the right to request that we temporarily or permanently stop
+						processing all or some of your personal data;
+					</li></ul></div> <ul><ul>  <li>Right to Object:</li><li>
+						The right, at any time, to object to us processing your personal data on grounds
+						relating to your particular situation;
+					</li><li>
+						The right to object to your personal data being processed for direct marketing
+						purposes;
+					</li><li>
+						Right to Data Portability - the right to request a copy of your personal data in
+						electronic format and the right to transmit that personal data for use in another
+						party’s service; and
+					</li></ul></ul> <ul><ul>  <li>
+						Right not to be subject to Automated Decision-making - the right to not be subject to
+						a decision based solely on automated decision making, including profiling, where the
+						decision would have a legal effect on you or produce a similarly significant effect.
+					</li></ul></ul> <p><p>  If you wish to exercise any of the above rights, please contact us:</p></p> <ul><ul>  <li>
+						By email to <a href="mailto:privacy@tritondigital.com" target="_blank"> privacy@tritondigital.com </a>
+</li><li>
+                        By post to 121cast Pty Ltd, Attn: Privacy, 3/29 Stewart St, Richmond, Victoria 3121, AUSTRALIA
+                    </li><li>By phone at +1 (800) 860-8318</li></ul></ul> <p><p>  
+					You will not have to pay a fee to access your personal information (or to exercise any of
+					the other rights). However, we may charge a reasonable fee if your request for access is
+					unfounded or excessive if permitted by law. Alternatively, we may refuse to comply with
+					the request in such circumstances. In addition, there may be requests that we are unable
+					to process because of other EU legal requirements. If a request is denied, we will notify
+					you of the reason.
+				</p></p> <p><p>  
+					Your request must provide sufficient information that allows us to reasonably verify you
+					are the person about whom we collect personal information (or an authorized representative
+					for such person). Therefore, please provide us with the following information:
+				</p></p> <div><ul>  <li>a clear description of your matter; and</li><li>your contact information</li></ul><p>  
+					In addition to the above information, if you are visiting our Websites and/or listening to
+					a podcast hosted by Omny Studio, please provide:
+				</p><ul>  <li>
+						the identity of the data controller/business that we are working with to serve you
+						(i.e., the radio station, podcaster, or audio publisher you were listening to); and
+					</li><li>the IP address and user agent of the person the personal information relates too.</li></ul></div> <p><p>  
+					We will use the information you provide for verification only for the purpose of
+					verification. This is a security measure to ensure that personal information is not
+					disclosed to a requesting person who has no right to receive it. If you are located in the
+					EU, you have the right to lodge a complaint with an EU Supervisory Authority. However, if
+					you have a complaint regarding the processing of your personal information we request that
+					you first contact us and we will reply in a timely manner.
+				</p></p> <p><p>  
+					We may disclose any of the categories of personal information listed in Section 4 above
+					and use them for the above-listed purposes or for other business or operational purposes
+					compatible with the context in which the personal information was collected. Our
+					disclosures of personal information include disclosures to our service providers, which
+					are companies that we engage for business purposes to conduct activities on our behalf,
+					data aggregators, advertising companies, analytics and advertising tracking companies and
+					other companies within the Omny Studio group, the whole as further described in Section 5
+					above.
+				</p></p> <p><p>  To opt-out from sales of personal information by third parties, please visit:</p></p> <ul><ul>  <li>
+						For Podtrac:
+						<a href="http://analytics.podtrac.com/product-privacy-statement" target="_blank"> http://analytics.podtrac.com/product-privacy-statement </a>
+</li><li>
+						For Podsights:
+						<a href="https://podsights.com/privacy" target="_blank"> https://podsights.com/privacy </a>
+</li><li>
+						For Chartable:
+						<a href="https://chartable.com/privacy" target="_blank"> https://chartable.com/privacy </a>
+</li><li>
+						For Barometric:
+						<a href="http://claritas.com/privacy-legal.html" target="_blank"> http://claritas.com/privacy-legal.html </a>
+</li></ul></ul> <ul><ul>  <li>
+						For Adswizz:
+						<a href="https://www.adswizz.com/our-privacy-policy/" target="_blank"> https://www.adswizz.com/our-privacy-policy/ </a>
+</li><li>
+						For Empire Streaming:
+						<a href="https://empirestreaming.com/privacy" target="_blank"> https://empirestreaming.com/privacy </a>
+</li><li>
+						For TruOptik:
+						<a href="https://www.truoptik.com/privacy-policy" target="_blank"> https://www.truoptik.com/privacy-policy </a>
+</li><li>
+						For Analytic Owl:
+						<a href="https://www.analyticowl.com/privacy-policy/" target="_blank"> https://www.analyticowl.com/privacy-policy/ </a>
+</li></ul></ul> <div><h3>  11. International Transfers of Personal Information</h3><p>  
+					Please be aware that the personal information we collect may be transferred to and
+					maintained on servers or databases located outside your state, province, country, or other
+					jurisdiction, where the privacy laws may not be as protective as those in your location.
+					If you are located outside of the United States, please be advised that we process and
+					store personal information in the United States.
+				</p></div> <div><h3>  Features</h3></div> <div><h3>  Solution</h3></div> <div><h3>  Get in touch</h3></div> <div><h3>  Resources</h3><p>  A Triton Digital Company.</p><p>  © 2023 121cast Pty Ltd.</p><span>  Your Opt Out Preference Signal is Honored</span></div> <div><h2>  This Website Does Not Sell Personal Information or Share Personal Information for Cross-Context Behavioral Advertising</h2></div> <div><h2>  Cookie Data</h2></div> <div><h2>  Exercise Privacy Rights</h2></div> <div><h3>   Manage Cookie Preferences</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function, and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. </p></div> <div><h4>  Performance Cookies</h4><label>  Performance Cookies</label><p>  Performance cookies collect data that allows the website to understand how you interact with the website. For example, these cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. This information allows us to improve the website and our services. You may enable or disable these cookies by using this toggle switch. </p></div> <div><h4>  Functionality Cookies</h4><label>  Functionality Cookies</label><p>  Functionality cookies allow the website to remember your site preferences and choices such as username, region, and language. Similar to strictly necessary cookies, functionality cookies are used to provide services you request. You may enable or disable these cookies by using this toggle switch, but the website may not remember your settings unless you have an account with the website.</p></div> <div><h4>  Targeting Cookies</h4><label>  Targeting Cookies</label><p>  Ad targeting cookies collect information to personalize your experience with targeted ads. You can accept or reject these cookies by using this toggle switch. If you reject them, this website will not allow third parties to collect your personal information via cookies for the purpose of serving cross-context behavioral advertising. You will continue to receive online advertisements, but they may not be as relevant to you.</p></div> <div><h3>  Cookie List</h3><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span></div>

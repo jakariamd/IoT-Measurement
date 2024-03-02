@@ -1,0 +1,31 @@
+<div><p>  DEVICE</p><p>  <font> Device </font></p><p>  THE GRAVITATIONAL GENERATOR of an OPERATION</p><p>  The rights on given the inventions, on it use in the field of medicine, 
+veterinary medicine and for treatment of plants, free of charge are handed UN 
+22.12.1997y.</p><p>  GRAGEND - 1</p><p>  Any body.</p><p>  GRAGEND-2</p><p>  Monocrystal, which opposite edges are covered with metal. To edges the 
+inconstant voltage from the electronic generator is bringed.</p><p>  PURPOSE</p><p>  Istochnik of a variable static gravitational field.</p></div> <div><p>  OPERATION</p><p>  The variable gravitational field Gragend-1 (Gravitational generator of an 
+operation) in the ten fortieth degree of time is weaker electrical. It can not 
+destroy chemical substances, but can order their structure. It is capable, for 
+example, to change an odor of substances, to delay or to speed up development 
+seeds, to promote the extension or compression of an alive cell and so on. </p><p>  The screen for a gravitational field is not known.</p><p>  THE DEVICE Gragend-1 contains an active element as monocrystal, by which the 
+variable voltage from the built-in generator is applied.</p></div> <p><p>  The atoms of an active element under an operation of an electrical field 
+change, and around there is a variable gravitational field.</p></p> <p><p>  The character of a force of gravitational effect depends on a direction of 
+movement of a varying point. For want of transversal oscillations (the 
+transversal field - area B) weakens, and for want of longitudinal (longitudinal 
+field - the area A) will increase. </p></p> <p><p>  The magnitude of a force decreases with a distance.</p></p> <div><p>  GRAGEND - 3</p><p>  The capillary tube from the dielectric, which has been filled in with a weak 
+electrolyte, to, which extremities are applied inconstant voltage.</p><p>  Gr. - gravitational generator of an operation, electrolytic with 
+electrostatic excitation.</p><p>  Manufacturing. From filter paper the disks by a diameter about a box in which 
+are cut is going gragend, for example, from a tooth powder, number from 15 up to 
+40. From polyethylene the disks by a diameter on 3 mm smaller are cut, at which 
+center the orifice by a diameter about 3 mm is cut. The assembly of paper disks 
+divided by disks from polyethylene is going. The assembly at center is pierced 
+by a wire; it is better silvered, have with the lower party a closed loop by a 
+diameter about 8 mm located perpendicularly to a wire. Along a wall of a box the 
+brass or copper foil is stacked. The assembly is located in a box, to a central 
+wire and to a foil the flexible wires are soldered, through which to gragend the 
+variable voltage from the generator, for example, assembled on the scheme 1 is 
+bringed. The paper of gragend is impregnated with weak solutions of various 
+substances, for example, water, vodka, medicine. The effect depends on effect 
+gragend from assembly, solution, frequency, form and amplitude of bringed 
+voltage and from a distance from gragend up to object of effect.</p></div> <p><p>  Scheme 1. The gragend with the generator of excitation</p></p> <div><p>  R4-adjustment of frequency</p><p>  R7-adjustment of voltage output</p><p>  <font> R1 1k </font><font> ----------- </font><font>  R2 510  </font><font> ------ </font><font> C1 33H </font><font> ------- </font><font>  R3 2k </font><font> ---------- </font><font>  R7 
+6,8k </font><font> --------- </font><font>  In </font><font>  
+              
+ </font><font> Gr </font></p><p>  <font> R4 10k </font><font> ----- </font><font>  T1 KT315Б </font><font> ---- </font><font>  С2 33H </font><font> ----- </font><font>  T2 МП42А </font><font> --------------------- </font><font>  Е = 3 ~ 12v </font></p></div> <p><p>  <font> R5 3,9k </font><font> -------- </font><font>  R6 2k </font></p></p> <div><p>  The gragend<b>  - 4 </b></p><p>  Inhomogeneous rotated body with generator.</p><p>  The gragend - 5</p><p>  Elastic body with the activator. </p><p>  E - Mail:ulmann@baltnet.ru</p><p>  Valentin Ulmann </p><p>   </p></div>

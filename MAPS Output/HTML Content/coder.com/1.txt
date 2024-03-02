@@ -1,0 +1,243 @@
+<div><h1>  Privacy Policy</h1><p>  <em> Effective: September 22nd, 2020 </em> <em> Last updated: November
+29th, 2022 </em></p></div> <div><h3>  Introduction</h3><p>  Welcome, and thank you for your interest in Coder Technologies Inc. (<strong> "Coder" </strong>
+, <strong> "we" </strong> , or <strong> "us" </strong>). This Privacy Policy (the <strong> "Policy" </strong>) applies to the
+Personal Information that we obtain through <a href="http://www.coder.com" target="_blank"> coder.com </a>
+and through the User’s instance of the product (the <strong> "Website" </strong>). Information
+captured from the User’s instance of the product is obtained in similar ways and
+used for the same purposes as information captured from coder.com. This Policy
+describes how we use and disclose such Personal Information, your rights and
+choices with respect to your information, and how you can contact us if you have
+any questions or concerns.</p></div> <p><p>  Please note that our core Coder product is deployed by our business customers on
+their own server or cloud platform of choice. If you have any questions about a
+customer’s Coder deployment, please contact the customer directly.</p></p> <div><h3>  1. Personal Information we Collect</h3><p>  We may collect Personal Information about you directly from you and from third
+parties, as well as automatically through your use of the Website. In this
+Policy, <strong> "Personal Information" </strong> means any information relating to an
+identified or identifiable individual.</p><p>  Information Provided by You</p><ul>  <li><strong> Contact information </strong>. We may receive professional contact details of
+employees and other individuals associated with our business customers,
+prospects, partners, and vendors, such as first and last name, email address,
+phone number, title and department, and other relevant information necessary
+for us to manage a particular business relationship.
+</li><li><strong> Payment information </strong>. If you make payments for the use of our Website, we
+will ask you to provide your payment information, such as your credit card
+number and billing address, to process your payment.
+</li></ul></div> <ul><ul>  <li><strong> Communication information </strong>. When you contact us via a contact form, email,
+or other means, you may provide us with communication information, such as
+your name, email address, company, and the content, date, and time of your
+message.
+</li><li><strong> Support Information </strong>. When you request technical support services, we will
+process your contact information, communication information, as well as
+information on the reasons for your support request, and any additional
+information you may provide.
+</li></ul></ul> <p><p>  Where required by applicable law, we indicate whether and why you must provide
+us with your Personal Information, as well as the consequences of failing to do
+so.</p></p> <div><p>  Information Collected via Automated Means</p><ul>  <li><strong> Website usage information </strong>. When you use our Website, we may automatically
+collect information about your visit, including via cookies, beacons,
+invisible tags, and similar technologies (collectively,<strong> "cookies" </strong>) in your
+browser and on emails sent to you. This information may include Personal
+Information, such as your IP address, web browser, device type, and the web
+pages that you visit just before or just after you use the Website, as well as
+information about your interactions with the Websites, such as the date and
+time of your visit, and where you have clicked. Metrics collected by automated
+means may include: number of users; daily/weekly/monthly active users; rebuild
+frequency; rebuild time; image update frequency; editor usage split by editor
+type; web terminal, coder-cli, and SSH usage; metrics page and filter usage;
+services usage; devurl usage patterns; and resource allocation. Paid users may
+opt in to the collection of this information to enhance product performance
+but are otherwise opted out by default. Free users are automatically opted in
+to the collection of this information and they do not have an opt out option.
+In the event a free user converts to a paid subscription, they will be given
+the option to opt out. This information is only used for product development
+and enhancement. You can find more information about how we use cookies in the
+section <em> How We Use Personal Information </em> below.</li></ul></div> <div><p>  Information Collected from Third Parties</p><ul>  <li><strong> Information from Other Sources </strong>.We may obtain information, including
+Personal Information, from third parties and sources other than our Website,
+such as our business customers and partners. If we combine or associate
+information from other sources with Personal Information that we collect
+through our Website, we will treat the combined information as Personal
+Information in accordance with this Policy.</li></ul></div> <div><h3>  2. How we use Personal Information</h3><ul>  <li><strong> Support </strong>. We use Personal Information to provide technical support,
+including diagnosing and resolving any issues you report.
+</li><li><strong> Customer relationship management </strong>. We may process your Personal Information
+for customer relationship management purposes.
+</li><li><strong> Communicating with you </strong>. We may use your email address and other Personal
+Information as necessary to contact you for administrative purposes such as to
+manage your account, to provide information that you request, and to respond
+to comments and questions.
+</li></ul></div> <ul><ul>  <li><strong> Understanding usage and improving the ** </strong> Website**.We use the
+information that we collect on the Website to understand and analyze the usage
+trends and preferences of our users, to improve the Website, and to develop
+new products, services, features, and functionality.
+</li><li><strong> Marketing </strong>. We may use your email address and other Personal Information to
+send marketing communications, including updates on promotions and events
+relating to products and services offered by us and by third parties we work
+with. Generally, you have the ability to opt out of receiving any promotional
+communications as described below under <em> Your Rights and Choices </em>. Where
+required under applicable law, we will only send you promotional emails with
+your opt-in consent.
+</li></ul></ul> <ul><ul>  <li><strong> Administrative and legal purposes </strong>. We may use your Personal Information to
+address any administrative or legal issues pertaining to Coder, including but
+not limited to intellectual property infringements, defamation, or privacy
+rights.
+</li><li><strong> Aggregation </strong>. We may aggregate or otherwise de-identify Personal
+Information and use the resulting information for other business purposes.
+</li></ul></ul> <div><p>  How We Use Cookies and Similar Technologies</p><p>  We and third-party service providers may use the following cookies to collect
+Personal Information:</p><ul>  <li><strong> Functional cookies </strong>. Some cookies are strictly necessary to make our
+Website available to you. For example, to remember your preferences. We cannot
+provide you with the Website without this type of cookies.
+</li><li><strong> Analytics cookies </strong>. We also use cookies for website analytics purposes in
+order to operate, maintain, and improve the Website. We use Google Analytics,
+Simple Analytics and HubSpot to collect and process certain analytics data on our behalf.
+Google Analytics, Simple Analytics and HubSpot help us understand how you engage with the
+Website and may also collect information about your use of other websites,
+apps, and online resources.
+</li></ul></div> <p><p>  Where required by applicable law, we obtain your consent to use cookies. You can
+find more information about your rights and choices, and how to opt out of the
+use of certain cookies in the section <em> Your Rights and Choices </em> below.</p></p> <div><p>  Our Use of European Personal Information</p><p>  If you are located in the European Economic Area, we only process your Personal
+Information when we have a valid legal basis, including when:</p><ul>  <li>You have consented to the use of your Personal Information, for example to
+send you marketing communications.
+</li><li>We have a legal obligation to use your Personal Information, for example to
+comply with tax and accounting obligations, or with a court order.
+</li><li>We or a third party have a legitimate interest in using your Personal
+Information. In particular, we have a legitimate interest in using your
+Personal Information for internal analytics purposes, and to improve the
+safety, security, and performance of our Website. We only rely on our or a
+third party’s legitimate interests to process your Personal Information when
+these interests are not overridden by your rights and interests.
+</li></ul></div> <div><h3>  3. When we Disclose Information</h3><p>  We may disclose information to third parties if you consent to us doing so, as
+well as in the following circumstances:</p><ul>  <li>We work with third-party service providers to provide hosting. These third
+parties may have access to or process your information as part of providing
+those services for us. Generally, we limit the information provided to these
+service providers to that which is reasonably necessary for them to perform
+their functions on our behalf and we require them to agree to maintain the
+confidentiality of such information.
+</li><li>We may make certain information available to third parties for various
+purposes, including compliance with various reporting obligations or for our
+business purposes. Where required under applicable law, we will only use
+anonymized or aggregated information for these purposes.
+</li></ul></div> <ul><ul>  <li>We may disclose your information if required to do so by law or in the
+good-faith belief that such action is necessary to comply with applicable
+laws, in response to a court order, judicial or other government subpoena or
+warrant, or to otherwise cooperate with law enforcement or other governmental
+agencies.
+</li><li>We also reserve the right to disclose your information that we believe, in
+good faith, is appropriate or necessary to (i) take precautions against
+liability; (ii) protect ourselves or others from fraudulent, abusive, or
+unlawful uses or activity; (iii) investigate and defend ourselves against any
+third-party claims or allegations; (iv) protect the security or integrity of
+our Website and any facilities or equipment used to make our Website
+available; or (v) protect our property or other legal rights including, but
+not limited to, enforcement of our agreements, or the rights, property, or
+safety of others.
+</li></ul></ul> <ul><ul>  <li>We may disclose and otherwise transfer Personal Information to an acquirer,
+successor or assignee as part of any merger, acquisition, debt financing, sale
+of assets, or similar transaction, as well as in the event of an insolvency,
+bankruptcy, or receivership in which information is transferred to one or more
+third parties as one of our business assets.
+</li><li>We may share Personal Information with our affiliates, subsidiaries, and
+branch offices to which it is reasonably necessary or desirable for us to
+disclose Personal Information for the above-mentioned purposes.
+</li></ul></ul> <div><h3>  4. Your Rights and Choices</h3><p>  You may decline to share certain Personal Information with us, in which case we
+may not be able to provide to you some of the features and functionality of our
+Website. If you wish to access, amend, or delete any other Personal Information
+we hold about you, you may contact us using the contact details at the end of
+this Policy. Please note that while any changes you make will be reflected in
+active user databases instantly or within a reasonable period of time, we may
+retain all information you submit for backups, archiving, prevention of fraud
+and abuse, analytics, satisfaction of legal obligations, or where we otherwise
+reasonably believe that we have a legitimate reason to do so, as permitted under
+applicable data protection law.</p></div> <p><p>  If you receive commercial email from us, you may unsubscribe at any time by
+following the instructions contained within the email. You may also opt out from
+receiving commercial email from us and any other promotional communications that
+we may send to you from time to time, by contacting us using the contact details
+at the end of this Policy. Please be aware that after you opt out from receiving
+commercial messages from us, you will continue to receive administrative
+messages from us regarding our Website.</p></p> <div><p>  Your Cookie Choices</p><p>  You have the following choices with regard to the use of cookies and similar
+technologies.</p><ul>  <li><strong> Browser settings </strong>. Many web browsers allow you to manage your preferences
+relating to cookies. You can set your browser to refuse cookies or delete
+certain cookies. You may be able to manage other technologies in the same way
+that you manage cookies using your browser’s preferences. Please note that if
+you choose to block cookies, doing so may impair the use of our Website.
+</li><li><strong> Google Analytics </strong>. You can learn about Google’s practices by going to
+<a href="https://www.google.com/policies/privacy/partners/" target="_blank"> https://www.google.com/policies/privacy/partners/ </a>
+and opt out by downloading the Google Analytics opt-out browser add-on,
+available at
+<a href="https://tools.google.com/dlpage/gaoptout" target="_blank"> https://tools.google.com/dlpage/gaoptout </a>
+or via Google’s Ads Settings or Ad Settings for mobile apps.
+</li></ul></div> <ul><ul>  <li><strong> Simple Analytics </strong>. You can learn more about Simple Analytics practices by going to
+<a href="https://simpleanalytics.com/privacy-policy" target="_blank"> https://simpleanalytics.com/privacy-policy </a>.
+</li></ul></ul> <div><p>  Your European Privacy Rights</p><p>  If you are located in the European Economic Area, you have additional rights
+described below.</p><ul>  <li>You may request access to and receive information about the Personal
+Information we maintain about you, update and correct inaccuracies in your
+Personal Information, restrict or object to the processing of your Personal
+Information, have the information anonymized or deleted, as appropriate, or
+exercise your right to data portability to easily transfer your Personal
+Information to another company. In addition, you may also have the right to
+lodge a complaint with a supervisory authority, including in your country of
+residence, place of work, or where an incident took place.
+</li></ul></div> <ul><ul>  <li>You may withdraw any consent you previously provided to us regarding the
+processing of your Personal Information, at any time, and free of charge. We
+will apply your preferences going forward and this will not affect the
+lawfulness of the processing before you withdrew your consent.
+</li><li>You may exercise these rights by contacting us using the contact details at
+the end of this Policy. Please note that there are exceptions and limitations
+to each of these rights, and that while any changes you make will be reflected
+in active user databases instantly or within a reasonable period of time, we
+may retain information for backups, archiving, prevention of fraud and abuse,
+analytics, satisfaction of legal obligations, or where we otherwise reasonably
+believe that we have a legitimate reason to do so.
+</li></ul></ul> <div><h3>  5. International Visitors</h3><p>  Our Website is hosted in the United States. If you choose to use our Website
+from a different jurisdiction, you are transferring your Personal Information
+outside of your jurisdiction and into the U.S. for storage and processing.
+Please note that the data protection laws in your jurisdiction may be different
+than the laws applicable in the U.S. When we transfer your Personal Information
+to the U.S., we take steps to comply with applicable data protection law, in
+particular legal requirements regarding adequate protection for data transfers.
+Also, we may transfer your data from the U.S. to other countries or regions in
+connection with storage and processing of data, fulfilling your requests, and
+operating our Website. By providing any information, including Personal
+Information, on or to the Website, you consent to such transfer, storage, and
+processing.</p></div> <div><p>  European Visitors</p><p>  If you are located in the European Economic Area, we will comply with applicable
+EEA data protection law when transferring your Personal Information outside of
+the EEA. We may transfer your Personal Information to countries which have been
+found to provide adequate protection by the European Commission (e.g.,
+Switzerland and Canada), use contractual protections for the transfer of
+Personal Information, or transfer to recipients who have certified to the
+Privacy Shield or adopted Binding Corporate Rules. For more information about
+how we transfer Personal Information outside of the EEA, or to obtain a copy of
+the contractual safeguards we use for such transfers, you may contact us as
+specified below.</p></div> <div><h3>  6. Children’s Privacy</h3><p>  The Website is not intended for children under the age of 13 and we do not
+knowingly collect information online from children under the age of 13 without
+obtaining parental consent. If you are under 13 years of age, you should not use
+or access the Website at any time or in any manner. If we become aware that any
+person submitting information to the Website is under the age of 13 and without
+verifiable parental consent, we will promptly take steps to delete or anonymize
+any personal information and terminate the user account. If you become aware
+that your child or any child under your care has provided us with personal
+information without your consent, please contact us at the contact information
+listed below.</p></div> <div><h3>  7. Retention</h3><p>  We take measures to delete your Personal Information or keep it in a form that
+does not permit identifying you when this information is no longer necessary for
+the purposes for which we process it, unless we are required by law to keep this
+information for a longer period. When determining the specific retention period,
+we take into account various criteria, such as the type of service provided to
+you, the nature and length of our relationship with you, and mandatory retention
+periods provided by law and the relevant statute of limitations.</p></div> <div><h3>  8. Third-party Services</h3><p>  The Website may contain features or links to websites and services provided by
+third parties. Any information you provide on third-party sites or services is
+provided directly to the operators of such services and is subject to those
+operators’ policies, if any, governing privacy and security, even if accessed
+through the Website. We encourage you to learn about those third parties’
+privacy and security policies before providing them with information.</p></div> <div><h3>  9. Information Security</h3><p>  We use certain physical, managerial, and technical safeguards that are designed
+to improve the integrity and security of Personal Information that we collect
+and maintain. We cannot, however, ensure or warrant the security of any
+information you transmit to us and you do so at your own risk.</p></div> <div><h3>  10. Changes to uur Privacy Policy and Practices</h3><p>  Please revisit this page periodically to stay aware of any changes to this
+Policy, which we may update from time to time. If we modify this Policy, we will
+make it available through coder.com, and indicate the date of the latest
+revision. In the event that the modifications materially alter your rights or
+obligations hereunder, we will make reasonable efforts to notify you of the
+change. For example, we may send a message to your email address, if we have one
+on file, or generate a pop-up or similar notification when you access the
+Website for the first time after such material changes are made. Your continued
+use of the Website after the revised Policy has become effective indicates that
+you have read, understood, and agreed to the current version of this Policy.</p></div> <div><h3>  11. How to Contact Us</h3><p>  Unless otherwise indicated, Coder Technologies Inc. is the entity responsible or
+"data controller" for the processing of your Personal Information as described
+in this Policy. Please contact us with any questions or comments about this
+Policy, your Personal Information, our use and disclosure practices, or your
+consent choices by email at <a href="mailto:support@coder.com" target="_blank"> support@coder.com </a> or by
+postal mail at:</p><p>  Coder Technologies Inc.</p></div> <div><p>  ATTN: Legal Department</p><p>  9901 Brodie Lane, Ste 160 #1212</p><p>  Austin, TX 78748</p><p>  United States</p><span>  Information</span><span>  Company</span><span>  Compare</span><span>  Legal</span></div>

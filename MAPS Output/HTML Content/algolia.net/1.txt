@@ -1,0 +1,198 @@
+<div><h1>  Appendix A. Hardware and Network Protection</h1><p>  The best practice before deploying a machine into a production
+      environment or connecting your network to the Internet is to determine
+      your organizational needs and how security can fit into the requirements
+      as transparently as possible. Since the main goal of the
+      <i> Red Hat Enterprise Linux Security Guide </i> is to explain how to secure Red Hat Enterprise Linux, a more
+      detailed examination of hardware and physical network security is beyond
+      the scope of this document. However, this chapter presents a brief
+      overview of establishing security policies with regard to hardware and
+      physical networks. Important factors to consider include how computing
+      needs and connectivity requirements fit into the overall security
+      strategy. The following explains some of these factors in detail.
+    </p></div> <ul><ul>  <li><i> Computing </i> involves more than just
+	  workstations running desktop software. Modern organizations require
+	  massive computational power and highly-available services, which can
+	  include mainframes, compute or application clusters, powerful
+	  workstations, and specialized appliances. With these organizational
+	  requirements, however, come increased susceptibility to hardware
+	  failure, natural disasters, and tampering or theft of equipment.
+	</li><li><i> Connectivity </i> is the method by which an
+	  administrator intends to connect disparate resources on a network. An
+	  administrator may use Ethernet (hubbed or switched CAT-5/RJ-45
+	  cabling), token ring, 10-base-2 coaxial cable, or even wireless
+	  (802.11) technologies. Depending on which
+	  medium an administrator chooses, certain media and network topologies
+	  require complementary technologies such as hubs, routers, switches,
+	  base stations, and access points. Determining a functional network
+	  architecture will allow an easier administrative process if security
+	  issues arise.
+	</li></ul></ul> <p><p>  From these general considerations, administrators can get a better
+      view of implementation. The design of a computing environment can then be
+      based on both organizational needs and security considerations — an
+      implementation that evenly assesses both factors.</p></p> <div><h1>  A.1. Secure Network Topologies</h1><p>  The foundation of a LAN is the <i> topology </i>, or
+	network architecture. A topology is the physical and logical layout of a
+	LAN in terms of resources provided, distance between nodes, and
+	transmission medium. Depending upon the needs of the organization that
+	the network services, there are several choices available for network
+	implementation. Each topology has its advantages and security issues
+	that network architects should regard when designing their network
+	layout.</p></div> <div><h2>  A.1.1. Physical Topologies</h2><p>  As defined by the Institute of Electrical and Electronics
+	Engineers (IEEE), there are three common topologies for the physical
+	connection of a LAN.</p></div> <div><h3>  A.1.1.1. Ring Topology</h3><p>  The <i> Ring </i> topology connects each node by
+	    exactly two connections. This creates a ring structure where each
+	    node is accessible to the other, either directly by its two
+	    physically closest neighboring nodes or indirectly through the
+	    physical ring. Token Ring, FDDI, and SONET networks are connected in
+	    this fashion (with FDDI utilizing a dual-ring technique); however,
+	    there are no common Ethernet connections using this physical
+	    topology, so rings are not commonly deployed except in legacy or
+	    institutional settings with a large installed base of nodes (for
+	    example, a university).
+	</p></div> <div><h3>  A.1.1.2. Linear Bus Topology</h3><p>  The <i> linear bus </i> topology consists of nodes
+	which connect to a terminated main linear cable (the backbone). The
+	linear bus topology requires the least amount of cabling and networking
+	equipment, making it the most cost-effective topology. However, the
+	linear bus depends on the backbone being constantly available, making it
+	a single point-of-failure if it has to be taken off-line or is
+	severed. Linear bus topologies are commonly used in peer-to-peer LANs
+	using co-axial (coax) cabling and 50-93 ohm terminators at both ends of
+	the bus.</p></div> <div><h3>  A.1.1.3. Star Topology</h3><p>  The <i> Star </i>
+	topology incorporates a central point where nodes connect and through
+	which communication is passed. This centerpoint, called a
+	<i> hub </i> can be either
+	<i> broadcasted </i> or
+	<i> switched </i>. This topology does introduce a single
+	point of failure in the centralized networking hardware that connects
+	the nodes. However, because of this centralization, networking issues
+	that affect segments or the entire LAN itself are easily traceable to
+	this one source.</p></div> <div><h2>  A.1.2. Transmission Considerations</h2><p>  In a broadcast network, a node will send a packet that traverses
+	  through every other node until the recipient accepts the packet. Every
+	  node in the network can conceivably receive this packet of data until
+	  the recipient processes the packet. In a broadcast network, all
+	  packets are sent in this manner.</p><p>  In a switched network, packets are not broadcasted, but are
+	  processed in the switched hub which, in turn, creates a
+	  <i> direct </i> connection between the sending and
+	  recipient nodes using the unicast transmission principles. This
+	  eliminates the need to broadcast packets to each node, thus lowering
+	  traffic overhead.</p></div> <p><p>  The switched network also prevents packets from being intercepted
+	  by malicious nodes or users. In a broadcast network, where each node
+	  receives the packet on the way to its destination, malicious users can
+	  set their Ethernet device to <i> promiscuous </i> mode
+	  and accept all packets regardless of whether or not the data is
+	  intended for them. Once in promiscuous mode, a sniffer application can
+	  be used to filter, analyze, and reconstruct packets for passwords,
+	  personal data, and more. Sophisticated sniffer applications can store
+	  such information in text files and, perhaps, even send the information
+	  to arbitrary sources (for example, the malicious user's email
+	  address).
+	</p></p> <p><p>  A switched network requires a network switch, a specialized piece
+	  of hardware which replaces the role of the traditional hub in which
+	  all nodes on a LAN are connected. Switches store MAC addresses of all
+	  nodes within an internal database, which it uses to perform its direct
+	  routing. Several manufacturers, including Cisco Systems, Linksys, and
+	  Netgear offer various types of switches with features such as
+	  10/100-Base-T compatibility, gigabit Ethernet support, and support for
+	  Carrier Sensing Multiple Access and Collision Detection (CSMA/CD)
+	  which is ideal for high-traffic networks because it queues connections
+	  and detect when packets collide in transit.
+	</p></p> <div><h2>  A.1.3. Wireless Networks</h2><p>  An emerging issue for enterprises today is that of
+	  mobility. Remote workers, field technicians, and executives require
+	  portable solutions, such as laptops, Personal Digital Assistants
+	  (PDAs), and wireless access to network resources. The IEEE has
+	  established a standards body for the 802.11 wireless specification,
+	  which establishes standards for wireless data communication throughout
+	  all industries. The current standard in practice today is the 802.11b
+	  specification.</p></div> <p><p>  The 802.11b and 802.11g specifications are actually a group of
+	  standards governing wireless communication and access control on the
+	  unlicensed 2.4GHz radio-frequency (RF) spectrum (802.11a uses the 5GHz
+	  spectrum). These specifications have been approved as standards by the
+	  IEEE, and several vendors market 802.11
+	  products and services. Consumers have also embraced the standard for
+	  small-office/home-office (SOHO) networks. The popularity has also
+	  extended from LANs to MANs (Metropolitan Area Networks), especially in
+	  populated areas where a concentration of wireless access points (WAPs)
+	  are available. There are also wireless Internet service providers
+	  (WISPs) that cater to frequent travelers requiring broadband Internet
+	  access to conduct business remotely.</p></p> <p><p>  The 802.11 specifications allow for
+	  direct, peer-to-peer connections between nodes with wireless
+	  NICs. This loose grouping of nodes, called an <i> ad
+	  hoc </i> network, is ideal for quick connection sharing between
+	  two or more nodes, but introduces scalability issues that are not
+	  suitable for dedicated wireless connectivity.</p></p> <p><p>  A more suitable solution for wireless access in fixed structures
+	  is to install one or more WAPs that connect to the traditional network
+	  and allow wireless nodes to connect to the WAP as if it were on the
+	  Ethernet-mediated network. The WAP effectively acts as a bridge
+	  between the nodes connected to it and the rest of the network.
+	</p></p> <div><h3>  A.1.3.1. 802.11 Security</h3><p>  Although wireless networking is comparable in speed and
+	  certainly more convenient than traditional wired networking mediums,
+	  there are some limitations to the specification that warrants thorough
+	  consideration. The most important of these limitations is in its
+	  security implementation.</p><p>  In the excitement of successfully deploying an
+	  802.11 network, many administrators fail
+	  to exercise even the most basic security precautions. Since all
+	  802.11 networking is done using high-band
+	  RF signals, the data transmitted is easily accessible to any user with
+	  a compatible NIC, a wireless network scanning tool such as
+	  <b> NetStumbler </b> or
+	  <b> Wellenreiter </b>, and common sniffing tools
+	  such as  and . To
+	  prevent such aberrant usage of private wireless networks, the 802.11b
+	  standard uses the Wired Equivalency Privacy (WEP) protocol, which is
+	  an RC4-based 64- or 128-bit encrypted key shared between each node or
+	  between the AP and the node. This key encrypts transmissions and
+	  decrypts incoming packets dynamically and
+	  transparently. Administrators often fail to employ this shared-key
+	  encryption scheme, however; either they forget to do so or choose not
+	  to do so because of performance degradation (especially over long
+	  distances). Enabling WEP on a wireless network can greatly reduce the
+	  possibility of data interception.
+	  </p></div> <p><p>  Red Hat Enterprise Linux supports various 802.11
+	    products from several vendors. The
+	    <b> Network Administration Tool </b> includes a facility for
+	    configuring wireless NICs and WEP security. For information about
+	    using the <b> Network Administration Tool </b>, refer to the
+	    chapter entitled <i> Network Configuration </i> in
+	    the <i> Red Hat Enterprise Linux System Administration Guide </i>.</p></p> <p><p>  Relying on WEP, however, is still not a sound enough means of
+	  protection against determined malicious users. There are specialized
+	  utilities specifically designed to crack the RC4 WEP encryption
+	  algorithm protecting a wireless network and to expose the shared
+	  key. <b> AirSnort </b> and <b> WEP
+	  Crack </b> are two such specialized applications. To protect
+	  against this, administrators should adhere to strict policies
+	  regarding usage of wireless methods to access sensitive
+	  information. Administrators may choose to augment the security of
+	  wireless connectivity by restricting it only to SSH or VPN
+	  connections, which introduces an additional encryption layer above the
+	  WEP encryption. Using this policy, a malicious user outside of the
+	  network that cracks the WEP encryption has to additionally crack the
+	  VPN or SSH encryption which, depending on the encryption method, can
+	  employ up to triple-strength 168-bit DES algorithm encryption
+	  (3DES), or proprietary algorithms of even greater
+	  strength. Administrators who apply these policies should restrict
+	  plain text protocols such as Telnet or FTP, as passwords and data can
+	  be exposed using any of the aforementioned attacks.
+	  </p></p> <div><h2>  A.1.4. Network Segmentation and DMZs</h2><p>  For administrators who want to run externally-accessible services
+	  such as HTTP, email, FTP, and DNS, it is recommended that these
+	  publicly available services be physically and/or logically segmented
+	  from the internal network. Firewalls and the hardening of hosts and
+	  applications are effective ways to deter casual intruders. However,
+	  determined crackers can find ways into the internal network if the
+	  services they have cracked reside on the same logical route as the
+	  rest of the network. The externally accessible services should reside
+	  on what the security industry regards as a <i> demilitarized
+	  zone </i> (DMZ), a logical network segment where inbound
+	  traffic from the Internet would only be able to access those services
+	  and are not permitted to access the internal network. This is
+	  effective in that, even though a malicious user exploits a machine on
+	  the DMZ, the rest of the Internal network lies behind a firewall on a
+	  separated segment.</p></div> <p><p>  Most enterprises have a limited pool of publicly routable IP
+	  addresses from which they can host external services, so
+	  administrators utilize elaborate firewall rules to accept, forward,
+	  reject, and deny packet transmissions. Firewall policies implemented
+	  with  or dedicated hardware firewalls allow
+	  for complex routing and forwarding rules, which administrators can use
+	  to segment inbound traffic to specific services at specified addresses
+	  and ports, as well as allow only the LAN to access internal services,
+	  which can prevent IP spoofing exploits. For more information about
+	  implementing , refer to <a href="ch-fw.html" target="_blank"> Chapter 7  </a><i> Firewalls </i>.
+	</p></p> <div><td>  Appendixes</td><td>  Hardware Security</td></div>

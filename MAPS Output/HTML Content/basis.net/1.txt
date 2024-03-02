@@ -1,0 +1,102 @@
+<div><h1>  Cookieless Advertising Solutions</h1><p>  Linking advertisers with audiences through data-driven, privacy-friendly solutions across the digital ecosystem.</p></div> <div><h2>  BasisConnect+</h2><p>  Effective Digital Advertising Without Third-Party Cookies</p></div> <div><h2>  HARNESS THE POWER OF YOUR FIRST-PARTY DATA</h2><p>  Basis converts your CRM data into first-party audience segments. Simply upload your records directly into our platform and start targeting your audience the same day.</p><p>  Transform your first-party data into new segments using look-a-like modeling, so you can reach new audiences with similar characteristics to your existing customers.</p></div> <div><h2>  PRIVACY-COMPLIANT ADVERTISING SOLUTIONS</h2><p>  Basis Technologies offers a host of privacy-friendly tools and resources, delivering the performance and scale digital marketers need to thrive in this new era of advertising.</p><ul>  <li><strong> Contextual targeting: </strong>  Choose from over 2,000 contextual segments to target.</li><li><strong> Private Marketplaces: </strong> Tap into premium inventory—access 1,400+ pre-negotiated PMP deals across multiple media channels. </li><li><strong> Programmatic Guaranteed: </strong> Ensure a minimum number of targeted impressions at a locked-in rate.</li><li><strong> BasisTV+: </strong> Effectively target audiences on connected TV—advertising’s fastest-growing channel—without having to rely on third-party cookies.</li></ul></div> <ul><ul>  <li><strong> Cookieless Conversions: </strong> Track post-click site conversions for privacy-friendly attribution. </li><li><strong> Audience Insights & Profiling: </strong> Get a complete view of your audience across seven key data categories—all in one dashboard. </li><li><strong> Machine Learning Optimization: </strong> AI-driven optimization that help improve performance without relying on cookies. </li></ul></ul> <div><h2>  Related Content</h2><p>  Third-party cookie deprecation is transforming the digital advertising industry. How can marketers embrace privacy-friendly tactics without sacrificing results? Find out in this guide.</p><p>  Watch Basis Technologies' VP of Media Innovations + Technology, Noor Nasser, explore the privacy-friendly future of digital advertising at SXSW 2023.</p><p>  As a result of widespread consumer disapproval of targeting tools such as third-party cookies, advertisers must find new ways to market relevant content to audience segments. Here are five recommendations for marketers on how to succeed in a privacy-first future.</p></div> <div><h2>  Simplify Your DIGITAL MEDIA WITHOUT THIRD-PARTY COOKIES</h2></div> <div><h4>  Technology</h4><ul>  <li>Features</li><li>Channels</li><li>Features</li><li>More Technology</li></ul></div> <div><h4>  Services</h4></div> <div><h4>  Resources</h4></div> <div><h4>  Company</h4><p>  11 E Madison St, 6th Floor, Chicago, IL 60602</p></div> <div><h3>  Cookie List</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div> <td><td>  basis.com</td></td> <div><td>  First Party
+</td><td>  OptanonConsent, OptanonAlertBoxClosed
+</td><td>  Third Party
+</td></div> <div><h4>  Sale of Personal Data</h4><p>  Under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.</p></div> <div><ul>  <li>Performance Cookies
+</li></ul><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+</p><ul>  <li>Targeting Cookies
+</li></ul></div> <p><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+</p></p> <td><td>  hello.basis.com</td></td> <div><td>  First Party
+</td><td>  basis.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/_gid" target="_blank"> 
+                        _gid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_ga_xxxxxxx" target="_blank"> 
+                        _ga_xxxxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gclxxxx" target="_blank"> 
+                        _gclxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_ga" target="_blank"> 
+                        _ga
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_uetvid" target="_blank"> 
+                        _uetvid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_fbp" target="_blank"> 
+                        _fbp
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_uetsid" target="_blank"> 
+                        _uetsid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat_UA-XXXXXX-X" target="_blank"> 
+                        _gat_UA-XXXXXX-X
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  JSESSIONID
+</td><td>  Third Party
+</td><td>  _rxuuid
+</td><td>  Third Party
+</td><td>  UID_EXT_xx
+</td><td>  Third Party
+</td><td>  _li_ss
+</td><td>  Third Party
+</td><td>  uid-bp-xxxxx, UID
+</td><td>  Third Party
+</td><td>  u, ab
+</td><td>  Third Party
+</td><td>  INGRESSCOOKIE
+</td><td>  Third Party
+</td><td>  TapAd_TS, TapAd_3WAY_SYNCS, TapAd_DID
+</td><td>  Third Party
+</td><td>  CMID, CMPS, CMPRO
+</td><td>  Third Party
+</td><td>  pardot
+</td><td>  Third Party
+</td></div> <div><td>  OAID
+</td><td>  Third Party
+</td><td>  lidid
+</td><td>  Third Party
+</td><td>  SERVERID
+</td><td>  Third Party
+</td><td>  KRTBCOOKIE_xxxx, PugT
+</td><td>  Third Party
+</td><td>  bcookie, li_sugr
+</td><td>  Third Party
+</td><td>  anj, uuid2
+</td><td>  Third Party
+</td><td>  pardot
+</td><td>  Third Party
+</td><td>  _rxuuid
+</td><td>  Third Party
+</td><td>  browser_id
+</td><td>  Third Party
+</td><td>  __cf_bm
+</td><td>  Third Party
+</td><td>  ssi, _ssuma
+</td><td>  Third Party
+</td><td>  _an_uid
+</td></div> <div><td>  Third Party
+</td><td>  i
+</td><td>  Third Party
+</td><td>  audience
+</td><td>  Third Party
+</td><td>  CONSENT, YSC, VISITOR_INFO1_LIVE
+</td><td>  Third Party
+</td><td>  6suuid
+</td><td>  Third Party
+</td><td>  anProfile
+</td><td>  Third Party
+</td><td>  tluid
+</td><td>  Third Party
+</td><td>  Third Party
+</td><td>  TestIfCookieP, pid, csync
+</td><td>  Third Party
+</td><td>  _session_id
+</td><td>  Third Party
+</td><td>  _ljtrtb_16, ljt_reader
+</td><td>  Third Party
+</td><td>  IDE
+</td><td>  Third Party
+</td></div> <div><td>  opt_out
+</td><td>  Third Party
+</td><p>  This website uses cookies to enhance user experience and analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising, and analytics partners. For more information about how we use cookies, visit https://privacy.basis.net</p></div> <div><h2>  Manage Cookies</h2></div> <div><h3>   Manage Consent Preferences</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.    You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.</p></div> <div><h4>  Sale of Personal Data</h4><label>  Sale of Personal Data</label><p>  Under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale of personal information by using this toggle switch. If you opt out we will not be able to offer you personalised ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.</p></div> <div><ul>  <li>Performance Cookies</li><li>Switch Label</li></ul><span>  label</span><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.    All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p></div> <div><ul>  <li>Targeting Cookies</li><li>Switch Label</li></ul><span>  label</span><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.    They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div> <div><h3>  Cookie List</h3><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><ul>  <li>View Cookies</li></ul><span>  </span></div>

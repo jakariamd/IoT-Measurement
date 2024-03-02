@@ -1,0 +1,381 @@
+<div><h1>  Cookie Policy</h1></div> <div><h3>  Cookie Policy</h3></div> <div><h3>  This Cookie Policy describes what cookies are used on www.sony.com ("Site"), which is owned and managed by Sony Group Corporation. This Policy also describes why cookies are used, and how you can control their use.</h3></div> <div><h3>  Please note that other companies in the Sony Group are responsible for websites and properties beyond this Site. These affiliated Sony companies may have their own distinct cookie policies; therefore, please review the cookie policies on those websites and properties if you visit them.</h3><p>  What is a cookie?</p><p>  A cookie is a small text file that a website asks your browser to store on your device in order to remember information about you, such as your language preference. Those cookies are set by us and are called first-party cookies. We also use third-party cookies – which are cookies set by an organization other than Sony – for our advertising and marketing efforts.
+ Sony Group Corporation may not control the storage or access to these cookies. You should review the privacy and cookie policies of these services to find out how these third parties use cookies and where your cookie data is being stored and processed.</p></div> <p><p>  What types of cookies are used, and what are they used for?</p></p> <div><p>  There are </p><span>  four types of cookies that may be set:</span><ul>  <li>1.	Strictly Necessary Cookies</li></ul><p>  These cookies are necessary for the Site to function and </p><span>  cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences. They may also be used for location detection and bot detection. You can set your browser to block or alert you about these cookies, but please be aware that some parts of the Site will then not work.</span></div> <p><p>  These cookies do not store any personal information.</p></p> <p><p>  For example, these cookies may be used to:</p></p> <div><ul>  <li>Detect your location to provide a relevant user experience</li><li>Analyze traffic sources to maintain site stability</li></ul><p>  To find more information on the specific Strictly Necessary Cookies used on the Site, please see the table below, or the </p><span>  Cookie Preference Center when you select "<a href="" target="_blank"> Customize Cookies </a>."</span><ul>  <li>2.	Performance Cookies</li></ul><p>  These </p><span>  optional cookies allow us to track visits and actions so we can measure and improve the performance of our site. They help us understand which pages are the most and least popular and see how visitors move around and interact with the Site.</span></div> <p><p>  All the information these cookies collect is aggregated and therefore anonymous.</p></p> <p><p>  For example, these cookies may be used to:</p></p> <div><ul>  <li>Analyze and manage the performance and design of the Site</li><li>Track errors to help us continually improve the Site experience</li></ul><p>  To find more information on the specific Performance Cookies used on the Site, please see the table below, or the </p><span>  Cookie Preference Center when you select "<a href="" target="_blank"> Customize Cookies </a>."</span><ul>  <li>3.	Functional Cookies</li></ul><p>  These </p><span>  optional cookies enable the Site to provide enhanced functionality and personalization. They may be set by us or by third-party providers whose services we have added to our pages. If you do not allow these cookies, then some or all these services may not function properly.</span></div> <p><p>  For example, these cookies may be used to:</p></p> <ul><ul>  <li>Remember the preferences that you selected on a previous visit to the website, such as country/language and the presentation of the website (for instance, layout, font size, colors, etc), so you do not have to tell us again</li></ul></ul> <p><p>  To find more information on the specific Functional Cookies used on the Site, please see the table below, or the </p></p> <span><span>  Cookie Preference Center when you select "<a href="" target="_blank"> Customize Cookies </a>."</span></span> <ul><ul>  <li>4.	Targeting Cookies</li></ul></ul> <div><p>  These </p><span>  optional cookies may be set through the Site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other websites. They do not store your personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less-targeted advertising.</span><p>  For example, these cookies may be used to:</p><ul>  <li>Collect information about which Sony products and services you have browsed across the Site so that:</li><li>Sony Group companies can provide you content and recommendations on their websites that are more relevant to you</li><li>Sony Group companies can personalize and target more effectively their email and other direct marketing communications</li><li>Our advertising partners and retailers can provide you with advertisements on their websites and/or websites in their advertising network for Sony products and services that are more relevant to you</li></ul></div> <div><ul>  <li>Limit the number of times you see an advertisement as well as to help measure the effectiveness of a marketing campaign</li></ul><p>  To find more information on the specific Targeting Cookies used on the Site, please see the table below, or the </p><span>  Cookie Preference Center when you select "<a href="" target="_blank"> Customize Cookies </a>."</span><p>  How long do we keep cookie data?</p><p>  We keep information collected from cookies for a maximum of 2 years. For more details on how long we keep information collected from specific cookies, please select "Cookie Details" in the </p></div> <span><span>  Cookie Preference Center.</span></span> <div><h3>  Adjusting Cookie Settings and Deleting Cookies</h3><p>  You can change your cookie preferences or withdraw your consent at any time via "<a href="" target="_blank"> Customize Cookies </a>". Select the different category headings to find out more and change the default settings according to your preference. </p><p>  We remind you that the cookies you accepted previously might remain stored in your browser. If you wish to remove the cookies already placed, you can do this by deleting these cookies via your browser.</p></div> <p><p>  You may also adjust your browser settings to prevent websites from setting cookies or third-party cookies altogether. If you do this some functions of our website may not be available or work function properly. Learn more about how to adjust the settings for different browsers:</p></p> <div><h3>  List of Cookies: please click on the links below to learn more about the cookies on the Site.</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as logging in, filling in forms or setting your privacy preferences. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p><td>  www.sony.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/content_lang" target="_blank"> 
+                        content_lang
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/sony_stories_first_visit" target="_blank"> 
+                        sony_stories_first_visit
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/AWSALB" target="_blank"> 
+                        AWSALB
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/filter_mode" target="_blank"> 
+                        filter_mode
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/OptanonAlertBoxClosed" target="_blank"> 
+                        OptanonAlertBoxClosed
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/AWSALBCORS" target="_blank"> 
+                        AWSALBCORS
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/geofilter_country" target="_blank"> 
+                        geofilter_country
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/OptanonConsent" target="_blank"> 
+                        OptanonConsent
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/statement_visible" target="_blank"> 
+                        statement_visible
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  sony.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/ak_bmsc" target="_blank"> 
+                        ak_bmsc
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_cc" target="_blank"> 
+                        s_cc
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/AMCVS_" target="_blank"> 
+                        AMCVS_
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/test" target="_blank"> 
+                        test
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/bm_sz" target="_blank"> 
+                        bm_sz
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_abck" target="_blank"> 
+                        _abck
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/bm_mi" target="_blank"> 
+                        bm_mi
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_campaign" target="_blank"> 
+                        s_campaign
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/bm_sv" target="_blank"> 
+                        bm_sv
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/AKA_A2" target="_blank"> 
+                        AKA_A2
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_vapi" target="_blank"> 
+                        _vapi
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/AMCV_" target="_blank"> 
+                        AMCV_
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/gpv_Page" target="_blank"> 
+                        gpv_Page
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_sq" target="_blank"> 
+                        s_sq
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  geofilter_country
+</td><td>  Third Party
+</td><td>  bm_sz, _abck
+</td><td>  Third Party
+</td><td>  BrowserId_sec, BrowserId
+</td><td>  Third Party
+</td><td>  __cf_bm
+</td><td>  Third Party
+</td><td>  __cf_bm
+</td><td>  Third Party
+</td><td>  dw
+</td><td>  Third Party
+</td><td>  bm_sz, _abck
+</td><td>  Third Party
+</td><td>  cf_use_ob
+</td><td>  Third Party
+</td><td>  __cf_bm
+</td><td>  Third Party
+</td><td>  bm_sz, _abck
+</td><td>  Third Party
+</td><td>  YSC, VISITOR_INFO1_LIVE, CONSENT
+</td></div> <div><td>  Third Party
+</td><td>  __cf_bm
+</td><td>  Third Party
+</td></div> <div><h4>  Performance Cookies</h4><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site, and will not be able to monitor its performance.</p><td>  sony.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/utag_main" target="_blank"> 
+                        utag_main
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_ppv" target="_blank"> 
+                        s_ppv
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/__td_signed" target="_blank"> 
+                        __td_signed
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_ga" target="_blank"> 
+                        _ga
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_nr30" target="_blank"> 
+                        s_nr30
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_fid" target="_blank"> 
+                        s_fid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_dur" target="_blank"> 
+                        s_dur
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat_UA-" target="_blank"> 
+                        _gat_UA-
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gclxxxx" target="_blank"> 
+                        _gclxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_ga_xxxxxxx" target="_blank"> 
+                        _ga_xxxxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gid" target="_blank"> 
+                        _gid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/mbox" target="_blank"> 
+                        mbox
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_schn1" target="_blank"> 
+                        _schn1
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_ips" target="_blank"> 
+                        s_ips
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_tp" target="_blank"> 
+                        s_tp
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/s_ecid" target="_blank"> 
+                        s_ecid
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  mc
+</td><td>  Third Party
+</td><td>  X-AB
+</td><td>  Third Party
+</td><td>  s_vi_csx7Dqccx7Fx7Eiwgdx60bx7Ft
+</td><td>  Third Party
+</td><td>  cookietest, QSI_SI_xxx_intercept
+</td><td>  Third Party
+</td><td>  dpm
+</td><td>  Third Party
+</td><td>  demdex
+</td><td>  Third Party
+</td><td>  uid
+</td><td>  Third Party
+</td><td>  vuid
+</td><td>  Third Party
+</td><td>  sc_at
+</td><td>  Third Party
+</td><td>  s_vi
+</td><td>  Third Party
+</td><td>  everest_session_v2, everest_g_v2
+</td></div> <div><td>  Third Party
+</td><td>  _td_global
+</td><td>  Third Party
+</td><td>  AKA_A2
+</td><td>  Third Party
+</td></div> <div><h4>  Functional Cookies</h4><p>  These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p><td>  nexim.my.salesforce.com</td><td>  First Party
+</td><td>  www.sony.com</td><td>  First Party
+</td><td>  sony.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/_td" target="_blank"> 
+                        _td
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/sst_v71" target="_blank"> 
+                        sst_v71
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/gpv_v89" target="_blank"> 
+                        gpv_v89
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/mboxEdgeCluster" target="_blank"> 
+                        mboxEdgeCluster
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/gpv_pn" target="_blank"> 
+                        gpv_pn
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/fil_p31" target="_blank"> 
+                        fil_p31
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/at_check" target="_blank"> 
+                        at_check
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/gpv_p7" target="_blank"> 
+                        gpv_p7
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/nvl_v29" target="_blank"> 
+                        nvl_v29
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/gpv_p1" target="_blank"> 
+                        gpv_p1
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  at_check
+</td><td>  Third Party
+</td><td>  LSKey-c$CookieConsentPolicy, CookieConsentPolicy
+</td><td>  Third Party
+</td><td>  Third Party
+</td><td>  __visitor_token
+</td><td>  Third Party
+</td><td>  smn_uid, lum
+</td><td>  Third Party
+</td><td>  AWSALBCORS, AWSALB
+</td><td>  Third Party
+</td><td>  __cf_bm
+</td><td>  Third Party
+</td></div> <div><h4>  Targeting Cookies</h4><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p><td>  www.sony.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/ln_or" target="_blank"> 
+                        ln_or
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_scid" target="_blank"> 
+                        _scid
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_im_vid" target="_blank"> 
+                        _im_vid
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  sony.com</td><td>  
+<a href="https://cookiepedia.co.uk/cookies/_gat_UA-XXXXXX-X" target="_blank"> 
+                        _gat_UA-XXXXXX-X
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx" target="_blank"> 
+                        _gat_gtag_xxxxxxxxxxxxxxxxxxxxxxxxxxx
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_a1_f" target="_blank"> 
+                        _a1_f
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_fbp" target="_blank"> 
+                        _fbp
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_ts_yjad" target="_blank"> 
+                        _ts_yjad
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_schn" target="_blank"> 
+                        _schn
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_ttp" target="_blank"> 
+                        _ttp
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_scid_r" target="_blank"> 
+                        _scid_r
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_a1_f_____" target="_blank"> 
+                        _a1_f_____
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_tt_enable_cookie" target="_blank"> 
+                        _tt_enable_cookie
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_td_ssc_id" target="_blank"> 
+                        _td_ssc_id
+                     </a>, 
+                    <a href="https://cookiepedia.co.uk/cookies/_gat_xxxxxxxxxxxxxxxxxxxxxxxxxx" target="_blank"> 
+                        _gat_xxxxxxxxxxxxxxxxxxxxxxxxxx
+                     </a>
+</td></div> <div><td>  First Party
+</td><td>  ad-privacy, ad-id
+</td><td>  Third Party
+</td><td>  _schn
+</td><td>  Third Party
+</td><td>  guest_id_marketing, personalization_id, guest_id_ads, guest_id
+</td><td>  Third Party
+</td><td>  IDSYNC
+</td><td>  Third Party
+</td><td>  imid_secure, imid_created, imid_created_secure, imid
+</td><td>  Third Party
+</td><td>  QSI_HistorySession
+</td><td>  Third Party
+</td><td>  TDID, TDCPM
+</td><td>  Third Party
+</td><td>  TestIfCookieP, csync, pid
+</td><td>  Third Party
+</td><td>  id5id.1st_last, id5id.1st.cached_consent_data, id5id.1st.cached_pd, id5.1st.cached_pd, id5.1st.cached_consent_data, id5.1st_nb, id5.1st_last, id5id.1st_nb, id5.1st_1270_nb, id5id.1st, id5.1st, id5id.1st_1270_nb
+</td></div> <div><td>  Third Party
+</td><td>  Third Party
+</td><td>  dextp
+</td><td>  Third Party
+</td><td>  gid, logicad
+</td><td>  Third Party
+</td><td>  tluid
+</td><td>  Third Party
+</td><td>  opt_out
+</td><td>  Third Party
+</td><td>  d2id
+</td><td>  Third Party
+</td><td>  uid_legacy, pfxid, pr, pr_legacy
+</td><td>  Third Party
+</td><td>  B, A3
+</td><td>  Third Party
+</td><td>  lv_h18eaA, lv_cf1-yQ, lv_7cAZqA, lv_WDlw9w, lv_gvthkw, lv_ijmxBg, lv_4RPqqw, cr, lv_wtSN8Q, lv_XmfSKw, lv_z-oD4Q, lv_UpEjkg, lv_DwdVUg, lv_vyfNKA, lv_M61pgw, lv_VsnYUA, lv_c2xXkA, lv_HRVOjA, lv_Kx3-Jw, lv_CMIZ8w, lv_hJ-eBg, lv_I_KrXw, lv_f8PSPA, lv_O6VvOw, lv_WoLklg, lv_M5Bm4g, lv_Q4V3Tw
+</td></div> <div><td>  Third Party
+</td><td>  muc_ads
+</td><td>  Third Party
+</td><td>  INGRESSCOOKIE
+</td><td>  Third Party
+</td><td>  bscookie
+</td><td>  Third Party
+</td><td>  _ljtrtb_16, ljt_reader
+</td><td>  Third Party
+</td><td>  TR
+</td><td>  Third Party
+</td><td>  pfxid, pfxids_logicad
+</td><td>  Third Party
+</td><td>  c, tuuid, tuuid_lu
+</td><td>  Third Party
+</td><td>  Third Party
+</td><td>  QSI_HistorySession, cookietest, QSI_SI_xxx_intercept
+</td><td>  Third Party
+</td><td>  audience
+</td><td>  Third Party
+</td></div> <div><td>  _cc_cc
+</td><td>  Third Party
+</td><td>  anj
+</td><td>  Third Party
+</td><td>  _ssuma, ssi
+</td><td>  Third Party
+</td><td>  pfxids_logicad
+</td><td>  Third Party
+</td><td>  OAID
+</td><td>  Third Party
+</td><td>  uuid
+</td><td>  Third Party
+</td><td>  [Cookie does not have a name]
+</td><td>  Third Party
+</td><td>  Third Party
+</td><td>  lang, li_sugr, AnalyticsSyncHistory, UserMatchHistory, lidc, bcookie, li_gc
+</td><td>  Third Party
+</td><td>  TapAd_3WAY_SYNCS, TapAd_TS, TapAd_DID
+</td><td>  Third Party
+</td></div> <div><td>  stx_user_id
+</td><td>  Third Party
+</td><td>  piuid, p_logicad
+</td><td>  Third Party
+</td><td>  SERVERID, mako_uid
+</td><td>  Third Party
+</td><td>  APID
+</td><td>  Third Party
+</td><td>  ln_or
+</td><td>  Third Party
+</td><td>  _ttp
+</td><td>  Third Party
+</td><td>  Third Party
+</td><td>  CONSENT
+</td><td>  Third Party
+</td><td>  _rxuuid
+</td><td>  Third Party
+</td><td>  SOSYNC, SOC
+</td><td>  Third Party
+</td><td>  lgcad, obuid
+</td><td>  Third Party
+</td><td>  CMID, CMPS
+</td><td>  Third Party
+</td></div> <td><td>  test_cookie, IDE
+</td></td> <div><td>  Third Party
+</td><td>  _auid_xsite, _auid
+</td><td>  Third Party
+</td><td>  anProfile
+</td><td>  Third Party
+</td><td>  _kuid_
+</td><td>  Third Party
+</td><td>  PugT, PUBMDCID, KRTBCOOKIE_xxxx
+</td><td>  Third Party
+</td><td>  d7s_dc
+</td><td>  Third Party
+</td><p>  Sony uses Strictly Necessary Cookies to operate this website. These cookies are essential, and will always remain active. Sony also uses Optional Cookies to improve site functionality, analyze usage, deliver advertisements and interact with third parties. 
+ By using this site, you agree to the placement of Optional Cookies. You can manage your cookie preferences at any time by clicking "Customize Cookies" Depending on your selected cookie preferences, the full functionality of this website may not be available.  </p></div> <p><p>  Review our<a href="https://www.sony.com/en/privacy/cookie/" target="_blank"> Cookie Policy  </a>for more information, and find out how the Sony Group uses personal data in our <a href="https://www.sony.com/en/privacy/" target="_blank"> Privacy Policy </a>.</p></p> <div><span>  Your Opt-Out Preference Signal Has Been Honored </span></div> <div><h2>   Cookie Preference Center</h2><p>  When you visit our website, it may store or retrieve information on your browser in the form of cookies or similar functionality. 
+</p><p>  This information might be about you, your preferences or your device and is mostly used to make the site work as expected. The information usually does not directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. </p></div> <p><p>  Click the different category headings to find out more and change your default settings. </p></p> <p><p>  For California, Virginia, Colorado, and Connecticut residents: To opt-out of the “sale” or “sharing” of your personal information or use for targeted advertising, please disable “Targeting Cookies” and save your preferences.  </p></p> <div><h3>   Manage Consent Preferences</h3></div> <div><h4>  Strictly Necessary Cookies</h4><p>  These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as logging in, filling in forms or setting your privacy preferences. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p></div> <div><h4>  Performance Cookies</h4><label>  Performance Cookies</label><p>  These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site, and will not be able to monitor its performance.</p></div> <div><h4>  Functional Cookies</h4><label>  Functional Cookies</label><p>  These cookies enable the website to provide enhanced functionality and personalization. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p></div> <div><h4>  Targeting Cookies</h4><label>  Targeting Cookies</label><p>  These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p></div> <div><h3>  Cookie List</h3><label>  checkbox label</label><span>  label</span><span>  Consent</span><span>  Leg.Interest</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span><label>  checkbox label</label><span>  label</span></div>

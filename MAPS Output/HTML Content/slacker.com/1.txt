@@ -1,0 +1,53 @@
+<div><h1>  Your Privacy Rights</h1></div> <div><h2>  DEV DEBUG</h2><ul>  <li>Mobile User - </li><li>Mobile User Token - </li><li>Site User - </li><li>Token User - </li><li>Request Status - </li><li>Requested - </li><li>Selected State - </li><li>isSlackerAnon() - </li><li>Fetching() - </li></ul><p>  
+					We've detected that you opted out of sharing personal information through your browser's GPC settings.
+					When present, the GPC opt-out signal from your browser will be used even if you haven't opted out in the Privacy Center.
+				</p><p>  
+					As described in our <a href="privacy" target="_blank"> Privacy Policy </a>, depending on where you reside or are located,
+					you may be able to assert certain rights with respect to your Personal Information.
+					These rights may include the right to opt-out of the sharing of your Personal Information for targeted advertising,
+					which is considered selling under certain state laws. If you wish to opt-out,
+					select your state from the dropdown below and submit your request in the provided form.
+	   			</p></div> <div><h2>  Please enable Javascript to allow us to process your request.</h2><p>  For questions about this process you may contact us via email at <a href="mailto:privacy@liveone.com?subject=Your California Privacy Rights" target="_blank"> privacy@liveone.com </a> or by postal mail to:
+	   				
+	   				LiveOne, Corp, liveone.com
+	   				c/o Privacy Administrator
+	   				269 South Beverly Drive, Suite #1450
+	   				Beverly Hills, CA 90212
+	   				Attn: Your California Privacy Rights.
+	   				
+	   				All requests must be labeled "Your California Privacy Rights" on the email subject line or envelope or post card.
+	   				</p></div> <p><p>  
+					Opt out is not available for residents of your state either because
+					(i) your state does not grant you such a right;
+					or (ii) your state's law does not apply to us.
+				</p></p> <div><h2>  Your request is being processed</h2><p>  
+						You've already submitted an opt-out request. If you have any questions, please email <a href="mailto:privacy@liveone.com" target="_blank"> privacy@liveone.com </a>.
+					</p><p>  
+							Thank you for exercising your right to opt out.
+						</p><p>  
+							You may close this window and return to the app.
+						</p><p>  
+							You are currently opted out of personalized advertisements.  Thank you for exercising your right to opt out.
+						</p></div> <p><p>  
+								You may close this window and return to the app.
+							</p></p> <div><h2>  Have An Account?</h2><p>  If you have a registered LiveOne account, please log in to opt out to ensure your request is processed properly.</p></div> <div><h2>  Don't have an account?</h2><p>  No problem.  Just click the button below to opt out in your current browser session.</p></div> <div><h2>  Opt Out</h2><p>  To opt out of personalized advertisements, click the button below.</p><p>  
+							You've already submitted an opt-out request. If you have any questions, please email <a href="mailto:privacy@liveone.com" target="_blank"> privacy@liveone.com </a>.
+						</p><p>  
+							You may close this window and return to the app.
+						</p></div> <div><h2>  Your Year in Music</h2></div> <div><h2>  Stats</h2><span>  Rock Star.   among the most active users on LiveOne!
+				
+
+
+ in the top </span></div> <div><h3>  % of users on LiveOne!
+					
+
+ used LiveOne more than </h3></div> <div><h3>  % of users.
+					
+
+</h3></div> <div><h3>  Soon, there will be stuff here for you to edit.</h3></div> <div><h3>  This profile is set to private</h3></div> <div><h3>  This user is not currently sharing anything</h3></div> <div><h2>  BLOG</h2></div> <div><h2>  
+				Music on demand. Listen offline. No ads. Unlimited skips.
+				
+				LiveOne has it all. Find the plan that's right for you. 
+			</h2><span>  Stay up-to-date and sign up for our newsletter</span><span>  Get the mobile app  <a href="/apps" target="_blank"> Learn More </a></span><span>  LiveOne</span><ul>  <li>Instagram</li><li>TikTok</li><li>YouTube</li><li>Twitter</li><li>Facebook</li></ul><p>  
+		By closing this message, you consent to LiveOne's use of cookies on this device in accordance with its <a href="/terms" target="_blank"> Terms of Service </a> and <a href="/privacy" target="_blank"> Privacy Policy </a>, unless you have already disabled cookies in your browser settings.
+		</p></div>

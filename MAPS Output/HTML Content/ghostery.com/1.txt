@@ -1,0 +1,29 @@
+<div><h1>  We Are Dedicated to Your Privacy</h1><p>  Transparency is the pillar upon which Ghostery is built. We tell you as often as we can what information we collect, why we collect it, and how we use that information. This is an ongoing, never-ending effort and striking the right balance between comprehensiveness and simplicity requires constant review and communication. We only collect personal data about you if you complete and submit a form where you provide that information and request something from us or create an account. For more information on what information we collect and how we use it, read our privacy statements that can be found below.‍Contact us at<a href="mailto:privacy@ghostery.com" target="_blank">  privacy@ghostery.com </a>
+</p></div> <div><h4>  Ghostery Privacy Suite</h4><ul>  <li>
+<strong> Ghostery Terms & Conditions › </strong>
+</li><li>
+<strong> Ghostery Privacy Policy › </strong>
+</li></ul></div> <div><h4>  Ghostery Browser Extension</h4><ul>  <li>
+<strong> Mozilla Public License Version 2.0 › </strong>
+</li><li>
+<strong> Chrome Web Store Limited Use Disclosure › </strong>
+</li><li>
+<strong> View on GitHub › </strong>
+</li></ul></div> <div><h4>  Ghostery Contributor status</h4><ul>  <li>
+<strong> Ghostery Contributor status features End-User License Agreement › </strong>
+</li><li>
+<strong> Ghostery Donation Form › </strong>
+</li></ul></div> <div><h4>  Ghostery Mobile Browser</h4><ul>  <li>
+<strong> Mozilla Public License Version 2.0 › </strong>
+</li><li>
+<strong> Mobile Browser End-User License Agreement › </strong>
+</li><li>
+<strong> Mobile Browser Privacy Policy › </strong>
+</li></ul></div> <div><h4>  Ghostery Website</h4><ul>  <li>
+<strong> Ghostery Website Terms of Use Agreement › </strong>
+</li></ul></div> <div><h4>  Supplemental Privacy Notices</h4><ul>  <li>
+<strong> Privacy Policy Supplemental Notice – California › </strong>
+</li></ul></div> <div><h4>  Free Ad Blockers vs Paid Ad Blockers: What's The Difference?</h4></div> <div><h4>  Browse 2x Faster with Ghostery</h4></div> <div><h4>  What Does Google Know About Me? How To Stop Data Collection</h4><p>  Follow us on</p><span>  Twitter</span><span>  Linkedin</span><span>  Facebook</span><span>  GitHub</span><p>  Privacy Suite</p><p>  Browser Extensions</p><p>  Comparisons</p><p>  Ghostery</p><p>  Help</p><p>  
+          © 2023 Ghostery GmbH. All rights reserved. 
+          Ghostery, the Ghostery logos, Ghostery Insights are registered trademarks of Ghostery GmbH.
+        </p></div>

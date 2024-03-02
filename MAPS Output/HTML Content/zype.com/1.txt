@@ -1,0 +1,55 @@
+<div><h1>  Privacy Policy of <strong> zype.com </strong></h1><p>  
+        This Website collects some Personal Data from its Users.
+      </p></div> <div><h2>  Personal Data processed for the following purposes and using the following services:</h2><ul>  <li>Access to third-party accounts</li><li>Stripe account access
+</li></ul><p>  Personal Data: various types of Data as specified in the privacy policy of the service
+</p><ul>  <li>Google Privacy Policy
+
+</li><li>Analytics</li><li>Google Analytics, Google Ads conversion tracking and Analytics collected directly
+</li></ul><p>  Personal Data: Cookies; Usage Data
+
+</p><ul>  <li>Contacting the User</li><li>Contact form
+</li></ul></div> <div><p>  Personal Data: company name; email address; first name; last name; phone number
+</p><ul>  <li>Mailing list or newsletter
+</li></ul><p>  Personal Data: email address
+
+</p><ul>  <li>Content performance and features testing (A/B testing)</li><li>Google Optimize 
+</li></ul><p>  Personal Data: Cookies; Usage Data
+
+</p><ul>  <li>Displaying content from external platforms</li><li>YouTube video widget
+</li></ul><p>  Personal Data: Cookies; Usage Data
+</p><ul>  <li>Font Awesome and Google Fonts
+</li></ul></div> <div><p>  Personal Data: Trackers; Usage Data
+
+</p><ul>  <li>Hosting and backend infrastructure</li><li>Amazon Web Services (AWS)
+</li></ul><p>  Personal Data: various types of Data as specified in the privacy policy of the service
+
+</p><ul>  <li>Managing contacts and sending messages</li><li>Mailchimp
+</li></ul><p>  Personal Data: email address; first name; last name
+
+</p><ul>  <li>Registration and authentication</li><li>YouTube OAuth
+</li></ul><p>  Personal Data: various types of Data as specified in the privacy policy of the service
+
+</p></div> <div><ul>  <li>Remarketing and behavioral targeting</li><li>Google Ads Remarketing and AdRoll
+</li></ul><p>  Personal Data: Cookies; Usage Data
+
+</p><ul>  <li>Tag Management</li><li>Google Tag Manager
+</li></ul><p>  Personal Data: Usage Data
+
+</p><ul>  <li>User database management</li><li>Salesforce Sales Cloud
+</li></ul><p>  Personal Data: various types of Data as specified in the privacy policy of the service
+
+
+</p></div> <div><h2>  Information on opting out of interest-based advertising</h2><p>  
+  In addition to any opt-out feature provided by
+  any of the services listed in this document,  Users may learn more on
+  how to generally opt out of interest-based advertising within the
+  dedicated section of the Cookie Policy.
+</p></div> <div><h2>  Contact information</h2><ul>  <li>Owner and Data Controller</li></ul><p>  Zype Inc
+115 Broadway
+NY NY 10006</p><p>  <strong> Owner contact email: </strong> privacy@zype.com
+
+</p><p>  
+    Latest update: October 13, 2022
+  </p><p>  
+<a href="https://www.iubenda.com/en/privacy-and-cookie-policy-generator" target="_blank"> iubenda </a> hosts this content and only collects <a href="//www.iubenda.com/privacy-policy/65675001" target="_blank"> the Personal Data strictly necessary </a> for it to be provided.
+  </p></div>

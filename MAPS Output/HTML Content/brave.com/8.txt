@@ -1,0 +1,149 @@
+<div><h1>  Privacy updates</h1><p>  
+               
+                Post #27 |
+            
+            Jun 27, 2023
+        </p><p>  Starting in version 1.54, Brave for desktop and Android will include more powerful features for controlling which sites can access local network resources, and for how long.</p><p>  
+               
+                Post #26 |
+            
+            May 24, 2023
+        </p><p>  Request OTR is another in Brave's suite of features that support the privacy needs of individual users, protecting far beyond the "standard" threats browsers typically watch out for.</p></div> <p><p>  
+               
+                Post #25 |
+            
+            May 11, 2023
+        </p></p> <p><p>  Forgetful Browsing is similar to, but more powerful and protective than, popular browsing extensions and private browsing modes. It's another example of Brave offering the most powerful privacy features of any popular browser.</p></p> <p><p>  
+               
+                Post #24 |
+            
+            Mar 6, 2023
+        </p></p> <p><p>  Starting in version 1.51, Brave will increase user privacy by extending the brower's permission system to cover legacy Google Sign-In…</p></p> <p><p>  
+               
+                Post #23 |
+            
+            Feb 23, 2023
+        </p></p> <p><p>  Starting in version 1.49 on Android and desktop (available since version 1.44 for iOS), Brave will hide "open in app" annoyances that appear on many websites.</p></p> <p><p>  
+               
+                Post #22 |
+            
+            Feb 9, 2023
+        </p></p> <p><p>  Starting in version 1.50, Brave will include a new feature called “HTTPS by Default” that improves Web security and privacy by increasing HTTPS use.</p></p> <p><p>  
+               
+                Post #21 |
+            
+            Sep 28, 2022
+        </p></p> <p><p>  New versions of Brave will hide—and, where possible, completely block—cookie consent notifications. Brave's approach is distinct and more privacy-preserving than similar systems used in other browsers.</p></p> <p><p>  
+               
+                Post #20 |
+            
+            Aug 16, 2022
+        </p></p> <p><p>  Recent versions of Brave on iOS include many new privacy features, ensuring that Brave iOS users have the strongest available protections of any iOS browser.</p></p> <p><p>  
+               
+                Post #19 |
+            
+            Jul 19, 2022
+        </p></p> <p><p>  Brave's new system STAR protects user privacy by ensuring the data users contribute are never unique to that user. This property, sometimes called k-anonymity, ensures that the data collector can only see a submitted value if the same value has also been submitted by some number of other users.</p></p> <p><p>  
+               
+                Post #18 |
+            
+            Apr 19, 2022
+        </p></p> <p><p>  Brave is rolling out a new feature called De-AMP, which allows Brave users to bypass Google-hosted AMP pages, and instead visit the content's publisher directly.</p></p> <p><p>  
+               
+                Post #17 |
+            
+            Apr 1, 2022
+        </p></p> <p><p>  Brave has further strengthened its fingerprinting protections by preventing users from being identified based on preferred browser language. Starting with version 1.39, Brave randomizes how your browser informs sites of what language(s) you’ve set as default, and what fonts you have installed on your system.</p></p> <p><p>  
+               
+                Post #16 |
+            
+            Mar 8, 2022
+        </p></p> <p><p>  Brave is shipping a new, powerful privacy-protecting feature called Unlinkable Bouncing. This feature protects your privacy by noticing when you're about to visit a privacy harming site, and instead routes that visit through a new, temporary browser storage.</p></p> <p><p>  
+               
+                Post #15 |
+            
+            Jan 7, 2022
+        </p></p> <p><p>  Brave continues to ship the most aggressive and broad privacy protections available in any popular browser. Starting in Brave 1.35, Brave includes protections against all known practical forms of “pool-party” attacks.</p></p> <p><p>  
+               
+                Post #14 |
+            
+            Dec 22, 2021
+        </p></p> <p><p>  Brave now includes network-state partitioning features, protecting Brave users from an even greater range of online tracking techniques.</p></p> <p><p>  
+               
+                Post #13 |
+            
+            Dec 15, 2021
+        </p></p> <p><p>  Brave has identified a new category of tracking vulnerability, forms of which are present in all browsers. We call this category of attack “pool-party” attacks because the attack uses collections (or “pools”) of limited-but-shared resources to create side channels.</p></p> <p><p>  
+               
+                Post #12 |
+            
+            Nov 18, 2021
+        </p></p> <p><p>  Brave is pleased to announce SugarCoat, the result of a year-long research collaboration with University of California San Diego to create a new system to improve Web privacy without sacrificing compatibility at Web scale.</p></p> <p><p>  
+               
+                Post #11 |
+            
+            Oct 14, 2021
+        </p></p> <p><p>  Brave is releasing additional protections against certain forms of bounce tracking. We call these new protections "debouncing". As of desktop version 1.32, Brave will protect users against bounce tracking by recognizing when the user is about to visit a known tracking domain, skipping visiting the tracking site all together, and instead directly navigating the user to the intended destination.</p></p> <p><p>  
+               
+                Post #10 |
+            
+            Sep 21, 2021
+        </p></p> <p><p>  Starting in version 1.31, Brave will support custom filter list subscriptions, allowing users to further control how unwanted network requests and in-page elements are blocked in Brave. This work is part of Brave’s goal of providing best-of-breed content filtering tools, and keeping people in control of their Web browsing.</p></p> <p><p>  
+               
+                Post #9 |
+            
+            Sep 1, 2021
+        </p></p> <p><p>  Brave is disabling filter list blocking for first-party subresources to improve privacy for typical Brave users. Advanced users still have the ability to deploy more aggressive privacy protections, even those that might break sites.</p></p> <p><p>  
+               
+                Post #8 |
+            
+            Jul 21, 2021
+        </p></p> <p><p>  Brave users can now choose to give sites temporary access to permission-protected capabilities to better protect their privacy. Common examples of permission-protected browser capabilities include web cameras, microphones, location information, and motion sensors, among others.</p></p> <p><p>  
+               
+                Post #7 |
+            
+            Feb 1, 2021
+        </p></p> <p><p>  This post presents “ephemeral site storage”, a new strategy for managing third-party storage in Brave, designed to improve Web compatibility, while maintaining the same level of privacy protection.</p></p> <p><p>  
+               
+                Post #6 |
+            
+            Jul 20, 2020
+        </p></p> <p><p>  Trackers are constantly working on new techniques for evading privacy tools, and keep deploying new ways to evade privacy-protecting tools like the Brave browser.  This post discusses a recent technique trackers use, CNAME cloaking, and a new feature in Brave that keeps Brave users protected.</p></p> <p><p>  
+               
+                Post #5 |
+            
+            Jul 20, 2020
+        </p></p> <p><p>  In order to stay one step ahead of online trackers, Brave regularly releases new privacy features and improvements. This post discusses three recent changes in Brave that each help make the web a more privacy, and person, respecting platform.</p></p> <p><p>  
+               
+                Post #4 |
+            
+            May 18, 2020
+        </p></p> <p><p>  Brave's goal is to both be the best browser for protecting your privacy, and the best browser for day-to-day, full-featured Web use. This post describes new privacy features being developed in Brave to better protect user privacy, without breaking privacy-respecting, user-serving websites.</p></p> <p><p>  
+               
+                Post #3 |
+            
+            Mar 5, 2020
+        </p></p> <p><p>  Brave now protects users from being fingerprinted by making them appear subtly different to each website. Browser fingerprinting protection is available today in our Nightly version. These new protections both provide the strongest fingerprinting protections of any popular browser, and work without introducing bothersome permission prompts or breaking websites.</p></p> <p><p>  
+               
+                Post #2 |
+            
+            Feb 20, 2020
+        </p></p> <p><p>  Brave is releasing a new system for hiding unwanted, privacy harming page elements. These include empty page space caused by blocking trackers, and third-party ads that cannot be blocked at the network layer.</p></p> <p><p>  
+               
+                Post #1 |
+            
+            Jan 23, 2020
+        </p></p> <p><p>  Problem: Blocking Trackers Sometimes Breaks Sites. One of many ways Brave protects your privacy on the Web is by blocking requests to trackers. By blocking these requests, Brave prevents you from being followed around the Web, and from ad companies, data brokers, and other privacy-harming parties from recording your online activity.</p></p> <div><h4>  Resources</h4></div> <div><h4>  Privacy policy</h4></div> <div><h4>  Browser</h4></div> <div><h4>  Company</h4></div> <div><h4>  Social media</h4></div> <div><h4>  Products</h4></div> <div><h4>  Contact</h4></div> <div><h5>  Support</h5></div> <div><h5>  Advertising</h5><span>  Please only use this email address if you are interested in purchasing advertising with Brave. For support, please visit community.brave.com.</span></div> <div><h5>  Business</h5></div> <div><h5>  Press</h5></div> <div><h4>  Developer docs</h4></div> <div><h4>  Creators</h4></div> <div><h4>  Offices</h4></div> <div><h5>  Brave San Francisco</h5><p>  580 Howard St. Unit 402, San Francisco, CA 94105</p><label>  Choose a language</label><small>  © 2015 - 2023 Brave Software, Inc. | All rights reserved</small></div> <div><h2>  Almost there…</h2></div> <div><h5>  You’re just 60 seconds away from the best privacy online</h5><p>  
+                If your download didn’t start automatically,
+                </p><ul>  <li>Download Brave
+</li></ul><p>  Click “Save” in the window that pops up, and wait for the download to complete.
+</p><p>  Wait for the download to complete (you may need to click “Save” in a window that pops up).
+</p><ul>  <li>Run the installer
+</li></ul><p>  Click the downloaded file at the bottom left of your screen, and follow the instructions to install Brave.
+</p></div> <p><p>  Click the downloaded file at the top right of your screen, and follow the instructions to install Brave.
+</p></p> <p><p>  Click the downloaded file, and follow the instructions to install Brave.
+</p></p> <div><ul>  <li>Import settings
+</li></ul><p>  During setup, import bookmarks, extensions, & passwords from your old browser.
+</p></div> <div><h3>  Get better privacy. Everywhere!</h3><p>  Download Brave mobile for privacy on the go.</p></div> <div><h3>  Get better privacy. Everywhere!</h3><p>  Download Brave mobile for privacy on the go.</p><span>  Click this file to install Brave
+
+</span><span>  Click this file to install Brave</span><span>  12345</span></div>

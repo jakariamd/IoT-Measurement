@@ -1,0 +1,7 @@
+<p><p>   <strong> JavaScript seems to be disabled in your browser. </strong>
+        You must have JavaScript enabled in your browser to utilize the functionality of this website. </p></p> <div><label>  Search:</label><span>  Search</span></div> <div><h2>  Watch what you love.
+            Anytime. Anywhere.</h2></div> <div><h3>  FDT cameras are great for checking
+            in on what's important to you
+            via web or mobile.</h3></div> <div><h2>  Easy Setup</h2><p>  Unbox the camera. Plug it in and connect it to your Wi-Fi network.
+                  Download the app & scan the QR code. You are ready to go!</p></div> <div><h2>  Mobile Connectivity</h2></div> <div><h3>  Receive alerts on your smartphone & tablet whenever motion is detected. Connect live with two-way audio
+                    and streaming video.</h3></div> <div><h2>  Video Storage & Playback</h2></div> <div><h3>  Store your video on our MicroSD card storage system for remote viewing & playback anywhere.</h3></div> <div><h4>  Subscribe for sales and updates</h4><span>  Subscribe</span></div>

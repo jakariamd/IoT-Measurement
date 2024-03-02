@@ -1,0 +1,326 @@
+<div><h1>  Additional US State Privacy Rights</h1><p>  Last updated: April 20, 2023</p></div> <div><h3>  <b> What does this page cover? </b></h3><p>  Some states in the US have passed state specific privacy laws. This page supplements our <a href="https://www.adobe.com/privacy/policy.html" target="_blank"> Privacy Policy </a> by explaining your privacy rights if you are a resident in one of these states, provides certain mandated disclosures about our treatment of personal information, and includes:
+ </p></div> <div><h3>  Colorado, Connecticut, Utah, and Virginia:</h3><p>  If you are a resident of Colorado, Connecticut, Utah, or Virginia, we have certain obligations, and you have certain rights with respect to your personal information, including:</p><ul>  <li>Right to confirm whether the controller is processing the consumer’s personal information and the right to access such information</li><li>Right to correct inaccuracies in personal information</li><li>Right to delete personal information</li><li>Right of data portability</li><li>Right to opt out from targeted advertising</li><li>Right to opt out from the sale of personal information</li></ul></div> <p><p>  In certain states, you also have the right to opt out from profiling in furtherance of decisions that produce legal or similarly significant effects on the consumer (such as Virginia, Colorado, and Connecticut) and appeal a decision regarding a request to exercise your rights.
+
+If you wish to exercise one or more of these rights, please review the “<a href="https://www.adobe.com/privacy/policy.html#rights" target="_blank"> What rights do I have regarding my personal information and how can I exercise these? </a>” section in the Adobe Privacy Policy. If you would like to opt out of targeted advertising or the sale of personal information please see the instructions <a href="#optouts" target="_blank"> below. </a>
+ </p></p> <div><h3>  California
+ </h3><p>  In addition to the information described in our <a href="https://www.adobe.com/privacy/policy.html" target="_blank"> Privacy Policy </a>, the California Consumer Privacy Act of 2018 (as amended by the California Privacy Rights Act of 2021) (“CCPA”) also requires us to provide California consumers with some additional information related to how Adobe collects, uses, retains, and discloses personal information as well as describe additional rights, which are summarized below.</p></div> <div><h3>  California Privacy Policy Disclosures</h3><p>  We collect, use, disclose, sell, share, and retain personal information as further described in our <a href="https://www.adobe.com/privacy/policy.html" target="_blank"> Privacy Policy </a> and summarized below.</p></div> <div><h3>  Personal Information We Collect:</h3><p>  In the preceding 12 months, we have collected the following categories of personal information, each as further described in our <a href="https://www.adobe.com/privacy/policy.html#info-collect" target="_blank"> Privacy Policy: </a></p><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction information</li><li>Professional, Education, or other Demographic Information, which may include characteristics of protected classifications under California or federal law, such as military or veteran status, age, sex, or gender</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information</li><li>Biometric Information</li><li>Sensitive Personal Information, which may include:</li><li>Government ID. Government identification such as state identification information</li></ul></div> <ul><ul>  <li>Account access information. Information such as account log-in in combination with any required security or access code, password, or credentials allowing access to your Adobe account</li><li>Precise geolocation data. Data derived from a device and that is used or intended to be used to locate you within a geographic area that is equal to or less than the area of a circle with a radius of 1,850 feet</li><li>Sensitive demographic data. Information you provide to us, such as racial or ethnic origin, religious beliefs or information about sex life or sexual orientation </li></ul></ul> <ul><ul>  <li>Contents of communications. Contents of your mail, email, and text messages, where Adobe is not the intended recipient, for example if you send personal communications to Adobe personnel</li><li>Biometric information for identification, including biometric information used for the purpose of uniquely identifying a consumer</li><li>Health data, such as your dietary restrictions or preferences, health or other accommodations necessary for you to attend an Adobe-sponsored or managed event
+ 
+</li></ul></ul> <div><h3>  Sources of Personal Information We Collect:</h3><p>  We collect personal information from the following categories of sources, which are more fully described in our <a href="https://www.adobe.com/privacy/policy.html#info-collect" target="_blank"> Privacy Policy </a>:</p><ul>  <li>Personal information you provide directly to us, such as on a form, via a browser or mobile-based chat session, via email or telephone, etc.</li><li>Personal information we automatically or programmatically collect or generate from your access to and use of Adobe websites, products, or services</li><li>Personal information we infer or generate from your access to and use of Adobe’s websites, products, or services, such as your approximate location (such as your IP address), likely preferences or other characteristics</li></ul></div> <ul><ul>  <li>Personal information we obtain or receive from other sources, including:</li><li>Data brokers and aggregators from which we obtain information to supplement the personal information we collect.</li><li>Third party partners, such as third-party applications and services including social networks you choose to connect or interact with through our services</li><li>Co-branding or marketing partners, such as companies with which we offer co-branded services or events, or engage in joint marketing activities</li></ul></ul> <ul><ul>  <li>Service providers that collect or provide data in connection with the work they do on our behalf</li><li>Publicly available sources, such as open government databases.
+ 
+</li></ul></ul> <p><p>  <b> Business or Commercial Purposes for Collecting Personal Information: </b> We use the personal information we collect for purposes further described in our <a href="https://www.adobe.com/privacy/policy.html#info-use" target="_blank"> Privacy Policy </a> or otherwise disclosed to you. For example, we use personal information for the following purposes:</p></p> <div><p>  <b> Purposes of Use </b></p><p>  <b> Categories of Personal Information </b></p><td>  <b> Product and service delivery. </b> To provide and deliver our services, including troubleshooting, improving, and personalizing those services.
+</td><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information </li><li>Biometric Information </li><li>Sensitive Personal Information
+</li></ul></div> <td><td>  <b> Business operations. </b> To operate our business, such as billing, accounting, payment processing, improve our internal operations, secure our systems and physical spaces, authenticate or validate your identity, detect fraudulent, deceptive, or illegal activity, and meet our legal obligations.
+</td></td> <ul><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information </li><li>Sensitive Personal Information
+</li></ul></ul> <td><td>  <b> Product improvement, analysis, development, and research </b> To </td></td> <span><span>  improve and develop new services or features, diagnose issues, analyze your use and measure effectiveness of our Services and Software to better understand how they are being used so we can improve them and engage and retain users, and conduct research.
+</span></span> <ul><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information </li><li>Biometric Information </li><li>Sensitive Personal Information
+</li></ul></ul> <td><td>  <b> Personalization. </b> To understand you and your preferences to enhance your experience and enjoyment using our Services and Software.
+</td></td> <ul><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information
+</li></ul></ul> <td><td>  <b> Customer support. </b> To provide </td></td> <span><span>  customer support and respond to your questions.
+</span></span> <ul><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information
+</li></ul></ul> <td><td>  <b> Communications.  </b>To send you information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages.
+</td></td> <ul><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information
+</li></ul></ul> <td><td>  <b> Marketing.  </b>To communicate with you about new services, offers, promotions, rewards, contests, upcoming events, and other information about our services and those of our selected partners (see the <a href="https://www.adobe.com/privacy.html" target="_blank"> Your Privacy Choices </a> section of our <a href="https://www.adobe.com/privacy.html" target="_blank"> Privacy Center </a> for how to change your preferences for promotional communications)
+</td></td> <ul><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information
+</li></ul></ul> <td><td>  <b> Advertising.  </b>To display advertising to you (see the <a href="https://www.adobe.com/privacy.html" target="_blank"> Cookies </a> section of the <a href="https://www.adobe.com/privacy.html" target="_blank"> privacy center </a> for information about personalized advertising and your advertising choices).
+</td></td> <ul><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information
+</li></ul></ul> <td><td>  <b> Event Planning and Management.  </b>To register you for events, tailor programming to your likely interests, validate your identity, provide accommodations for specific needs upon request, and provide a secure environment for our events.
+</td></td> <ul><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information</li><li>Biometric Information</li><li>Sensitive Personal Information
+</li></ul></ul> <p><p>  We combine data we collect from different sources for these purposes and to give you a more seamless, consistent, and personalized experience.
+ </p></p> <div><p>  <b> Categories of Personal Information Disclosed for a Business Purpose in the Preceding 12 Months: </b></p><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information </li><li>Sensitive Personal Information</li></ul><p>  For more information on the categories of third parties with whom we disclose personal information and the specific business or commercial purposes for such disclosures, please review the <a href="https://www.adobe.com/privacy/policy.html#info-share" target="_blank"> “Does Adobe disclose my personal information” </a> section of our Privacy Policy.</p></div> <div><p>  <b> Categories of Personal Information Sold or Shared in the Preceding 12 Months: </b></p><p>  <b> Categories of Personal Information Sold or Shared </b></p><p>  <b> Categories of Third-Party Recipients </b></p><p>  <b> Purpose for Disclosure </b></p><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information
+</li></ul></div> <td><td>  Social Medial Platforms Advertisers, Ad Agencies, Advertising Networks and Platforms, Advertising Related Technology Providers
+</td></td> <div><td>  Cross Context Behavioral Advertising
+</td><ul>  <li>Identifiers and Contact Information</li><li>Commercial and Transaction Information</li><li>Professional, Education, or other Demographic Information</li><li>Analytics or other Electronic Network Activity</li><li>Inferred Information
+</li></ul><td>  Retailers, Sales Partners
+</td><td>  Partner marketing of Adobe Software and Services to business customers
+</td><ul>  <li>Device Identifiers
+</li></ul><td>  Device Co-op Members
+</td><td>  Device Co-op (a service which enabled participating brands to deliver a more consistent and personalized experience across devices and apps. (This service has been discontinued.)
+</td></div> <p><p>  <b> Sensitive Personal Information. </b>
+Adobe uses and discloses sensitive personal information for the limited purposes permitted under CCPA and not for the purposes of inferring characteristics about a consumer.</p></p> <p><p>  <b> Retention and Deletion. </b> Please review the “<a href="https://www.adobe.com/privacy/policy.html#retain" target="_blank"> How long does Adobe retain my information </a>” section of our Privacy Policy for more information about how long Adobe retains personal information.</p></p> <div><p>  <b> California Privacy Rights </b></p><p>  California consumers have certain rights with respect to their personal information. These rights include the following:</p><p>  <b> 1. Right to opt out of “selling” or “sharing” certain Personal Information </b></p><p>  You have a right to opt out from future “sales” or “sharing” of personal information. CCPA requires us to describe the categories of personal information we sell to or share with third parties and how to opt out of future sales or sharing. The CCPA defines personal information to include internet or other electronic network activity information which includes identifiers, such as IP addresses, cookies IDs, and mobile IDs. The law also defines a “sale” or “share” broadly to include simply making data available to third parties in some cases.
+ </p></div> <div><p>  <b> To opt out of sharing and selling for purposes of cross context behavioral advertising you can: </b></p><p>  Review your preferences and opt out of advertising cookies and other technologies used for browser based cross context behavioral advertising. Note that you will need to opt out from each browser that you use to access Adobe websites and apps.</p><span>  Cookie settings</span><p>  Opt out of the sale or sharing of customer record information for cross context behavioral advertising and partner marketing</p></div> <div><span>  Opt-out</span><p>  Adobe websites recognize the Global Privacy Control available in some web browsers. If your browser is configured to send this signal, Adobe will opt you out of Adobe’s use of advertising cookies on that browser. You can learn more about Adobe’s <a href="https://www.adobe.com/privacy/marketing.html" target="_blank"> advertising practices </a> and your privacy choices <a href="https://www.adobe.com/privacy/opt-out.html" target="_blank"> here </a>.</p><p>  Further, using these choices will not stop all interest-based advertising, such as contextual-based ads.
+</p></div> <p><p>  <b> 2. Right to Know or Request Categories of Personal Information </b></p></p> <p><p>  You have a right to request that we disclose to you the personal information we have collected about you. You also have a right to request additional information about our collection, use, disclosure, or sale of such personal information such as a list of the categories of personal information collected about you, and other related information such as the source of the information, categories of information shared or sold to third parties, and the purpose for such sharing. Adobe has provided this information in the <a href="https://www.adobe.com/privacy/policy.html" target="_blank"> Privacy Policy </a>.
+ </p></p> <p><p>  <b> 3. Right to Correct.  </b>You have a right to request correction of inaccurate personal information.
+ </p></p> <p><p>  <b> 4. Right to Request Deletion. </b> You also have a right to request that we delete personal information under certain circumstances, subject to certain exceptions.
+ </p></p> <p><p>  <b> 5. Right to Designate an Authorized Agent. </b>
+You may designate an authorized agent to exercise some of your rights; however, in order to help protect the security of your personal information, the authorized agent must follow the same authentication procedures that are required if you exercise your rights without using an agent. Adobe will verify requests made through authorized agents to help ensure the safety of your account and to comply with our policies and procedures.
+
+<b> 6. Right against Discrimination. </b>
+You have a right to not be discriminated against for exercising your rights set out in the CCPA.
+ </p></p> <p><p>  <b> 7. Right to Notice.  </b>You have a right to receive notice of our practices at or before collection of personal information.
+ </p></p> <p><p>  <b> Additional information on exercising your rights </b>
+You have the right to exercise the rights listed above and in our <a href="https://www.adobe.com/privacy/policy.html" target="_blank"> Privacy Policy </a> free of charge or penalty, but we may limit the number of requests you make or charge reasonable fees as legally permitted. You may exercise many of these rights yourself by adjusting your preferences as outlined on the <a href="https://www.adobe.com/privacy/opt-out.html" target="_blank"> Your Privacy Choices </a> page, or you can get in touch with us by filling out a <a href="https://www.adobe.com/privacy/privacy-contact.html" target="_blank"> privacy inquiry form. </a>
+ </p></p> <p><p>  Where you exercise your rights yourself, you will need to be logged on with your Adobe ID and password or on the browser of your device. When you make a request through the privacy inquiry form, your email address will be authenticated via an email verification code and will be matched with the Adobe ID you are inquiring about.
+ </p></p> <p><p>  <b> Privacy Contact. </b>
+Please see our <a href="https://www.adobe.com/privacy/policy.html#questions-concerns" target="_blank"> Privacy Policy </a> for details on how to contact Adobe if you have a privacy question, concern, or request.</p></p> <div><p>  <b> Consumer request metrics for calendar year 2022 </b></p><p>  Adobe believes transparency is critical to maintaining a trusted relationship with our consumers. To that end, Adobe is further enhancing our transparency with respect to the choices our consumers make regarding personal information. In this privacy transparency disclosure, we are providing metrics on certain requests we received from consumers across the United States during the 2022 calendar year, in compliance with the California Consumer Privacy Act.</p></div> <p><p>  <b> Requests to know: </b> Adobe received 25 consumer requests to know personal information collected about them, complied with 25 of those requests in whole or in part, and denied 0 of those requests.</p></p> <p><p>  <b> Requests to delete: </b> Adobe received 217,094 consumer requests to delete, complied with 217,094 of those requests in whole or in part, and denied 0 of those requests.</p></p> <p><p>  <b> Requests to opt out:  </b>Adobe received 5,543 requests to opt out of personal information “sales,” complied with 5,543 of those requests in whole or in part, and denied 0 of those requests.</p></p> <p><p>  The mean number of days within which Adobe substantively responded to these requests in 2022 was 28 days.</p></p> <p><p>  In the previous 12-months, Adobe Experience Cloud offered a separate service called the Device Co-op, which enabled participating brands to deliver a more consistent and personalized experience across devices and apps. When this service was available, Adobe provided a mechanism that enabled consumers to disconnect a device and opt out from the sale or sharing of their data related to this service. This service is no longer active.</p></p> <div><ul>  <li>Shop for
+
+
+</li><li>Creative Cloud
+
+
+
+</li><li>Photoshop
+
+
+
+</li><li>Adobe Express
+
+
+
+</li><li>Photography
+
+
+
+</li><li>Premiere Pro
+
+
+
+</li><li>Adobe Stock
+
+
+
+</li><li>Elements Family
+
+
+
+</li><li>Document Cloud
+
+
+
+</li><li>Acrobat
+
+
+
+</li><li>Acrobat Sign
+
+
+
+</li><li>Special offers
+
+
+
+</li><li>View plans and pricing
+
+
+
+</li><li>View all products
+
+
+
+
+
+</li><li>For business
+
+
+</li><li>Creative Cloud for teams
+
+
+
+</li><li>Creative Cloud for enterprise
+
+
+
+</li><li>Document Cloud for business
+
+
+
+
+
+</li></ul></div> <div><ul>  <li>For education
+
+
+</li><li>Discounts for students and teachers
+
+
+
+</li><li>Schools and universities
+
+
+
+</li><li>Digital Learning Solutions
+
+
+
+
+
+</li><li>For mobile
+
+
+</li><li>Apps for iOS
+
+
+
+</li><li>Apps for Android
+
+
+
+
+
+
+</li><li>Experience Cloud
+
+
+</li><li>What is Experience Cloud?
+
+
+
+</li><li>Analytics
+
+
+
+</li><li>Experience Manager
+
+
+
+</li><li>Commerce
+
+
+
+</li><li>Marketo Engage
+
+
+
+</li><li>Workfront
+
+
+
+</li><li>Terms of Use
+
+
+
+
+
+</li><li>Support
+
+
+</li><li>Download and install
+
+
+
+</li><li>Help Center
+
+
+
+</li></ul></div> <div><ul>  <li>Adobe Support Community
+
+
+
+</li><li>Enterprise Support
+
+
+
+</li><li>Genuine software
+
+
+
+
+
+</li><li>Resources
+
+
+</li><li>Adobe Blog
+
+
+
+</li><li>Adobe Developer
+
+
+
+
+
+</li><li>Adobe Account
+
+
+</li><li>Log in to your account
+
+
+
+
+
+
+</li><li>Adobe
+
+
+</li><li>About
+
+
+
+</li><li>Careers
+
+
+
+</li><li>Newsroom
+
+
+
+</li><li>Corporate responsibility
+
+
+
+</li><li>Investor Relations
+
+
+
+</li><li>Supply chain
+
+
+
+</li><li>Trust Center
+
+
+
+</li><li>Events
+
+
+
+</li><li>Diversity and inclusion
+
+
+
+</li><li>Integrity
+
+
+
+
+
+
+</li></ul></div> <div><ul>  <li>Featured products   
+</li><li>Adobe Acrobat Reader
+
+
+
+</li><li>Adobe Express
+
+
+
+</li><li>Photoshop
+
+
+
+</li><li>Illustrator
+
+
+
+
+</li><li>Privacy
+
+
+
+</li><li>Terms of Use
+
+
+
+</li><li>Cookie preferences
+
+
+
+</li><li>Do not sell or share my personal information
+
+
+
+</li><li>AdChoices
+
+
+
+
+
+</li></ul><p>  Do not sell or share my info</p><p>  Do not sell or share my info</p><p>  Language Navigation</p><p>  Language Navigation</p><p>  Choose your region</p><p>  Selecting a region changes the language and/or content on Adobe.com.</p></div> <ul><ul>  <li>Americas</li><li>Europe, Middle East and Africa</li><li>Asia Pacific</li></ul></ul> <div><p>  Locale Modalv2</p><p>  We have detected you are visiting a different region on adobe.com</p><p>  Chat with us</p></div>

@@ -1,0 +1,175 @@
+<span><span>  eztv.re | Tuesday 15th of August 2023 08:56 PM ET</span></span> <div><td>  
+
+
+</td><td>  Your leaked IP address </td><span>  152.14.86.234 reveals your location from </span><td>   Raleigh, UNITED STATES. Your ISP spies on your torrents downloads to issue fines or start legal action against you. You must use a V‌PN, to make sure that your identity remains anonymous when downloading torrents, by hiding your IP address and encrypting your traffic. That means your ISP cannot monitor your activity anymore.</td><td>  FAQ Page</td><td>  How to Seed EZTV Torrents</td><td>  
+
+Q: How do I help you by seeding EZTV Torrents?
+
+A: Firstly, thank you for helping us spread the torrents. You have to install a free torrent client - recommended: <a href="http://www.utorrent.com/downloads/complete/os/win/track/stable" target="_blank"> μTorrent </a>,
+then you simply have to add our torrents <a href="https://eztv.re/ezrss.xml" target="_blank"> RSS feed </a> so that as soon as new torrents are released, your μTorrent client will automatically download and seed them.
+
+To do this, use the function "Add RSS Feed" from μTorrent's File Menu and enter the following Feed URL: <b> https://eztv.re/ezrss.xml </b> and be sure to tick the "<u> Automatically download all items published in the feed </u>" option.
+You need to make sure that you select a download directory with enough free space from the μTorrent's Preferances pane.
+Please keep the μTorrent client running as long as possible. If you can seed 24/24 it would help EZTV a lot.
+
+If you need more details, please contact us at <a href="mailto:novaking@eztv.ch?subject=Need more help with seeding" target="_blank"> novaking@eztv.ch </a>
+
+
+</td></div> <div><td>  The Shows</td><td>  
+
+Q: Why don't you cap my favourite show?
+
+A: eztv caps no shows, it is a distribution group only. The shows are capped by other
+release groups over whom eztv has no control (or communication).
+
+
+Q: Why don't you distribute my favourite show... I know it was capped!
+
+A: Sometimes there simply aren't enough seeds to go around to distribute all of
+the releases for the day. Priorities have to be made, and it's a shame
+your show was relegated. eztv will usually try to find a less busy time to
+seed the file over the next couple of days, so please be patient.
+
+
+Q: Why do some episodes from a series get distributed, but not all?
+
+A: Once again, eztv caps no shows, it is a distribution group only. The shows
+are capped by other release groups over whom eztv has no control (or
+communication). Sometimes the release groups capture some episodes and not
+others, there is nothing eztv can do about that.
+
+
+Q: Can I request a show?
+
+A: As has been written above, eztv in many cases has little control over what
+is distributed. However, it doesn't hurt for people to express interest in
+shows. You are welcome to post on the forum how much you enjoy a show, and
+that you hope eztv will be able to distribute it in the future. But keep in
+mind that whining, whinging and complaining about a show not appearing will
+probably have the opposite effect! A special thread (sticky) has been created
+in the forum to cater for show requests, inquires, information etc... please
+use this thread, any stray posts that belong in this thread will be deleted.
+
+
+Q: What about older shows?
+
+A: The networks keep eztv pretty busy with new stuff - it will be rare to see
+older shows seeded, unless it is a superior version (for example taken from an
+HDTV release or in Widescreen).
+
+</td></div> <div><td>  The Torrents</td><td>  
+
+Q: Why do you have two copies of a show on the site?
+
+A: One of the shows is probably a REPACK, or a PROPER. These are released when
+the first release had a flaw. Usually you will find the reason for the flaw in
+the forum posts for those torrents.
+
+
+Q: The file I downloaded is bad, why haven't you released a PROPER version?
+
+A: One of two reasons. Either the release groups have not released a PROPER
+version, or eztv has declined to release it. eztv endeavours to release propers
+when the original file has a significant problem, but if a proper is for a
+technicality or a very minor glitch (such as 5 seconds of commercials left in)
+then it may be decided the bandwidth is more valuable elsewhere.
+
+
+Q: I don't like torrents, can't I just download straight from your site or
+channel?
+
+A: No. eztv is purely a torrent distribution group, and devotes all available
+bandwidth to that means of distribution.
+
+
+Q: Why is the torrent so slow?
+
+A: There are hundreds of possible answers here. A few of the most likely are:
+i) The torrent is old, and there are few seeders left, slowing things down.
+ii) The torrent is brand new, and there are ten or twenty people downloading
+for each seed. Bandwidth will be stretched until more people complete their
+downloads.
+iii) You are running too many torrents. Torrents reward you for sharing -
+if a peer receives a lot of data from you, it will 'reward' you by sending you
+more data. So the more you upload the faster you will download. Spreading
+your upload too thin can reduce your download speeds. This is especially true
+early in the life of a torrent.
+iv) You are using a firewall/router and the port your torrent client is listening on
+cannot be accessed. You need to setup firewall exemptions and/or port
+fowarding to resolve this issue and greatly increase your download speeds.
+v) You are using Win XP and have not applied the http://www.lvllord.de patch
+
+
+Q: Who are VTV, and why do some of your torrents have their name as well?
+
+A: VTV is another TV torrent distribution group with which eztv sometimes
+cooperates to maximise bandwidth and prolong torrent life. This will usually
+happen on less popular shows which may not be able to support two separate
+torrents.
+
+
+Q: I love eztv! What can I do to help?
+
+A: Thanks, eztv loves you too. The best way to help is to seed. If you have a
+5mbit upload or better, contact an op and ask about becoming a seed! If not,
+once you finish your download, just leave it in your client for as long as you
+can to help other people get the file, and keep the torrent alive. eztv is
+very proud of how long the downloaders keep the torrents alive for, and would
+like to thank all those who keep files seeded many months after the initial
+release.
+
+</td></div> <div><td>  The Files</td><td>  
+
+Q: I capped something myself - how do I get eztv to distribute it?
+
+A: eztv distributes only releases by well known groups - this is a decision made
+in order to minimise the doubling up of torrents and wasted bandwidth. Exceptions
+are rare, but if you have a good reason then you should request to talk to an Op
+in our IRC channel.
+
+
+Q: I downloaded a file labelled as [eztv], but I had problems with it. Why?
+
+A: Most likely you downloaded a fake file from mininova. Unfortunately there
+are idiots out there who make fake torrents and put the eztv name on them. We
+strongly recommend only downloading eztv torrents which are linked from the
+site or IRC channel. All torrents uploaded to mininova will be added by the
+EZTV user.
+
+
+Q: How about movies, games, warez, ebooks... will you release those? Where can
+I get them?
+
+A: eztv is strictly a distribution group for current television. eztv has no
+interest in getting involved with the other types of media, and you should
+look elsewhere for such releases. We also ask that you not look for guidance
+to these releases in the IRC channel or forum - the most likely you response
+you will receive is "Go and buy it".
+
+Occasionally eztv may seed a non-tv release if it is deemed of particular interest.
+But this is to be considered a rarity and purely at the discretion of the admins.
+
+</td></div> <div><td>  Artistic Contribution</td><td>  
+
+Q: I designed some cool picture and banner for the shows, can I submit them to EZTV?
+
+A: Yes you can. Follow the below instructions:
+
+Main picture size : 357 x 300 pixels
+Banner size : 830 x 135 pixels
+Max. File Size: 150k
+
+Give yourself credit DISCRETELY in the lower right corner
+put the EZTV Logo upper right or left (also not too big) here is a transparent png:
+<a href="https://eztv.re/ezimg/s/1/1/s.gif" target="_blank"> https://eztv.re/ezimg/s/1/1/s.gif </a>
+
+</td></div> <div><td>  Subtitles</td><td>  
+
+Q: Where can I find subtitles to the shows I download from EZTV?
+
+A: We have setup a separate subtitles page where you
+can find subtitles and information on how to use them.
+Please Click Here.
+
+
+</td></div>

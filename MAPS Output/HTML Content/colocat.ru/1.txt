@@ -1,0 +1,6 @@
+<div><td>  <b> Write Access </b></td><td>  <b> PHP 5.6.27 </b></td><td>  <b> MySQL </b></td><td>  <b> Configuration: </b></td><td>  Can't connect (CURL) to push server https://ssl.livezilla.info/ on Port 443. Blocked by firewall or missing Open SSL package (extension=php_openssl.dll). Outgoing connection to push server is required in order to send PUSH Messages to APPs.</td><td>  <b> Filter: </b></td><span>  Ups, you are banned. There's a filter that locks you out so you can't see the Chat Widget. You can remove the filter under: LiveZilla Operator Console -> Filters (Shield Icon)</span></div> <div><td>  <b> Cloudflare: </b></td><span>  It seems that you are using Cloudflare. Some Cloudflare functions are not compatible with real-time apps like LiveZilla. Please exclude LiveZilla from Cloudflare if you face problems.</span><td>  <b> Header conflict: </b></td><span>  Server side header 'X-Frame-Options: SAMEORIGIN' prevents the use of mobile apps. Please deactivate header to use LiveZilla APPs.</span><td>  <b> File Uploads </b>post_max_size: 1024Mupload_max_filesize: 1024M
+<a href="http://www.livezilla.net/downloads/en/" target="_blank"> LiveZilla APPS </a>
+</td></div> <div><td>  
+
+</td><td>  Prerequisites</td><td>  License Agreement</td><td>  Administrator Account</td><td>  Settings</td><td>  Database</td><td>  Config File
+</td><td>  </td></div>

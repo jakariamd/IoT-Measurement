@@ -1,0 +1,30 @@
+<div><h2>  
+    Set your privacy boundaries.
+  </h2><p>  With Android, you choose when to share certain sensitive data with apps you download.</p><p>  App permissions</p></div> <div><h3>  
+    Decide when you share data.
+  </h3><p>  Allow microphone, camera or location access all the time, just once or never.</p><span>  Learn about app permissions</span><p>  Permission manager</p></div> <div><h3>  
+    Manage all your permissions in one place.
+  </h3><p>  Access and control all your sensitive app permissions in one central location.</p><span>  Learn about Permission manager</span><p>  Location</p></div> <div><h3>  
+    Control how your location is shared.
+  </h3><p>  Choose which apps get your approximate location and which apps get more precise information.</p><span>  Learn about location permissions</span><p>  Auto reset permissions</p></div> <div><h3>  
+    Reset access for unused apps.
+  </h3><p>  If you haven't used an app in a while, Android will automatically reset your permissions.</p><span>  Learn about auto reset</span><p>  Data safety section</p></div> <div><h2>  
+    Find out how different apps use your data.
+  </h2><p>  The data safety section in Google Play provides details about what data an app can access and use. That way you can confidently decide which apps to download. </p><span>  Try now</span><p>  Tracker alerts</p></div> <div><h2>  
+    Unknown tracker alerts help protect you from unwanted tracking.
+  </h2><p>  Your phone automatically detects and notifies you of unfamiliar tracking devices that are moving with you. Locate them with ease.</p><span>  Learn about unknown tracker alerts</span><p>  Camera & mic</p></div> <div><h2>  
+    Toggle your phone’s eyes and ears.
+  </h2><p>  Android lets you know when your camera and microphone are in use with green icons in the top right corner. Just toggle to disable camera and mic access system-wide.</p><span>  Learn about camera and mic controls</span><p>  Protected computing</p></div> <div><h2>  
+    Technology that ensures your data safety and privacy.
+  </h2><p>  Android minimizes and de-identifies your data from intelligent features. And restricts access to technically ensure your privacy and safety. </p><span>  Learn about protected computing</span><p>  Phones</p></div> <div><h3>  
+    Find your perfect phone. 
+  </h3><p>  Choose phones from your favorite brands, all with helpful features from Google.</p><span>  Explore Android Phones</span><p>  Switch to Android</p></div> <div><h3>  
+    It’s never been easier to switch.
+  </h3><p>  Securely transfer your photos, videos, messages and more from your iPhone to your new Android phone.</p><span>  Make the switch</span><p>  Prioritizing physical safety</p></div> <div><h2>  
+    Get help when and where you need it most.
+  </h2><p>  Make it easier for first responders to find you in a moment of crisis. Receive alerts that can help you seek safety faster. And communicate with loved ones when you’re in urgent need of help.</p><span>  Explore physical safety features</span><ul>  <li>Developer Resources</li><li>Android Studio and SDK</li><li>Android Open Source Project</li><li>Enterprise Overview</li><li>Essentials</li><li>Management</li><li>Security</li><li>Enrollment</li><li>Employees</li><li>Recommended</li><li>Enterprise Devices</li><li>Resources</li><li>For Partners</li><li>Solutions Directory</li><li>Android Blog</li><li>Enterprise Blog</li><li>Press Corner</li><li>Android is for everyone</li><li>Contact Press Team</li><li>How Google Play works</li><li>Android Auto</li></ul></div> <div><ul>  <li>Android TV</li><li>Wear OS by Google</li><li>Switch from iOS</li><li>Android Help Center</li><li>Android File Transfer</li><li>Find My Device</li><li>Join User Studies</li></ul><span>  Privacy Policy</span><label>  Languages</label><ul>  <li> Find Android on Twitter 
+</li><li> Find Android on Instagram 
+</li><li> Find Android on YouTube 
+</li><li> Find Android on Facebook 
+</li><li> Find Android on LinkedIn 
+</li></ul><p>  Some features and devices may not be available in all countries. Subject to availability.</p></div> <p><p>  Some features and availability vary by OEM and/or device manufacturer.</p></p>

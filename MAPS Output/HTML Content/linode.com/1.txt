@@ -1,0 +1,306 @@
+<div><span>  We’re </span><span>  working on integrating Linode and Akamai. <u> Learn more. </u></span><ul>  <li>Search
+</li><li>Partners
+</li><li>Docs
+</li><li>Support
+</li><li>Sales
+</li><li>Careers
+</li><li>Log In
+</li></ul><label>  English</label><ul>  <li>Why Choose Us
+</li><li>Products
+</li><li>Industries
+</li><li>Marketplace
+</li><li>Pricing
+</li><li>Community
+</li><li>Sign Up
+</li><li>Mobile
+</li><li>Why Choose Us
+</li><li>Why Choose Us
+</li><li>Global Infrastructure
+</li><li>Cloud Simplified
+</li><li>Predictable Pricing
+</li><li>Support Experience
+</li><li>Free Bundled Services
+</li><li>Customer Stories
+</li><li>Cloud for Business
+</li><li>Our Approach
+</li><li>What is Cloud Computing?
+
+</li><li>Products
+</li><li>Products Overview
+</li><li>Compute
+</li></ul></div> <div><ul>  <li>Dedicated CPU
+</li><li>Shared CPU
+</li><li>High Memory
+</li><li>Premium CPU
+</li><li>GPU
+</li><li>Kubernetes
+</li><li>EdgeWorkers
+
+</li><li>Storage
+</li><li>Block Storage
+</li><li>Object Storage
+</li><li>Backups
+
+</li><li>Databases
+</li><li>Managed Databases
+</li><li>MySQL
+</li><li>PostgreSQL
+
+</li><li>Services
+</li><li>Managed
+</li><li>Professional Services
+
+</li><li>Networking
+</li><li>Cloud Firewall
+</li><li>DDoS Protection
+</li><li>DNS Manager
+</li><li>NodeBalancers
+</li><li>VLAN
+
+</li><li>Developer Tools
+</li></ul></div> <div><ul>  <li>Cloud Manager
+</li><li>API
+</li><li>CLI
+</li><li>Terraform Provider
+</li><li>Ansible Collection
+</li><li>Images
+</li><li>Integrations
+</li><li>StackScripts
+</li><li>Monitoring
+</li><li>Users & Permissions
+
+</li><li>Delivery
+</li><li>Adaptive Media Delivery
+</li><li>Download Delivery
+</li><li>Ion
+</li><li>Global Traffic
+
+</li><li>Security
+</li><li>Guardicore
+</li><li>Kona Site Defender
+</li><li>App & API Protector
+</li><li>Bot Manager
+</li><li>Account Protector
+</li><li>EAA
+
+
+</li><li>Industries
+</li></ul></div> <div><ul>  <li>Digital Agencies
+</li><li>Ecommerce
+</li><li>Education
+</li><li>Gaming
+</li><li>Managed Hosting
+</li><li>Managed Service Providers
+</li><li>Media
+</li><li>SaaS
+
+</li><li>Marketplace
+</li><li>Browse Marketplace
+</li><li>Submit Marketplace App
+
+</li><li>Pricing
+</li><li>Pricing List
+</li><li>Cloud Estimator
+</li><li>Cloud Pricing Calculator
+
+</li><li>Community
+</li><li>Community Overview
+</li><li>Q&A
+</li><li>Developer Portal
+</li><li>Affiliate Program
+</li><li>Beta Program
+</li><li>Customer Referral Program
+</li></ul></div> <div><ul>  <li>Partner Program
+</li><li>Startup Programs
+</li><li>Blog
+</li><li>Content Resources
+</li><li>Events
+</li><li>Newsletter
+</li><li>Promotional Offers
+</li><li>Distributions
+</li><li>Kernels
+
+</li><li>Company
+</li><li>About Us
+</li><li>Press Center
+</li><li>Careers
+</li><li>Legal
+</li><li>Sales
+</li><li>System Status
+
+</li><li>Search
+</li><li>Docs
+</li><li>Blog
+</li><li>Resources
+</li><li>Pricing
+</li><li>Partners
+</li><li>Support
+</li><li>Sales
+</li></ul><label>  Search</label><ul>  <li>Log In
+</li><li>Sign Up
+</li></ul></div> <div><span>  Read Story</span><ul>  <li>Why Choose Us
+</li><li>Global Infrastructure
+</li><li>Cloud Simplified
+</li><li>Predictable Pricing
+</li><li>Support Experience
+</li><li>Free Bundled Services
+</li><li>About Us
+</li><li>Customer Stories
+</li><li>Cloud for Business
+</li><li>Our Approach
+</li><li>What is Cloud Computing?
+</li></ul><span>  Learn More</span><ul>  <li>Dedicated CPU
+</li><li>Shared CPU
+</li><li>High Memory
+</li><li>Premium CPU
+</li><li>GPU
+</li><li>Kubernetes
+</li><li>EdgeWorkers
+</li><li>Block Storage
+</li><li>Object Storage
+</li><li>Backups
+</li><li>Managed Databases
+</li><li>MySQL
+</li><li>PostgreSQL
+</li><li>Cloud Firewall
+</li><li>DDoS Protection
+</li><li>DNS Manager
+</li><li>NodeBalancers
+</li><li>VLAN
+</li><li>Cloud Manager
+</li><li>API
+</li><li>CLI
+</li><li>Terraform Provider
+</li><li>Ansible Collection
+</li><li>Images
+</li><li>Integrations
+</li></ul></div> <div><ul>  <li>StackScripts
+</li><li>Monitoring
+</li><li>Users & Permissions
+</li><li>Adaptive Media Delivery
+</li><li>Download Delivery
+</li><li>Ion
+</li><li>Global Traffic
+</li><li>Guardicore
+</li><li>Kona Site Defender
+</li><li>App & API Protector
+</li><li>Bot Manager
+</li><li>Account Protector
+</li><li>EAA
+</li><li>Managed
+</li><li>Professional Services
+</li></ul><span>  Get Your Copy</span><ul>  <li>Digital Agencies
+</li><li>Ecommerce
+</li><li>Education
+</li><li>Gaming
+</li><li>Managed Hosting
+</li><li>Managed Service Providers
+</li><li>Media
+</li><li>SaaS
+</li></ul></div> <div><span>  Launch Calculator</span><ul>  <li>Pricing List
+</li><li>Cloud Estimator
+</li><li>Cloud Pricing Calculator
+</li></ul><span>  Download</span><ul>  <li>Overview
+</li><li>Q&A
+</li><li>Developer Portal
+</li><li>Affiliate Program
+</li><li>Beta Program
+</li><li>Customer Referral Program
+</li><li>Partner Program
+</li><li>Startup Programs
+</li><li>Blog
+</li><li>Content Resources
+</li><li>Events
+</li><li>Newsletter
+</li><li>Press Center
+</li><li>Promotional Offers
+</li><li>Find a Partner
+</li></ul></div> <div><h1>  
+
+
+</h1><p>  <strong> Last Updated </strong>: 24 June 2022</p><p>  <strong> Effective Date </strong>: 24 September 2021</p><p>  Linode respects your privacy and is dedicated to protecting the Personal Data it collects. The purpose of this Privacy Policy ("</p><span>  Policy") is to inform you about the privacy of your data while using a Service. </span><span>  Linode LLC and our subsidiary Linode International Services Company comply with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Frameworks.</span></div> <p><p>  <strong> By using or continuing to use a Service, including without limitation visiting Linode's website or otherwise providing your Personal Data to Linode, you accept and consent to the rights, obligations, and practices described in this Policy. </strong></p></p> <div><p>  <b> User Choice </b></p><p>  Linode is committed to the principles of user consent and choice and encourages you to determine your preferred experience when interacting with Linode. To this end, you may limit, restrict, or deny Linode's ability to share your Personal Data with third parties, or to use your Personal Data for a purpose that is materially different from the purpose for which it was originally collected or authorized by you, subject to applicable law. In order to exercise your right to choose, please contact us via email at <a href="mailto:privacy@linode.com" target="_blank"> privacy@linode.com </a>, postal mail, or telephone using our contact information found on the<a href="https://www.linode.com/support" target="_blank">  Support </a> page. </p></div> <div><p>  <b> Notices </b></p><p>  Some jurisdictions require Linode to supply statutory notices regarding your Personal Data. These notices can be found </p><span>  here</span><span>  , including Linode’s </span><span>  GDPR</span><span>  , </span><span>  Privacy Shield</span><span>  , and </span><span>  CCPA</span><span>   specific notices. </span><p>  <b> Additional Terms  </b></p><ul>  <li><strong> Applicability </strong>. This Policy applies to you and your Covered Users with respect to the Services.  You shall be responsible for (i) informing your other Covered Users, if any, of the existence of this Policy, as well as any amendments, updates, or modifications made to this Policy and (ii) agreeing to this Policy, as amended, updated or modified from time to time, on behalf of all Covered Users.</li><li><strong> Types of Collected Data </strong>. </li></ul></div> <div><span>  Linode considers any information that can be used to directly or indirectly identify you to be “</span><ul>  <li>Personal Data</li></ul><span>  ,” including without limitation, Personal Data that is accessed, collected, maintained, transmitted, and/or used by Linode in the normal course of our business, and is subject to the provisions of this Policy, Terms of Service, and applicable law. Please note, in the absence of any notice to the contrary, you expressly grant Linode permission to share your Personal Data at Linode's discretion.</span></div> <ul><ul>  <li><strong> Methods of Data Collection </strong>. Linode uses cookies and similar technologies to enhance your experience and interactions with the Services. These tools can be stored locally, and are used by Linode and our Representatives for operationally necessary purposes, as well as functional, performance, analytical, and marketing reasons. Linode also uses third party tools, such as <a href="https://analytics.google.com/" target="_blank"> Google Analytics </a></li></ul></ul> <span><span>  , to enhance our provision of the Services. Like us, Google Analytics may employ third party tracking tools to gather anonymous browser, operating system, geographic, and website navigation information. You can learn about Google’s privacy practices <a href="https://www.google.com/policies/privacy/" target="_blank"> here </a></span></span> <span><span>  , as well as also opt-out of your data from being shared with Google Analytics by downloading Google’s opt-out browser add-on <a href="https://tools.google.com/dlpage/gaoptout" target="_blank"> here </a></span></span> <span><span>   or by exercising your user choice options above. To learn more about Linode’s use of cookies and similar technologies, please review Linode’s Cookie Policy found <a href="https://www.linode.com/legal-cookies" target="_blank"> here </a></span></span> <span><span>  . </span></span> <div><ul>  <li><strong> Purposes of Collected Data </strong></li></ul><span>  .
+</span><ul>  <li><i> For Customers.  </i></li></ul><span>  Linode may use Personal Data to process your service requests, handle orders, deliver products and services, process payments, communicate with you about orders, provide access to secure areas of Linode's website, and to enable Linode to review, develop, and continually improve the products, services, and offers that it provides. Linode also uses this information to prevent or detect fraud or abuses of Linode's website and to enable third parties to carry out technical, logistical, or other functions on its behalf.</span></div> <ul><ul>  <li><i> For Visitors.  </i></li></ul></ul> <span><span>  Linode may use Personal Data to send information about Linode to visitors and to contact such visitors. Linode also uses the information that it collects to improve the content of our website, enhance user experiences, and as training aids for our employees. Visitors have discretion as to whether to grant information to Linode, and may opt-out from such processes as outlined above.</span></span> <ul><ul>  <li><i> For Payment Information.  </i>L</li></ul></ul> <span><span>  inode may ask Account holders to enter credit card or account information in order to process orders for Services. Financial information provided via our website is transferred to a Linode Third Party Service Provider for payment processing. This information may be encrypted and stored for logging purposes by Linode and our Linode Third Party Service Provider for payment processing. Credit card numbers are used by Linode Third Party Service Provider only for processing payments and are not used for any other purposes. Linode has entered into written agreements with our Third Party Service Providers, and it will continue to enter into written agreements with third parties that provide payment processing services.</span></span> <ul><ul>  <li><i> For Use Information.  </i></li></ul></ul> <span><span>  Linode uses website use information to measure interest in and develop its web pages and marketing plans, customize the content you view on your web visits based on your activity during past visits, and administer Linode's website. In addition, Linode uses:
+</span></span> <ul><ul>  <li>IP addresses to help diagnose problems with its servers, and to administer its website;</li><li>cookies and other tools to help it recognize users as unique when they return to Linode's website. Linode also uses cookies to tailor content or advertisements to match your preferred interest; avoid showing Visitors the same advertisements repeatedly; compile anonymous, aggregated statistics that allow Linode to understand how users use its site and to help it improve the structure of its website; and  </li></ul></ul> <ul><ul>  <li>web beacons to count the number of times that its advertisements and web-based email content are viewed. Linode combines web beacon information with cookies to track activity on its website originating from advertisements and web-based email content.
+</li><li><i> For Support Information.  </i>Linode uses information that you provide to it via telephone calls, SMS, chat, email, web forms, and other communications to correspond with you about services you may be interested in purchasing. If you elect to purchase a service online using a web form, Linode will use the information to establish your account. Information you submit in writing, such as chat, email, and web form information is archived and may be tied to information that Linode collects about your web visits. Your telephone calls may be recorded for training and operational purposes and Linode may enter information you provide via telephone into its systems to use for the purposes described in this paragraph.
+</li></ul></ul> <ul><ul>  <li><strong> Disclosure to Regulatory Agencies and other Third </strong> <strong> Parties </strong>. </li></ul></ul> <span><span>  Linode transfers Personal Data to third parties, including without limitation, law enforcement agencies and consumer reporting agencies, in the normal course of business, subject to service of lawful process or your written consent. If you breach the Terms of Service, or if Linode is under a duty to disclose your Personal Data in order to comply with any legal obligation, Linode may disclose your information to the relevant authority. Disclosure may include, but is not limited to, exchanging information with other companies and organizations for the purposes of regulatory auditing, fraud protection and credit risk reduction. In particular, Linode may release the information it collects to third parties when Linode believes that it is appropriate to comply with the law, to enforce legal rights, to protect the rights and safety of others, or to assist with industry efforts to control fraud, spam or other undesirable conduct. Linode may also release the information it collects to third parties, where the information is provided to enable such third party to provide services to Linode, provided that the third party has agreed to use at least the same level of privacy protections described in this Policy, and is permitted to use the information only for the purpose of providing services to Linode. In the event you request the disclosure of your Personal Data by Linode by, you will be responsible for the cost of disclosure efforts outside of Linode's normal course of business.</span></span> <ul><ul>  <li><strong> Access to Personal Data </strong>. Y</li></ul></ul> <span><span>  ou control access to Personal Data maintained or stored by you via Linode's web-based interface for account management. You may update your information at any time. You may cancel your account at any time and may request that your personal information be deleted from Linode's databases, with the exception of: network access logs, which may be stored for any duration of time at Linode's discretion; cases where financially fraudulent or otherwise illegal activity is deemed to have occurred (as determined by Linode management or law enforcement officials), in which case personal information may be retained indefinitely for purposes of ongoing investigation and prevention of fraud recurrence; or cases where a violation of the Terms of Service has resulted in cancellation of your account (as defined by revocation of your permission to utilize Linode's services), in which case personal information may be retained indefinitely for purposes of prevention of further use of Linode's services in the future by the offending individual. Upon request, Linode will grant you reasonable access to Personal Data maintained by Linode about you. In addition, we will take reasonable steps to correct, amend, or delete information that is demonstrated by you to be inaccurate, incomplete, or processed in violation of applicable law. Unless required by law, Linode will not permit you to access the Personal Data of any Data Subject other than yourself.</span></span> <ul><ul>  <li><strong> Sensitive Information </strong>. Linode will not intentionally collect or maintain, and requests that you do not provide, any information regarding your medical or health condition, race or ethnic origin, political opinions, religious or philosophical beliefs, or other sensitive information. If you host any material or information that is sensitive and/or subject to the Graham-Leach-Bliley Act, the Health Information Privacy Portability and Accountability Act, or any other law or regulation, such information and compliance with applicable privacy laws, remains solely your responsibility. Linode is not responsible for any sensitive information stored by you on our systems.</li></ul></ul> <div><ul>  <li><b> Third Party Transfers of Data </b></li></ul><span>  . Linode may transfer Personal Data to third parties acting on our behalf when operationally necessary to provide the Services. If Linode has received your Personal Data in the US subsequently transfers your Personal Data to a third party acting on our behalf, and such third-party agent processes your Personal Data in a manner that is inconsistent with this Policy, Linode will remain responsible and liable unless we can prove that Linode is not responsible for the event giving rise to the damage. </span></div> <div><ul>  <li><b> Children's Online Privacy Protection </b></li></ul><span>  . The services are not designed for or directed to children under thirteen (13) years of age and Linode will not intentionally collect or maintain information about anyone under thirteen (13) years of age.</span><ul>  <li><b> Unmanaged Service </b></li></ul><span>  . You bear sole responsibility for maintaining the security of virtual private server ("</span><ul>  <li>VPS</li></ul><span>  ") environments maintained under your Account(s). You are solely responsible for ensuring compliance with any and all applicable privacy guidelines and regulations for all jurisdictions in which you may operate with respect to appropriate practices for the collection, storage, and dissemination of personal information using your VPS. In no event shall Linode be held liable for your failure to adopt and/or practice appropriate measures for safeguarding personal information stored within or transmitted through your VPS.</span></div> <div><ul>  <li><b> Enforcement </b></li></ul><span>  . If you believe your Personal Data has been used in a way that is not consistent with this Policy, or if you have further questions regarding this Policy, please contact our custodian of records via email or by writing to us at the following address: Custodian of Records, Linode LLC, 249 Arch Street, Philadelphia, Pennsylvania 19106 the (the "</span><span>  Custodian of Records</span><span>  "). </span><ul>  <li><b> Dispute Resolution </b></li></ul></div> <span><span>  . Please direct any complaints regarding this Policy to us at privacy@linode.com, or via postal mail, or telephone using our contact information found on the Support <a href="https://www.linode.com/support" target="_blank"> page </a>. We will attempt to resolve any such complaints in a reasonably timely manner and in accordance with this policy. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. Issues regarding Personal Data not resolved pursuant to this section are subject to the dispute resolution procedures described in the MSA. </span></span> <div><ul>  <li><b> Changes </b></li></ul><span>  .  Amendments to this Policy may be made at any time and you should check back frequently for any changes. Linode shall have the right and ability to amend this Policy at Linode's sole and absolute discretion, and any amendments herein shall be effective within fourteen (14) days of being posted  by Linode or by your continued use of the Services, whichever later. </span><ul>  <li><b> Verification </b></li></ul><span>  . Linode utilizes the self-assessment approach to assure its compliance with its Privacy Policy. Linode regularly verifies that the Policy is accurate, comprehensive, prominently displayed, completely implemented, and in conformity with applicable international law. Linode conducts its self-assessment on an annual basis to ensure that all relevant privacy practices are being followed. Appropriate employee training is in place and internal procedures for periodically conducting objective reviews of compliance are in place. A statement verifying this self-assessment is signed by a corporate officer or other authorized representative at least once per year.</span></div> <div><ul>  <li>Site Map
+</li><li>Support
+</li><li>Partners
+</li><li>Careers
+</li><li>Accessibility Commitment
+</li><li>Press Center
+</li><li>Legal Center
+</li><li>System Status
+</li></ul></div> <div><h4>  Why Choose Us</h4><ul>  <li>Why Choose Us
+</li><li>Global Infrastructure
+</li><li>Cloud Simplified
+</li><li>Predictable Pricing
+</li><li>Support Experience
+</li><li>Free Bundled Services
+</li><li>Customer Stories
+</li><li>Cloud for Business
+</li><li>Our Approach
+</li><li>What is Cloud Computing?
+</li></ul></div> <div><h4>  Company</h4><ul>  <li>About
+</li><li>Accessibility Commitment
+</li><li>Partners
+</li><li>Press Center
+</li><li>Careers
+</li><li>Legal
+</li></ul></div> <div><h4>  Products</h4><ul>  <li>Products Overview
+</li><li>Dedicated CPU
+</li><li>Shared CPU
+</li><li>High Memory
+</li><li>Premium CPU
+</li><li>GPU
+</li><li>Kubernetes
+</li><li>Block Storage
+</li><li>Object Storage
+</li><li>Backups
+</li><li>Managed Databases
+</li><li>Cloud Firewall
+</li><li>DDoS Protection
+</li><li>DNS Manager
+</li><li>NodeBalancers
+</li><li>VLAN
+</li><li>Managed
+</li><li>Professional Services
+</li><li>Cloud Manager
+</li><li>API
+</li><li>CLI
+</li><li>Terraform Provider
+</li><li>Ansible Collection
+</li></ul></div> <div><h4>  Industries</h4><ul>  <li>Digital Agencies
+</li><li>Ecommerce
+</li><li>Education
+</li><li>Gaming
+</li><li>Managed Hosting
+</li><li>Managed Service Providers
+</li><li>Media
+</li><li>SaaS
+</li></ul></div> <div><h4>  Marketplace</h4><ul>  <li>Browse Marketplace
+</li><li>Submit Marketplace App
+</li></ul></div> <div><h4>  Pricing</h4><ul>  <li>Pricing List
+</li><li>Cloud Estimator
+</li><li>Cloud Pricing Calculator
+</li></ul></div> <div><h4>  Community</h4><ul>  <li>Community Overview
+</li><li>Q&A
+</li><li>Developer Portal
+</li><li>Affiliate Program
+</li><li>Beta Program
+</li><li>Customer Referral Program
+</li><li>Partner Program
+</li><li>Startup Programs
+</li><li>Blog
+</li><li>Content Resources
+</li><li>Events
+</li><li>Promotional Offers
+</li><li>Distributions
+</li><li>Kernels
+</li></ul></div> <div><h4>  Contact</h4><ul>  <li>Support
+</li><li>System Status
+</li><li>Log in
+</li></ul></div> <div><h4>  Follow Us</h4><ul>  <li>Twitter
+</li><li>YouTube
+</li><li>LinkedIn
+</li><li>GitHub
+</li></ul></div> <div><h4>  Sign up for the “In the Node” Newsletter</h4></div>
