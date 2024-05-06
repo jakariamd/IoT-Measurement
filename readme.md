@@ -39,7 +39,7 @@ The estimated time for each test is at most 20 minutes, and the storage consumpt
 
 ### Accessibility
 
-GitHub repository: Clone the repository: https://github.com/jakariamd/IoT-Measurement.git \
+GitHub repository: Clone the repository: https://github.com/jakariamd/IoT-Measurement.git 
 commit-id or tag:
 
 ### Set up the environment
@@ -49,6 +49,7 @@ Clone the repository from Anaconda Prompt:
 git clone https://github.com/jakariamd/IoT-Measurement.git
 ```
 ```
+cd IoT-Measurement/
 conda env create -f environment_iot.yml
 python -m spacy download en_core_web_md
 python -m spacy download en_core_web_lg
