@@ -43,14 +43,17 @@ GitHub repository: Clone the repository: https://github.com/jakariamd/IoT-Measur
 commit-id or tag:
 
 ### Set up the environment
+Install Anaconda from [here](https://docs.anaconda.com/free/anaconda/install/index.html) 
 
 Clone the repository from Anaconda Prompt:
 ```bash
 git clone https://github.com/jakariamd/IoT-Measurement.git
 ```
 ```
-cd IoT-Measurement/
+cd IoT-Measurement
 conda env create -f environment_iot.yml
+conda activate iot
+pip install -U spacy
 python -m spacy download en_core_web_md
 python -m spacy download en_core_web_lg
 ```
@@ -60,9 +63,10 @@ python -m spacy download en_core_web_lg
 Once the environment is created, run the following commands. If the environment is set properly, these commands will run Domain2Org (Python Whois).ipynb script and produce an html file containing a table of 10 rows.
 
 ```bash
-cd "code\Endpoint Mapping\First Party Mapping\"
+cd "code/Endpoint Mapping/First Party Mapping/"
 jupyter nbconvert --execute --to html --no-input "Domain2Org (Python Whois).ipynb"
 ```
+Note: Update the chromedriver in "code/Endpoint Mapping/First Party Mapping/" according to your system. 
 
 ## Directories' description
 | Directory               | Description                                                                   |
